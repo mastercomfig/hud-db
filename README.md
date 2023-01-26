@@ -60,7 +60,11 @@ You can upload the images in any format in your PR. A bot will automatically tra
 
 ### HUD Pages
 
-This is Markdown displayed in the description box of your HUD page. To replicate a classic layout like the one on `huds.tf`:
+This is Markdown displayed in the description box of your HUD page. Similarly to the other files, you use your HUD ID as the name for your `.md` file.
+
+To replicate a classic layout like the one on `huds.tf`:
+
+`myhud.md`
 
 ```md
 # Description
