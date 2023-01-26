@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Convert to WebP
         run: |
-          sudo apt install webp -y
+          sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
           webpc --r
