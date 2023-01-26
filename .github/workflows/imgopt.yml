@@ -18,12 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Convert to WebP
+        id: convert
         run: |
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
-          webpc --r
+          webpc -q=75 --r | grep -q "NOT convert" | ! grep -q "Converted files count: 0"
       - name: Compress Images
+        id: compress
         if: github.repository == 'mastercomfig/hud-db'
         uses: calibreapp/image-actions@main
         with:
@@ -35,7 +37,7 @@ jobs:
         id: vars
         run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Create New Pull Request If Needed
-        if: steps.calibre.outputs.markdown != ''
+        if: steps.compress.outputs.markdown != '' || steps.convert.outcome == 'success'
         uses: peter-evans/create-pull-request@v4
         with:
           title: Auto Optimize Images ${{ steps.vars.outputs.sha_short }}
