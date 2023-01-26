@@ -23,7 +23,7 @@ jobs:
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
-          webpc -q=75 --r | grep -q "NOT convert" | () ! grep -q "Converted files count: 0" )
+          webpc -q=75 --r | grep -q "NOT convert" | ( ! grep -q "Converted files count: 0" )
       - name: Compress Images
         id: compress
         if: github.repository == 'mastercomfig/hud-db'
