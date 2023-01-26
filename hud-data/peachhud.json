@@ -1,0 +1,13 @@
+{
+  "name": "PeachHUD",
+  "author": "Peaches",
+  "social": {
+    "steam_profile": 76561198406266064,
+     "discord": "https://discord.gg/xhGMBEHQ"
+  },
+  "repo": "https://github.com/PapaPeach/PeachHUD",
+  "hash": "a51b48a89b7a96530bc3d9354b52b7b2ab095564",
+  "resources": [
+    "PeachHUD-banner"
+  ]
+}
