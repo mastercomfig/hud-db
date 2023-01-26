@@ -1,0 +1,12 @@
+{
+  "name": "Moes Hud",
+  "author": "Mo",
+  "social": {
+    "steam_group": "MoesHUD"
+  },
+  "repo": "https://github.com/MoeLesting/MoesHUD",
+  "hash": "95a3a6107c178eb46756b0758e264ccf34cd8cf9",
+  "resources": [
+    "moes-hud-banner"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Void Hud 2.0",
+  "author": "StaticVoid",
+  "social": {
+    "steam_group": "voidhud",
+    "discord": "https://discord.com/invite/NtQ3FsT"
+  },
+  "repo": "https://github.com/TheStaticVoid/VoidHUD2.0",
+  "hash": "8165dbad858243a90ec7c8a35ea6bd701f5738e1",
+  "resources": [
+    "void-hud-2.0-banner"
+  ]
+}

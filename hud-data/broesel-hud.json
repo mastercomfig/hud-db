@@ -1,0 +1,12 @@
+{
+  "name": "Broesel Hud",
+  "author": "Hypnotize, Broesel",
+  "social": {
+    "steam_group": "broeselhud"
+  },
+  "repo": "https://github.com/Hypnootize/Broesel-Hud",
+  "hash": "ed6b267afcb93cedb114822d1268cfb0f0b148a3",
+  "resources": [
+    "broesel-hud-banner"
+  ]
+}

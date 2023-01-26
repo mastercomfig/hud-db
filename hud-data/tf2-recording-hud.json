@@ -1,0 +1,9 @@
+{
+  "name": "TF2 Recording HUD",
+  "author": "Hypnotize",
+  "repo": "https://github.com/Hypnootize/TF2-Recording-HUD",
+  "hash": "68b1912d8edbadfaa144f25b870bb1f45d0ec649",
+  "resources": [
+    "tf2-recording-hud-banner"
+  ]
+}

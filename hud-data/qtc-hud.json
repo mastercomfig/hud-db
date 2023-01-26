@@ -1,0 +1,9 @@
+{
+  "name": "QTC Hud",
+  "author": "Hypnotize, Colly",
+  "repo": "https://github.com/Hypnootize/QTC-Hud",
+  "hash": "ac47e2002bd13c1ec5758a73fe0c9c64d9d5f71e",
+  "resources": [
+    "qtc-hud-banner"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mhud",
+  "author": "Marblr",
+  "repo": "https://github.com/Marblr/mHUD",
+  "hash": "ed89a10f71b8e82ad181558cfa4a5700229f3786",
+  "resources": [
+    "mhud-banner"
+  ]
+}

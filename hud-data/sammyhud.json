@@ -1,0 +1,9 @@
+{
+  "name": "sammyhud",
+  "author": "sammy",
+  "repo": "https://github.com/sammybun/sammyhud",
+  "hash": "671c8d85c6e287cf3e4c038635aeba92c036baa6",
+  "resources": [
+    "sammyhud-banner"
+  ]
+}

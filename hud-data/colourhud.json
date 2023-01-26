@@ -1,0 +1,9 @@
+{
+  "name": "ColourHUD",
+  "author": "MrColour",
+  "repo": "https://github.com/mcolour/colourhud",
+  "hash": "11e12149623f343924de90d4880362a0e8083ff0",
+  "resources": [
+    "colourhud-banner"
+  ]
+}

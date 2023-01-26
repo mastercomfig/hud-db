@@ -1,0 +1,12 @@
+{
+  "name": "noto",
+  "author": "omnibombulator",
+  "social": {
+    "steam_group": "notohud"
+  },
+  "repo": "https://github.com/Hypnootize/Noto-Hud",
+  "hash": "55e667e646387a4cd1dc14f3b767f0417cbbc083",
+  "resources": [
+    "noto-banner"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mannterface",
+  "author": "Saxton Hale",
+  "social": {
+    "steam_group": "mannterface"
+  },
+  "repo": "https://github.com/AsianAntwan/Mannterface",
+  "hash": "ca48016fdb0d5913a466569038cf25ae9dd9515c",
+  "resources": [
+    "mannterface-banner"
+  ]
+}

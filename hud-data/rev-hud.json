@@ -1,0 +1,9 @@
+{
+  "name": "Rev Hud",
+  "author": "Hypnotize, Revilo",
+  "repo": "https://github.com/Hypnootize/Rev-Hud",
+  "hash": "28af54ba0efab015736711817794bd1e19cb023a",
+  "resources": [
+    "rev-hud-banner"
+  ]
+}
