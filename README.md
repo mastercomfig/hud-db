@@ -29,7 +29,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "name": "My HUD", // Display name of your HUD
   "author": "Cool person", // Display name of you, the creator
   "social": {
-    "steam_profile": 76561191234567890, // Your SteamID (optional)
+    "steam_profile": 76561191234567890, // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "Elon", // Your Twitter handle (optional)
     "discord": "vanity-or-invite" // Your Discord invite code, not the full URL (optional)
