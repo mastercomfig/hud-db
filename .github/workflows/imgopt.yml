@@ -24,7 +24,7 @@ jobs:
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
-          WEBP_OUTPUT="$(webpc -q=75 --r)"
+          WEBP_OUTPUT="$(webpc -q=80 --r)"
           echo "$WEBP_OUTPUT" | grep -q "NOT convert" | ( ! grep -q "Converted files count: 0" )
           echo "$WEBP_OUTPUT"
       - name: Compress Images
@@ -35,7 +35,7 @@ jobs:
           # See https://docs.github.com/en/actions/reference/authentication-in-a-workflow and https://help.github.com/en/articles/virtual-environments-for-github-actions#token-permissions
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-          webpQuality: '75'
+          webpQuality: '80'
       - name: Set outputs
         id: vars
         run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
