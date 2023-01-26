@@ -4,7 +4,7 @@ Data repository tracking HUD metadata for comfig web
 
 ## How to use
 
-Add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
+Fork this repo, and add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
 
 You can make subsequent PRs to update your HUD to a new version.
 
@@ -32,7 +32,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "steam_profile": 76561191234567890, // Your SteamID (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "Elon", // Your Twitter handle (optional)
-    "discord": "vanity-or-invite" // Your Discord invite code
+    "discord": "vanity-or-invite" // Your Discord invite code, not the full URL (optional)
   },
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
@@ -43,21 +43,6 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   ]
 }
 ```
-
-### HUD Resources
-
-You add resources that you list in your JSON to the `hud-resources/` folder, under your HUD ID (the name of your `.json` file without the extension):
-
-```
-hud-resouces/
-│
-└───myhud/
-    |    myhud-banner.webp
-    |    cool-image-1.webp
-    └─
-```
-
-You can upload the images in any format in your PR. A bot will automatically transform them to the correct format, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
 ### HUD Pages
 
@@ -80,6 +65,21 @@ Cool person #2 helped a lot with getting the coolness up to 11
 
 I'd like to thank _all_ the cool peeps out there!
 ```
+
+### HUD Resources
+
+You add resources that you list in your JSON to the `hud-resources/` folder, under your HUD ID (the name of your `.json` file without the extension):
+
+```
+hud-resouces/
+│
+└───myhud/
+    |    myhud-banner.webp
+    |    cool-image-1.webp
+    └─
+```
+
+You can upload the images in any format in your PR. A bot will automatically transform them to the correct format, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
 All standard Markdown is allowed at the moment but this may be changed in the future and is also subject to review.
 
