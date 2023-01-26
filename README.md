@@ -37,7 +37,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
   "resources": [ // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
-    "myhud-logo", // First resource is the display logo
+    "myhud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
     "https://youtu.be/21asadf" // Supports youtu.be links for video embeds
   ]
@@ -52,7 +52,7 @@ You add resources that you list in your JSON to the `hud-resources/` folder, und
 hud-resouces/
 │
 └───myhud/
-    |    myhud-logo.webp
+    |    myhud-banner.webp
     |    cool-image-1.webp
 ```
 
