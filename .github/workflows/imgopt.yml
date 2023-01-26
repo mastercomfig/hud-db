@@ -47,4 +47,4 @@ jobs:
           branch: imgopt
           branch-suffix: short-commit-hash
           commit-message: optimize images for ${{ steps.vars.outputs.sha_short }}
-          body: ${{ steps.calibre.outputs.markdown || 'Converted images to WebP.' }}
+          body: ${{ steps.compress.outputs.markdown || 'Converted images to WebP.' }}
