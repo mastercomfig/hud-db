@@ -54,6 +54,7 @@ hud-resouces/
 └───myhud/
     |    myhud-banner.webp
     |    cool-image-1.webp
+    └─
 ```
 
 You can upload the images in any format in your PR. A bot will automatically transform them to the correct format, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
@@ -81,3 +82,23 @@ I'd like to thank _all_ the cool peeps out there!
 ```
 
 All standard Markdown is allowed at the moment but this may be changed in the future and is also subject to review.
+
+## Repo requirements
+
+`hud-db` syncs with your HUD's GitHub repo to easily track and manage HUDs. There are some requirements for consistency on your end to enable us to provide this experience for all HUDs:
+
+* The repo must contain the HUD directly, no subfolders, i.e., `info.vdf` must be in the root directory
+* No force pushing over commits which have been published to the DB
+* Do not delete tags after they have been published to the DB
+* It's recommended to keep extra content in the repo to a minimum to prevent bloated downloads from GitHub. If you'd like to store additional files, it's recommended to use a separate branch or repo (for example for image content or other things).
+
+We may also enforce some review requirements to ensure all HUDs we list meet a certain standard for publishing. These requirements are in flux while the moderation team settles on best practices and rules.
+
+## Future work
+
+Right now, the `hud-db` format is the bare minimum required to host a HUD listing.
+
+In the future, we would like to standardize some things like HUD customization.
+We would love to hear feedback from HUD authors on how this could be accomplished so that each HUD can specify customization features in a modular way, allowing for users to easily choose options in a graphical interface on the web.
+
+We also would like to support feature flags as seen in huds.tf, but would like to revisit how this is done/displayed to be more flexible and useful.
