@@ -88,7 +88,7 @@ All standard Markdown is allowed at the moment but this may be changed in the fu
 `hud-db` syncs with your HUD's GitHub repo to easily track and manage HUDs. There are some requirements for consistency on your end to enable us to provide this experience for all HUDs:
 
 * The repo must contain the HUD directly, no subfolders, i.e., `info.vdf` must be in the root directory
-* Use tags to mark new version, and use GitHub releases to write changelogs. This is technically optional, but highly recommended.
+* Use tags to mark new versions, and use GitHub releases to write changelogs. This is technically optional, but highly recommended.
 * No force pushing over commits which have been published to the DB
 * Do not delete tags after they have been published to the DB
 * It's recommended to keep extra content in the repo to a minimum to prevent bloated downloads from GitHub. If you'd like to store additional files, it's recommended to use a separate branch or repo (for example for image content or other things).
