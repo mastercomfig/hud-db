@@ -86,6 +86,8 @@ Cool person #2 helped a lot with getting the coolness up to 11
 I'd like to thank _all_ the cool peeps out there!
 ```
 
+All standard Markdown is allowed at the moment but this may be changed in the future and is also subject to review.
+
 ### HUD Resources
 
 You add resources that you list in your JSON to the `hud-resources/` folder, under your HUD ID (the name of your `.json` file without the extension):
@@ -101,7 +103,7 @@ hud-resouces/
 
 You can upload the images in any format in your PR. A bot will automatically transform them to the correct format upon merge, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
-All standard Markdown is allowed at the moment but this may be changed in the future and is also subject to review.
+There is no hard limit for how many resources you have, but an ideal soft limit would be around 10 to 20 images. This is to ensure that the repo doesn't become too bloated as more HUDs are added.
 
 ## Repo requirements
 
