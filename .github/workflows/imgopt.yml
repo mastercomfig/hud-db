@@ -35,7 +35,7 @@ jobs:
           # See https://docs.github.com/en/actions/reference/authentication-in-a-workflow and https://help.github.com/en/articles/virtual-environments-for-github-actions#token-permissions
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-          webpQuality: '80'
+          webpQuality: '90'
       - name: Set outputs
         id: vars
         run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
