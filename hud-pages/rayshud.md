@@ -1,17 +1,22 @@
-## Description
+<!-- TITLE -->
+<p align="center">
+  <p align="center">
+    A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.
+    <br />
+    <a href="https://github.com/raysfire/rayshud/issues">Issue Tracker</a>
+    ·
+    <a href="https://imgur.com/a/ssUpV94">Screenshots</a>
+    ·
+    <a href="https://discord.gg/hTdtK9vBhE">Discord</a>
+    ·
+    <a href="https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest">HUD Editor</a>
+    ·
+    <a href="https://github.com/raysfire/rayshud#readme">README</a>
+  </p>
+</p>
 
-A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.
-
-**HUD LINKS**
-[Screenshots](https://imgur.com/a/ssUpV94)
-[GitHub](https://github.com/raysfire/rayshud)
-[Discord](https://discord.gg/hTdtK9vBhE)
-
-**HUD EDITOR**
-Install and customize rayshud with ease using the TF2 HUD Editor. Download the latest version [here](https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest).
-
-# Special Thanks
-
+<!-- ACKNOWLEDGEMENTS -->
+### Acknowledgements
 * omp - For motivating me to start making my own hud, occasional reference, and inspiration.
 * m0re - Inspiration, occasional reference.
 * povohat - creator of PVHUD, inspiration, occasional reference.
