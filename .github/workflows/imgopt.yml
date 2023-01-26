@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - '.github/workflows/imgopt.yml'
       - '**.jpg'
       - '**.jpeg'
       - '**.png'
@@ -21,6 +22,7 @@ jobs:
           python-version: '3.10'
       - name: Convert to WebP
         run: |
+          sudo apt install webp -y
           pip install webp-converter
           cd hud-resources
           webpc --r
