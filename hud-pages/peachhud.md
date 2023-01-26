@@ -3,8 +3,8 @@
 A Team Fortress 2 HUD made by Peaches and streamlined for competitive, while maintaining a clean and minimalistic look.  
 Based on SunsetHUD, by Hypnotize.
 
-**[screenshots](https://imgur.com/a/j6d9TjP)** (Not sure why this is marked 18+)  
-**[github](https://github.com/PapaPeach/PeachHUD)**
+**[Screenshots](https://imgur.com/a/j6d9TjP)** (Not sure why this is marked 18+)  
+**[Github](https://github.com/PapaPeach/PeachHUD)**
 
 # Frequently Asked Questions:
 
