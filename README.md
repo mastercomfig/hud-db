@@ -44,6 +44,26 @@ This is the main data source for a HUD. This defines the HUD and its properties.
 }
 ```
 
+Here's an easy to copy sample for writing your own data file:
+
+```json
+{
+  "name": "",
+  "author": "",
+  "social": {
+    "steam_profile": 0,
+    "steam_group": "",
+    "twitter": "",
+    "discord": ""
+  },
+  "repo": "",
+  "hash": "",
+  "resources": [
+    "",
+  ]
+}
+```
+
 ### HUD Pages
 
 This is Markdown displayed in the description box of your HUD page. Similarly to the other files, you use your HUD ID as the name for your `.md` file.
