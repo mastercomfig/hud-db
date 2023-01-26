@@ -79,7 +79,7 @@ hud-resouces/
     └─
 ```
 
-You can upload the images in any format in your PR. A bot will automatically transform them to the correct format, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
+You can upload the images in any format in your PR. A bot will automatically transform them to the correct format upon merge, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
 All standard Markdown is allowed at the moment but this may be changed in the future and is also subject to review.
 
