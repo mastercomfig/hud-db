@@ -15,7 +15,9 @@ That's a Steam API bug unrelated to custom HUDs.
 **Where's the little person in the bottom left?**  
 It is a known source of FPS drops. Re-enable it in customizations/ClassModel.res.  
 **Does this work on Linux/Mac?**  
-Rename the downloaded folder to be lowercase, then probably.  
+Rename the downloaded folder to be lowercase, then probably.
+
+### Please do not commission others to edit my HUD. Others are welcome to edit the HUD voluntarily, but others should not profit off my HUD.
 
 # Credits
 

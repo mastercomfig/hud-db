@@ -1,13 +1,19 @@
 {
-  "name": "xhud",
+  "name": "Xhud",
   "author": "Peaches",
   "social": {
     "steam_profile": 76561198406266064,
      "discord": "HyZRVtp"
   },
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "7a8f87cbd50284d629f33f0bb33e0b71f819927c",
+  "hash": "2fd801a5faf1e0bc6890f98297d41acedb243cd9",
   "resources": [
-    "xhud-banner"
+    "xhud-banner",
+    "ingame",
+    "ingame-low",
+    "scoreboard",
+    "loadout",
+    "stats",
+    "customizations"
   ]
 }
