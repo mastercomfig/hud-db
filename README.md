@@ -27,15 +27,18 @@ This is the main data source for a HUD. This defines the HUD and its properties.
 ```jsonc
 {
   "name": "My HUD", // Display name of your HUD
-  "author": "Cool person", // Display name of you, the creator
+  "author": "Cool person", // Display name of you, the active developer of the HUD
+  "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "social": {
     "steam_profile": 76561191234567890, // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "Elon", // Your Twitter handle (optional)
-    "discord": "vanity-or-invite" // Your Discord invite code, not the full URL (optional)
+    "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
+    "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
+  "prerelease": true, // If this is a prerelease/WIP HUD
   "resources": [ // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
     "myhud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
