@@ -1,0 +1,9 @@
+{
+  "name": "Half-Life 2 HUD",
+  "author": "Village Green Preserver",
+  "repo": "https://github.com/VillageGreenPreserver/Half-Life-Hud",
+  "hash": "bab95ef2c5a915a9b799e7c962d6ca5d61ff8ed2",
+  "resources": [
+    "half-life-2-hud-banner"
+  ]
+}

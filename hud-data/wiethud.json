@@ -1,0 +1,12 @@
+{
+  "name": "WietHud",
+  "author": "Wiethoofd",
+  "social": {
+    "steam_group": "WietHUD"
+  },
+  "repo": "https://github.com/Wiethoofd/WietHUD",
+  "hash": "9362740508deb33ad54b378f056fcd2dd1e8ef34",
+  "resources": [
+    "wiethud-banner"
+  ]
+}

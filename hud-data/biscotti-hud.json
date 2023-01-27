@@ -1,0 +1,12 @@
+{
+  "name": "Biscotti Hud",
+  "author": "Medico di Biscotti",
+  "social": {
+    "steam_group": "biscottiHUD"
+  },
+  "repo": "https://github.com/MedicodiBiscotti/biscottiHUD",
+  "hash": "e91749c36aa03f492a587ce7905bdd7e2436d9f4",
+  "resources": [
+    "biscotti-hud-banner"
+  ]
+}

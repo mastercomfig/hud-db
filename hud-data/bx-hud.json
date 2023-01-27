@@ -1,0 +1,12 @@
+{
+  "name": "BX Hud",
+  "author": "Hypnotize, Chippy - ColdBalls",
+  "social": {
+    "steam_group": "bxhud-cb"
+  },
+  "repo": "https://github.com/Hypnootize/BX-Hud",
+  "hash": "e635b80100b6996e24891a268c613332c76cee27",
+  "resources": [
+    "bx-hud-banner"
+  ]
+}

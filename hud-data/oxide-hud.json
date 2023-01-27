@@ -1,0 +1,9 @@
+{
+  "name": "Oxide Hud",
+  "author": "Hypnotize, Oxide",
+  "repo": "https://github.com/Hypnootize/Oxide-Hud",
+  "hash": "1f18bf46252f80f4a5244d437aaebcdd2930338b",
+  "resources": [
+    "oxide-hud-banner"
+  ]
+}

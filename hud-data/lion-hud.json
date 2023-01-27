@@ -1,0 +1,12 @@
+{
+  "name": "Lion Hud",
+  "author": "Jofre, Bara Godzilla",
+  "social": {
+    "steam_group": "lionhud"
+  },
+  "repo": "https://github.com/Jofre-Problem/lionHUD",
+  "hash": "6e68c3df53f431805f970ec5d06a0cb6ab479c94",
+  "resources": [
+    "lion-hud-banner"
+  ]
+}

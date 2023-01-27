@@ -1,0 +1,12 @@
+{
+  "name": "Ciba Hud",
+  "author": "CibaCity",
+  "social": {
+    "steam_group": "cibascity"
+  },
+  "repo": "https://github.com/CibaCity/cibahud",
+  "hash": "b71d09692301c33cb5e83db8e3e0c49060fcdfc4",
+  "resources": [
+    "ciba-hud-banner"
+  ]
+}

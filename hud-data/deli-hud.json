@@ -1,0 +1,12 @@
+{
+  "name": "Deli Hud",
+  "author": "Hypnotize, Deli",
+  "social": {
+    "steam_group": "deliHUD"
+  },
+  "repo": "https://github.com/Hypnootize/Deli-Hud",
+  "hash": "baeae2095658ea7dd27e732520a8bfbe98c3d777",
+  "resources": [
+    "deli-hud-banner"
+  ]
+}

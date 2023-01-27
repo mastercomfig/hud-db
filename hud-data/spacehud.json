@@ -1,0 +1,9 @@
+{
+  "name": "SpaceHUD",
+  "author": "Healing Sentry",
+  "repo": "https://github.com/BingBongBonky/SpaceHud",
+  "hash": "9c5f6ac772d24ba261a5b3ff3bf72c59049408da",
+  "resources": [
+    "spacehud-banner"
+  ]
+}

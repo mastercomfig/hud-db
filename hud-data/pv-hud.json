@@ -1,0 +1,9 @@
+{
+  "name": "PV Hud",
+  "author": "Hypnotize, povohat",
+  "repo": "https://github.com/Hypnootize/PV-Hud",
+  "hash": "12e5783514b2baf6bde43555bfdc32d18e8310c7",
+  "resources": [
+    "pv-hud-banner"
+  ]
+}

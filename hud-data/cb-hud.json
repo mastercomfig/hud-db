@@ -1,0 +1,9 @@
+{
+  "name": "CB Hud",
+  "author": "Hypnotize, ColdBalls",
+  "repo": "https://github.com/Hypnootize/CB-Hud",
+  "hash": "f9ca3c6ad87bb12ffa60bf42c9fa2094df22cb1e",
+  "resources": [
+    "cb-hud-banner"
+  ]
+}

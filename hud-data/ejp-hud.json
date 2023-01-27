@@ -1,0 +1,12 @@
+{
+  "name": "EJP Hud",
+  "author": "Hypnotize, b4stian",
+  "social": {
+    "steam_group": "ejphud"
+  },
+  "repo": "https://github.com/Hypnootize/EJP-Hud",
+  "hash": "15ccfb1aed9dd95818550f62026f9e8292c9fed7",
+  "resources": [
+    "ejp-hud-banner"
+  ]
+}

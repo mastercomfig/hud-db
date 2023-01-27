@@ -1,0 +1,12 @@
+{
+  "name": "Bast Hud",
+  "author": "Hypnotize, b4stian",
+  "social": {
+    "steam_group": "bastHUD"
+  },
+  "repo": "https://github.com/Hypnootize/Bast-Hud",
+  "hash": "ac6d68ee4aa08491b00e25b44ee87f7934650a81",
+  "resources": [
+    "bast-hud-banner"
+  ]
+}

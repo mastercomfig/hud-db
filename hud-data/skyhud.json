@@ -1,0 +1,9 @@
+{
+  "name": "Skyhud",
+  "author": "skai",
+  "repo": "https://github.com/Fundevilam/skyhud",
+  "hash": "c5a26eed021829429fb1c0d983330824433cae95",
+  "resources": [
+    "skyhud-banner"
+  ]
+}

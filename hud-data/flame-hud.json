@@ -1,0 +1,12 @@
+{
+  "name": "Flame Hud",
+  "author": "Hypnotize, Flame",
+  "social": {
+    "steam_group": "flamehud"
+  },
+  "repo": "https://github.com/Hypnootize/Flame-Hud",
+  "hash": "5cfc0a3049696f534c8b6ddaf742ccfa8124e980",
+  "resources": [
+    "flame-hud-banner"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BW Hex",
+  "author": "Hypnotize, dafuunk",
+  "repo": "https://github.com/Hypnootize/BW-Hud-Hex",
+  "hash": "a593a6a0f451e1ab6a913508e599b2f25049bc51",
+  "resources": [
+    "bw-hex-banner"
+  ]
+}
