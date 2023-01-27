@@ -1,0 +1,12 @@
+{
+  "name": "deliHUD Neue",
+  "author": "Deli",
+  "social": {
+    "steam_group": "deliHUD"
+  },
+  "repo": "https://github.com/delegacz/deliHUDNeue",
+  "hash": "37abc07a018e00abf9dd8989790523c22f08f858",
+  "resources": [
+    "delihud-neue-banner"
+  ]
+}

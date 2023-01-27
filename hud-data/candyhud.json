@@ -1,0 +1,9 @@
+{
+  "name": "candyhud",
+  "author": "quickkennedy",
+  "repo": "https://github.com/quickkennedy/candyhud",
+  "hash": "c5fd838416babb76634527478fcae4e296d64115",
+  "resources": [
+    "candyhud-banner"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "uwui",
+  "author": "Pigby",
+  "repo": "https://github.com/Pigby/uwui",
+  "hash": "cfaed542ec808f6c5e9fd0750b7584bd02063d2c",
+  "resources": [
+    "uwui-banner"
+  ]
+}

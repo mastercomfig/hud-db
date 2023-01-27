@@ -1,0 +1,9 @@
+{
+  "name": "kinhud",
+  "author": "kindred",
+  "repo": "https://github.com/kindredtf/kinhud",
+  "hash": "ed528471a18eaaea7b97db689050491ab2db3316",
+  "resources": [
+    "kinhud-banner"
+  ]
+}

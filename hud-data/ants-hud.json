@@ -1,0 +1,12 @@
+{
+  "name": "Ants Hud",
+  "author": "Antwan",
+  "social": {
+    "steam_group": "antwansants"
+  },
+  "repo": "https://github.com/AsianAntwan/AntsHUD",
+  "hash": "e45155d821af37515fa0ea1f0d2ce8959d2e02e5",
+  "resources": [
+    "ants-hud-banner"
+  ]
+}

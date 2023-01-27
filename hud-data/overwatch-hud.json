@@ -1,0 +1,12 @@
+{
+  "name": "Overwatch HUD",
+  "author": "nimtra",
+  "social": {
+    "steam_group": "overwatchhud"
+  },
+  "repo": "https://github.com/nimtra/overwatchhud",
+  "hash": "2e08c941c37b367a8963f0e3d16b5c9fcd49da87",
+  "resources": [
+    "overwatch-hud-banner"
+  ]
+}

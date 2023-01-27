@@ -1,0 +1,12 @@
+{
+  "name": "MK Hud",
+  "author": "nimtra",
+  "social": {
+    "steam_group": "mkhud"
+  },
+  "repo": "https://github.com/nimtra/mkHUD",
+  "hash": "f866bcafa83d35802763dba6daac4802eee5b956",
+  "resources": [
+    "mk-hud-banner"
+  ]
+}

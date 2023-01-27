@@ -1,0 +1,12 @@
+{
+  "name": "KN Old",
+  "author": "Hypnotize, Chippy",
+  "social": {
+    "steam_group": "knhud"
+  },
+  "repo": "https://github.com/Hypnootize/KN-Hud-Old",
+  "hash": "b4c318bcdf02c06c9fed4820283bf8c667d85fb4",
+  "resources": [
+    "kn-old-banner"
+  ]
+}

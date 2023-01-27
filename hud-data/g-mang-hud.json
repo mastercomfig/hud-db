@@ -1,0 +1,12 @@
+{
+  "name": "G-Mang Hud",
+  "author": "Hypnotize, G-Mang",
+  "social": {
+    "steam_group": "gmanghud"
+  },
+  "repo": "https://github.com/Hypnootize/G-Mang-Hud",
+  "hash": "52fe314fdaadd926129fb9f105209d1850c5ea7c",
+  "resources": [
+    "g-mang-hud-banner"
+  ]
+}

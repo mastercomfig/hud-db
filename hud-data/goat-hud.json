@@ -1,0 +1,12 @@
+{
+  "name": "Goat Hud",
+  "author": "Hypnotize, Goat_",
+  "social": {
+    "steam_group": "goat_hud"
+  },
+  "repo": "https://github.com/Hypnootize/Goat-Hud",
+  "hash": "3b2d16b17de39fdfa9969715d6ef12eed097f8f5",
+  "resources": [
+    "goat-hud-banner"
+  ]
+}

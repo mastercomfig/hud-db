@@ -1,0 +1,9 @@
+{
+  "name": "bothud",
+  "author": "playmoo",
+  "repo": "https://github.com/playmoo/bothud",
+  "hash": "1a3a642038025c0dd66f739bec09b6aabb0bf0bd",
+  "resources": [
+    "bothud-banner"
+  ]
+}

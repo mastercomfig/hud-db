@@ -1,0 +1,9 @@
+{
+  "name": "doxhud",
+  "author": "IteGood",
+  "repo": "https://github.com/CowShit/dox_hud",
+  "hash": "187243d355f6759c9a3f72ebc622f590b54ad1f9",
+  "resources": [
+    "doxhud-banner"
+  ]
+}

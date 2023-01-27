@@ -1,0 +1,9 @@
+{
+  "name": "Wavesui",
+  "author": "Hypnotize, extracrispy",
+  "repo": "https://github.com/Hypnootize/Wavesui-Hud",
+  "hash": "663021acedb4c0a26cb9374a45e1e4eb90ea8116",
+  "resources": [
+    "wavesui-banner"
+  ]
+}

@@ -22,10 +22,10 @@ To open it, Right click the file and select **Run with PowerShell**. Once it ope
 
 # Special Thanks
 
-**Font:** Lato, by Łukasz Dziedzic | http://www.lukaszdziedzic.eu/
-**Custom Icons:** Freepik | https://www.freepik.com/
-**HUD Compiler:** Lange | https://github.com/alvancamp
-**HUD Translations:** Ultra Violet Amethyst 紫微星宿, ly_dee, donut, Hypnotize, powah, Dr4kecl, CriticalFlaw, Hoto_Cocoa, LJoacks
+**Font:** Lato, by Łukasz Dziedzic | http://www.lukaszdziedzic.eu/  
+**Custom Icons:** Freepik | https://www.freepik.com/  
+**HUD Compiler:** Lange | https://github.com/alvancamp  
+**HUD Translations:** Ultra Violet Amethyst 紫微星宿, ly_dee, donut, Hypnotize, powah, Dr4kecl, CriticalFlaw, Hoto_Cocoa, LJoacks  
 **TF2 Crosshairs:** Knuckles, Fog, Hypnotize, whayay
 
 ...and more! Check the readme on the GitHub for an extensive list <3

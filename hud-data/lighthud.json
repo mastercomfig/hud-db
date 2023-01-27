@@ -1,0 +1,9 @@
+{
+  "name": "LightHUD",
+  "author": "Hypnotize",
+  "repo": "https://github.com/Hypnootize/lighthud",
+  "hash": "d90e2de61456522e5313ae2c7392d0c4f5adddc6",
+  "resources": [
+    "lighthud-banner"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Digit Hud",
+  "author": "Digit",
+  "repo": "https://github.com/digitdaily/digithud",
+  "hash": "0ca893239213fa34d4952bc58f05ab80e4ab7033",
+  "resources": [
+    "digit-hud-banner"
+  ]
+}

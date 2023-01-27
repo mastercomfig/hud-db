@@ -1,0 +1,12 @@
+{
+  "name": "TF2HUD+",
+  "author": "Snowshoe",
+  "social": {
+    "steam_group": "tf2hudplus"
+  },
+  "repo": "https://github.com/SnowshoeIceboot/TF2HudPlus",
+  "hash": "b55a5dbca81938d5b249ae18d41ab2d5d7c9ef2f",
+  "resources": [
+    "tf2hud+-banner"
+  ]
+}
