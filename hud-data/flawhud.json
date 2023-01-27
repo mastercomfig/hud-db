@@ -1,5 +1,5 @@
 {
-  "name": "flawhud",
+  "name": "FlawHUD",
   "author": "CriticalFlaw",
   "social": {
     "steam_profile": 76561198041892999,
@@ -10,6 +10,11 @@
   "repo": "https://github.com/CriticalFlaw/flawhud",
   "hash": "339967cdc5ccd7aaeade9490712ea30c361c995c",
   "resources": [
-    "flawhud-banner"
+    "banner",
+    "hud",
+    "scoreboard",
+    "spectator",
+    "menu",
+    "loadout"
   ]
 }

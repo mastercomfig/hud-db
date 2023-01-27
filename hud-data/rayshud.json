@@ -1,6 +1,6 @@
 {
   "name": "rayshud",
-  "author": "raysfire, CriticalFlaw",
+  "author": "raysfire & CriticalFlaw",
   "social": {
     "steam_profile": 76561198041892999,
     "steam_group": "rayshud",
@@ -10,6 +10,11 @@
   "repo": "https://github.com/raysfire/rayshud",
   "hash": "e92807d14639d1c3c25e6e374354f035d2d58e71",
   "resources": [
-    "rayshud-banner"
+    "banner",
+    "hud",
+    "hud-medic",
+    "scoreboard",
+    "menu",
+    "loadout"
   ]
 }
