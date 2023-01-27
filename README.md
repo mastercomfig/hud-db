@@ -4,9 +4,9 @@ Data repository tracking HUD metadata for comfig web
 
 ## How to use
 
-Fork this repo, and add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
+Fork this repo, make a new branch, and add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
 
-You can make subsequent PRs to update your HUD to a new version.
+You can make subsequent PRs in new branches to update your HUD to a new version.
 
 File hosting and version history is required to be on GitHub, for enhanced hosting and version approval.
 
