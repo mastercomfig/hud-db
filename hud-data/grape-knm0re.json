@@ -3,7 +3,7 @@
   "author": "Hypnotize, Grape",
   "repo": "https://github.com/Hypnootize/Grape-knm0re",
   "hash": "da2ecc99d6d112bdb8fb6e7b20c7711a35d5c44c",
-  "parent": "grape-hud",
+  "parent": "m0rehud",
   "resources": [
     "grape-knm0re-banner"
   ]

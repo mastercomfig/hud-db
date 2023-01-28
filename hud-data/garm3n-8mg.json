@@ -3,7 +3,7 @@
   "author": "Hypnotize, Garm3n",
   "repo": "https://github.com/Hypnootize/Garm3n-8MG",
   "hash": "d2b19bd2e94205ed40256c4b61e7d9595e798b7b",
-  "parent": "garm3n-ql",
+  "parent": "quakehud",
   "resources": [
     "garm3n-8mg-banner"
   ]
