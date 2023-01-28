@@ -1,12 +1,14 @@
 {
   "name": "Xhud",
   "author": "Peaches",
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_profile": 76561198406266064,
      "discord": "HyZRVtp"
   },
   "repo": "https://github.com/PapaPeach/xhud",
   "hash": "2fd801a5faf1e0bc6890f98297d41acedb243cd9",
+  "prerelease": true,
   "resources": [
     "xhud-banner",
     "ingame",
