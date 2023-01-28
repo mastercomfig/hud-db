@@ -39,6 +39,8 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
   "prerelease": true, // If this is a prerelease/WIP HUD
+  "verified": true, // For internal use only to enable some functionality. Do not set this yourself.
+  "parent": "their-hud", // If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.
   "resources": [ // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
     "myhud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
@@ -54,10 +56,11 @@ Here's an easy to copy sample for writing your own data file:
   "name": "",
   "author": "",
   "social": {
-    "steam_profile": 0,
+    "steam_profile": "",
     "steam_group": "",
     "twitter": "",
-    "discord": ""
+    "discord": "",
+    "album": ""
   },
   "repo": "",
   "hash": "",
