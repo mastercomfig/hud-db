@@ -3,6 +3,7 @@
   "author": "Hypnotize, extracrispy",
   "repo": "https://github.com/Hypnootize/Crsp-Broesel",
   "hash": "670670ccef8726aadfde8dc186da90bcf866dc87",
+  "parent": "broesel-hud",
   "resources": [
     "broesel-crsp-banner"
   ]

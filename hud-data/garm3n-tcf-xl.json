@@ -3,6 +3,7 @@
   "author": "Hypnotize, Garm3n",
   "repo": "https://github.com/Hypnootize/Garm3n-TCF-XL",
   "hash": "1e6ba14d5cb79ba4aea062086c1fee5c8c48c0ed",
+  "parent": "garm3n-ql",
   "resources": [
     "garm3n-tcf-xl-banner"
   ]

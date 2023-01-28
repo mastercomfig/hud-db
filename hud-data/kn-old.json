@@ -6,6 +6,7 @@
   },
   "repo": "https://github.com/Hypnootize/KN-Hud-Old",
   "hash": "b4c318bcdf02c06c9fed4820283bf8c667d85fb4",
+  "parent": "kn-hud",
   "resources": [
     "kn-old-banner"
   ]

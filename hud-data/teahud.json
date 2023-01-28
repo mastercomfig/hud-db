@@ -3,6 +3,7 @@
   "author": "DrinkinTea",
   "repo": "https://github.com/DrinkinTea22/TeaHud",
   "hash": "cb01f10547e6a95c34f06c80ee3c72a1a7a6a868",
+  "parent": "teahud-v2",
   "resources": [
     "teahud-banner"
   ]

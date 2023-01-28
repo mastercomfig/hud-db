@@ -3,6 +3,7 @@
   "author": "Hypnotize, Garm3n",
   "repo": "https://github.com/Hypnootize/Garm3n-TanLight",
   "hash": "7465589785f8b74815942990de1e18e892f6ee7a",
+  "parent": "garm3n-ql",
   "resources": [
     "garm3n-tanlight-banner"
   ]

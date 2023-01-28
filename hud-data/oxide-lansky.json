@@ -3,6 +3,7 @@
   "author": "Hypnotize, Lansky",
   "repo": "https://github.com/Hypnootize/Lanskys-Oxide",
   "hash": "852dde2a1c1a249967c5a128b5286d7c8420b3d5",
+  "parent": "oxide-hud",
   "resources": [
     "oxide-lansky-banner"
   ]

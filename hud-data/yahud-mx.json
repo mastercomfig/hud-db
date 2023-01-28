@@ -3,6 +3,7 @@
   "author": "Hypnotize, Whayay",
   "repo": "https://github.com/Hypnootize/Yahud-M-X",
   "hash": "c779a19d93ff3934d465541918cb91942ae270bf",
+  "parent": "yayahud",
   "resources": [
     "yahud-mx-banner"
   ]

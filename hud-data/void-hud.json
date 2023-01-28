@@ -7,6 +7,7 @@
   },
   "repo": "https://github.com/cjrose/voidHUD",
   "hash": "8a2ffd04ade01b66952dfbe98e8273dd629a313a",
+  "parent": "void-hud-2.0",
   "resources": [
     "void-hud-banner"
   ]

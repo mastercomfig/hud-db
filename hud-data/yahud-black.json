@@ -3,6 +3,7 @@
   "author": "Hypnotize, Whayay",
   "repo": "https://github.com/Hypnootize/Yahud-Black",
   "hash": "bc9671739c63279d4c013b724d74c62206b18dfb",
+  "parent": "yayahud",
   "resources": [
     "yahud-black-banner"
   ]

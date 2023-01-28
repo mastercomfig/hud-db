@@ -3,6 +3,7 @@
   "author": "Feeling Blue",
   "repo": "https://github.com/fblue/broeselhud_blue",
   "hash": "e6b5ae643182d16efbe86d550ac81e9bc6f7aed3",
+  "parent": "broesel-hud",
   "resources": [
     "broesel-blue-banner"
   ]

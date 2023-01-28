@@ -3,6 +3,7 @@
   "author": "Hypnotize, Chippy",
   "repo": "https://github.com/Hypnootize/KN-Edit",
   "hash": "55d125662fd0fd86643b77c526f5b856b23f35c7",
+  "parent": "kn-hud",
   "resources": [
     "kn-edit-banner"
   ]

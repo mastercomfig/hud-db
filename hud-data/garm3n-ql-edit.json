@@ -3,6 +3,7 @@
   "author": "Hypnotize, Garm3n",
   "repo": "https://github.com/Hypnootize/Garm3n-QL-Edit",
   "hash": "9f5aeb246267c5c60452214bec9d1ccf8d583a1c",
+  "parent": "garm3n-ql",
   "resources": [
     "garm3n-ql-edit-banner"
   ]
