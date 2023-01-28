@@ -30,7 +30,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "author": "Cool person", // Display name of you, the active developer of the HUD
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "social": {
-    "steam_profile": 76561191234567890, // Your SteamID64 (optional)
+    "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "Elon", // Your Twitter handle (optional)
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
