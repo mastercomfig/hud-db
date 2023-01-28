@@ -8,6 +8,11 @@
   "repo": "https://github.com/PapaPeach/PeachHUD",
   "hash": "c4dd2c1fbc83cb52a531667caf71e4d2faa9e742",
   "resources": [
-    "PeachHUD-banner"
+    "PeachHUD-banner",
+    "ingame",
+    "ingame-low",
+    "scoreboard",
+    "loadout",
+    "darkmode"
   ]
 }
