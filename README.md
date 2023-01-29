@@ -40,7 +40,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "traits": { // Optional structured mapping of values. Search syntax: key:val1,val2
     "os": ["windows", "mac", "linux"],
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "domination", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["16:9"],
+    "res": ["16/9"],
     "key": ["value"]
   },
   "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tag:tag1,tag2
