@@ -1,6 +1,9 @@
 {
   "name": "Oxide Hud",
   "author": "Hypnotize, Oxide",
+  "social": {
+    "album": "https://imgur.com/a/R9a13"
+  },
   "repo": "https://github.com/Hypnootize/Oxide-Hud",
   "hash": "1f18bf46252f80f4a5244d437aaebcdd2930338b",
   "resources": [

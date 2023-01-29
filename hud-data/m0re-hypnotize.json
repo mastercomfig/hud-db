@@ -1,6 +1,9 @@
 {
   "name": "m0re Hypnotize",
   "author": "Hypnotize",
+  "social": {
+    "album": "http://imgur.com/a/2gckG"
+  },
   "repo": "https://github.com/Hypnootize/Hypnotize-m0rehud",
   "hash": "d587c58af4d08aead12285325223f1c5fcf2d9ee",
   "parent": "m0rehud",

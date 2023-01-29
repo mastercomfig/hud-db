@@ -1,6 +1,9 @@
 {
   "name": "Grape-m0re",
   "author": "Hypnotize, Grape",
+  "social": {
+    "album": "https://imgur.com/a/8KYR6"
+  },
   "repo": "https://github.com/Hypnootize/Grape-M0rehud",
   "hash": "35021987433152dc5f785f4f0759cb15abb169dd",
   "parent": "m0rehud",

@@ -1,6 +1,9 @@
 {
   "name": "Astro Hud",
   "author": "Astroyed & wat-the-fricc",
+  "social": {
+    "album": "https://imgur.com/a/rwty9qU"
+  },
   "repo": "https://github.com/wat-the-fricc/astrohud",
   "hash": "0aae4c8903a01d1051e9c2e22c8d3a24db6221cc",
   "resources": [

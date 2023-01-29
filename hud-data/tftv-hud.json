@@ -1,6 +1,9 @@
 {
   "name": "TFTV Hud",
   "author": "Hypnotize, Voloder",
+  "social": {
+    "album": "https://imgur.com/a/MIlTm"
+  },
   "repo": "https://github.com/Hypnootize/TFTV-Hud",
   "hash": "f8fe757dbe773a613038e5eac488bebfced392ee",
   "resources": [

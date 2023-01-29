@@ -1,6 +1,9 @@
 {
   "name": "Yahud Old",
   "author": "Hypnotize, Whayay",
+  "social": {
+    "album": "https://imgur.com/a/oHoQ2"
+  },
   "repo": "https://github.com/Hypnootize/Yahud-Old",
   "hash": "05ca7c1bb8d95d17538a2b3438687e9a16c69e4e",
   "parent": "yayahud",

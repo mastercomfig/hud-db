@@ -1,6 +1,9 @@
 {
   "name": "Garm3n OLX",
   "author": "Hypnotize, Garm3n",
+  "social": {
+    "album": "https://imgur.com/a/TbukW"
+  },
   "repo": "https://github.com/Hypnootize/Garm3n-OLX",
   "hash": "3647296e7e596bc29cd830261c8e52b715b4c39a",
   "parent": "quakehud",

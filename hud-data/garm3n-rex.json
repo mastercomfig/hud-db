@@ -1,6 +1,9 @@
 {
   "name": "Garm3n Rex",
   "author": "Hypnotize, Garm3n",
+  "social": {
+    "album": "https://imgur.com/a/GLD5e"
+  },
   "repo": "https://github.com/Hypnootize/Garm3n-REX",
   "hash": "8916266392e7b9a748039fbd1286afd58896039f",
   "parent": "quakehud",
