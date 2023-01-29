@@ -36,9 +36,12 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
-  "flags": ["os-windows", "ratio-16-9", "gamemode-payload"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. Valid flags are a WIP and TBD. (optional)
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. Valid flags are a WIP and TBD. (optional)
   "traits": { // Optional structured mapping of values. Valid traits are a WIP and TBD.
-    "key": "value"
+    "os": ["windows", "mac", "linux"],
+    "gamemodes": ["tournament", "comp", "arena", "ad", "ctf", "cp", "domination", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
+    "aspect_ratios": ["16:9"],
+    "key": ["value"]
   },
   "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional)
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
