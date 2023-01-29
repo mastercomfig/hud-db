@@ -1,6 +1,9 @@
 {
   "name": "G-Mang Hud",
-  "author": "Hypnotize, G-Mang",
+  "author": "G-Mang",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "gmanghud",
     "album": "https://imgur.com/a/IZKZA"

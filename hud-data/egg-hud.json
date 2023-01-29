@@ -1,6 +1,9 @@
 {
   "name": "Egg Hud",
-  "author": "Hypnotize, eggnormous",
+  "author": "eggnormous",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "eggHUD",
     "album": "https://imgur.com/a/LC3No"

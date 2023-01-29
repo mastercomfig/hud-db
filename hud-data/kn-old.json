@@ -1,6 +1,9 @@
 {
   "name": "KN Old",
-  "author": "Hypnotize, Chippy",
+  "author": "Chippy",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "knhud",
     "album": "https://imgur.com/a/YblgN"

@@ -1,6 +1,9 @@
 {
   "name": "Flame Hud",
-  "author": "Hypnotize, Flame",
+  "author": "Flame",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "flamehud",
     "album": "https://imgur.com/a/NHBdv"

@@ -1,6 +1,9 @@
 {
   "name": "EJP Hud",
-  "author": "Hypnotize, b4stian",
+  "author": "b4stian",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "ejphud",
     "album": "https://imgur.com/a/K8ZYc"

@@ -1,6 +1,9 @@
 {
   "name": "Thwartzki Hud",
-  "author": "Hypnotize, Thwartski",
+  "author": "Thwartski",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "thwartskihud",
     "album": "https://imgur.com/a/AKFci"

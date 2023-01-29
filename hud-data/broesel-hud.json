@@ -1,6 +1,9 @@
 {
   "name": "Broesel Hud",
-  "author": "Hypnotize, Broesel",
+  "author": "Broesel",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "broeselhud",
     "album": "https://imgur.com/a/YxG82"

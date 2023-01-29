@@ -1,6 +1,9 @@
 {
   "name": "PV Hud",
-  "author": "Hypnotize, povohat",
+  "author": "povohat",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/C3dXl"
   },

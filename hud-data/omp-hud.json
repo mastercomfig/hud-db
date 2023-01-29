@@ -1,6 +1,9 @@
 {
   "name": "OMP Hud",
-  "author": "Hypnotize, OMP",
+  "author": "OMP",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "tf2hud",
     "album": "https://imgur.com/a/mCoYj"

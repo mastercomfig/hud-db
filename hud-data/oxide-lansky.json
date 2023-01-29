@@ -1,6 +1,9 @@
 {
   "name": "Oxide Lansky",
-  "author": "Hypnotize, Lansky",
+  "author": "Lansky",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/ZUl8l"
   },

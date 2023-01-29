@@ -1,6 +1,9 @@
 {
   "name": "Goat Hud",
-  "author": "Hypnotize, Goat_",
+  "author": "Goat_",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "goat_hud",
     "album": "https://imgur.com/a/T584p"

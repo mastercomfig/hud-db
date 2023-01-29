@@ -1,6 +1,9 @@
 {
   "name": "Toasty Hud",
-  "author": "Hypnotize, French Toast & Medik",
+  "author": "French Toast & Medik",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "toastyhudtf2",
     "album": "https://imgur.com/a/hPdke"

@@ -1,6 +1,9 @@
 {
   "name": "TFTV Hud",
-  "author": "Hypnotize, Voloder",
+  "author": "Voloder",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/MIlTm"
   },

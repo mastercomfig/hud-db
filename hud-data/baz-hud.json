@@ -1,6 +1,9 @@
 {
   "name": "Baz Hud",
-  "author": "Hypnotize, Bazoo",
+  "author": "Bazoo",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "BazHUD",
     "album": "https://imgur.com/a/982kf"

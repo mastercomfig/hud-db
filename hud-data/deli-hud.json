@@ -1,6 +1,9 @@
 {
   "name": "Deli Hud",
-  "author": "Hypnotize, Deli",
+  "author": "Deli",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "deliHUD",
     "album": "https://imgur.com/a/AOznT"

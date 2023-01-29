@@ -1,6 +1,9 @@
 {
   "name": "Grape Hud",
-  "author": "Hypnotize, Grape",
+  "author": "Grape",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/hDF9j"
   },

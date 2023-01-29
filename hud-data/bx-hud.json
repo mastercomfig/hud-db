@@ -1,6 +1,9 @@
 {
   "name": "BX Hud",
-  "author": "Hypnotize, Chippy - ColdBalls",
+  "author": "Chippy - ColdBalls",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "bxhud-cb",
     "album": "https://imgur.com/a/gGOow"
