@@ -1,6 +1,6 @@
 {
-  "name": "Void Hud",
-  "author": "StaticVoid",
+  "name": "voidHUD 2.0",
+  "author": "staitc",
   "social": {
     "steam_group": "voidhud",
     "discord": "https://discord.com/invite/NtQ3FsT",
@@ -8,8 +8,15 @@
   },
   "repo": "https://github.com/cjrose/voidHUD",
   "hash": "8a2ffd04ade01b66952dfbe98e8273dd629a313a",
-  "parent": "void-hud-2.0",
   "resources": [
-    "void-hud-banner"
+    "voidhud-banner",
+    "image00",
+    "image01",
+    "image02",
+    "image03",
+    "image04",
+    "image05",
+    "image06",
+    "image07"
   ]
 }
