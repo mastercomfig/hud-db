@@ -1,6 +1,6 @@
 {
   "name": "voidHUD 2.0",
-  "author": "staitc",
+  "author": "static",
   "social": {
     "steam_group": "voidhud",
     "discord": "https://discord.com/invite/NtQ3FsT",
@@ -10,13 +10,13 @@
   "hash": "8a2ffd04ade01b66952dfbe98e8273dd629a313a",
   "resources": [
     "voidhud-banner",
-    "image00",
-    "image01",
-    "image02",
-    "image03",
-    "image04",
-    "image05",
-    "image06",
-    "image07"
+    "title-screen",
+    "main-ui",
+    "overheal",
+    "effect-meters",
+    "demo-stickies",
+    "target-id",
+    "scoreboard",
+    "loadout"
   ]
 }

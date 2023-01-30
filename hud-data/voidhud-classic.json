@@ -11,12 +11,12 @@
   "parent": "void-hud-2.0",
   "resources": [
     "voidhud-classic-banner",
-    "image00",
-    "image01",
-    "image02",
-    "image03",
-    "image04",
-    "image05",
-    "image06"
+    "main-ui",
+    "damage-killfeed",
+    "demo-stickies",
+    "overheal",
+    "target-id",
+    "class-select",
+    "scoreboard"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "boredHUD",
-  "author": "staitc",
+  "author": "static",
   "social": {
     "steam_group": "boredhud",
     "discord": "https://discord.com/invite/NtQ3FsT",
@@ -10,15 +10,15 @@
   "hash": "e7f836107561327436aa9ed9309ff5066c2bc430",
   "resources": [
     "bored-hud-banner",
-    "image00",
-    "image01",
-    "image02",
-    "image03",
-    "image04",
-    "image05",
-    "image06",
-    "image07",
-    "image08",
-    "image09"
+    "main-ui",
+    "low-health-ammo",
+    "overheal",
+    "damage-killfeed",
+    "effect-meters",
+    "med-ui",
+    "target-id-vacc",
+    "class-select",
+    "scoreboard",
+    "mvm"
   ]
 }

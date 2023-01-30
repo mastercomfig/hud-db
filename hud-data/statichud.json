@@ -1,6 +1,6 @@
 {
   "name": "staticHUD",
-  "author": "staitc",
+  "author": "static",
   "social": {
     "steam_group": "staticHUD",
     "discord": "https://discord.com/invite/NtQ3FsT",
@@ -10,16 +10,16 @@
   "hash": "8f1022ffac18d5ca7d11b641211e2e61601cab68",
   "resources": [
     "statichud-banner",
-    "image00",
-    "image01",
-    "image02",
-    "image03",
-    "image04",
-    "image05",
-    "image06",
-    "image07",
-    "image08",
-    "image09",
-    "image10"
+    "main-ui",
+    "low-health-ammo",
+    "overheal",
+    "effect-meter",
+    "target-id",
+    "scoreboard",
+    "class-select",
+    "disguise-kit",
+    "tournament",
+    "minmode",
+    "inventory"
   ]
 }
