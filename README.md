@@ -42,7 +42,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
     "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
   },
-  "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tag:x,y
+  "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tags:x,y
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
   "prerelease": true, // If this is a prerelease/WIP HUD
