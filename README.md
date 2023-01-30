@@ -36,7 +36,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "privacy", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
   "traits": { // Optional structured mapping of values. Search syntax: [key]:x,y
     "os": ["windows", "mac", "linux"],
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
