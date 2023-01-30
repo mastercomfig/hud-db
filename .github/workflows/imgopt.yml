@@ -10,7 +10,9 @@ on:
       - 'hud-resources/**.jpeg'
       - 'hud-resources/**.png'
       - 'hud-resources/**.webp'
-
+concurrency:
+  group: ${{ github.repository }}
+  cancel-in-progress: true
 jobs:
   imgopt:
     name: Optimize Images
