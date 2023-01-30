@@ -8,9 +8,24 @@
     "discord": "TkxNKU2",
     "album": "https://imgur.com/a/aJ1K5"
   },
+  "flags": ["centered", "customizations", "streamer mode", "custom crosshairs"],
+  "traits": {
+    "os": ["windows", "mac", "linux"],
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
+  },
+  "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
   "hash": "78b64c403a550b3ae4793c9d32e01b3383445749",
+  "prerelease": false,
   "resources": [
-    "budhud-banner"
+    "budhud-01-banner",
+    "budhud-02-backpack",
+    "budhud-03-loadout",
+    "budhud-04-player",
+    "budhud-05-scoreboard",
+    "budhud-06-engineer",
+    "budhud-07-medic",
+    "budhud-08-payload"
   ]
 }
