@@ -1,6 +1,9 @@
 {
   "name": "rayshud",
-  "author": "raysfire & CriticalFlaw",
+  "author": "raysfire",
+  "contributors": [
+    "CriticalFlaw"
+  ],
   "social": {
     "steam_profile": "76561198041892999",
     "steam_group": "rayshud",
