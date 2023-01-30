@@ -1,7 +1,8 @@
 {
-  "name": "KBN Hud",
+  "name": "KBNHud",
   "author": "J\u00f6tunn",
   "social": {
+    "steam_profile": "76561198030388943",
     "steam_group": "KBNHud",
     "discord": "NhnSysw",
     "album": "https://imgur.com/a/nmXU42d"
@@ -9,6 +10,16 @@
   "repo": "https://github.com/Jotunn/kbnHud",
   "hash": "6e91842d236240db78e7ad10a4156583cf2a67c2",
   "resources": [
-    "kbnhud-banner"
+    "01-kbnhud-banner",
+    "02-kbnhud-main-menu",
+    "03-kbnhud-backpack",
+    "04-kbnhud-class-loadout",
+    "05-kbnhud-in-game",
+    "06-kbnhud-low",
+    "07-kbnhud-item-meters",
+    "08-kbnhud-full-uber",
+    "09-kbnhud-destroy-menu",
+    "10-kbnhud-32p-scoreboard",
+    "11-kbnhud-tournament-spectator"
   ]
 }
