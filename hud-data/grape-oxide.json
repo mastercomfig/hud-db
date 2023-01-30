@@ -1,6 +1,12 @@
 {
   "name": "Grape-Oxide",
-  "author": "Hypnotize, Grape",
+  "author": "Grape",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/9Z9Z5"
+  },
   "repo": "https://github.com/Hypnootize/Grape-Oxide",
   "hash": "7685782aff9c0e309cf7313f9c91cd387626b6ce",
   "parent": "oxide-hud",

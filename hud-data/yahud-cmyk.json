@@ -1,6 +1,12 @@
 {
   "name": "Yahud CMYK",
-  "author": "Hypnotize, Whayay",
+  "author": "Whayay",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/LrcV8"
+  },
   "repo": "https://github.com/Hypnootize/Yahud-CMYK",
   "hash": "077cf8493bdbdb6e2bed4f6dd1718ae1127c8e19",
   "parent": "yayahud",

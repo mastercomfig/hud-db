@@ -1,6 +1,9 @@
 {
   "name": "kinhud",
   "author": "kindred",
+  "social": {
+    "album": "https://imgur.com/a/pQX8V5v"
+  },
   "repo": "https://github.com/kindredtf/kinhud",
   "hash": "ed528471a18eaaea7b97db689050491ab2db3316",
   "resources": [

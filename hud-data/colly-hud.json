@@ -1,6 +1,10 @@
 {
   "name": "Colly Hud",
-  "author": "omnibombulator, Colly",
+  "author": "Colly",
+  "contributors": ["omnibombulator"],
+  "social": {
+    "album": "https://ibb.co/album/dwngXw"
+  },
   "repo": "https://github.com/omnibombulator/collyhud",
   "hash": "1084699a883c75313f4f2a102b8d8058ec472756",
   "resources": [

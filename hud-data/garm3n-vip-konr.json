@@ -1,6 +1,12 @@
 {
   "name": "Garm3n VIP-Konr",
-  "author": "Hypnotize, Garm3n",
+  "author": "Garm3n",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/cIa2N"
+  },
   "repo": "https://github.com/Hypnootize/Garm3n-VIP-Konr",
   "hash": "cd6e7474e828d3b134142421f2bba231d54d90a7",
   "parent": "quakehud",

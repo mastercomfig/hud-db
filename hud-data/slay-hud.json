@@ -1,6 +1,12 @@
 {
   "name": "Slay Hud",
-  "author": "Hypnotize, Slayer",
+  "author": "Slayer",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/TeEEs"
+  },
   "repo": "https://github.com/Hypnootize/Slay-Hud",
   "hash": "9471ff7e978b0d9e8ccf8548459a14e6ff50724e",
   "resources": [

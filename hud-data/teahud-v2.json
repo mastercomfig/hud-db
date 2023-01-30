@@ -1,6 +1,9 @@
 {
   "name": "TeaHud V2",
   "author": "DrinkinTea",
+  "social": {
+    "album": "https://imgur.com/a/marJFLz"
+  },
   "repo": "https://github.com/DrinkinTea22/teahudv2",
   "hash": "d0923cc17be1ffd505a4e68c8ba2cf490afd1738",
   "resources": [

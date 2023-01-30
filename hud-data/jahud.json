@@ -1,6 +1,9 @@
 {
   "name": "Jahud",
   "author": "JarateKing",
+  "social": {
+    "album": "https://imgur.com/a/stBvYOz"
+  },
   "repo": "https://github.com/JarateKing/jahud-tf2",
   "hash": "aed90ea2dddd9190d99e50bd537c5ba0e2beb393",
   "resources": [

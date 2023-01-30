@@ -1,8 +1,12 @@
 {
   "name": "Med Hud",
-  "author": "Hypnotize, intel",
+  "author": "intel",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
-    "steam_group": "medhud"
+    "steam_group": "medhud",
+    "album": "https://imgur.com/a/1ufBE"
   },
   "repo": "https://github.com/Hypnootize/medHUD",
   "hash": "a8afa58261ea680e1b59b86a8871654cb28a0244",
