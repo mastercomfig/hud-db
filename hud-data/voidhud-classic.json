@@ -1,6 +1,6 @@
 {
-  "name": "Void Hud 2.0",
-  "author": "StaticVoid",
+  "name": "voidHUD Classic",
+  "author": "static",
   "social": {
     "steam_group": "voidhud",
     "discord": "https://discord.com/invite/NtQ3FsT",
@@ -8,7 +8,15 @@
   },
   "repo": "https://github.com/TheStaticVoid/VoidHUD2.0",
   "hash": "8165dbad858243a90ec7c8a35ea6bd701f5738e1",
+  "parent": "void-hud-2.0",
   "resources": [
-    "void-hud-2.0-banner"
+    "voidhud-classic-banner",
+    "main-ui",
+    "damage-killfeed",
+    "demo-stickies",
+    "overheal",
+    "target-id",
+    "class-select",
+    "scoreboard"
   ]
 }
