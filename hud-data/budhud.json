@@ -8,7 +8,7 @@
     "discord": "TkxNKU2",
     "album": "https://imgur.com/a/aJ1K5"
   },
-  "flags": ["centered", "customizations", "streamer mode", "custom crosshairs"],
+  "flags": ["streamer-mode", "crosshairs", "customization"],
   "traits": {
     "os": ["windows", "mac", "linux"],
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
@@ -17,7 +17,6 @@
   "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
   "hash": "78b64c403a550b3ae4793c9d32e01b3383445749",
-  "prerelease": false,
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",
