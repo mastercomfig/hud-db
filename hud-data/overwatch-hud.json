@@ -5,6 +5,43 @@
     "steam_group": "overwatchhud",
     "album": "https://imgur.com/a/U1gfV"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "dom",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ]
+  },
   "repo": "https://github.com/nimtra/overwatchhud",
   "hash": "2e08c941c37b367a8963f0e3d16b5c9fcd49da87",
   "resources": [
