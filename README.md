@@ -32,7 +32,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "social": { // Optional mapping of social links
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
-    "twitter": "Elon", // Your Twitter handle (optional)
+    "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
