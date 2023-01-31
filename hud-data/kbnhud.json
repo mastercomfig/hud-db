@@ -13,7 +13,7 @@
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
     "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
   },
-  "tags": ["minimal", "ultra-minimal", "ultraminimal", "competitive"],
+  "tags": ["minimal", "ultra-minimal", "competitive"],
   "repo": "https://github.com/Jotunn/kbnHud",
   "hash": "6e91842d236240db78e7ad10a4156583cf2a67c2",
   "resources": [
