@@ -27,7 +27,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
 ```jsonc
 {
   "name": "My HUD", // Display name of your HUD
-  "author": "Cool person", // Display name of you, the active developer of the HUD
+  "author": "Cool person", // Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "social": { // Optional mapping of social links
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
