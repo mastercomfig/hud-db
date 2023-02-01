@@ -4,6 +4,32 @@
   "social": {
     "album": "https://imgur.com/a/1gQF75W"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mvm",
+      "pass",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ]
+  },
   "repo": "https://github.com/LambdagonUwU/Half-Life-2-HUD",
   "hash": "7388cd590c483ec5d81f381e5d06c2b429f8aeca",
   "resources": [

@@ -1,10 +1,44 @@
 {
   "name": "quakehud",
   "author": "quickkennedy",
-  "contributors": ["Garm3n"],
+  "contributors": [
+    "Garm3n"
+  ],
   "social": {
     "steam_group": "quakehudgroup",
     "album": "https://imgur.com/a/Leu0HxO"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "streamer-mode",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mannpower",
+      "pl",
+      "plr",
+      "pd",
+      "sd"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/quickkennedy/quakehud",
   "hash": "000dacbfcad93156ecd3eee480db43e3d11b8fce",
