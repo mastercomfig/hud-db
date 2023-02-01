@@ -5,6 +5,38 @@
     "steam_group": "RebelHUD",
     "album": "https://imgur.com/a/TKRZg"
   },
+  "flags": [
+    "fonts",
+    "minmode"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mvm",
+      "pl",
+      "plr",
+      "pd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
+  },
   "repo": "https://github.com/TheRebelCreeper/RebelHud",
   "hash": "9b070a7ace64ce2251f940fcf4247a94b2d413f7",
   "resources": [
