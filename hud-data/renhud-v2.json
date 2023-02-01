@@ -8,39 +8,13 @@
     "discord": "jcevymcSh6",
     "album": "https://imgur.com/a/YiuK7Me"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "crosshairs",
-    "minmode",
-    "materials",
-    "customization"
-  ],
-  "traits": [
-    "windows",
-    "linux"
-  ],
-  "gamemode": [
-    "ctf",
-    "cp",
-    "koth",
-    "mvm",
-    "pl",
-    "plr"
-  ],
-  "res": [
-    "4/3",
-    "16/10",
-    "16/9"
-  ],
+  "flags": ["fonts", "menus", "crosshairs", "minmode", "materials", "customization"],
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": ["ctf", "cp", "koth", "mvm", "pl", "plr"],
+    "res": ["4/3", "16/10", "16/9"]
+  },
   "repo": "https://github.com/LunaXCBN/RenHud-V2",
   "hash": "a1a817ddbe60a026626cd8075fcaabac10c66932",
-  "resources": [
-    "main-menu",
-    "loadout",
-    "game",
-    "scoreboard",
-    "backpack",
-    "stats"
-  ]
+  "resources": ["main-menu", "loadout", "game", "scoreboard", "backpack", "stats"]
 }
