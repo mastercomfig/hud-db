@@ -5,6 +5,44 @@
     "steam_profile": "76561198058754493",
     "album": "https://imgur.com/a/ENQcIqO"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9"
+    ]
+  },
   "repo": "https://github.com/Hypnootize/hexhud",
   "hash": "0254f54230aa9fb74ce697d1137eb236de6aa2da",
   "resources": [

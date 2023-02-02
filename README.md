@@ -27,23 +27,23 @@ This is the main data source for a HUD. This defines the HUD and its properties.
 ```jsonc
 {
   "name": "My HUD", // Display name of your HUD
-  "author": "Cool person", // Display name of you, the active developer of the HUD
+  "author": "Cool person", // Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "social": { // Optional mapping of social links
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
-    "twitter": "Elon", // Your Twitter handle (optional)
+    "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "privacy", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
-  "traits": { // Optional structured mapping of values. Search syntax: key:val1,val2
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
+  "traits": { // Optional structured mapping of values. Search syntax: [key]:x,y
     "os": ["windows", "mac", "linux"],
-    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "domination", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["16/9"],
-    "key": ["value"]
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["center", "corners", "default"]
   },
-  "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tag:tag1,tag2
+  "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tags:x,y
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
   "prerelease": true, // If this is a prerelease/WIP HUD

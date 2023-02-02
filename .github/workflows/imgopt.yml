@@ -10,7 +10,9 @@ on:
       - 'hud-resources/**.jpeg'
       - 'hud-resources/**.png'
       - 'hud-resources/**.webp'
-
+concurrency:
+  group: ${{ github.repository }}
+  cancel-in-progress: true
 jobs:
   imgopt:
     name: Optimize Images
@@ -24,7 +26,7 @@ jobs:
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
-          WEBP_OUTPUT="$(webpc -q=80 --r)"
+          WEBP_OUTPUT="$(webpc -q=75 --r)"
           echo "$WEBP_OUTPUT" | grep -q "NOT convert" | ( ! grep -q "Converted files count: 0" )
           echo "$WEBP_OUTPUT"
       - name: Compress Images

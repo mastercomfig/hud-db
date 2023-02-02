@@ -1,12 +1,55 @@
 {
   "name": "rayshud",
-  "author": "raysfire & CriticalFlaw",
+  "author": "raysfire",
+  "contributors": [
+    "CriticalFlaw"
+  ],
   "social": {
     "steam_profile": "76561198041892999",
     "steam_group": "rayshud",
     "twitter": "CriticalFlaw_",
     "discord": "hTdtK9vBhE",
     "album": "https://imgur.com/a/vsxPG"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/raysfire/rayshud",
   "hash": "e92807d14639d1c3c25e6e374354f035d2d58e71",

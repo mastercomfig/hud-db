@@ -5,6 +5,42 @@
     "steam_group": "ahud",
     "album": "https://imgur.com/a/569GH"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
+  },
   "repo": "https://github.com/n0kk/ahud",
   "hash": "419f0b4bcfd5c086d35525ec24558b6bdb01f587",
   "resources": [

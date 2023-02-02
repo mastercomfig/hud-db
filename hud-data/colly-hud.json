@@ -1,9 +1,37 @@
 {
   "name": "Colly Hud",
   "author": "Colly",
-  "contributors": ["omnibombulator"],
+  "contributors": [
+    "omnibombulator"
+  ],
   "social": {
     "album": "https://ibb.co/album/dwngXw"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl",
+      "plr",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9"
+    ]
   },
   "repo": "https://github.com/omnibombulator/collyhud",
   "hash": "1084699a883c75313f4f2a102b8d8058ec472756",
