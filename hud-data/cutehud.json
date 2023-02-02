@@ -2,11 +2,57 @@
   "name": "cutehud",
   "author": "quickkennedy",
   "social": {
+    "steam_profile": "76561198304536343",
+    "steam_group": "quakehud",
     "album": "https://imgur.com/a/kaAQlTJ"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/quickkennedy/cutehud",
   "hash": "1d7603ad29f55a34602f08d796764514c49ad42a",
   "resources": [
-    "cutehud-banner"
+    "cutehud-banner",
+    "mainmenu",
+    "mainview",
+    "loadout",
+    "mainview2"
   ]
 }

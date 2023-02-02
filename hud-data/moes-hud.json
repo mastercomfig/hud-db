@@ -5,6 +5,42 @@
     "steam_group": "MoesHUD",
     "album": "https://imgur.com/a/Hjcto"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ]
+  },
   "repo": "https://github.com/MoeLesting/MoesHUD",
   "hash": "95a3a6107c178eb46756b0758e264ccf34cd8cf9",
   "resources": [

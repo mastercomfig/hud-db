@@ -8,7 +8,7 @@
   },
   "repo": "https://github.com/TheStaticVoid/VoidHUD2.0",
   "hash": "8165dbad858243a90ec7c8a35ea6bd701f5738e1",
-  "parent": "void-hud-2.0",
+  "parent": "voidhud",
   "resources": [
     "voidhud-classic-banner",
     "main-ui",

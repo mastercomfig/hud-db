@@ -1,12 +1,47 @@
 {
   "name": "BX Hud",
-  "author": "Chippy - ColdBalls",
+  "author": "Chippy",
   "contributors": [
     "Hypnotize"
   ],
   "social": {
     "steam_group": "bxhud-cb",
     "album": "https://imgur.com/a/gGOow"
+  },
+  "flags": [
+    "fonts",
+    "scoreboards",
+    "crosshairs"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/Hypnootize/BX-Hud",
   "hash": "e635b80100b6996e24891a268c613332c76cee27",
