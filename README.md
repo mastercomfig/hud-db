@@ -38,10 +38,11 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
   "traits": { // Optional structured mapping of values. Search syntax: [key]:x,y
-    "os": ["windows", "mac", "linux"],
-    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center", "corners", "default"]
+    "os": ["windows", "mac", "linux"], // What OS's does the HUD support
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"], // What gamemodes does the HUD customize for
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"], // What aspect ratios does the HUD support
+    "position": ["center", "corners", "default"], // What position is the ammo/health in the HUD (multiple customization options can be available)
+    "lang": ["en"] // What languages does the HUD support (if it has custom language files)
   },
   "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tags:x,y
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
