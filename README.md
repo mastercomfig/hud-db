@@ -31,6 +31,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "release_date": "2009-12-31", // Initial release date of the HUD
   "social": { // Optional mapping of social links
+    "support": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
