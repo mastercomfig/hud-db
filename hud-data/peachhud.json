@@ -12,7 +12,8 @@
     "os": ["windows", "mac", "linux"],
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
     "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9"],
-    "position": ["center", "corners"]
+    "position": ["center", "corners"],
+    "lang": ["en"]
   },
   "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/PeachHUD",
