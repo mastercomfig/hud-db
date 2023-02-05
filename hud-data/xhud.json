@@ -10,11 +10,12 @@
     "os": ["windows"],
     "gamemode": ["tournament", "comp", "ad", "ctf", "cp", "halloween", "koth", "pl", "plr", "pd", "sd", "tc"],
     "res": ["4/3", "5/4", "16/10", "16/9"],
-    "position": ["center"]
+    "position": ["center"],
+    "lang": ["en"]
   },
   "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "126615ccfd3b9386a6fe9d82b6df455fdad2b926",
+  "hash": "59800bd820778b37521e4a71e43f1aaf0427ee44",
   "prerelease": true,
   "resources": [
     "xhud-banner",
