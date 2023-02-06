@@ -1,6 +1,7 @@
 {
   "name": "budhud",
   "author": "Whisker",
+  "releaseDate": "2014-06-28",
   "social": {
     "steam_profile": "76561197988447469",
     "steam_group": "budhud",
@@ -12,11 +13,13 @@
   "traits": {
     "os": ["windows", "mac", "linux"],
     "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["center"],
+    "lang": ["zh","en","fr","de","it","pt","ro","ru","es"]
   },
   "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
-  "hash": "ec8d0cbea886ebc6dac695584af831c8a20fbb67",
+  "hash": "9e0bccabc26189d78e75657cf1d1f2ae8fb48f5a",
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",
