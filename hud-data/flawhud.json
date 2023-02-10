@@ -9,14 +9,9 @@
     "album": "https://imgur.com/a/0whDjXr"
   },
   "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
+    "customization",
     "crosshairs",
-    "minmode",
-    "streamer-mode",
-    "materials",
-    "customization"
+    "streamer-mode"
   ],
   "traits": {
     "os": [
