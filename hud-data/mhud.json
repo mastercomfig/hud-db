@@ -1,6 +1,36 @@
 {
   "name": "mhud",
   "author": "Marblr",
+  "social": {
+    "album": "https://imgur.com/a/KVHaw"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "16/9"
+    ]
+  },
   "repo": "https://github.com/Marblr/mHUD",
   "hash": "ed89a10f71b8e82ad181558cfa4a5700229f3786",
   "resources": [

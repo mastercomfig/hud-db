@@ -1,8 +1,10 @@
 {
   "name": "Lion Hud",
-  "author": "Jofre, Bara Godzilla",
+  "author": "Bara Godzilla",
+  "contributors": ["Jofre"],
   "social": {
-    "steam_group": "lionhud"
+    "steam_group": "lionhud",
+    "album": "https://imgur.com/a/ilPM9ne"
   },
   "repo": "https://github.com/Jofre-Problem/lionHUD",
   "hash": "6e68c3df53f431805f970ec5d06a0cb6ab479c94",

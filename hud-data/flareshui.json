@@ -1,6 +1,9 @@
 {
   "name": "flareshUI",
   "author": "flareshmoney",
+  "social": {
+    "album": "https://imgur.com/a/G66bOBw"
+  },
   "repo": "https://github.com/flaresmoney/flareshUI-GREEN",
   "hash": "1024e12f3075f4cf285ebb341ec61a2a94fa9778",
   "resources": [

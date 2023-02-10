@@ -2,7 +2,45 @@
   "name": "Ciba Hud",
   "author": "CibaCity",
   "social": {
-    "steam_group": "cibascity"
+    "steam_group": "cibascity",
+    "album": "https://imgur.com/a/OoX4yAz"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/CibaCity/cibahud",
   "hash": "b71d09692301c33cb5e83db8e3e0c49060fcdfc4",

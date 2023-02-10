@@ -1,13 +1,29 @@
 {
-  "name": "xhud",
+  "name": "Xhud",
   "author": "Peaches",
   "social": {
-    "steam_profile": 76561198406266064,
+    "steam_profile": "76561198406266064",
      "discord": "HyZRVtp"
   },
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials", "customization"],
+  "traits": {
+    "os": ["windows"],
+    "gamemode": ["tournament", "comp", "ad", "ctf", "cp", "halloween", "koth", "pl", "plr", "pd", "sd", "tc"],
+    "res": ["4/3", "5/4", "16/10", "16/9"],
+    "position": ["center"],
+    "lang": ["en"]
+  },
+  "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "7a8f87cbd50284d629f33f0bb33e0b71f819927c",
+  "hash": "859fd7a5f36857155114644916ed280c66fc84d7",
+  "prerelease": true,
   "resources": [
-    "xhud-banner"
+    "xhud-banner",
+    "ingame",
+    "ingame-low",
+    "scoreboard",
+    "loadout",
+    "stats",
+    "customizations"
   ]
 }

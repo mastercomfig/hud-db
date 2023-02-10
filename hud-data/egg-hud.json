@@ -1,8 +1,12 @@
 {
   "name": "Egg Hud",
-  "author": "Hypnotize, eggnormous",
+  "author": "eggnormous",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
-    "steam_group": "eggHUD"
+    "steam_group": "eggHUD",
+    "album": "https://imgur.com/a/LC3No"
   },
   "repo": "https://github.com/Hypnootize/Egg-Hud",
   "hash": "ca1f7bedd4b305cd68e88b4213f3485a2a92794a",

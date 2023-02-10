@@ -2,7 +2,48 @@
   "name": "Biscotti Hud",
   "author": "Medico di Biscotti",
   "social": {
-    "steam_group": "biscottiHUD"
+    "steam_group": "biscottiHUD",
+    "album": "https://imgur.com/a/4ipiu"
+  },
+  "flags": [
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/MedicodiBiscotti/biscottiHUD",
   "hash": "e91749c36aa03f492a587ce7905bdd7e2436d9f4",

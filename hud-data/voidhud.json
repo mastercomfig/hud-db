@@ -1,0 +1,63 @@
+{
+  "name": "voidHUD",
+  "author": "static",
+  "social": {
+    "steam_group": "voidhud",
+    "discord": "https://discord.com/invite/NtQ3FsT",
+    "album": "https://imgur.com/a/VyZp5BV"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "repo": "https://github.com/cjrose/voidHUD",
+  "hash": "8a2ffd04ade01b66952dfbe98e8273dd629a313a",
+  "resources": [
+    "voidhud-banner",
+    "title-screen",
+    "main-ui",
+    "overheal",
+    "effect-meters",
+    "demo-stickies",
+    "target-id",
+    "scoreboard",
+    "loadout"
+  ]
+}

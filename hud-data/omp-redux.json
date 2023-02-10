@@ -1,11 +1,16 @@
 {
   "name": "OMP Redux",
-  "author": "Hypnotize, Flatline",
+  "author": "Flatline",
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
-    "steam_group": "omphudredux"
+    "steam_group": "omphudredux",
+    "album": "https://imgur.com/a/XCNB1"
   },
   "repo": "https://github.com/Hypnootize/OMP-Hud-Redux",
   "hash": "f80e595605a3a1c334a62d7438005e0d833b870b",
+  "parent": "omp-hud",
   "resources": [
     "omp-redux-banner"
   ]

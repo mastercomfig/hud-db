@@ -1,0 +1,60 @@
+{
+  "name": "boredHUD",
+  "author": "static",
+  "social": {
+    "steam_group": "boredhud",
+    "discord": "https://discord.com/invite/NtQ3FsT",
+    "album": "https://imgur.com/a/NcGTw"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "repo": "https://github.com/TheStaticVoid/boredHUD",
+  "hash": "e7f836107561327436aa9ed9309ff5066c2bc430",
+  "resources": [
+    "bored-hud-banner",
+    "main-ui",
+    "low-health-ammo",
+    "overheal",
+    "damage-killfeed",
+    "effect-meters",
+    "med-ui",
+    "target-id-vacc",
+    "class-select",
+    "scoreboard",
+    "mvm"
+  ]
+}

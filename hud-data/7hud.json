@@ -2,8 +2,46 @@
   "name": "7HUD",
   "author": "sevin",
   "social": {
-    "steam_profile": 76561198056804798,
-    "steam_group": "7HUD"
+    "steam_profile": "76561198056804798",
+    "steam_group": "7HUD",
+    "album": "https://imgur.com/a/yluqH"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9"
+    ]
   },
   "repo": "https://github.com/Sevin7/7hud",
   "hash": "474914eceb324d77296831824e4cc7dc484d0a1f",

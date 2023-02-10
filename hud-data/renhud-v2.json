@@ -2,11 +2,19 @@
   "name": "RenHUD V2",
   "author": "LunaXCBN",
   "social": {
-    "discord": "jcevymcSh6"
+    "steam_profile": "76561199273774208",
+    "steam_group": "RenHUD",
+    "twitter": "SleeepyLuna",
+    "discord": "jcevymcSh6",
+    "album": "https://imgur.com/a/YiuK7Me"
+  },
+  "flags": ["fonts", "menus", "crosshairs", "minmode", "materials", "customization"],
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": ["ctf", "cp", "koth", "mvm", "pl", "plr"],
+    "res": ["4/3", "16/10", "16/9"]
   },
   "repo": "https://github.com/LunaXCBN/RenHud-V2",
-  "hash": "6c46d9783347682b03b5f2ee0032333315df6ae9",
-  "resources": [
-    "renhud-v2-banner"
-  ]
+  "hash": "a1a817ddbe60a026626cd8075fcaabac10c66932",
+  "resources": ["main-menu", "loadout", "game", "scoreboard", "backpack", "stats"]
 }

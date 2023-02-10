@@ -1,8 +1,15 @@
 {
   "name": "Grape Default Hud",
-  "author": "Hypnotize, Grape",
+  "author": "Grape",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/m2nyT"
+  },
   "repo": "https://github.com/Hypnootize/Grape-Default-Hud",
   "hash": "0768812a086044ddff3ecb34d4ce7fb8cecab4b8",
+  "parent": "grape-hud",
   "resources": [
     "grape-default-hud-banner"
   ]

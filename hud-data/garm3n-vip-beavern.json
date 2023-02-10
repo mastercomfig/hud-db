@@ -1,8 +1,15 @@
 {
   "name": "Garm3n VIP-Beavern",
-  "author": "Hypnotize, Garm3n",
+  "author": "Garm3n",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/tK9N1"
+  },
   "repo": "https://github.com/Hypnootize/Garm3n-VIP-Beavern",
   "hash": "759b4c0a14de2b2347f20654a6b2fd6620041552",
+  "parent": "quakehud",
   "resources": [
     "garm3n-vip-beavern-banner"
   ]

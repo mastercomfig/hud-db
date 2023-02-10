@@ -1,13 +1,63 @@
 {
-  "name": "StaticHUD",
-  "author": "StaticVoid",
+  "name": "staticHUD",
+  "author": "static",
   "social": {
     "steam_group": "staticHUD",
-    "discord": "https://discord.com/invite/NtQ3FsT"
+    "discord": "https://discord.com/invite/NtQ3FsT",
+    "album": "https://imgur.com/a/VGeskuf"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/cjrose/staticHUD",
   "hash": "8f1022ffac18d5ca7d11b641211e2e61601cab68",
   "resources": [
-    "statichud-banner"
+    "statichud-banner",
+    "main-ui",
+    "low-health-ammo",
+    "overheal",
+    "effect-meter",
+    "target-id",
+    "scoreboard",
+    "class-select",
+    "disguise-kit",
+    "tournament",
+    "minmode",
+    "inventory"
   ]
 }

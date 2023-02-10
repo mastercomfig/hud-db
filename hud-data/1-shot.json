@@ -1,8 +1,12 @@
 {
   "name": "1 Shot",
   "author": "Hypnotize",
+  "social": {
+    "album": "https://imgur.com/a/HieQg"
+  },
   "repo": "https://github.com/Hypnootize/1-Shot-Hud",
   "hash": "b643330e09748a1224cdc80aa9208651e99f0a6a",
+  "parent": "m0rehud",
   "resources": [
     "1-shot-banner"
   ]

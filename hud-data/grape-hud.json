@@ -1,6 +1,12 @@
 {
   "name": "Grape Hud",
-  "author": "Hypnotize, Grape",
+  "author": "Grape",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/hDF9j"
+  },
   "repo": "https://github.com/Hypnootize/Grape-Hud",
   "hash": "fa2d300cdd402a979d30f911becde90d6f7f9f50",
   "resources": [

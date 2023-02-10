@@ -1,6 +1,12 @@
 {
   "name": "Evolve Hud",
-  "author": "Hypnotize, Eevove",
+  "author": "Eevove",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/C9Ij8"
+  },
   "repo": "https://github.com/Hypnootize/Evolve-Hud",
   "hash": "a5c7e157925c4871403b371d7d76f8f56dc12a5d",
   "resources": [

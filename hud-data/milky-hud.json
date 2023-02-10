@@ -1,6 +1,12 @@
 {
   "name": "Milky Hud",
-  "author": "Hypnotize, Revilo",
+  "author": "Revilo",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/d74Up"
+  },
   "repo": "https://github.com/Hypnootize/Milky-Hud",
   "hash": "4c1ddab412679f41e06e403e32758199bc063923",
   "resources": [

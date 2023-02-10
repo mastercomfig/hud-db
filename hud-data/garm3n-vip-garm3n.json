@@ -1,8 +1,15 @@
 {
   "name": "Garm3n VIP-Garm3n",
-  "author": "Hypnotize, Garm3n",
+  "author": "Garm3n",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/epthTnV"
+  },
   "repo": "https://github.com/Hypnootize/Garm3n-VIP-Garm3n",
   "hash": "66a32786316be26f2a2083bfcb7933fb7e9eab5e",
+  "parent": "quakehud",
   "resources": [
     "garm3n-vip-garm3n-banner"
   ]

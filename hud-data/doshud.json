@@ -1,6 +1,34 @@
 {
   "name": "dosHUD",
   "author": "Lavenfurr",
+  "social": {
+    "album": "https://github.com/LavenderTheGreat/dosHUD/issues/5"
+  },
+  "flags": [
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
+  },
   "repo": "https://github.com/LavenderTheGreat/dosHUD",
   "hash": "569f4207b5ed155174415fa19fc4c633c3f9e8d4",
   "resources": [

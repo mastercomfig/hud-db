@@ -1,13 +1,29 @@
 {
   "name": "PeachHUD",
   "author": "Peaches",
+  "contributors": ["Hypnotize"],
   "social": {
-    "steam_profile": 76561198406266064,
-     "discord": "HyZRVtp"
+    "steam_profile": "76561198406266064",
+    "discord": "HyZRVtp",
+    "album": "https://imgur.com/a/j6d9TjP"
   },
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"],
+  "traits": {
+    "os": ["windows", "mac", "linux"],
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
+    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9"],
+    "position": ["center", "corners"],
+    "lang": ["en"]
+  },
+  "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/PeachHUD",
-  "hash": "a51b48a89b7a96530bc3d9354b52b7b2ab095564",
+  "hash": "c4dd2c1fbc83cb52a531667caf71e4d2faa9e742",
   "resources": [
-    "PeachHUD-banner"
+    "PeachHUD-banner",
+    "ingame",
+    "ingame-low",
+    "scoreboard",
+    "loadout",
+    "darkmode"
   ]
 }

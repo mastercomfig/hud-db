@@ -1,9 +1,59 @@
 {
   "name": "SpaceHUD",
   "author": "Healing Sentry",
+  "social": {
+    "steam_profile": "76561198909394238",
+    "album": "https://imgur.com/a/qwvENZk"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "tags": [
+     "minimalist",
+     "simple"
+   ],
   "repo": "https://github.com/BingBongBonky/SpaceHud",
   "hash": "9c5f6ac772d24ba261a5b3ff3bf72c59049408da",
   "resources": [
-    "spacehud-banner"
+    "spacehud-01-mainpage",
+    "spacehud-02-menu"
   ]
 }

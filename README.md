@@ -4,9 +4,9 @@ Data repository tracking HUD metadata for comfig web
 
 ## How to use
 
-Fork this repo, and add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
+Fork this repo, make a new branch, and add your HUD to this repository with a pull request (PR), and it will be synced to comfig web.
 
-You can make subsequent PRs to update your HUD to a new version.
+You can make subsequent PRs in new branches to update your HUD to a new version.
 
 File hosting and version history is required to be on GitHub, for enhanced hosting and version approval.
 
@@ -27,15 +27,31 @@ This is the main data source for a HUD. This defines the HUD and its properties.
 ```jsonc
 {
   "name": "My HUD", // Display name of your HUD
-  "author": "Cool person", // Display name of you, the creator
-  "social": {
-    "steam_profile": 76561191234567890, // Your SteamID64 (optional)
+  "author": "Cool person", // Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)
+  "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
+  "releaseDate": "2009-12-31", // Initial release date of the HUD (optional)
+  "social": { // Optional mapping of social links
+    "support": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
+    "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
-    "twitter": "Elon", // Your Twitter handle (optional)
-    "discord": "vanity-or-invite" // Your Discord invite code, not the full URL (optional)
+    "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
+    "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
+    "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
+  "traits": { // Optional structured mapping of values. Search syntax: [key]:x,y
+    "os": ["windows", "mac", "linux"], // What OS's does the HUD support
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"], // What gamemodes does the HUD customize for
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"], // What aspect ratios does the HUD support
+    "position": ["center", "corners", "default"], // What position is the ammo/health in the HUD (multiple customization options can be available)
+    "lang": ["en"] // What languages does the HUD support (if it has custom language files)
+  },
+  "tags": ["minimal", "monochrome"], // A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'. (optional) Search syntax: tags:x,y
   "repo": "https://github.com/cool-person/myhud", // GitHub repo web URL
   "hash": "84c64d403a650b3ae4793c9d32e01b3383445740", // Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)
+  "prerelease": true, // If this is a prerelease/WIP HUD
+  "verified": true, // For internal use only to enable some functionality. Do not set this yourself.
+  "parent": "their-hud", // If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.
   "resources": [ // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
     "myhud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
@@ -51,10 +67,11 @@ Here's an easy to copy sample for writing your own data file:
   "name": "",
   "author": "",
   "social": {
-    "steam_profile": 0,
+    "steam_profile": "",
     "steam_group": "",
     "twitter": "",
-    "discord": ""
+    "discord": "",
+    "album": ""
   },
   "repo": "",
   "hash": "",
