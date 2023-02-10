@@ -16,7 +16,7 @@
 </p>
 
 <!-- ACKNOWLEDGEMENTS -->
-### Acknowledgements
+#### Acknowledgements
 * N0kk and Wiethoofd - **HUD Development Help**
 * Yotts, Cat, SleepingBear and Strife - **Playtesting**
 * sevin - **Main Menu Backgrounds**
@@ -24,10 +24,10 @@
 * pazer and dalegaard - **CastingEssentials**
 * clovervidia - **Competitive Closed Captions**
 * uberchain - **Soldier Tribute Image**
-* Metisz - **Updated Team Fortress Logo**
+* Metisz - **Team Fortress Logo**
 
 <!-- SPONSORS -->
-### Sponsors
+#### Sponsors
 * Admiral Bread Crumbs
 * berry-jordan
 * ca7x3
@@ -42,6 +42,6 @@
 * Zeesastrous
 
 <!-- LOCALIZERS -->
-### Localizers
+#### Localizers
 * Tiagoquix - **Brazilian Portuguese**
 * DimitriDR - **French**
