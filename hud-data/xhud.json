@@ -2,6 +2,7 @@
   "name": "Xhud",
   "author": "Peaches",
   "social": {
+    "support": "https://ko-fi.com/peachestv",
     "steam_profile": "76561198406266064",
      "discord": "HyZRVtp"
   },
@@ -15,7 +16,7 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "859fd7a5f36857155114644916ed280c66fc84d7",
+  "hash": "3d30e9d288596fbfdc12c00f15d7a9114795e83d",
   "prerelease": true,
   "resources": [
     "xhud-banner",
