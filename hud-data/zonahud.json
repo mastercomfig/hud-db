@@ -13,10 +13,6 @@
   "repo": "https://github.com/tf2huds/zonahud",
   "hash": "7f83695e65b7199b546af9fa632bb199ac2f7016",
   "resources": [
-    "zonahud-banner",
-    "zonahud-menu",
-    "zonahud-class",
-    "zonahud-main",
-    "zonahud-mvm"
+    "zonahud-banner"
   ]
 }
