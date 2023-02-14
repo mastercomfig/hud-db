@@ -9,11 +9,11 @@ A TF2 HUD designed by Peaches to serve as an environment to develop innovative i
 
 ### Please do not commission others to edit my HUD. Others are welcome to edit the HUD voluntarily, but others should not profit off my HUD.
 
-# Credits
+# CREDITS
 **Framework for materials, icons, and general color scheme:** Hypnotize's [various HUDs](https://github.com/Hypnootize)  
 **Inspiration for optimization and more efficient code formatting:** Hypnotize's [*LightHud*](https://github.com/Hypnootize/lighthud)  
+**Technical TF2 insight & code contributions:** Horse and [their projects](https://github.com/a-horsey)  
 **Source of many innovative ideas:** JarateKing's [HUD documentation](https://github.com/JarateKing)  
 **Closed caption framework:** Clovervidia's [custom captions](https://github.com/clovervidia/clovervidias-captions)  
-**Technical TF2 insight:** Horse [and their projects](https://github.com/a-horsey)  
 **Xhud logo creation:** NuclearCore  
 **Support & testing:** The unsponsored [*Sponsored by Xhud*](https://rgl.gg/Public/Team.aspx?t=10432&r=40) roster
