@@ -1,0 +1,12 @@
+{
+  "name": "InsomniaHUD",
+  "author": "Lead",
+  "social": {
+    "album": "https://github.com/p3tr1ch0r/insomniaHUD#screenshots"
+  },
+  "repo": "https://github.com/p3tr1ch0r/insomniaHUD",
+  "hash": "da9ee16bc6668bc2aa05cd5b55e06dafb85f4f37",
+  "resources": [
+    "insomniahud-banner"
+  ]
+}
