@@ -82,6 +82,18 @@ Here's an easy to copy sample for writing your own data file:
 }
 ```
 
+#### How to retrieve the hash
+
+Your hash is a commit SHA ID from your repo, pointing to the latest commit you want released to HUD users.
+
+You can either copy it directly from GitHub commit history:
+
+![GitHub commit history copy full SHA](https://media.discordapp.net/attachments/1068126772811534417/1070118137074302976/image.png)
+
+Or you can get it from the GitHub commit's page:
+
+![Annotated GitHub commit page highlighting where the hash is shown](https://media.discordapp.net/attachments/1068126772811534417/1070118137296584835/image.png)
+
 ### HUD Pages
 
 This is Markdown displayed in the description box of your HUD page. Similarly to the other files, you use your HUD ID as the name for your `.md` file.
@@ -120,6 +132,8 @@ hud-resouces/
 ```
 
 You can upload the images in any format in your PR. A bot will automatically transform them to the correct format upon merge, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
+
+You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful tool for converting your images to WebP. This will also give you more control over the conversion and quaality of your images.
 
 There is no hard limit for how many resources you have, but an ideal soft limit would be around 10 to 20 images. This is to ensure that the repo doesn't become too bloated as more HUDs are added.
 
