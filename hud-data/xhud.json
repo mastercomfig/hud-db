@@ -4,17 +4,50 @@
   "social": {
     "support": "https://ko-fi.com/peachestv",
     "steam_profile": "76561198406266064",
-     "discord": "HyZRVtp"
+    "discord": "HyZRVtp"
   },
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials", "customization"],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows"],
-    "gamemode": ["tournament", "comp", "ad", "ctf", "cp", "halloween", "koth", "pl", "plr", "pd", "sd", "tc"],
-    "res": ["4/3", "5/4", "16/10", "16/9"],
-    "position": ["center"],
-    "lang": ["en"]
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "pl",
+      "plr",
+      "pd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/PapaPeach/xhud",
   "hash": "98bc3364b3c10c43f92105bfd152db56c5572b61",
   "prerelease": true,

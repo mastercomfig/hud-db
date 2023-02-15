@@ -10,15 +10,64 @@
     "discord": "TkxNKU2",
     "album": "https://imgur.com/a/aJ1K5"
   },
-  "flags": ["streamer-mode", "crosshairs", "customization"],
+  "flags": [
+    "streamer-mode",
+    "crosshairs",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
-    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center"],
-    "lang": ["zh","en","fr","de","it","pt","ro","ru","es"]
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ro",
+      "ru",
+      "es"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/rbjaxter/budhud",
   "hash": "9e0bccabc26189d78e75657cf1d1f2ae8fb48f5a",
   "resources": [

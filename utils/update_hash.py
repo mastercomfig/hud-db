@@ -16,3 +16,4 @@ for hud_id, hud in huds.items():
 for hud_id, hud in huds.items():
   with open(data / f"{hud_id}.json", "w") as file:
     json.dump(hud, file, indent=2)
+    file.write('\n')
