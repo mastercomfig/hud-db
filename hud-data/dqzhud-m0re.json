@@ -1,0 +1,10 @@
+{
+  "name": "dqzhud m0re",
+  "author": "dqz",
+  "repo": "https://github.com/irodionr/dqz_hud",
+  "hash": "6f394e56b16926c7eab79822942682f1030c8150",
+  "parent": "dqzhud",
+  "resources": [
+    "dqzhud-m0re-banner"
+  ]
+}
