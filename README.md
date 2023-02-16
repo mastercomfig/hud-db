@@ -8,7 +8,7 @@ Fork this repo, make a new branch, and add your HUD to this repository with a pu
 
 You can make subsequent PRs in new branches to update your HUD to a new version.
 
-File hosting for your HUD is required to be on GitHub, for enhanced hosting and version approval.
+Your HUD is required to be on GitHub, for enhanced file hosting and version approval.
 
 ## DB structure
 
