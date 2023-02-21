@@ -8,7 +8,7 @@ data = Path("hud-data/")
 
 if len(sys.argv) > 1:
   globs = []
-  args = str(sys.argv[1:]).split()
+  args = str(" ".join(sys.argv[1:])).split()
   for arg in args:
     if arg.endswith(".json") or arg == "*.json":
       globs.append(arg)
