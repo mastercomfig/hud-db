@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       huds:
-        description: 'HUDs ID(s), space separated'
+        description: 'HUD ID(s), space separated'
         required: true
         type: string
 concurrency:
@@ -21,5 +21,7 @@ jobs:
           python utils/update_hash.py ${{ github.event.inputs.huds }}
       - name: Commit
         run: |
-          git commit -am "HUD update: ${{ github.event.inputs.huds }}" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || true
-          git push || true
+          git config --global user.name "github-actions[bot]"
+          git config --global user.name "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "HUD update: ${{ github.event.inputs.huds }}" || true
+          git push
