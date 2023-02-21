@@ -3,7 +3,8 @@
   "author": "Lead",
   "social": {
     "album": "https://github.com/p3tr1ch0r/insomniaHUD#screenshots",
-    "steam_profile": "https://steamcommunity.com/profiles/76561199066986123"
+    "steam_profile": "76561199066986123",
+    "discord": "yADdaAPvc4"
   },
   "flags": [
     "fonts",
@@ -43,12 +44,12 @@
     ]
   },
   "tags": [
-    "minimal",
     "monochrome",
+    "minimal",
     "customizable"
   ],
   "repo": "https://github.com/p3tr1ch0r/insomniaHUD",
-  "hash": "f876f002e59df7a34b40f73e6b0d6ab4bd3aa4f9",
+  "hash": "7b34e97693ac1093e51493909901c0e3dc344be6",
   "prerelease": true,
   "resources": [
     "insomniahud-banner",
