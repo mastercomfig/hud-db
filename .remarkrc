@@ -8,15 +8,11 @@
     "remark-lint-checkbox-content-indent",
     "remark-lint-definition-case",
     "remark-lint-definition-spacing",
-    ["remark-lint-emphasis-marker", "_"],
-    "remark-lint-fenced-code-flag",
     ["remark-lint-fenced-code-marker", "`"],
     "remark-lint-file-extension",
     "remark-lint-final-definition",
     "remark-lint-final-newline",
-    "remark-lint-first-heading-level",
     "remark-lint-hard-break-spaces",
-    "remark-lint-heading-increment",
     ["remark-lint-heading-style", "atx"],
     "remark-lint-heading-whitespace",
     ["remark-lint-linebreak-style", "unix"],
@@ -30,7 +26,6 @@
     "remark-lint-no-duplicate-defined-urls",
     "remark-lint-no-duplicate-definitions",
     "remark-lint-no-duplicate-headings",
-    "remark-lint-no-emphasis-as-heading",
     "remark-lint-no-empty-sections",
     "remark-lint-no-empty-url",
     "remark-lint-no-file-name-articles",
@@ -41,7 +36,6 @@
     "remark-lint-no-heading-like-paragraph",
     "remark-lint-no-inline-padding",
     "remark-lint-no-literal-urls",
-    "remark-lint-no-multiple-toplevel-headings",
     "remark-lint-no-reference-like-url",
     "remark-lint-no-shell-dollars",
     "remark-lint-no-shortcut-reference-image",
@@ -56,10 +50,8 @@
     ["remark-lint-ordered-list-marker-style", "."],
     "remark-lint-ordered-list-marker-value",
     ["remark-lint-rule-style", "---"],
-    ["remark-lint-strong-marker", "*"],
     ["remark-lint-table-cell-padding", "padded"],
     "remark-lint-table-pipe-alignment",
-    "remark-lint-table-pipes",
-    ["remark-lint-unordered-list-marker-style", "*"]
+    "remark-lint-table-pipes"
   ]
 }

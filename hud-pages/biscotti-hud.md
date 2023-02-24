@@ -13,8 +13,8 @@ All the screenshots except one are in cl\_hud\_minmode 1, but it also supports c
   
 Seriously, it would mean the world to me if you use the HUD seeing as I put a lot of time and effort into. Lots of late nights updating :) This is my baby.
 
-
 # Credits
+
 omnibombulator - notoHUD - inspiration and know-how for squared HP.  
 sevin - 7HUD - inspiration for the box background for HP  
 BroeselHUD for the initial inspiration for the first draft of the HUD.  
@@ -24,6 +24,7 @@ Whiskerbiscuit's budhud - inspiration for the main menu and incognito mode.
 clovervidia for making the original Close Captions
 
 # Special Thanks
+
 I'd like to thank all the amazing HUD creators who inspire me to do better.  
 I'd like to thank people who have reported bugs that I completely missed.  
 Most importantly, I'd like to thank all the people who use this HUD and appreciate all the work I've put into it.

@@ -1,11 +1,13 @@
 <!-- TITLE -->
 # KBNHud
+
 <p align="center">
     An ultra-minimal HUD designed originally for my needs in competitive play. Now just very old but still rock-solid.
 </p>
 
 <!-- EXTRA LINKS -->
 ### Links
+
 * **[How to install and set up KBNHud](https://github.com/Jotunn/kbnhud/wiki/Setup)**
 * **[How to customize KBNHud](https://github.com/Jotunn/kbnhud/wiki/Customization)**
 * **[CriticalFlaw's HUD Editor, the easiest way to install and customize KBNHud](http://www.criticalflaw.ca/TF2HUD.Editor/)**
@@ -15,24 +17,27 @@
 
 <!-- OS COMPAT -->
 ### OS Compatibility
+
 * Windows
 * Mac OS
 * Linux (KBNHud is developed in Linux)
 
 <!-- CREDITS -->
 ### Credits
+
 * **HUD BASE:** KNHUD, which was based on m0rehud
 * **CROSSHAIRS:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n; Fixed for Linux by Jotunn
 * **STREAMER MODE:** Whisker/budhud
 * **KN-EDIT MODE:** Old KNHUD mods, name from Hypnotize
 * **MENU VTFS:** extracrispy & Rawsor
-* **MAIN MENU BACKGROUND, BANNERS:** Alena Aenami, via her [ArtStation](https://aenamiart.artstation.com/). The piece used is called [Stardust](https://aenamiart.artstation.com/projects/4Xa124).
+* **MAIN MENU BACKGROUND, BANNERS:** Alena Aenami, via her [ArtStation](https://www.artstation.com/aenamiart). The piece used is called [Stardust](https://www.artstation.com/artwork/4Xa124).
 * **HITMARKERS:** Originally written by Quartz, updated versions by Hypnotize
 * **CLOSED CAPTIONS:** Clovervidia
 
 <!-- SPECIAL THANKS -->
 ### Special Thanks
-Thanks to: Chippy (for creating KNHUD), Quartz (for spending months helping me get the hang of this), Sinders (for putting up with my annoying self for years upon years), Garm3n, raysfire, OMP, [Hypnotize](https://github.com/Hypnootize), and the [HUDS.TF Discord server](http://discord.huds.tf/) crew for many many HUD elements and developement help. Major shoutout to Sunflower for giving me some great ideas during development, along with many others who helped me in closed testing of v5.
+
+Thanks to: Chippy (for creating KNHUD), Quartz (for spending months helping me get the hang of this), Sinders (for putting up with my annoying self for years upon years), Garm3n, raysfire, OMP, [Hypnotize](https://github.com/Hypnootize), and the [HUDS.TF Discord server](https://discord.com/invite/Hz3Q4Z8) crew for many many HUD elements and developement help. Major shoutout to Sunflower for giving me some great ideas during development, along with many others who helped me in closed testing of v5.
 
 Thanks to [Clovervidia](https://steamcommunity.com/sharedfiles/filedetails/?id=167785751) for the closed captions.
 

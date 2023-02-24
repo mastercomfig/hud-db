@@ -17,6 +17,7 @@
 
 <!-- ACKNOWLEDGEMENTS -->
 ### Acknowledgements
+
 * omp - For motivating me to start making my own hud, occasional reference, and inspiration.
 * m0re - Inspiration, occasional reference.
 * povohat - creator of PVHUD, inspiration, occasional reference.

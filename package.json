@@ -4,12 +4,12 @@
   "description": "mastercomfig JS tooling for hud-db",
   "main": "index.js",
   "directories": {
-    "pages": "pages"
+    "pages": "hud-pages"
   },
   "scripts": {
-    "lint": "remark .",
-    "checklinks": "remark . --use remark-lint-no-dead-urls",
-    "prose": "remark . --use remark-lint-write-good"
+    "lint": "remark hud-pages",
+    "checklinks": "remark hud-pages --use remark-lint-no-dead-urls",
+    "prose": "remark hud-pages --use remark-lint-write-good"
   },
   "repository": {
     "type": "git",
@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/mastercomfig/mastercomfig#readme",
   "devDependencies": {
-    "eslint": "^8.22.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
-    "eslint-plugin-react": "^7.30.1",
+    "eslint": "^8.34.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "remark-cli": "^11.0.0",
     "remark-lint": "^9.1.1",
@@ -40,15 +40,11 @@
     "remark-lint-checkbox-content-indent": "^4.1.1",
     "remark-lint-definition-case": "^3.1.1",
     "remark-lint-definition-spacing": "^3.1.1",
-    "remark-lint-emphasis-marker": "^3.1.1",
-    "remark-lint-fenced-code-flag": "^3.1.1",
     "remark-lint-fenced-code-marker": "^3.1.1",
     "remark-lint-file-extension": "^2.1.1",
     "remark-lint-final-definition": "^3.1.1",
     "remark-lint-final-newline": "^2.1.1",
-    "remark-lint-first-heading-level": "^3.1.1",
     "remark-lint-hard-break-spaces": "^3.1.1",
-    "remark-lint-heading-increment": "^3.1.1",
     "remark-lint-heading-style": "^3.1.1",
     "remark-lint-heading-whitespace": "^1.0.0",
     "remark-lint-linebreak-style": "^3.1.1",
@@ -63,7 +59,6 @@
     "remark-lint-no-duplicate-defined-urls": "^2.1.1",
     "remark-lint-no-duplicate-definitions": "^3.1.1",
     "remark-lint-no-duplicate-headings": "^3.1.1",
-    "remark-lint-no-emphasis-as-heading": "^3.1.1",
     "remark-lint-no-empty-sections": "^4.0.0",
     "remark-lint-no-empty-url": "^3.1.1",
     "remark-lint-no-file-name-articles": "^2.1.1",
@@ -74,14 +69,13 @@
     "remark-lint-no-heading-like-paragraph": "^3.1.1",
     "remark-lint-no-inline-padding": "^4.1.1",
     "remark-lint-no-literal-urls": "^3.1.1",
-    "remark-lint-no-multiple-toplevel-headings": "^3.1.1",
     "remark-lint-no-reference-like-url": "^3.1.1",
     "remark-lint-no-shell-dollars": "^3.1.1",
     "remark-lint-no-shortcut-reference-image": "^3.1.1",
     "remark-lint-no-shortcut-reference-link": "^3.1.1",
     "remark-lint-no-table-indentation": "^4.1.1",
     "remark-lint-no-tabs": "^3.1.1",
-    "remark-lint-no-undefined-references": "^4.1.1",
+    "remark-lint-no-undefined-references": "^4.2.0",
     "remark-lint-no-unneeded-full-reference-image": "^3.1.1",
     "remark-lint-no-unneeded-full-reference-link": "^3.1.1",
     "remark-lint-no-unused-definitions": "^3.1.1",
@@ -89,11 +83,9 @@
     "remark-lint-ordered-list-marker-style": "^3.1.1",
     "remark-lint-ordered-list-marker-value": "^3.1.1",
     "remark-lint-rule-style": "^3.1.1",
-    "remark-lint-strong-marker": "^3.1.1",
     "remark-lint-table-cell-padding": "^4.1.2",
     "remark-lint-table-pipe-alignment": "^3.1.1",
     "remark-lint-table-pipes": "^4.1.1",
-    "remark-lint-unordered-list-marker-style": "^3.1.1",
     "remark-lint-write-good": "^1.2.0"
   }
 }

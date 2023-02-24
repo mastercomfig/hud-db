@@ -19,8 +19,9 @@
 
 <!-- CREDITS -->
 ### Credits
+
 * **Inspiration:** m0re, Colly, Pigby, Jarateking, Omnibombulator, extracrispy, Whisker, Wiethoofd
-* **HUD Help & Feedback:** bLa, Zetos, qkeitoe, Jarateking, Whisker, Wiethoofd, my Italian buddies and the whole [HUDS.TF Discord](http://discord.huds.tf)
+* **HUD Help & Feedback:** bLa, Zetos, qkeitoe, Jarateking, Whisker, Wiethoofd, my Italian buddies and the whole [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)
 * **Crosshairs:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n
 * **Closed Captions:** clovervidia 
 * **Streamer Mode:** Whisker, Omnibombulator

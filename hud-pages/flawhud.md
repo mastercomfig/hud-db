@@ -17,6 +17,7 @@
 
 <!-- ACKNOWLEDGEMENTS -->
 #### Acknowledgements
+
 * N0kk and Wiethoofd - **HUD Development Help**
 * Yotts, Cat, SleepingBear and Strife - **Playtesting**
 * sevin - **Main Menu Backgrounds**
@@ -28,6 +29,7 @@
 
 <!-- SPONSORS -->
 #### Sponsors
+
 * Admiral Bread Crumbs
 * berry-jordan
 * ca7x3
@@ -43,5 +45,6 @@
 
 <!-- LOCALIZERS -->
 #### Localizers
+
 * Tiagoquix - **Brazilian Portuguese**
 * DimitriDR - **French**

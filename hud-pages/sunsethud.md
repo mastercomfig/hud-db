@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <p align="center">
   <p align="center">
-    A Very Bright TF2 Hud based on material design
+    A Very Bright TF2 HUD based on material design
     <br />
     <a href="https://imgur.com/a/cJYtauq">Screenshots</a>
     -
@@ -21,8 +21,9 @@
 
 <!-- CREDITS -->
 ### Credits
+
 * **Inspiration:** Colly, Pigby, Jarateking, Omnibombulator, extracrispy, Whisker
-* **HUD Help & Feedback:** JackyLegs, Jarateking, Peaches, Whisker, bLa, my Italian buddies and the whole [HUDS.TF Discord](http://discord.huds.tf)
+* **HUD Help & Feedback:** JackyLegs, Jarateking, Peaches, Whisker, bLa, my Italian buddies and the whole [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)
 * **Crosshairs:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n
 * **Closed Captions:** clovervidia 
 * **Streamer Mode:** Whisker, Omnibombulator

@@ -21,6 +21,7 @@
 
 <!-- CREDITS -->
 ### Credits
+
 * **General Inspiration:** Colly, Pigby, Omnibombulator, m0re
 * **Crosshairs & Hitmarkers:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n
 * **Closed Captions:** clovervidia 

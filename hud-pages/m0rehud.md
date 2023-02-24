@@ -19,6 +19,7 @@
 
 <!-- CREDITS -->
 ### Credits
+
 * **m0re:** Creator of m0rehud
 * **Wiethoofd:** Uber counter
 * **Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n:** HUD Crosshairs
