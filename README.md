@@ -37,6 +37,8 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
+    "youtube": "@TheCoolPerson", // Your YouTube channel (either channel/userhash partial URL, @username or channel name)
+    "twitch": "CoolPersonStreamer", // Your Twitch channel name
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y

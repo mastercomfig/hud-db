@@ -52,6 +52,14 @@
           "description": "Your Discord invite code, not the full URL",
           "type": "string"
         },
+        "youtube": {
+          "description": "Your YouTube channel (either /channel/id URL, @username or channel name)",
+          "type": "string"
+        },
+        "twitch": {
+          "description": "Your Twitch channel name",
+          "type": "string"
+        },
         "album": {
           "description": "Link to some Imgur album or other to provide more images",
           "type": "string"
@@ -161,27 +169,27 @@
       }
     },
     "repo": {
-      "description": "The URL to the repository where the HUD is hosted",
+      "description": "GitHub repo web URL",
       "type": "string"
     },
     "hash": {
-      "description": "The hash of the latest commit in the repository",
+      "description": "Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)",
       "type": "string"
     },
     "prerelease": {
-      "description": "Whether the HUD is a prerelease",
+      "description": "If this is a prerelease/WIP HUD",
       "type": "boolean"
     },
     "verified": {
-      "description": "Whether the HUD has been verified by a member of the  team",
+      "description": "For internal use only to enable some functionality. Do not set this yourself.",
       "type": "boolean"
     },
     "parent": {
-      "description": "The name of the HUD this HUD is based on",
+      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
       "type": "string"
     },
     "resources": {
-      "description": "A list of resources associated with the HUD",
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images",
       "type": "array",
       "items": {
         "type": "string"
