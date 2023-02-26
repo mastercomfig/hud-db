@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     Custom TF2 HUD focused on hexagon shapes
@@ -20,6 +21,7 @@
 </p>
 
 <!-- CREDITS -->
+
 ### Credits
 
 * **General Inspiration:** Colly, Pigby, Omnibombulator, m0re

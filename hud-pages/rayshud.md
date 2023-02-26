@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.
@@ -16,6 +17,7 @@
 </p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ### Acknowledgements
 
 * omp - For motivating me to start making my own hud, occasional reference, and inspiration.

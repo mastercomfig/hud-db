@@ -94,6 +94,16 @@ Or you can get it from the GitHub commit's page:
 
 ![Annotated GitHub commit page highlighting where the hash is shown](https://media.discordapp.net/attachments/1068126772811534417/1070118137296584835/image.png)
 
+### Update Helper
+
+If you would like to update your HUDs more efficiently, there is an Update HUDs workflow you can run under your repo's Actions tab.
+
+Click the `Run workflow` button and enter your HUD ID. You can also update multiple HUDs at once by separating each HUD ID by a space.
+
+This workflow will then get the latest commit from your HUD repo and automatically create a commit for you that you can PR.
+
+Note that you have to give Actions permission to modify your repository. Go to `Settings > Actions > General > Workflow Permissions` and select `Read and write permissions`.
+
 ### HUD Pages
 
 This is Markdown displayed in the description box of your HUD page. Similarly to the other files, you use your HUD ID as the name for your `.md` file.
@@ -135,7 +145,7 @@ You can upload the images in any format in your PR. A bot will automatically tra
 
 You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful tool for converting your images to WebP. This will also give you more control over the conversion and quaality of your images.
 
-There is no hard limit for how many resources you have, but an ideal soft limit would be around 10 to 20 images. This is to ensure that the repo doesn't become too bloated as more HUDs are added.
+There is a soft limit of 8 resources, and a hard limit of 15. This is to ensure that the repo doesn't become too bloated as more HUDs are added, and so web interfaces are manageable and less overwhelming.
 
 ## Repo requirements
 
@@ -151,9 +161,5 @@ We may also enforce some review requirements to ensure all HUDs we list meet a c
 
 ## Future work
 
-Right now, the `hud-db` format is the bare minimum required to host a HUD listing.
-
 In the future, we would like to standardize some things like HUD customization.
 We would love to hear feedback from HUD authors on how this could be accomplished so that each HUD can specify customization features in a modular way, allowing for users to easily choose options in a graphical interface on the web.
-
-We also would like to support feature flags as seen in huds.tf, but would like to revisit how this is done/displayed to be more flexible and useful.

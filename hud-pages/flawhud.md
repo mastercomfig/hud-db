@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     Custom HUD for Team Fortress 2, with the focus on minimalistic design and dark themed colors.
@@ -16,6 +17,7 @@
 </p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
 #### Acknowledgements
 
 * N0kk and Wiethoofd - **HUD Development Help**
@@ -28,6 +30,7 @@
 * Metisz - **Team Fortress Logo**
 
 <!-- SPONSORS -->
+
 #### Sponsors
 
 * Admiral Bread Crumbs
@@ -44,6 +47,7 @@
 * Zeesastrous
 
 <!-- LOCALIZERS -->
+
 #### Localizers
 
 * Tiagoquix - **Brazilian Portuguese**

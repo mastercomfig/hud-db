@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     A Very Bright TF2 HUD based on material design
@@ -20,6 +21,7 @@
 </p>
 
 <!-- CREDITS -->
+
 ### Credits
 
 * **Inspiration:** Colly, Pigby, Jarateking, Omnibombulator, extracrispy, Whisker

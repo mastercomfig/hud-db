@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     Clean, functional and minimalistic TF2 HUD created by m0re.
@@ -18,6 +19,7 @@
 </p>
 
 <!-- CREDITS -->
+
 ### Credits
 
 * **m0re:** Creator of m0rehud

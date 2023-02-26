@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     Material TF2 HUD which aims to keep a clean and minimalistic design
@@ -18,6 +19,7 @@
 </p>
 
 <!-- CREDITS -->
+
 ### Credits
 
 * **Inspiration:** m0re, Colly, Pigby, Jarateking, Omnibombulator, extracrispy, Whisker, Wiethoofd

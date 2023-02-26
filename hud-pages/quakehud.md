@@ -1,9 +1,10 @@
 # Description
 
 an updated version of garm3nhud-ql with FAR more customizations and features, mostly stolen from the huds listed in the credits.  
-a few of the changes between this and garm3nhud-ql:  
+a few of the changes between this and garm3nhud-ql:
 
 - customizations
+
   - streamer mode
   - custom colors
   - alternate fonts
@@ -26,7 +27,7 @@ a few of the changes between this and garm3nhud-ql:
 - full linux support using KDE (tested on kubuntu 21.1)
 
 - a speedometer
-  
+
 a full list of customizations are listed on the github page
 
 # Credits

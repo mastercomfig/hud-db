@@ -14,6 +14,7 @@ The [HUD wiki](https://github.com/rbjaxter/budhud/wiki) contains a wealth of inf
 ## budhud Updater Script
 
 budhud includes a shell script (`budhud Updater.ps1`) in the base directory that will allow you to do a few different things:
+
 - Verify that your HUD installation is correct
 - Download/update the default HUD files
 - Download/install a fresh version of the HUD from GitHub
@@ -53,15 +54,18 @@ If you would like to install and customize budhud (as well as other huds) quickl
 * Spanish: LJoacks
 
 ### TF2 Crosshairs
+
 * Knuckles
 * Fog
 * Hypnotize
 * whayay
 
 ### Closed Captions
+
 clovervidia: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
 
 ### HUD Editing Help
+
 * doodles
 * flatline
 * Hypnotize
@@ -73,5 +77,6 @@ clovervidia: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
 * Wiethoofd
 
 ### Previous Fonts
+
 * Roboto Condensed: https://www.fontsquirrel.com/fonts/roboto
 * Designosaur: https://fontlibrary.org/en/font/designosaur

@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "remark hud-pages",
     "checklinks": "remark hud-pages --use remark-lint-no-dead-urls",
-    "prose": "remark hud-pages --use remark-lint-write-good"
+    "prose": "remark hud-pages --use remark-lint-write-good",
+    "check": "ajv validate -s utils/hud-data.schema.json -d 'hud-data/*.json'"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,7 @@
   },
   "homepage": "https://github.com/mastercomfig/mastercomfig#readme",
   "devDependencies": {
-    "eslint": "^8.34.0",
+    "eslint": "^8.35.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.32.2",
@@ -87,5 +88,10 @@
     "remark-lint-table-pipe-alignment": "^3.1.1",
     "remark-lint-table-pipes": "^4.1.1",
     "remark-lint-write-good": "^1.2.0"
+  },
+  "dependencies": {
+    "ajv-cli": "^5.0.0",
+    "ajv-formats": "^2.1.1",
+    "remark-lint-no-missing-blank-lines": "^3.1.1"
   }
 }

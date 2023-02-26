@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 # KBNHud
 
 <p align="center">
@@ -6,6 +7,7 @@
 </p>
 
 <!-- EXTRA LINKS -->
+
 ### Links
 
 * **[How to install and set up KBNHud](https://github.com/Jotunn/kbnhud/wiki/Setup)**
@@ -16,6 +18,7 @@
 * **[GameBanana Mirror](https://gamebanana.com/mods/26847)**
 
 <!-- OS COMPAT -->
+
 ### OS Compatibility
 
 * Windows
@@ -23,6 +26,7 @@
 * Linux (KBNHud is developed in Linux)
 
 <!-- CREDITS -->
+
 ### Credits
 
 * **HUD BASE:** KNHUD, which was based on m0rehud
@@ -35,6 +39,7 @@
 * **CLOSED CAPTIONS:** Clovervidia
 
 <!-- SPECIAL THANKS -->
+
 ### Special Thanks
 
 Thanks to: Chippy (for creating KNHUD), Quartz (for spending months helping me get the hang of this), Sinders (for putting up with my annoying self for years upon years), Garm3n, raysfire, OMP, [Hypnotize](https://github.com/Hypnootize), and the [HUDS.TF Discord server](https://discord.com/invite/Hz3Q4Z8) crew for many many HUD elements and developement help. Major shoutout to Sunflower for giving me some great ideas during development, along with many others who helped me in closed testing of v5.

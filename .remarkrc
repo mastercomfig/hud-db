@@ -36,6 +36,7 @@
     "remark-lint-no-heading-like-paragraph",
     "remark-lint-no-inline-padding",
     "remark-lint-no-literal-urls",
+    "remark-lint-no-missing-blank-lines",
     "remark-lint-no-reference-like-url",
     "remark-lint-no-shell-dollars",
     "remark-lint-no-shortcut-reference-image",
