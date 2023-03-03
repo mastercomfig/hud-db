@@ -49,10 +49,10 @@
     "customizable"
   ],
   "repo": "https://github.com/p3tr1ch0r/insomniaHUD",
-  "hash": "07f41f71156d5c269bc0c0b4596164aebe82dae8",
+  "hash": "72284e2325fd2e4eae7e2115717068b1036f0d13",
   "prerelease": true,
   "resources": [
-    "insomniahud-banner",
+    "logo_full",
     "main_menu",
     "main_menu_ingame",
     "customization_menu",
