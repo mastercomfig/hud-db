@@ -3,8 +3,9 @@
   "author": "Peaches",
   "social": {
     "support": "https://ko-fi.com/peachestv",
-    "steam_profile": "76561198406266064",
-    "discord": "HyZRVtp"
+    "discord": "HyZRVtp",
+    "youtube": "@PeachesFPS",
+    "twitch": "peachestv"
   },
   "flags": [
     "fonts",
@@ -49,7 +50,7 @@
     "minimal"
   ],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "99437e2fe091a771802b9a09173ee097bfda79f0",
+  "hash": "432177f42fcc1f03ef318769906cc088ba514071",
   "prerelease": true,
   "resources": [
     "xhud-banner",
