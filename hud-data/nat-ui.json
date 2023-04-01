@@ -1,0 +1,41 @@
+{
+  "name": "Nat-UI",
+  "author": "Natalexei",
+  "social": {
+    "steam_profile": "76561198100477765",
+    "twitter": "Natalexei_"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+        "tournament",
+        "comp",
+        "arena",
+        "ad",
+        "ctf",
+        "cp",
+        "halloween",
+        "koth",
+        "mvm",
+        "pl",
+        "plr",
+        "pd",
+        "sd"
+      ],
+      "res": [
+        "4/3",
+        "16/9"
+      ]
+  },
+  "repo": "https://github.com/Natalexei/Nat-UI",
+  "hash": "631c48af6b5dfd3660d00957f0204c53fb2627d5",
+  "resources": [
+    "main",
+    "max",
+    "min",
+    "medmax",
+    "medmin"
+  ]
+}
