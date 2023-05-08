@@ -41,10 +41,16 @@
     ],
     "res": [
       "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
     ]
   },
   "repo": "https://github.com/Hypnootize/hexhud",
-  "hash": "0254f54230aa9fb74ce697d1137eb236de6aa2da",
+  "hash": "3863c50fa65768c03dd9b96989ce785e31da1e71",
   "resources": [
     "hexhud-banner",
     "hexhud-menu",

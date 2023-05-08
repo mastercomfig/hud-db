@@ -2,12 +2,69 @@
   "name": "m0re Hypnotize",
   "author": "Hypnotize",
   "social": {
+    "steam_profile": "76561198058754493",
     "album": "http://imgur.com/a/2gckG"
   },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
   "repo": "https://github.com/Hypnootize/Hypnotize-m0rehud",
-  "hash": "d587c58af4d08aead12285325223f1c5fcf2d9ee",
+  "hash": "e392a7a1e075674d27eab917f60d4b955e767d6f",
   "parent": "m0rehud",
   "resources": [
-    "m0re-hypnotize-banner"
+    "m0rehypnotize-banner",
+    "m0rehypnotize-menu",
+    "m0rehypnotize-loadout",
+    "m0rehypnotize-backpack",
+    "m0rehypnotize-classselection",
+    "m0rehypnotize-buff",
+    "m0rehypnotize-hurt",
+    "m0rehypnotize-minmode",
+    "m0rehypnotize-engineer",
+    "m0rehypnotize-scoreboard",
+    "m0rehypnotize-spectator"
   ]
 }
