@@ -15,15 +15,7 @@
     <a href="https://github.com/Hypnootize/m0rehud/wiki">HUD Wiki</a>
     -
     <a href="https://github.com/Hypnootize/m0rehud/wiki/Customization">Customization</a>
+    -
+    <a href="https://github.com/Hypnootize/m0rehud/wiki/Credits">Credits</a>
   </p>
 </p>
-
-<!-- CREDITS -->
-
-### Credits
-
-* **m0re:** Creator of m0rehud
-* **Wiethoofd:** Uber counter
-* **Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n:** HUD Crosshairs
-* **Waldo, quickkennedy, SgtPugs, Peaches:** Speedometer
-* **Zimmy, Gunblade, NinjaDC, ZenFor:** For maintaining m0rehud before I started to

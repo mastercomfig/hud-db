@@ -17,18 +17,7 @@
     <a href="https://github.com/Hypnootize/Sunset-Hud/wiki">HUD Wiki</a>
     -
     <a href="https://github.com/Hypnootize/sunsethud/wiki/Customization">Customization</a>
+    -
+    <a href="https://github.com/Hypnootize/sunsethud/wiki/Credits">Credits</a>
   </p>
 </p>
-
-<!-- CREDITS -->
-
-### Credits
-
-* **Inspiration:** Colly, Pigby, Jarateking, Omnibombulator, extracrispy, Whisker
-* **HUD Help & Feedback:** JackyLegs, Jarateking, Peaches, Whisker, bLa, my Italian buddies and the whole [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)
-* **Crosshairs:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n
-* **Closed Captions:** clovervidia 
-* **Streamer Mode:** Whisker, Omnibombulator
-* **Material Design VTFS:** extracrispy & Rawsor
-* **Transparent Viewmodels:** JarateKing, komorebi
-* **Speedometer:** Waldo, quickkennedy, SgtPugs, Peaches
