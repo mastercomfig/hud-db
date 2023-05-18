@@ -17,14 +17,6 @@
 * **[KBNHud Wiki](https://github.com/Jotunn/kbnhud/wiki)**
 * **[GameBanana Mirror](https://gamebanana.com/mods/26847)**
 
-<!-- OS COMPAT -->
-
-### OS Compatibility
-
-* Windows
-* Mac OS
-* Linux (KBNHud is developed in Linux)
-
 <!-- CREDITS -->
 
 ### Credits
