@@ -21,10 +21,12 @@ Uber count under crosshair
 Bottom left chat
 
 # Credits
+
 Astroyed for designing the HUD  
   
 Inspirations (in no particular order):  
 Woolen's HUD, Hypnotize HUD, Flarepunch, aHUD, eveHUD, ToonHUD, RaysHUD
 
 # Special Thanks
+
 Astroyed lol

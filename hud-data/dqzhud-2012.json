@@ -1,0 +1,10 @@
+{
+  "name": "dqzhud 2012",
+  "author": "dqz",
+  "repo": "https://github.com/irodionr/dqz_hud",
+  "hash": "be364cb2b1c384fceab85bbfec7a5e493fcf6410",
+  "parent": "dqzhud",
+  "resources": [
+    "dqzhud-2012-banner"
+  ]
+}

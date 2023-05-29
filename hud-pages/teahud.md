@@ -1,4 +1,5 @@
 # Description
+
 (uploaded again since database lost)  
 Darker and more complete version of TeaHud!
 
@@ -8,6 +9,7 @@ Darker and more complete version of TeaHud!
 -m0re (player destruction layout)
 
 # Special Thanks
+
 -Raysfire (the choosen one "tutorials")  
 -Hypnotize (hud beast and good guy)  
 -Whisker & Wiethoofd (guides and tricks for #base)  

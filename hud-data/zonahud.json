@@ -1,21 +1,21 @@
 {
-  "name": "Moes Hud",
-  "author": "Mo",
+  "name": "ZONAhud",
+  "author": "Lardox",
   "social": {
-    "steam_group": "MoesHUD",
-    "album": "https://imgur.com/a/Hjcto"
+    "album": "https://imgur.com/a/ehRvn8z"
   },
   "flags": [
     "fonts",
     "menus",
     "scoreboards",
     "crosshairs",
-    "minmode"
+    "minmode",
+    "materials",
+    "customization"
   ],
   "traits": {
     "os": [
-      "windows",
-      "linux"
+      "windows"
     ],
     "gamemode": [
       "tournament",
@@ -37,13 +37,12 @@
       "tc"
     ],
     "res": [
-      "4/3",
       "16/9"
     ]
   },
-  "repo": "https://github.com/MoeLesting/MoesHUD",
-  "hash": "95a3a6107c178eb46756b0758e264ccf34cd8cf9",
+  "repo": "https://github.com/tf2huds/zonahud",
+  "hash": "633ec34e176a36197230e95240325782d9114adf",
   "resources": [
-    "moes-hud-banner"
+    "zonahud-banner"
   ]
 }

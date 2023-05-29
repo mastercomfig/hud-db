@@ -1,22 +1,75 @@
 {
   "name": "budhud",
   "author": "Whisker",
+  "releaseDate": "2014-06-28",
   "social": {
+    "support": "https://github.com/sponsors/rbjaxter",
     "steam_profile": "76561197988447469",
     "steam_group": "budhud",
     "twitter": "rbjaxter",
     "discord": "TkxNKU2",
     "album": "https://imgur.com/a/aJ1K5"
   },
-  "flags": ["streamer-mode", "crosshairs", "customization"],
+  "flags": [
+    "streamer-mode",
+    "crosshairs",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
-    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ro",
+      "ru",
+      "es"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/rbjaxter/budhud",
-  "hash": "ec8d0cbea886ebc6dac695584af831c8a20fbb67",
+  "hash": "42d0e26a2d8b59609a4cbab49d99204eaeead825",
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",

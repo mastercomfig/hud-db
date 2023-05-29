@@ -1,0 +1,27 @@
+name: Update HUDs
+
+on:
+  workflow_dispatch:
+    inputs:
+      huds:
+        description: 'HUD ID(s), space separated'
+        required: true
+        type: string
+concurrency:
+  group: ${{ github.repository }}
+  cancel-in-progress: true
+jobs:
+  update_huds:
+    name: Update HUDs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Refresh hash
+        run: |
+          python utils/update_hash.py ${{ github.event.inputs.huds }}
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "HUD update: ${{ github.event.inputs.huds }}" || true
+          git push

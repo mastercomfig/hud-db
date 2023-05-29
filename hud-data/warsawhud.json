@@ -1,0 +1,12 @@
+{
+  "name": "WarsawHUD",
+  "author": "Lead",
+  "social": {
+    "album": "https://github.com/p3tr1ch0r/warsawhud#screenshots"
+  },
+  "repo": "https://github.com/p3tr1ch0r/warsawhud",
+  "hash": "9b9d91eee0168cbac70b5ab8fdc21e8196b6850f",
+  "resources": [
+    "warsawhud-banner"
+  ]
+}

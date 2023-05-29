@@ -8,7 +8,7 @@ Fork this repo, make a new branch, and add your HUD to this repository with a pu
 
 You can make subsequent PRs in new branches to update your HUD to a new version.
 
-File hosting and version history is required to be on GitHub, for enhanced hosting and version approval.
+Your HUD is required to be on GitHub, for enhanced file hosting and version approval.
 
 ## DB structure
 
@@ -31,11 +31,14 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "releaseDate": "2009-12-31", // Initial release date of the HUD (optional)
   "social": { // Optional mapping of social links
-    "support": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
+    "support": "https://ko-fi.com/super-duper-person", // A link people can use to support you financially
+    "issues": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group (optional)
     "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
     "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
+    "youtube": "@TheCoolPerson", // Your YouTube channel (either channel/userhash partial URL, @username or channel name)
+    "twitch": "CoolPersonStreamer", // Your Twitch channel name
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
@@ -81,6 +84,28 @@ Here's an easy to copy sample for writing your own data file:
 }
 ```
 
+#### How to retrieve the hash
+
+Your hash is a commit SHA ID from your repo, pointing to the latest commit you want released to HUD users.
+
+You can either copy it directly from GitHub commit history:
+
+![GitHub commit history copy full SHA](https://media.discordapp.net/attachments/1068126772811534417/1070118137074302976/image.png)
+
+Or you can get it from the GitHub commit's page:
+
+![Annotated GitHub commit page highlighting where the hash is shown](https://media.discordapp.net/attachments/1068126772811534417/1070118137296584835/image.png)
+
+### Update Helper
+
+If you would like to update your HUDs more efficiently, there is an Update HUDs workflow you can run under your repo's Actions tab.
+
+Click the `Run workflow` button and enter your HUD ID. You can also update multiple HUDs at once by separating each HUD ID by a space.
+
+This workflow will then get the latest commit from your HUD repo and automatically create a commit for you that you can PR.
+
+Note that you have to give Actions permission to modify your repository. Go to `Settings > Actions > General > Workflow Permissions` and select `Read and write permissions`.
+
 ### HUD Pages
 
 This is Markdown displayed in the description box of your HUD page. Similarly to the other files, you use your HUD ID as the name for your `.md` file.
@@ -120,7 +145,9 @@ hud-resouces/
 
 You can upload the images in any format in your PR. A bot will automatically transform them to the correct format upon merge, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
-There is no hard limit for how many resources you have, but an ideal soft limit would be around 10 to 20 images. This is to ensure that the repo doesn't become too bloated as more HUDs are added.
+You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful tool for converting your images to WebP. This will also give you more control over the conversion and quaality of your images.
+
+There is a soft limit of 8 resources, and a hard limit of 15. This is to ensure that the repo doesn't become too bloated as more HUDs are added, and so web interfaces are manageable and less overwhelming.
 
 ## Repo requirements
 
@@ -136,9 +163,5 @@ We may also enforce some review requirements to ensure all HUDs we list meet a c
 
 ## Future work
 
-Right now, the `hud-db` format is the bare minimum required to host a HUD listing.
-
 In the future, we would like to standardize some things like HUD customization.
 We would love to hear feedback from HUD authors on how this could be accomplished so that each HUD can specify customization features in a modular way, allowing for users to easily choose options in a graphical interface on the web.
-
-We also would like to support feature flags as seen in huds.tf, but would like to revisit how this is done/displayed to be more flexible and useful.

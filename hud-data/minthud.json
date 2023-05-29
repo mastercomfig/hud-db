@@ -1,0 +1,55 @@
+{
+  "name": "minthud",
+  "author": "mint",
+  "social": {
+    "steam_profile": "http://steamcommunity.com/profiles/76561198061824661",
+    "discord": "Mint#0404",
+    "album": "https://imgur.com/a/UhhE9IM"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "customization",
+    "minmode"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "tags": ["minimal", "competitive"],
+  "repo": "https://github.com/Mint-tf/minthud",
+  "hash": "f22df3599ff1d65ef18bf864b6ff2c4d4d0139fb",
+  "prerelease": true,
+  "resources": [
+    "minthud-01-banner",
+    "minthud-02-player",
+    "minthud-03-scoreboard",
+    "minthud-04-buff"
+  ]
+}

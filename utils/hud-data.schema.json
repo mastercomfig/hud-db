@@ -1,0 +1,202 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "HUD Data",
+  "description": "Data about a HUD",
+  "type": "object",
+  "required": ["name", "author", "repo", "hash", "resources"],
+  "properties": {
+    "name": {
+      "description": "Display name of your HUD",
+      "type": "string"
+    },
+    "author": {
+      "description": "Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)",
+      "type": "string"
+    },
+    "contributors": {
+      "description": "Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "releaseDate": {
+      "description": "Initial release date of the HUD",
+      "type": "string"
+    },
+    "social": {
+      "description": "Links to your social media profiles",
+      "type": "object",
+      "properties": {
+        "support": {
+          "description": "A link people can use to support you financially",
+          "type": "string"
+        },
+        "issues": {
+          "description": "An extra link where users can get help/report issues. If not present, will use GitHub Issues.",
+          "type": "string"
+        },
+        "steam_profile": {
+          "description": "Your SteamID64",
+          "type": "string"
+        },
+        "steam_group": {
+          "description": "Your Steam group",
+          "type": "string"
+        },
+        "twitter": {
+          "description": "Your Twitter handle",
+          "type": "string"
+        },
+        "discord": {
+          "description": "Your Discord invite code, not the full URL",
+          "type": "string"
+        },
+        "youtube": {
+          "description": "Your YouTube channel (either /channel/id URL, @username or channel name)",
+          "type": "string"
+        },
+        "twitch": {
+          "description": "Your Twitch channel name",
+          "type": "string"
+        },
+        "album": {
+          "description": "Link to some Imgur album or other to provide more images",
+          "type": "string"
+        }
+      }
+    },
+    "flags": {
+      "description": "A list of boolean flags whose presence indicates the existence of a feature of some kind",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "fonts",
+          "menus",
+          "scoreboards",
+          "crosshairs",
+          "minmode",
+          "streamer-mode",
+          "materials",
+          "customization"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "traits": {
+      "description": "Optional structured mapping of values",
+      "type": "object",
+      "properties": {
+        "os": {
+          "description": "What operating systems does the HUD support",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["windows", "mac", "linux"]
+          },
+          "uniqueItems": true
+        },
+        "gamemode": {
+          "description": "What gamemodes does the HUD customize for",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "tournament",
+              "comp",
+              "arena",
+              "ad",
+              "ctf",
+              "cp",
+              "halloween",
+              "koth",
+              "mannpower",
+              "mvm",
+              "pass",
+              "pl",
+              "plr",
+              "pd",
+              "rd",
+              "sd",
+              "tc"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "res": {
+          "description": "What aspect ratios does the HUD support",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "1/1",
+              "4/3",
+              "5/4",
+              "16/10",
+              "16/9",
+              "17/9",
+              "21/9",
+              "32/9"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "position": {
+          "description": "What position is the ammo/health in the HUD (multiple customization options can be available)",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["center", "corners", "default"]
+          },
+          "uniqueItems": true
+        },
+        "lang": {
+          "description": "What languages does the HUD support (if it has custom language files)",
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "tags": {
+      "description": "A list of words associated with the HUD for discovery. Be general. First tag is considered primary and used as a category. There is no list of valid tags, but they are subject to review for usefulness/'spamminess'.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "repo": {
+      "description": "GitHub repo web URL",
+      "type": "string"
+    },
+    "hash": {
+      "description": "Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)",
+      "type": "string"
+    },
+    "prerelease": {
+      "description": "If this is a prerelease/WIP HUD",
+      "type": "boolean"
+    },
+    "verified": {
+      "description": "For internal use only to enable some functionality. Do not set this yourself.",
+      "type": "boolean"
+    },
+    "parent": {
+      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
+      "type": "string"
+    },
+    "resources": {
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 15,
+      "uniqueItems": true
+    }
+  }
+}

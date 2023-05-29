@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     Custom TF2 HUD focused on hexagon shapes
@@ -16,20 +17,7 @@
     <a href="https://github.com/Hypnootize/hexhud/wiki">HUD Wiki</a>
     -
     <a href="https://github.com/Hypnootize/hexhud/wiki/Customization">Customization</a>
+    -
+    <a href="https://github.com/Hypnootize/hexhud/wiki/Credits">Credits</a>
   </p>
 </p>
-
-<!-- CREDITS -->
-### Credits
-* **General Inspiration:** Colly, Pigby, Omnibombulator, m0re
-* **Crosshairs & Hitmarkers:** Broesel, Knuckles, Seeker, m0re, Fog, ToonHud, Garm3n
-* **Closed Captions:** clovervidia 
-* **Button Animation Inspiration:** Devamar, Jarateking
-* **Damage Color Switcher:** Pigby
-* **Streamer Mode:** Whisker, Omnibombulator
-* **Transparent Viewmodels:** JarateKing, komorebi
-* **Speedometer:** Waldo, quickkennedy, SgtPugs, Peaches
-* **Logo Design:** Zetos
-* **SFMs:** Red vs Blue Clash by TonyC445, Scientific studies by Hidden-Maverick
-* **HUD Editor Support:** CriticalFlaw, Revan
-* **HUD Help, Feedback and Ideas:** Zetos, JackyLegs, Jarateking, Omnibombulator, and the whole HUDS.TF Discord

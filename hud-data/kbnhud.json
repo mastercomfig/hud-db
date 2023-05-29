@@ -7,15 +7,57 @@
     "discord": "NhnSysw",
     "album": "https://imgur.com/a/nmXU42d"
   },
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "streamer-mode", "materials", "customization"],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
-    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ]
   },
-  "tags": ["minimal", "ultra-minimal", "competitive"],
+  "tags": [
+    "minimal",
+    "ultra-minimal",
+    "competitive"
+  ],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "dd7c088be0796c23d764a957f9593ee309b38458",
+  "hash": "bec374fadc27e64be72be6bc21276c2889cdc945",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",

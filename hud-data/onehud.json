@@ -1,0 +1,12 @@
+{
+  "name": "OneHUD",
+  "author": "Lead",
+  "social": {
+    "album": "https://github.com/p3tr1ch0r/onehud#screenshots"
+  },
+  "repo": "https://github.com/p3tr1ch0r/onehud",
+  "hash": "681ff85e767cd0879aedcda1bec4a67ffc13a0d0",
+  "resources": [
+    "onehud-banner"
+  ]
+}

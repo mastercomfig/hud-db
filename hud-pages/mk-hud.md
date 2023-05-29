@@ -1,10 +1,12 @@
 # Description
-A modern looking HUD for Team Fortress 2. Mostly inspired by material design.   
+
+A modern looking HUD for Team Fortress 2. Mostly inspired by material design.  
 Install the fonts. It will fix your symbols being numbers. Go to mkHUD/resource/fonts, select all, right click, and click install. Restart TF2 after.  
   
 More Screenshots: <http://imgur.com/a/wHHbv>
 
 # Credits
+
 Extended credits: <https://github.com/nimtra/mkHUD>  
   
 Inspiration from:  

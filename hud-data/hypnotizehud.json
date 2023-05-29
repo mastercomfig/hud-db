@@ -44,10 +44,16 @@
       "5/4",
       "16/9",
       "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
     ]
   },
   "repo": "https://github.com/Hypnootize/hypnotizehud",
-  "hash": "18e05610822bd6f972a83d32b19d8d7177344b8d",
+  "hash": "01b783507a8f4ea967d605ac022973beb12471cc",
   "resources": [
     "hypnotizehud-banner",
     "hypnotizehud-menu",
