@@ -16,7 +16,8 @@
   ],
   "traits": {
     "os": [
-      "windows"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "ad",
@@ -49,7 +50,7 @@
     "customizable"
   ],
   "repo": "https://github.com/p3tr1ch0r/insomniaHUD",
-  "hash": "beeb39f97b764c7c302679826447ceae3e7aaaec",
+  "hash": "f73d34494c0802559d5ddea6da37050499126de6",
   "prerelease": true,
   "resources": [
     "logo_full",
