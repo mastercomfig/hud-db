@@ -20,8 +20,8 @@ If you want help editing the HUD or making your own HUD, check out the [HUDs.TF 
 [SpaceHUD issues page](https://github.com/BingBongBonky/SpaceHUD/issues) Report any issues here
 
 ## Credits
-Dmitry Bogolyubov - [Background](https://bogoljubov.artstation.com/projects/RXaYX)
-MadeType - [MADETOMMY](https://www.behance.net/madetype) font
-Whisker - Engineer building icons
-Hypnotize - Crosshairs
-Everyone in the HUDs.tf discord
+- Dmitry Bogolyubov - [Background](https://bogoljubov.artstation.com/projects/RXaYX)
+- MadeType - [MADETOMMY](https://www.behance.net/madetype) font
+- Whisker - Engineer building icons
+- Hypnotize - Crosshairs
+- Everyone in the HUDs.tf discord
