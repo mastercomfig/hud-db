@@ -51,9 +51,16 @@
     "simple"
   ],
   "repo": "https://github.com/BingBongBonky/SpaceHud",
-  "hash": "3793dd493003c254ea82bd1081159cd8f1b9477a",
+  "hash": "117217c514bbb355b84862ce964a5c9952f82d2e",
   "resources": [
     "spacehud-01-mainpage",
-    "spacehud-02-menu"
+    "spacehud-02-menu",
+    "spacehud-03-loadout",
+    "spacehud-04-inventory",
+    "spacehud-05-game",
+    "spacehud-06-capping",
+    "spacehud-07-game2",
+    "spacehud-08-mvm",
+    "spacehud-09-meter"
   ]
 }
