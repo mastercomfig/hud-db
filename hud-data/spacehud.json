@@ -18,6 +18,7 @@
   "traits": {
     "os": [
       "windows",
+      "mac",
       "linux"
     ],
     "gamemode": [
