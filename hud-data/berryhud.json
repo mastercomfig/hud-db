@@ -3,7 +3,6 @@
   "author": "heks",
   "social": {
     "steam_profile": "76561198041335138",
-    "steam_group": "",
     "twitter": "hekstf",
     "discord": "XQBfQtEE8E",
     "album": "https://imgur.com/a/Q7QQwY2"
@@ -15,7 +14,7 @@
   "minmode",
   "materials", 
   "customization"
-  ]
+  ],
   "traits": {
     "os": [
 	"windows", 
@@ -35,23 +34,19 @@
     "res": 
 	[
 	"16/9"
-	],
-    "key": 
-	[
-	"value"
 	]
   },
   "tags": [
-  "competitive", 
+  "competitive",
   "sixes", 
   "highlander", 
-  "ultiduo"],
+  "ultiduo"
+  ],
   "repo": "https://github.com/hexereii/BerryHUD",
   "hash": "f26da6b62b6a24a78f2cac8aa0b07f5ebc16b6a1",
   "prerelease": false
   "verified": true
-  "resources": 
-    "myhud-banner"
-    "cool-image-1"
+  "resources": [
+    "berrybanner.png"
   ]
 }
