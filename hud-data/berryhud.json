@@ -1,23 +1,53 @@
 {
-  "name": "BerryHUD"
-  "author": "heks"
+  "name": "BerryHUD",
+  "author": "heks",
   "social": {
-    "steam_profile": "76561198041335138"
-    "steam_group": "valve"
-    "twitter": "hekstf"
-    "discord": "XQBfQtEE8E"
+    "steam_profile": "76561198041335138",
+    "steam_group": "",
+    "twitter": "hekstf",
+    "discord": "XQBfQtEE8E",
     "album": "https://imgur.com/a/Q7QQwY2"
   },
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode","materials", "customization"]
+  "flags": [
+  "menus", 
+  "scoreboards", 
+  "crosshairs", 
+  "minmode",
+  "materials", 
+  "customization"
+  ]
   "traits": {
-    "os": ["windows", "mac", "linux"]
-    "gamemode": ["tournament", "comp", "cp", "halloween", "koth","mvm", "pass", "pl"]
-    "res": ["16/9"],
-    "key": ["value"]
+    "os": [
+	"windows", 
+	"mac", 
+	"linux"
+	],
+    "gamemode": [
+	"tournament", 
+	"comp", 
+	"cp", 
+	"halloween", 
+	"koth",
+	"mvm", 
+	"pass", 
+	"pl"
+	],
+    "res": 
+	[
+	"16/9"
+	],
+    "key": 
+	[
+	"value"
+	]
   },
-  "tags": ["competitive", "sixes", "highlander", "ultiduo"]
-  "repo": "https://github.com/hexereii/BerryHUD"
-  "hash": "799723ff71e6dee2ae5ddd481cc953bba153c6e5"
+  "tags": [
+  "competitive", 
+  "sixes", 
+  "highlander", 
+  "ultiduo"],
+  "repo": "https://github.com/hexereii/BerryHUD",
+  "hash": "f26da6b62b6a24a78f2cac8aa0b07f5ebc16b6a1",
   "prerelease": false
   "verified": true
   "resources": 
