@@ -1,12 +1,27 @@
 {
-  "name": "BerryHUD",
-  "author": "hexereii",
+  "name": "BerryHUD"
+  "author": "heks"
   "social": {
-    "album": "https://imgur.com/a/ldt9NXv"
+    "steam_profile": "76561198041335138"
+    "steam_group": "valve"
+    "twitter": "hekstf"
+    "discord": "XQBfQtEE8E"
+    "album": "https://imgur.com/a/Q7QQwY2"
   },
-  "repo": "https://github.com/hexereii/BerryHUD",
-  "hash": "b5358f39041a11561b44de858a0a62f8edbcfc5e",
-  "resources": [
-    "berryhud-banner"
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode","materials", "customization"]
+  "traits": {
+    "os": ["windows", "mac", "linux"]
+    "gamemode": ["tournament", "comp", "cp", "halloween", "koth","mvm", "pass", "pl"]
+    "res": ["16/9"],
+    "key": ["value"]
+  },
+  "tags": ["competitive", "sixes", "highlander", "ultiduo"]
+  "repo": "https://github.com/hexereii/BerryHUD"
+  "hash": "799723ff71e6dee2ae5ddd481cc953bba153c6e5"
+  "prerelease": false
+  "verified": true
+  "resources": 
+    "myhud-banner"
+    "cool-image-1"
   ]
 }
