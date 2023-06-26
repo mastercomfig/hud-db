@@ -46,7 +46,8 @@
   "hash": "f26da6b62b6a24a78f2cac8aa0b07f5ebc16b6a1",
   "prerelease": false
   "verified": true
-  "resources": [
+  "resources": 
+  [
     "berrybanner.png"
   ]
 }
