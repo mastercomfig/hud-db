@@ -2,10 +2,47 @@
   "name": "m0re Rockz",
   "author": "Rockz",
   "social": {
-    "album": "https://imgur.com/a/Vz678vL"
+    "album": "https://imgur.com/a/sebhnT6",
+    "steam_profile": "http://steamcommunity.com/profiles/76561198071882999"
   },
-  "repo": "https://github.com/rrkkss/Hypnotize-m0rehud",
-  "hash": "de7b62e10aae6eb5daa1a62cc438d21e3b828e8d",
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ]
+  },
+  "tags": [
+    "minimal", 
+    "competitive"
+  ],
+  "repo": "https://github.com/rrkkss/m0re-edit",
+  "hash": "6cd4349c25f5afa696bf0411bf6e242f1d7a6ac8",
   "parent": "m0rehud",
   "resources": [
     "m0re-rockz-banner"
