@@ -1,0 +1,52 @@
+{
+    "name": "m0re techno",
+    "author": "techno",
+    "social": {
+      "steam_profile": "76561198172101254"
+    },
+    "flags": [
+      "fonts",
+      "customization"
+    ],
+    "traits": {
+      "os": [
+        "windows"
+      ],
+      "gamemode": [
+        "tournament",
+        "comp",
+        "arena",
+        "ad",
+        "ctf",
+        "cp",
+        "halloween",
+        "koth",
+        "mannpower",
+        "mvm",
+        "pass",
+        "pl",
+        "plr",
+        "pd",
+        "rd",
+        "sd",
+        "tc"
+      ],
+      "res": [
+        "4/3",
+        "16/9"
+      ],
+      "position": [
+        "center"
+      ],
+      "lang": [
+        "en"
+      ]
+    },
+    "repo": "https://github.com/TechnoSL/m0re_techno",
+    "hash": "98763fb3f93f4ff109b7c86767d4d5bf60c81dec",
+    "parent": "dqzhud-m0re", 
+    "resources": [
+        "m0re-techno-banner"
+    ]
+  }
+  
