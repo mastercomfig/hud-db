@@ -1,6 +1,6 @@
 # Description
 
-<a href=https://github.com/TechnoSL/m0re_techno/blob/master/fonts.md>this hud has multiple fonts, click here to see previews!</a>
+[this hud has multiple fonts, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/fonts.md)
 
 my current tf2 hud as of 18/01/23 based on dqz's version of m0rehud
 
