@@ -1,0 +1,53 @@
+{
+  "name": "Half-Life HUD",
+  "author": "Village Green Preserver",
+  "social": {
+    "steam_profile": "76561198159585055",
+    "album": "https://imgur.com/a/ka6q5Pe"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "repo": "https://github.com/VillageGreenPreserver/Half-Life-Hud",
+  "hash": "d8e2dc75c8b1c2299c7316c5732fab1a069b143b",
+  "resources": [
+    "hlhud-banner",
+    "hlhud-menu",
+    "hlhud-mm",
+    "hlhud-inv",
+    "hlhud-loadout",
+    "hlhud-ingame",
+    "hlhud-engineer",
+    "hlhud-scoreboard",
+    "hlhud-pl"
+  ]
+}
