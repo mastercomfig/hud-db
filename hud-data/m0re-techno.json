@@ -1,52 +1,51 @@
 {
-    "name": "m0re techno",
-    "author": "techno",
-    "social": {
-      "steam_profile": "76561198172101254"
-    },
-    "flags": [
-      "fonts",
-      "customization"
+  "name": "m0re techno",
+  "author": "techno",
+  "social": {
+    "steam_profile": "76561198172101254"
+  },
+  "flags": [
+    "fonts",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows"
     ],
-    "traits": {
-      "os": [
-        "windows"
-      ],
-      "gamemode": [
-        "tournament",
-        "comp",
-        "arena",
-        "ad",
-        "ctf",
-        "cp",
-        "halloween",
-        "koth",
-        "mannpower",
-        "mvm",
-        "pass",
-        "pl",
-        "plr",
-        "pd",
-        "rd",
-        "sd",
-        "tc"
-      ],
-      "res": [
-        "4/3",
-        "16/9"
-      ],
-      "position": [
-        "center"
-      ],
-      "lang": [
-        "en"
-      ]
-    },
-    "repo": "https://github.com/TechnoSL/m0re_techno",
-    "hash": "d8dd339b347c7c7d366eaf655dac012530aa9321",
-    "parent": "dqzhud-m0re", 
-    "resources": [
-        "m0re-techno-banner"
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
     ]
-  }
-  
+  },
+  "repo": "https://github.com/TechnoSL/m0re_techno",
+  "hash": "7cda1a70b6c872903222e953f2ebfb116e5f3df6",
+  "parent": "dqzhud-m0re",
+  "resources": [
+    "m0re-techno-banner"
+  ]
+}
