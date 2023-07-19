@@ -26,7 +26,7 @@
         "type": "string"
       },
       "examples": [
-        "Original creator"
+        "Original creator, Previous maintainer"
       ]
     },
     "releaseDate": {
@@ -193,7 +193,10 @@
           "items": {
             "type": "string"
           },
-          "uniqueItems": true
+          "uniqueItems": true,
+          "examples": [
+            "en"
+          ]
         }
       }
     },
@@ -202,7 +205,10 @@
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "examples": [
+        "minimal, monochrome"
+      ]
     },
     "repo": {
       "description": "GitHub repo web URL",
@@ -241,7 +247,10 @@
       },
       "minItems": 1,
       "maxItems": 15,
-      "uniqueItems": true
+      "uniqueItems": true,
+      "examples": [
+        "myhud-banner, cool-image-1, https://youtu.be/21asadf"
+      ]
     }
   }
 }
