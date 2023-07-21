@@ -1,25 +1,76 @@
 {
-    "name": "Middle-Mann",
-    "author": "Vexcenot",
-    "social": {
-      "support": "https://ko-fi.com/vexcenot",
-      "steam_profile": "76561198170023074",
-      "discord": "9QzHkQx",
-      "youtube": "@Vexcenot",
-      "album": "https://imgur.com/a/B1572CO"
-    },
-    "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], 
-    "traits": { 
-      "os": ["windows", "mac", "linux"], 
-      "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
-      "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-      "position": ["center", "corners", "default"],
-      "lang": ["en"] 
-    },
-    "tags": ["minimal", "modern", "middle", "vanilla"],
-    "repo": "https://github.com/Vexcenot/Middle-Mann",
-    "hash": "5c0485b3ec2a89b849c80d6c04d6026e08fbbc16",
-    "resources": [
-      "middlemann-banner"
+  "name": "Middle-Mann",
+  "author": "Vexcenot",
+  "social": {
+    "support": "https://ko-fi.com/vexcenot",
+    "steam_profile": "76561198170023074",
+    "discord": "9QzHkQx",
+    "youtube": "@Vexcenot",
+    "album": "https://imgur.com/a/B1572CO"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "corners",
+      "default"
+    ],
+    "lang": [
+      "en"
     ]
-  }
+  },
+  "tags": [
+    "minimal",
+    "modern",
+    "middle",
+    "vanilla"
+  ],
+  "repo": "https://github.com/Vexcenot/Middle-Mann",
+  "hash": "7e7153db389f2f857b3abb583d29307e18ca65d4",
+  "resources": [
+    "middlemann-banner"
+  ]
+}
