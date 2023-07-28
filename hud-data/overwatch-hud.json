@@ -1,6 +1,6 @@
 {
   "name": "Overwatch HUD",
-  "author": "nimtra",
+  "author": "kmarcie",
   "social": {
     "steam_group": "overwatchhud",
     "album": "https://imgur.com/a/U1gfV"
@@ -41,8 +41,8 @@
       "16/10"
     ]
   },
-  "repo": "https://github.com/nimtra/overwatchhud",
-  "hash": "2e08c941c37b367a8963f0e3d16b5c9fcd49da87",
+  "repo": "https://github.com/kmarcie/overwatchhud",
+  "hash": "9a5b1c0f3080e1f6ea921ecf567e8e26fb138a3b",
   "resources": [
     "overwatch-hud-banner"
   ]
