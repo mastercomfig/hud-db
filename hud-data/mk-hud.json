@@ -1,6 +1,6 @@
 {
   "name": "mkhud",
-  "author": "nimtra",
+  "author": "kmarcie",
   "social": {
     "steam_group": "mkhud",
     "album": "https://imgur.com/a/wHHbv"
@@ -44,8 +44,8 @@
       "16/10"
     ]
   },
-  "repo": "https://github.com/nimtra/mkHUD",
-  "hash": "f866bcafa83d35802763dba6daac4802eee5b956",
+  "repo": "https://github.com/kmarcie/mkHUD",
+  "hash": "0e08677b70e77c4f4fc0265578401e61b1c6abed",
   "resources": [
     "mk-hud-banner"
   ]
