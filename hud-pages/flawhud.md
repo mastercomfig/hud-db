@@ -1,5 +1,3 @@
-<!-- TITLE -->
-![banner](https://user-images.githubusercontent.com/6818236/123499065-fba2e480-d601-11eb-96e4-e0879c7b2fbd.png)
 <p align="center">
   <p align="center">
     Custom HUD for Team Fortress 2, focusing on minimalistic design and dark themed colors.
