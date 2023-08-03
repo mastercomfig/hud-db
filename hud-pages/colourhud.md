@@ -5,12 +5,11 @@ Based on PhouHUD.
 
 #### <h2>Features</h2>
 * Toolpanel
+* HUD edit panel
 * Custom fonts
 * Custom colours
 * Custom crosshairs
 * Easy customization
-* 16:9, 16:10, 4:3 support
-* Support for all gamemodes
 #### <h2>Installation</h2>
 1. Download ColourHUD by clicking `Download ZIP` from the green `Code` Button<br>
    Or download the HUD from the `Releases` page
@@ -25,7 +24,6 @@ Based on PhouHUD.
 1. Delete `colourhud-master` in the `custom` folder
 #### <h2>Customization</h2>
 You can customize the HUD by using the HUD edit panel in the main menu.
-#### <h2>Support</h2>
 
 # Credits
 
