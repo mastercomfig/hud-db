@@ -52,12 +52,12 @@
   "hash": "e626251ac2c54cc734e505404de19b0ee7a97c10",
   "resources": [
     "colourhud-banner",
-    "colourhud-01-mainmenu.webp",
-    "colourhud-02-hud_minmode_off.webp",
-    "colourhud-03-hud_minmode_on.webp",
+    "colourhud-01-mainmenu",
+    "colourhud-02-hud_minmode_off",
+    "colourhud-03-hud_minmode_on",
     "colourhud-04-itemmenu.webp",
-    "colourhud-05-loadoutmenu.webp",
-    "colourhud-06-ctf.webp",
-    "colourhud-07-plr.webp"
+    "colourhud-05-loadoutmenu",
+    "colourhud-06-ctf",
+    "colourhud-07-plr"
   ]
 }
