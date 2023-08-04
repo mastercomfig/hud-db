@@ -1,0 +1,10 @@
+{
+  "name": "MaraschinoHUD",
+  "author": "IKEA Cherry Chair",
+  "social": {
+    "album": "https://imgur.com/a/UwizLP0"
+  },
+  "repo": "https://github.com/IKEACherry/MaraschinoHud",
+  "hash": "e5e035cd5942dd694748db1a2f33e057a5ab5ddb",
+  "resources": ["maraschinohud-banner"]
+}

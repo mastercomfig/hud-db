@@ -1,0 +1,13 @@
+{
+  "name": "BearHUD",
+  "author": "Bearnaut",
+  "social": {
+    "issues": "https://steamcommunity.com/groups/bearnauthud/discussions",
+    "album": "https://imgur.com/a/emNmL",
+    "steam_group": "bearnauthud"
+  },
+  "repo": "https://github.com/tf2huds/bearhud",
+  "hash": "80b82c19bb9281cd426901a17d82a894333955de",
+  "parent": "broesel-hud",
+  "resources": ["bear-hud-banner"]
+}
