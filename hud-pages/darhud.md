@@ -2,7 +2,7 @@
 
 HUD aimed to be more modern-looking while keeping the aspect of TF2
 
-Version 2023.0.
+Version 2023.04
 
 # Credits
 - The huds.tf discord for an enormous help
@@ -10,7 +10,7 @@ Version 2023.0.
 - Zeesastrous / a krillion to 1 for inspirations
 - Vlad, Hypnotize and squid_eevee for some textures and some icons
 - Inspiration :
-  - ZeesHud
-  - ToonHud
-  - FlawHud
-  - Community HUD Fixes
+ - ZeesHud
+ - ToonHud
+ - FlawHud
+ - Community HUD Fixes
