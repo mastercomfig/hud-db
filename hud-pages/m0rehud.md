@@ -14,7 +14,7 @@
     -
     <a href="https://github.com/Hypnootize/m0rehud/wiki">HUD Wiki</a>
     -
-    <a href="https://github.com/Hypnootize/m0rehud/wiki/Customization">Customization</a>
+    <a href="https://github.com/Hypnootize/m0rehud/wiki/CUSTOMIZATIONS">Customization</a>
     -
     <a href="https://github.com/Hypnootize/m0rehud/wiki/Credits">Credits</a>
   </p>

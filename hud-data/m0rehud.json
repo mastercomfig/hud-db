@@ -52,12 +52,13 @@
     ]
   },
   "repo": "https://github.com/Hypnootize/m0rehud",
-  "hash": "8b4246a21e1ee2d319d3197ac2dddb5ce71a0f26",
+  "hash": "996ade6b5abafe5f160cddef6d26057162516470",
   "resources": [
     "m0rehud-banner",
     "m0rehud-menu",
     "m0rehud-buff",
     "m0rehud-low",
+    "m0rehud-minmode",
     "m0rehud-medic",
     "m0rehud-win",
     "m0rehud-scoreboard",
