@@ -149,6 +149,8 @@ You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful
 
 There is a soft limit of 8 resources, and a hard limit of 15. This is to ensure that the repo doesn't become too bloated as more HUDs are added, and so web interfaces are manageable and less overwhelming.
 
+When updating images, if you are not updating them with WebP, do not delete the existing WebP files.
+
 ## Repo requirements
 
 `hud-db` syncs with your HUD's GitHub repo to easily track and manage HUDs. There are some requirements for consistency on your end to enable us to provide this experience for all HUDs:
