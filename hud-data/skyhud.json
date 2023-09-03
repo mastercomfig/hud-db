@@ -1,12 +1,25 @@
 {
   "name": "Skyhud",
   "author": "skai",
+  "contributors": ["wingo"],
   "social": {
+    "issues": "fe0a4e20f8c0ece8f8fd7173ece2c2596bb3a107",
+    "steam_profile": "76561198184881255",
     "album": "https://imgur.com/a/nX2t80F"
   },
-  "repo": "https://github.com/Fundevilam/skyhud",
-  "hash": "c5a26eed021829429fb1c0d983330824433cae95",
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": ["tournament", "comp", "arena", "ad", "ctf", "cp", "halloween", "koth", "mannpower", "mvm", "pass", "pl", "plr", "pd", "rd", "sd", "tc"],
+    "res": ["4/3", "5/4", "16/10", "16/9"],
+    "position": ["center"]
+  },
+  "repo": "https://github.com/skaiTF/skyhud",
+  "hash": "fe0a4e20f8c0ece8f8fd7173ece2c2596bb3a107",
   "resources": [
-    "skyhud-banner"
+    "skyhud-banner",
+    "main-menu",
+    "normal",
+    "minmode",
+    "lowered-mode"
   ]
 }
