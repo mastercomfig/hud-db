@@ -1,17 +1,15 @@
 # Description
 
-[this hud has multiple fonts, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/fonts.md)
-
-my current tf2 hud as of 18/01/23 based on dqz's version of m0rehud
+my current tf2 hud as of 18/01/23 based on dqz's version of m0rehud (now using m0rehud 7 as a base)
 
 also mostly a mishmash of various parts from huds i like
 
 # Credits
-Hypnotize - maintaining m0rehud
+Hypnotize - maintaining m0rehud + m0rehud 7 customization
 
 dqz - original m0rehud edit this is based off of
 
-CriticalFlaw - FlawHud Inventory, Scoreboard, WinPanel, etc.. wich i took
+CriticalFlaw - FlawHud Inventory & WinPanel
 
 Lead - InsomniaHud level tf_english edit
 

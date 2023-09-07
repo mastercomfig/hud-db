@@ -6,11 +6,17 @@
   },
   "flags": [
     "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
     "customization"
   ],
   "traits": {
     "os": [
-      "windows"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "tournament",
@@ -33,7 +39,9 @@
     ],
     "res": [
       "4/3",
-      "16/9"
+      "5/4",
+      "16/9",
+      "16/10"
     ],
     "position": [
       "center"
@@ -43,9 +51,10 @@
     ]
   },
   "repo": "https://github.com/TechnoSL/m0re_techno",
-  "hash": "77f24ee728f04a91b151df2d346ea8e89ec9f567",
-  "parent": "dqzhud-m0re",
+  "hash": "435a8c7366825c3d03398515819f9e0fdc3293d5",
+  "parent": "m0rehud",
   "resources": [
-    "m0re-techno-banner"
+    "m0re-techno-banner",
+    "m0re-techno-gameplay"
   ]
 }
