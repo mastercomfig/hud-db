@@ -1,0 +1,67 @@
+{
+  "name": "googHUD",
+  "author": "grey",
+  "contributors": [
+    "grey"
+  ],
+  "releaseDate": "9/21/2023",
+  "flags": [
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "tags": [
+    "minimal",
+    "clean",
+    "competitive",
+    "comp",
+    "wagoogus",
+    "beta",
+    ""
+  ],
+  "repo": "https://github.com/GreySux/googhud-main",
+  "hash": "00d40765d044b014651d93cfd28db2780b9069fc",
+  "prerelease": true,
+  "resources": [
+    "https://www.youtube.com/watch?v=C4lgL-YI43U",
+    "cibahud",
+    "voidhud",
+    "cutehud"
+  ],
+  "social": {
+    "support": "https://paypal.me/greysux?country.x=US&locale.x=en_US",
+    "steam_profile": "76561198050618142",
+    "twitter": "https://twitter.com/Grey_Sucks",
+    "discord": "greysucks",
+    "album": "https://imgur.com/a/Vn0f9WS"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ctf",
+      "cp",
+      "halloween",
+      "mannpower",
+      "pass",
+      "plr",
+      "pd",
+      "rd"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "corners",
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
