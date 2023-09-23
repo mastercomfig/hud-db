@@ -1,9 +1,9 @@
 {
   "name": "googHUD",
+  "author": "grey",
   "contributors": [
-    "grey"
   ],
-  "releaseDate": "2023-09-21",
+  "releaseDate": "2023-09-23",
   "flags": [
     "menus",
     "scoreboards",
@@ -16,21 +16,17 @@
     "comp",
     "wagoogus",
     "beta",
-    ""
   ],
   "repo": "https://github.com/GreySux/googhud-main",
   "hash": "00d40765d044b014651d93cfd28db2780b9069fc",
   "prerelease": true,
   "resources": [
-    "https://www.youtube.com/watch?v=C4lgL-YI43U",
-    "cibahud",
-    "voidhud",
-    "cutehud"
+    "googhudpic.png",
   ],
   "social": {
     "support": "https://paypal.me/greysux",
     "steam_profile": "76561198050618142",
-    "twitter": "https://twitter.com/Grey_Sucks",
+    "twitter": "Grey_Sucks",
     "discord": "greysucks",
     "album": "https://imgur.com/a/Vn0f9WS"
   },
