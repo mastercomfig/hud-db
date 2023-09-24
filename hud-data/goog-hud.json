@@ -1,8 +1,6 @@
 {
   "name": "googHUD",
   "author": "grey",
-  "contributors": [
-  ],
   "releaseDate": "2023-09-23",
   "flags": [
     "menus",
@@ -18,7 +16,7 @@
     "beta",
   ],
   "repo": "https://github.com/GreySux/googhud-main",
-  "hash": "00d40765d044b014651d93cfd28db2780b9069fc",
+  "hash": "cfceb4836d21c3db7b41ff94b2a29fd69c190a68",
   "prerelease": true,
   "resources": [
     "googhudpic.png",
