@@ -12,7 +12,7 @@
     "twitch": "whisker",
     "album": "https://imgur.com/a/aJ1K5"
   },
-  "flags": ["fonts","menus","scoreboards","crosshairs","scoreboards","streamer-mode","customization"],
+  "flags": ["fonts","menus","crosshairs","scoreboards","streamer-mode","customization"],
   "traits": {
     "os": ["windows","mac","linux"],
     "gamemode": ["tournament","comp","arena","ad","ctf","cp","halloween","koth","mannpower","mvm","pass","pl","plr","pd","rd","sd","tc"],
