@@ -8,66 +8,19 @@
     "steam_group": "budhud",
     "twitter": "rbjaxter",
     "discord": "TkxNKU2",
+    "youtube": "@whisker",
+    "twitch": "whisker",
     "album": "https://imgur.com/a/aJ1K5"
   },
-  "flags": [
-    "streamer-mode",
-    "crosshairs",
-    "customization"
-  ],
+  "flags": ["fonts","menus","scoreboards","crosshairs","scoreboards","streamer-mode","customization"],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
-    "gamemode": [
-      "tournament",
-      "comp",
-      "arena",
-      "ad",
-      "ctf",
-      "cp",
-      "halloween",
-      "koth",
-      "mannpower",
-      "mvm",
-      "pass",
-      "pl",
-      "plr",
-      "pd",
-      "rd",
-      "sd",
-      "tc"
-    ],
-    "res": [
-      "1/1",
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "zh",
-      "en",
-      "fr",
-      "de",
-      "it",
-      "pt",
-      "ro",
-      "ru",
-      "es"
-    ]
+    "os": ["windows","mac","linux"],
+    "gamemode": ["tournament","comp","arena","ad","ctf","cp","halloween","koth","mannpower","mvm","pass","pl","plr","pd","rd","sd","tc"],
+    "res": ["1/1","4/3","5/4","16/10","16/9","17/9","21/9","32/9"],
+    "position": ["center"],
+    "lang": ["pt","en","fr","de","it","ja","no","ro","ru","zh","es","tr"]
   },
-  "tags": [
-    "minimal"
-  ],
+  "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
   "hash": "a35ba6f2a7b480312417a5ab4d637a3f9478bf05",
   "resources": [
