@@ -1,9 +1,6 @@
 {
   "name": "googHUD",
   "author": "grey",
-  "contributors": [
-    "grey"
-  ],
   "releaseDate": "2023-09-23",
   "flags": [
     "menus",
