@@ -1,9 +1,10 @@
 {
   "name": "googHUD",
   "author": "grey",
-  "releaseDate": "2023-09-23",
+  "releaseDate": "2023-09-27",
   "flags": [
     "menus",
+    "minmode",
     "scoreboards",
     "materials"
   ],
@@ -16,7 +17,7 @@
     "beta"
   ],
   "repo": "https://github.com/GreySux/googhud-main",
-  "hash": "0388a27fa8f1c0b2ff093324f5653a32f8b8d7f7",
+  "hash": "337289be9762897b3d4653abe1e0f70c705d59f5",
   "prerelease": true,
   "resources": [
     "googhudpic"
@@ -36,14 +37,19 @@
       "tournament",
       "comp",
       "arena",
+      "ad",
       "ctf",
       "cp",
       "halloween",
+      "koth",
       "mannpower",
+      "mvm",
       "pass",
+      "pl",
       "plr",
       "pd",
-      "rd"
+      "rd",
+      "sd"
     ],
     "res": [
       "16/9"
