@@ -38,7 +38,7 @@ If you need help, found a bug or have a suggestion; [open a support ticket on Gi
 
 <!-- LINKS -->
 [download-link]: https://github.com/CriticalFlaw/flawhud/releases/latest
-[mastercomfig-link]: https://mastercomfig.com/huds/page/flawhud/
+[mastercomfig-link]: https://comfig.app/huds/page/flawhud/
 [tf2huds-link]: https://tf2huds.dev/hud/FlawHUD
 [wiki-link]: https://github.com/CriticalFlaw/flawhud/wiki
 [editor-link]: https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest
