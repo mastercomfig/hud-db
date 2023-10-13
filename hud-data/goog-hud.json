@@ -19,7 +19,7 @@
     "beta"
   ],
   "repo": "https://github.com/GreySux/googhud-main",
-  "hash": "fcc6e94a1734f7284f6bfeb0077b3d627d4a926b",
+  "hash": "4412c47cc771633a902c105653ee339dac49cb8f",
   "prerelease": true,
   "resources": [
     "googhudpic",
@@ -28,14 +28,17 @@
     "googhud12v12",
     "googhudmin1",
     "googhudmin0",
-    "googhuddamage"
+    "googhuduber",
+    "googhudclasses",
+    "googhudtargetid",
+    "googhuddamagenums"
   ],
   "social": {
     "support": "https://paypal.me/greysux",
     "steam_profile": "76561198050618142",
     "twitter": "Grey_Sucks",
-    "discord": "greysucks",
-    "album": "https://imgur.com/a/H6aybW9"
+    "discord": "52D6wACqen",
+    "album": "https://imgur.com/a/960Ftgi"
   },
   "traits": {
     "os": [
