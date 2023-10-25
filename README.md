@@ -29,7 +29,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "name": "My HUD", // Display name of your HUD
   "author": "Cool person", // Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
-  "releaseDate": "2009-12-31", // Initial release date of the HUD (optional)
+  "releaseDate": "2009-12-31", // Initial release date of the HUD, YYYY-MM-DD (optional)
   "social": { // Optional mapping of social links
     "support": "https://ko-fi.com/super-duper-person", // A link people can use to support you financially
     "issues": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
