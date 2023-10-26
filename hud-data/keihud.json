@@ -1,0 +1,78 @@
+{
+  "name": "KeiHUD",
+  "author": "Riley",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "releaseDate": "2023-10-24",
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "minimal",
+    "competitive",
+    "blue"
+  ],
+  "repo": "https://github.com/RileyKun/keihud",
+  "hash": "d7ab70207974a46715f821c559dea5f97be89a3f",
+  "prerelease": false,
+  "resources": [
+    "hud-banner",
+    "main-menu",
+	"loadout-main",
+	"classloadout-select",
+	"backpack",
+	"loading-screen",
+	"team-select",
+	"class-select",
+	"minmode-off",
+	"minmode-on",
+	"scoreboard"
+  ],
+  "social": {
+    "steam_profile": "76561199079659947",
+    "album": "https://imgur.com/a/OoRSDxY"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/10",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
