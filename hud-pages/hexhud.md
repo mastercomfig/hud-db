@@ -4,9 +4,7 @@
   <p align="center">
     Custom TF2 HUD focused on hexagon shapes
     <br />
-    <a href="https://imgur.com/a/ENQcIqO">Screenshots</a>
-    -
-    <a href="https://github.com/Hypnootize/hexhud">GitHub</a>
+    <a href="https://tf2huds.dev/hud/HExHUD">TF2 HUDs</a>
     -
     <a href="https://gamebanana.com/mods/298232">GameBanana</a>
     -
