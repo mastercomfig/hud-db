@@ -4,9 +4,7 @@
   <p align="center">
     Clean, functional and minimalistic TF2 HUD created by m0re.
     <br />
-    <a href="http://imgur.com/a/sxOyM">Screenshots</a>
-    -
-    <a href="https://github.com/Hypnootize/m0rehud">GitHub</a>
+    <a href="https://tf2huds.dev/hud/m0re-Hud">TF2 HUDs</a>
     -
     <a href="https://gamebanana.com/mods/291596">GameBanana</a>
     -
