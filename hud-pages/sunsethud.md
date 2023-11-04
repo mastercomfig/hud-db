@@ -4,9 +4,7 @@
   <p align="center">
     A Very Bright TF2 HUD based on material design
     <br />
-    <a href="https://imgur.com/a/cJYtauq">Screenshots</a>
-    -
-    <a href="https://github.com/Hypnootize/sunsethud">GitHub</a>
+    <a href="https://tf2huds.dev/hud/Sunset-Hud">TF2 HUDs</a>
     -
     <a href="https://gamebanana.com/mods/291779">GameBanana</a>
     -

@@ -4,8 +4,11 @@
   "releaseDate": "2023-09-23",
   "flags": [
     "menus",
+    "minmode",
     "scoreboards",
-    "materials"
+    "materials",
+    "crosshairs",
+    "customization"
   ],
   "tags": [
     "minimal",
@@ -16,17 +19,26 @@
     "beta"
   ],
   "repo": "https://github.com/GreySux/googhud-main",
-  "hash": "0388a27fa8f1c0b2ff093324f5653a32f8b8d7f7",
+  "hash": "58f50e9b6ccf1f0a5c5e47596b2ec34043b38e32",
   "prerelease": true,
   "resources": [
-    "googhudpic"
+    "googhudpic",
+    "googhudmenu",
+    "googhud6v6",
+    "googhud12v12",
+    "googhudmin1",
+    "googhudmin0",
+    "googhuduber",
+    "googhudclasses",
+    "googhudtargetid",
+    "googhuddamagenums"
   ],
   "social": {
     "support": "https://paypal.me/greysux",
     "steam_profile": "76561198050618142",
     "twitter": "Grey_Sucks",
-    "discord": "greysucks",
-    "album": "https://imgur.com/a/Vn0f9WS"
+    "discord": "52D6wACqen",
+    "album": "https://imgur.com/a/960Ftgi"
   },
   "traits": {
     "os": [
@@ -36,14 +48,19 @@
       "tournament",
       "comp",
       "arena",
+      "ad",
       "ctf",
       "cp",
       "halloween",
+      "koth",
       "mannpower",
+      "mvm",
       "pass",
+      "pl",
       "plr",
       "pd",
-      "rd"
+      "rd",
+      "sd"
     ],
     "res": [
       "16/9"
