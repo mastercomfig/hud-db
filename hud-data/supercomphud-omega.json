@@ -1,0 +1,47 @@
+{
+  "name": "SUPERCOMPHUD-OMEGA",
+  "author": "kachowhero, lava",
+  "releaseDate": "idk lol",
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "repo": "https://github.com/lavaOnoes/SUPERCOMPHUD-OMEGA",
+  "hash": "3ae991e200d6d0ec71ef5cbe94ede6540b8a19e0",
+  "prerelease": false,
+  "resources": [
+    "https://www.youtube.com/watch?v=q8LgIzs_M2o"
+  ],
+  "social": {
+    "steam_profile": "https://steamcommunity.com/id/alienblues/",
+    "youtube": "@lavaOnoes"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "4/3",
+      "16/10",
+      "16/9"
+    ]
+  }
+}
