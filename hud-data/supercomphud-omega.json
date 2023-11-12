@@ -13,6 +13,8 @@
   "prerelease": false,
   "resources": [
     "supercomphud-main",
+    "1",
+    "counter",
     "https://www.youtube.com/watch?v=q8LgIzs_M2o"
   ],
   "social": {
