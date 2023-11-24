@@ -10,7 +10,7 @@ Hypnotize - maintaining m0rehud + this sexy customization menu
 
 dqz - original m0rehud edit this is based off of
 
-CriticalFlaw - FlawHud Inventory, WinPanel, etc.. wich i took
+CriticalFlaw - FlawHud Loadout Menus, Inventory & Win Panel.
 
 Lead - InsomniaHud level tf_english edit
 
