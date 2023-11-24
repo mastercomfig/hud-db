@@ -2,7 +2,8 @@
   "name": "m0re techno",
   "author": "techno",
   "social": {
-    "steam_profile": "76561198172101254"
+    "steam_profile": "76561198172101254",
+    "album": "https://imgur.com/a/09sf6VU"
   },
   "flags": [
     "fonts",
@@ -51,7 +52,7 @@
     ]
   },
   "repo": "https://github.com/TechnoSL/m0re_techno",
-  "hash": "93755e09e846289f66363434bcfe87429dd71425",
+  "hash": "1a1f8bec34b41c4c566e1ff9852d61b2f5db8d78",
   "parent": "m0rehud",
   "resources": [
     "m0re-techno-banner",
