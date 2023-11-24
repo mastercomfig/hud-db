@@ -1,0 +1,63 @@
+{
+  "name": "Mono Hud",
+  "author": "Village Green Preserver",
+  "contributors": [
+    "Village Green Preserver"
+  ],
+  "releaseDate": "2022-02-12",
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials"
+  ],
+  "repo": "https://github.com/VillageGreenPreserver/MonoHud",
+  "hash": "e232430c90eede67e7d54b45fb27e6778f6f516d",
+  "prerelease": false,
+  "resources": [
+    "banner",
+    "menu",
+    "casual",
+    "loadout",
+    "backpack",
+    "team",
+    "class",
+    "main",
+    "medic",
+    "score",
+    "pl",
+    "win"
+  ],
+  "social": {
+    "steam_profile": "76561198159585055",
+    "album": "https://imgur.com/a/uLTLVEB"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "pl",
+      "plr",
+      "pd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/10",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
