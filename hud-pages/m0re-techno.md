@@ -18,7 +18,7 @@ playmoo - bothud chat tf_english edit
 
 xcd859 - "background_gravelpit" menu background
 
-Niterux - "serenity" menu background from here
+Niterux - "serenity" menu background from [here](https://github.com/Niterux/xhud)
 
 and many more i don't recall, very appreciated
 
