@@ -18,8 +18,8 @@
     "wagoogus",
     "beta"
   ],
-  "repo": "https://github.com/GreySux/googhud-main",
-  "hash": "58f50e9b6ccf1f0a5c5e47596b2ec34043b38e32",
+  "repo": "https://github.com/GreySux/googhud",
+  "hash": "f86abc317b03dcaa68d9c87d50822e77473bf604",
   "prerelease": true,
   "resources": [
     "googhudpic",
@@ -63,7 +63,9 @@
       "sd"
     ],
     "res": [
-      "16/9"
+      "16/10",
+      "16/9",
+      "4/3"
     ],
     "position": [
       "center",
