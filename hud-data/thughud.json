@@ -1,0 +1,55 @@
+{
+  "name": "ThugHud",
+  "author": "Russ",
+  "contributors": [
+    "N1te (Sex Hud creator)"
+  ],
+  "social": {
+    "support": "https://steamcommunity.com/tradeoffer/new/?partner=413718379&token=3fJl5eiP",
+    "issues": "Add me on discord (russty._)",
+    "steam_profile": "76561198373984107",
+    "steam_group": "https://steamcommunity.com/groups/TheEroticBarber",
+    "discord": "russty._",
+    "youtube": "@RusstyTF2",
+    "twitch": "Twitch.tv/russ_tf2",
+    "album": "https://imgur.com/a/9B3JqwM"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/10",
+      "16/9"
+    ],
+    "position": [
+      "center"
+  ]
+  "repo": "https://github.com/RussTIB/thughud",
+  "hash": "90374efd3fa3c6c9717aec48f5dd4882d14ab903",
+  "prerelease": false,
+  "resources": [
+    "ThugHud-Pic",
+    "ThugHud-banner"
+  ]
+}
