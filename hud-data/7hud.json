@@ -1,6 +1,7 @@
 {
   "name": "7HUD",
   "author": "sevin",
+  "verified": true,
   "social": {
     "steam_profile": "76561198056804798",
     "steam_group": "7HUD",
@@ -44,7 +45,7 @@
     ]
   },
   "repo": "https://github.com/Sevin7/7hud",
-  "hash": "474914eceb324d77296831824e4cc7dc484d0a1f",
+  "hash": "a355383468c0f3dde0c764315a4cddc6a3b4ddd4",
   "resources": [
     "7hud-banner"
   ]

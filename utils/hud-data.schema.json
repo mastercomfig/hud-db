@@ -59,7 +59,7 @@
           ]
         },
         "steam_group": {
-          "description": "Your Steam group",
+          "description": "Your Steam group vanity ID (used for custom URLs)",
           "type": "string",
           "examples": [
             "valve"
@@ -240,7 +240,7 @@
       ]
     },
     "resources": {
-      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images",
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
       "type": "array",
       "items": {
         "type": "string"
