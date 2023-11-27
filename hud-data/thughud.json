@@ -6,10 +6,10 @@
   ],
   "social": {
     "support": "https://steamcommunity.com/tradeoffer/new/?partner=413718379&token=3fJl5eiP",
-    "issues": "Add me on discord (https://discordapp.com/channels/@me/russty._)",
-    "steam_profile": "592276117822636033",
+    "issues": "https://discordapp.com/channels/@me/592276117822636033",
+    "steam_profile": "76561198373984107",
     "steam_group": "TheEroticBarber",
-    "discord": "russty._",
+    "discord": "russty._#0",
     "youtube": "@RusstyTF2",
     "twitch": "russ_tf2",
     "album": "https://imgur.com/a/08u3K00"
@@ -44,7 +44,10 @@
     ],
     "position": [
       "center"
-  ]
+    ]
+  },
+  "repo": "https://github.com/RussTIB/thughud",
+  "hash": "90374efd3fa3c6c9717aec48f5dd4882d14ab903",
   "resources": [
     "ThugHud-Pic",
     "ThugHud-banner"
