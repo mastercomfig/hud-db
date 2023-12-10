@@ -31,14 +31,14 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "contributors": ["Original creator", "Previous maintainer"], // Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors. (optional)
   "releaseDate": "2009-12-31", // Initial release date of the HUD, YYYY-MM-DD (optional)
   "social": { // Optional mapping of social links
-    "support": "https://ko-fi.com/super-duper-person", // A link people can use to support you financially
+    "support": "https://ko-fi.com/super-duper-person", // A link people can use to support you financially (optional)
     "issues": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group vanity ID (used for custom URLs) (optional)
     "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
-    "discord": "vanity-or-invite", // Your Discord invite code, not the full URL (optional)
-    "youtube": "@TheCoolPerson", // Your YouTube channel (either /channel/userhash partial URL, @username or channel name)
-    "twitch": "CoolPersonStreamer", // Your Twitch channel name
+    "discord": "vanity-or-invite", // Your Discord server invite code, not the full URL, or your Discord in the format username#0 (optional)
+    "youtube": "@TheCoolPerson", // Your YouTube channel (either /channel/userhash partial URL, @username or channel name) (optional)
+    "twitch": "CoolPersonStreamer", // Your Twitch channel name (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "minmode", "streamer-mode", "materials", "customization"], // A list of boolean flags whose presense indicates the existence of a feature of some kind. (optional) Search syntax: has:x,y
