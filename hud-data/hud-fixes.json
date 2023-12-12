@@ -1,0 +1,52 @@
+{
+  "name": "Community HUD Fixes",
+  "author": "CriticalFlaw",
+  "verified": true,
+  "social": {
+    "steam_profile": "76561198041892999",
+    "twitter": "CriticalFlaw_",
+    "discord": "hTdtK9vBhE"
+  },
+  "flags": [
+    "customization",
+    "crosshairs",
+    "minmode",
+    "materials"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
+  },
+  "repo": "https://github.com/CriticalFlaw/TF2HUD.Fixes",
+  "hash": "eabd28aa5d2436b45eb78f0bf61b33a96c018db3",
+  "resources": [
+    "banner"
+  ]
+}
