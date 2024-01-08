@@ -7,7 +7,7 @@
   },
   "repo": "https://gamebanana.com/mods/411180",
   "hash": "1.2",
-  "initialUpdate": "2022-11-13",
+  "publishDate": "2022-11-13",
   "parent": "omp-hud",
   "resources": ["omp-ultrawide-banner"]
 }

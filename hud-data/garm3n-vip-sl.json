@@ -7,7 +7,7 @@
   },
   "repo": "https://gamebanana.com/mods/26298",
   "hash": "Update 5",
-  "initialUpdate": "2020-04-02",
+  "publishDate": "2020-04-02",
   "parent": "quakehud",
   "resources": ["garm3n-vip-sl-banner"]
 }

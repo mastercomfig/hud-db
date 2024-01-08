@@ -7,7 +7,7 @@
   },
   "repo": "https://gamebanana.com/mods/26350",
   "hash": "Update 9",
-  "initialUpdate": "2023-02-18",
+  "publishDate": "2023-02-18",
   "parent": "quakehud",
   "resources": ["garm3n-tf2-banner"]
 }
