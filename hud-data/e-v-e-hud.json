@@ -1,0 +1,13 @@
+{
+  "name": "E.V.E Hud",
+  "author": "Sinders",
+  "social": {
+    "steam_group": "eve-hud",
+    "album": "https://imgur.com/a/Tcf1Wsv"
+  },
+  "repo": "https://gamebanana.com/guis/25711",
+  "hash": "",
+  "resources": [
+    "e-v-e-hud-banner"
+  ]
+}

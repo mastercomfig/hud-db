@@ -1,0 +1,13 @@
+{
+  "name": "Slag Hud",
+  "author": "Magmadude",
+  "social": {
+    "steam_group": "SlagHUD",
+    "album": "https://imgur.com/a/hZyM6"
+  },
+  "repo": "https://gamebanana.com/mods/26568",
+  "hash": "",
+  "resources": [
+    "slag-hud-banner"
+  ]
+}

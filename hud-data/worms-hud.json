@@ -1,0 +1,12 @@
+{
+  "name": "Worms Hud",
+  "author": "Worms",
+  "social": {
+    "album": "https://i.imgur.com/jyt3wc3.jpg"
+  },
+  "repo": "https://gamebanana.com/mods/26420",
+  "hash": "",
+  "resources": [
+    "worms-hud-banner"
+  ]
+}

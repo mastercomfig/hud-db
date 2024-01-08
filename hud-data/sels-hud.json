@@ -1,0 +1,13 @@
+{
+  "name": "Sels Hud",
+  "author": "s\u00eal",
+  "social": {
+    "steam_group": "selhud",
+    "album": "https://imgur.com/a/brXMS"
+  },
+  "repo": "https://steamcommunity.com/groups/selhud",
+  "hash": "",
+  "resources": [
+    "sels-hud-banner"
+  ]
+}
