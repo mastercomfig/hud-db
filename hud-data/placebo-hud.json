@@ -1,0 +1,11 @@
+{
+  "name": "Placebo Hud",
+  "author": "Kermit",
+  "social": {
+    "album": "https://i.imgur.com/zktLEuq.jpg"
+  },
+  "repo": "https://www.teamfortress.tv/55500/placebohud",
+  "hash": "",
+  "initialUpdate": "2022-12-20",
+  "resources": ["placebo-hud-banner"]
+}

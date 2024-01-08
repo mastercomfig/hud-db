@@ -1,0 +1,11 @@
+{
+  "name": "Zephyr Hud",
+  "author": "Alex_f",
+  "social": {
+    "album": "https://imgur.com/a/fJXZ90x"
+  },
+  "repo": "https://www.teamfortress.tv/52877/zephyrhud",
+  "hash": "",
+  "initialUpdate": "2019-06-20",
+  "resources": ["zephyr-hud-banner"]
+}

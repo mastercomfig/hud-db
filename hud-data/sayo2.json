@@ -1,0 +1,12 @@
+{
+  "name": "Sayo2",
+  "author": "Iatgink",
+  "social": {
+    "album": "https://imgur.com/a/8pn0tYR"
+  },
+  "parent": "sayo3",
+  "repo": "https://www.dropbox.com/s/p1ghs8he51l87eg/Sayo2.7z?dl=1",
+  "hash": "",
+  "initialUpdate": "2021-08-04",
+  "resources": ["sayo2-banner"]
+}
