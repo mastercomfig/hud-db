@@ -5,8 +5,7 @@
     "album": "https://imgur.com/a/X6BlVI2"
   },
   "repo": "https://gamebanana.com/mods/26817",
-  "hash": "",
-  "resources": [
-    "slim-hud-banner"
-  ]
+  "hash": "v5.0.0",
+  "initialUpdate": "2018-01-15",
+  "resources": ["slim-hud-banner"]
 }

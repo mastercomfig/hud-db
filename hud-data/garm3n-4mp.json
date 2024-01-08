@@ -4,8 +4,9 @@
   "social": {
     "album": "https://imgur.com/a/zbk2fuk"
   },
-  "repo": "https://www.teamfortress.tv/10940/garm3nhud",
+  "repo": "https://www.dropbox.com/s/wq27zeisogyc9gn/Garm3n%204MP.7z?dl=1",
   "hash": "",
+  "initialUpdate": "2022-11-17",
   "parent": "quakehud",
   "resources": ["garm3n-4mp-banner"]
 }

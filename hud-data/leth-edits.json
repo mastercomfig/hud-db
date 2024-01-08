@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/q6kwsireztncw1o/Leth%20Edits.7z?dl=1",
   "hash": "",
-  "resources": [
-    "leth-edits-banner"
-  ]
+  "initialUpdate": "2023-01-06",
+  "resources": ["leth-edits-banner"]
 }

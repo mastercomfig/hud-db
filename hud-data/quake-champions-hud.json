@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/456684",
   "hash": "",
-  "resources": [
-    "quake-champions-hud-banner"
-  ]
+  "initialUpdate": "2023-07-17",
+  "resources": ["quake-champions-hud-banner"]
 }

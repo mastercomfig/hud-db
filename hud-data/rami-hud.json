@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/439294",
   "hash": "",
-  "resources": [
-    "rami-hud-banner"
-  ]
+  "initialUpdate": "2023-05-28",
+  "resources": ["rami-hud-banner"]
 }

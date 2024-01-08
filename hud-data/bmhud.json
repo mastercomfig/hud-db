@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/383932",
   "hash": "",
-  "resources": [
-    "bmhud-banner"
-  ]
+  "initialUpdate": "2022-06-16",
+  "resources": ["bmhud-banner"]
 }

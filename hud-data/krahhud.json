@@ -6,6 +6,7 @@
     "album": "https://imgur.com/a/2LvJ6hc"
   },
   "repo": "https://gamebanana.com/mods/361893",
-  "hash": "",
+  "hash": "v5",
+  "initialUpdate": "2023-10-23",
   "resources": ["krahhud-banner"]
 }

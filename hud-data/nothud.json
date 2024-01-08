@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/318318",
   "hash": "",
-  "resources": [
-    "nothud-banner"
-  ]
+  "initialUpdate": "2021-09-01",
+  "resources": ["nothud-banner"]
 }

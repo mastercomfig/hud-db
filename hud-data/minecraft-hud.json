@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/6px7awwmhzxuhcw/Minecraft%20HUD.7z?dl=1",
   "hash": "",
-  "resources": [
-    "minecraft-hud-banner"
-  ]
+  "initialUpdate": "2023-01-25",
+  "resources": ["minecraft-hud-banner"]
 }

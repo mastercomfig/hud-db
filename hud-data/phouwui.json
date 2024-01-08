@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/26195",
   "hash": "",
-  "resources": [
-    "phouwui-banner"
-  ]
+  "initialUpdate": "2023-03-06",
+  "resources": ["phouwui-banner"]
 }

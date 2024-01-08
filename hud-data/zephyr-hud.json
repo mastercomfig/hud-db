@@ -6,7 +6,6 @@
   },
   "repo": "https://www.teamfortress.tv/52877/zephyrhud",
   "hash": "",
-  "resources": [
-    "zephyr-hud-banner"
-  ]
+  "initialUpdate": "2019-06-20",
+  "resources": ["zephyr-hud-banner"]
 }

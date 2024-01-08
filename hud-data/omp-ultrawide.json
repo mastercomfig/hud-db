@@ -1,13 +1,13 @@
 {
   "name": "OMP Ultrawide",
-  "author": "dec",
+  "author": "Decci",
   "social": {
     "steam_group": "UltrawideOMP",
     "album": "https://imgur.com/a/fIPWCmm"
   },
   "repo": "https://gamebanana.com/mods/411180",
-  "hash": "",
-  "resources": [
-    "omp-ultrawide-banner"
-  ]
+  "hash": "1.2",
+  "initialUpdate": "2022-11-13",
+  "parent": "omp-hud",
+  "resources": ["omp-ultrawide-banner"]
 }

@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/26420",
   "hash": "",
-  "resources": [
-    "worms-hud-banner"
-  ]
+  "initialUpdate": "2020-01-01",
+  "resources": ["worms-hud-banner"]
 }

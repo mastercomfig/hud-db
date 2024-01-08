@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/329588",
   "hash": "",
-  "resources": [
-    "dickhud-banner"
-  ]
+  "initialUpdate": "2021-10-21",
+  "resources": ["dickhud-banner"]
 }

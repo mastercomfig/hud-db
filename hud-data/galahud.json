@@ -5,8 +5,7 @@
     "album": "https://imgur.com/a/WJGTcvI"
   },
   "repo": "https://gamebanana.com/mods/26481",
-  "hash": "",
-  "resources": [
-    "galahud-banner"
-  ]
+  "hash": "1.1",
+  "initialUpdate": "2019-12-03",
+  "resources": ["galahud-banner"]
 }

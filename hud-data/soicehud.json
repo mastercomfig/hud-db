@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/319004",
   "hash": "",
-  "resources": [
-    "soicehud-banner"
-  ]
+  "initialUpdate": "2021-09-04",
+  "resources": ["soicehud-banner"]
 }

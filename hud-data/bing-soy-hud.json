@@ -5,8 +5,7 @@
     "album": "https://imgur.com/a/3lLUyhA"
   },
   "repo": "https://gamebanana.com/mods/398210",
-  "hash": "",
-  "resources": [
-    "bing-soy-hud-banner"
-  ]
+  "hash": "0.7",
+  "initialUpdate": "2022-10-17",
+  "resources": ["bing-soy-hud-banner"]
 }

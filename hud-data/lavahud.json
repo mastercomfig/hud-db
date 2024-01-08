@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/ju1yulp0s2gwy1c/lavahud-PRO.7z?dl=1",
   "hash": "",
-  "resources": [
-    "lavahud-banner"
-  ]
+  "initialUpdate": "2021-10-16",
+  "resources": ["lavahud-banner"]
 }

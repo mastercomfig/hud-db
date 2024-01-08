@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/380180",
   "hash": "",
-  "resources": [
-    "morbius-hud-banner"
-  ]
+  "initialUpdate": "2023-08-26",
+  "resources": ["morbius-hud-banner"]
 }

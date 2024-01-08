@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/26085",
   "hash": "",
-  "resources": [
-    "tch-hud-banner"
-  ]
+  "initialUpdate": "2021-07-01",
+  "resources": ["tch-hud-banner"]
 }

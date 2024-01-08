@@ -6,8 +6,7 @@
     "album": "https://imgur.com/a/Tcf1Wsv"
   },
   "repo": "https://gamebanana.com/guis/25711",
-  "hash": "",
-  "resources": [
-    "e-v-e-hud-banner"
-  ]
+  "hash": "v4.30",
+  "initialUpdate": "2021-12-26",
+  "resources": ["e-v-e-hud-banner"]
 }

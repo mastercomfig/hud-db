@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/guis/34691",
   "hash": "",
-  "resources": [
-    "quotehud-banner"
-  ]
+  "initialUpdate": "2020-11-30",
+  "resources": ["quotehud-banner"]
 }

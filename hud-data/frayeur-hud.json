@@ -5,8 +5,7 @@
     "album": "https://imgur.com/a/m3UuWKH"
   },
   "repo": "https://gamebanana.com/mods/440980",
-  "hash": "",
-  "resources": [
-    "frayeur-hud-banner"
-  ]
+  "hash": "0e3e8",
+  "initialUpdate": "2023-04-30",
+  "resources": ["frayeur-hud-banner"]
 }

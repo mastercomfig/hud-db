@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/3l5i32l5steol27/cs-0.5.7z?dl=1",
   "hash": "",
-  "resources": [
-    "cs-0-5-banner"
-  ]
+  "initialUpdate": "2022-08-02",
+  "resources": ["cs-0-5-banner"]
 }

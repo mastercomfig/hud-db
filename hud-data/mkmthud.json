@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/0505a69md2iogwn/mkmthud.7z?dl=1",
   "hash": "",
-  "resources": [
-    "mkmthud-banner"
-  ]
+  "initialUpdate": "2021-10-01",
+  "resources": ["mkmthud-banner"]
 }

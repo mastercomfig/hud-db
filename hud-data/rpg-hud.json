@@ -6,7 +6,6 @@
   },
   "repo": "https://gamebanana.com/mods/356108",
   "hash": "",
-  "resources": [
-    "rpg-hud-banner"
-  ]
+  "initialUpdate": "2023-04-02",
+  "resources": ["rpg-hud-banner"]
 }

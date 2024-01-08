@@ -6,7 +6,6 @@
   },
   "repo": "https://www.dropbox.com/s/grk1s8mfrrzvtoc/Sayo3.7z?dl=1",
   "hash": "",
-  "resources": [
-    "sayo3-banner"
-  ]
+  "initialUpdate": "2022-11-17",
+  "resources": ["sayo3-banner"]
 }

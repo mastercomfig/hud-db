@@ -5,8 +5,7 @@
     "album": "https://imgur.com/a/S1WVNqc"
   },
   "repo": "https://gamebanana.com/mods/459129",
-  "hash": "",
-  "resources": [
-    "maxihud-banner"
-  ]
+  "hash": "1.8.1",
+  "initialUpdate": "2023-12-08",
+  "resources": ["maxihud-banner"]
 }
