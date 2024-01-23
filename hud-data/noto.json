@@ -6,8 +6,6 @@
     "album": "https://imgur.com/a/wrdN8uY"
   },
   "repo": "https://github.com/Hypnootize/Noto-Hud",
-  "hash": "55e667e646387a4cd1dc14f3b767f0417cbbc083",
-  "resources": [
-    "noto-banner"
-  ]
+  "hash": "443290c6300ce7873322138c377fd3f4e371d938",
+  "resources": ["noto-banner"]
 }

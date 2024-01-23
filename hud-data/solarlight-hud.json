@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/SolarLightTF2/SolarLightHUD",
   "hash": "b7059e253051b24b2b90b37576cbc35baec005c6",
-  "resources": [
-    "solarlight-hud-banner"
-  ]
+  "resources": ["solarlight-hud-banner"]
 }

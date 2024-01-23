@@ -1,17 +1,9 @@
 {
   "name": "Mono Hud",
   "author": "Village Green Preserver",
-  "contributors": [
-    "Village Green Preserver"
-  ],
+  "contributors": ["Village Green Preserver"],
   "releaseDate": "2022-02-12",
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "crosshairs",
-    "materials"
-  ],
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "repo": "https://github.com/VillageGreenPreserver/MonoHud",
   "hash": "e232430c90eede67e7d54b45fb27e6778f6f516d",
   "prerelease": false,
@@ -34,9 +26,7 @@
     "album": "https://imgur.com/a/uLTLVEB"
   },
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "arena",
@@ -51,13 +41,7 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/10",
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ]
+    "res": ["4/3", "16/10", "16/9"],
+    "position": ["center"]
   }
 }

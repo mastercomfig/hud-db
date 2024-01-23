@@ -1,9 +1,7 @@
 {
   "name": "rayshud",
   "author": "raysfire",
-  "contributors": [
-    "CriticalFlaw"
-  ],
+  "contributors": ["CriticalFlaw"],
   "social": {
     "steam_group": "rayshud",
     "discord": "hTdtK9vBhE",
@@ -18,10 +16,7 @@
     "materials"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -41,20 +36,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/raysfire/rayshud",
-  "hash": "e92807d14639d1c3c25e6e374354f035d2d58e71",
-  "resources": [
-    "banner",
-    "hud",
-    "hud-medic",
-    "scoreboard",
-    "menu",
-    "loadout"
-  ]
+  "hash": "36d1ed7b22c3c81c4d9cbc614bfe635830c25a34",
+  "resources": ["banner", "hud", "hud-medic", "scoreboard", "menu", "loadout"]
 }

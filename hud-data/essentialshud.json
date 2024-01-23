@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/CriticalFlaw/EssentialsHUD",
   "hash": "9481d16f93029821c376cb7291141790f562aacc",
-  "resources": [
-    "essentialshud-banner"
-  ]
+  "resources": ["essentialshud-banner"]
 }

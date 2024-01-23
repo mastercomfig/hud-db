@@ -1,16 +1,12 @@
 {
   "name": "Garm3n 7MF",
   "author": "Garm3n",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/lwAFh"
   },
   "repo": "https://github.com/Hypnootize/Garm3n-7MF",
   "hash": "458657fe37357491731abc4f1f3fa8fe081c563f",
   "parent": "quakehud",
-  "resources": [
-    "garm3n-7mf-banner"
-  ]
+  "resources": ["garm3n-7mf-banner"]
 }

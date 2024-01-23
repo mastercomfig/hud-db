@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/amp-t1/panzer_hud_master",
   "hash": "96b26504d35d189b5b152d38da7cb98d6dbfaaf4",
-  "resources": [
-    "panzer_hud-banner"
-  ]
+  "resources": ["panzer_hud-banner"]
 }

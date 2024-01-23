@@ -16,9 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -33,22 +31,11 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "5/4", "16/10", "16/9"],
+    "position": ["center"],
+    "lang": ["en"]
   },
-  "tags": [
-    "minimal"
-  ],
+  "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
   "hash": "bd3100ae6453b01915c820d8608b0873f47016e2",
   "prerelease": false,

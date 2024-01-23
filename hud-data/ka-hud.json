@@ -1,15 +1,11 @@
 {
   "name": "kA_Hud",
   "author": "AndKenneth",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/aZCiw"
   },
   "repo": "https://github.com/Hypnootize/kA_Hud",
   "hash": "168fc99a09e4354a3d44336203c7eb6f2536e37d",
-  "resources": [
-    "ka-hud-banner"
-  ]
+  "resources": ["ka-hud-banner"]
 }

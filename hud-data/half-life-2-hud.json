@@ -5,8 +5,6 @@
     "album": "https://imgur.com/a/TXR3dPW"
   },
   "repo": "https://github.com/VillageGreenPreserver/Half-Life-2-Hud",
-  "hash": "056cd2a3488e9f9879d14647b6755437e2e9c073",
-  "resources": [
-    "half-life-2-hud-banner"
-  ]
+  "hash": "13a4656b8ca4413c869d432a17d1e837a8cbbc44",
+  "resources": ["half-life-2-hud-banner"]
 }

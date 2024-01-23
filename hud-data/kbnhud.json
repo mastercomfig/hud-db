@@ -18,11 +18,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -42,23 +38,11 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ]
+    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
   },
-  "tags": [
-    "minimal",
-    "ultra-minimal",
-    "competitive"
-  ],
+  "tags": ["minimal", "ultra-minimal", "competitive"],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "32b8cff94a5fe9846c6272fcd611c56a14c94ddc",
+  "hash": "141bf3679db54fb28ea6e12eedb3eabadc81fc0b",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",

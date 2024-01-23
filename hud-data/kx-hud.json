@@ -1,15 +1,11 @@
 {
   "name": "KX-Hud",
   "author": "Unknown",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/iqTGSmH"
   },
   "repo": "https://github.com/Hypnootize/KX-Hud",
   "hash": "340480099fe83fba60dd62fbb740afc4ad37c03f",
-  "resources": [
-    "kx-hud-banner"
-  ]
+  "resources": ["kx-hud-banner"]
 }

@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/fluxxy/fluxhud",
   "hash": "ad52c227ed54e5049ded2ac7941d06e8c490817f",
-  "resources": [
-    "flux-hud-banner"
-  ]
+  "resources": ["flux-hud-banner"]
 }

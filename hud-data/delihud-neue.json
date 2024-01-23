@@ -5,18 +5,9 @@
     "steam_group": "deliHUD",
     "album": "https://imgur.com/a/ix8g52d"
   },
-  "flags": [
-    "fonts",
-    "scoreboards",
-    "crosshairs",
-    "materials",
-    "customization"
-  ],
+  "flags": ["fonts", "scoreboards", "crosshairs", "materials", "customization"],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,16 +27,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/delegacz/deliHUDNeue",
   "hash": "37abc07a018e00abf9dd8989790523c22f08f858",
   "parent": "deli-hud",
-  "resources": [
-    "delihud-neue-banner"
-  ]
+  "resources": ["delihud-neue-banner"]
 }
