@@ -1,0 +1,29 @@
+{
+    "name": "technohud",
+    "author": "techno",
+    "releaseDate": "2024-01-11",
+    "social": {
+        "steam_profile": "76561198172101254",
+        "discord": "rc4322",
+        "album": "https://imgur.com/a/aHdoUKi"
+    },
+    "flags": ["fonts", "menus",  "materials", "customization"],
+    "traits": {
+        "os": ["windows"],
+        "gamemode": ["tournament", "comp", "ad", "cp", "koth", "mannpower", "pl", "plr"],
+        "res": ["4/3", "16/9"],
+        "position": ["center"],
+        "lang": ["en"]
+    },
+    "tags": ["light", "minimal", "monochrome"],
+    "repo": "https://github.com/TechnoSL/technohud",
+    "hash": "55f3cac33376c936c4db089382f15b2ecad4b467",
+    "prerelease": true,
+    "resources": [
+        "th-banner",
+        "th-menu",
+        "th-loadout",
+        "th-backpack",
+        "th-gameplay"
+    ]
+}
