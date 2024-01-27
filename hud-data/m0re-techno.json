@@ -15,7 +15,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,12 +38,24 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/TechnoSL/m0re_techno",
   "hash": "a9eb7559f5602be016b84f83ff4d3e3de1d8bac6",
   "parent": "m0rehud",
-  "resources": ["m0re-techno-banner", "m0re-techno-gameplay"]
+  "resources": [
+    "m0re-techno-banner",
+    "m0re-techno-gameplay"
+  ]
 }
