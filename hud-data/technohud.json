@@ -4,7 +4,7 @@
   "releaseDate": "2024-01-11",
   "social": {
     "steam_profile": "76561198172101254",
-    "discord": "rc4322",
+    "discord": "rc4322#0",
     "album": "https://imgur.com/a/aHdoUKi"
   },
   "flags": [
@@ -26,7 +26,9 @@
       "mannpower",
       "pl",
       "plr",
-      "ctf"
+      "ctf",
+      "sd",
+      "mvm"
     ],
     "res": [
       "4/3",
@@ -45,7 +47,7 @@
     "monochrome"
   ],
   "repo": "https://github.com/TechnoSL/technohud",
-  "hash": "237e1304d2fdadf2675a26583f2aac0dd9e05c16",
+  "hash": "5a8e15479308e69e90d80f25a5caeb3d066beadb",
   "prerelease": true,
   "resources": [
     "th-banner",
