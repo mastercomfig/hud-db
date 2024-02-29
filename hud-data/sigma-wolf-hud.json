@@ -15,14 +15,15 @@
     "meme"
   ],
   "repo": "https://github.com/zxxtlz/sigmawolfhud",
-  "hash": "4b0b6781dbd9dc148348cc46477d87a81787751e",
+  "hash": "c11bc5870f8781fd66c248c6ef99ad9b5d9df6ea",
   "prerelease": false,
   "resources": [
     "sigma"
   ],
   "social": {
     "issues": "https://github.com/zxxtlz/sigmawolfhud/issues",
-    "steam_profile": "https://steamcommunity.com/id/metalcock",
+    "steam_profile": "metalcock",
+    "youtube": "@zxxtlz",
     "album": "https://imgur.com/a/K6bAsUA"
   },
   "traits": {
