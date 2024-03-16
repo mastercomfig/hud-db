@@ -30,7 +30,8 @@
       "examples": ["2009-12-31"]
     },
     "social": {
-      "description": "Links to your social media profiles",
+      "title": "External Links",
+      "description": "Links to your social media profiles and other pages",
       "type": "object",
       "properties": {
         "support": {
