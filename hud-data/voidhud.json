@@ -16,11 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -40,12 +36,7 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/cjrose/voidHUD",
   "hash": "2cc08c4d8e08085549bdb5cd0080e6f28ba12921",

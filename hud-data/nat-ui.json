@@ -3,39 +3,29 @@
   "author": "Natalexei",
   "social": {
     "steam_profile": "76561198100477765",
-    "twitter": "Natalexei_"
+    "twitter": "Natalexei_",
+    "album": "https://imgur.com/a/Vqd785m"
   },
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
-        "tournament",
-        "comp",
-        "arena",
-        "ad",
-        "ctf",
-        "cp",
-        "halloween",
-        "koth",
-        "mvm",
-        "pl",
-        "plr",
-        "pd",
-        "sd"
-      ],
-      "res": [
-        "4/3",
-        "16/9"
-      ]
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mvm",
+      "pl",
+      "plr",
+      "pd",
+      "sd"
+    ],
+    "res": ["4/3", "16/9"]
   },
   "repo": "https://github.com/Natalexei/Nat-UI",
   "hash": "39b5e35b6fda3dee876fae8a1c7266ec8158087e",
-  "resources": [
-    "main",
-    "max",
-    "min",
-    "medmax",
-    "medmin"
-  ]
+  "resources": ["main", "max", "min", "medmax", "medmin"]
 }

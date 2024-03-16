@@ -8,16 +8,12 @@
     "name": {
       "description": "Display name of your HUD",
       "type": "string",
-      "examples": [
-        "My HUD"
-      ]
+      "examples": ["My HUD"]
     },
     "author": {
       "description": "Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)",
       "type": "string",
-      "examples": [
-        "Cool person"
-      ]
+      "examples": ["Cool person"]
     },
     "contributors": {
       "description": "Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors",
@@ -25,16 +21,12 @@
       "items": {
         "type": "string"
       },
-      "examples": [
-        "Original creator, Previous maintainer"
-      ]
+      "examples": ["Original creator, Previous maintainer"]
     },
     "releaseDate": {
-      "description": "Initial release date of the HUD",
+      "description": "Initial release date of the HUD, YYYY-MM-DD",
       "type": "string",
-      "examples": [
-        "2009-12-31"
-      ]
+      "examples": ["2009-12-31"]
     },
     "social": {
       "description": "Links to your social media profiles",
@@ -43,9 +35,7 @@
         "support": {
           "description": "A link people can use to support you financially",
           "type": "string",
-          "examples": [
-            "https://ko-fi.com/super-duper-person"
-          ]
+          "examples": ["https://ko-fi.com/super-duper-person"]
         },
         "issues": {
           "description": "An extra link where users can get help/report issues. If not present, will use GitHub Issues.",
@@ -54,51 +44,37 @@
         "steam_profile": {
           "description": "Your SteamID64",
           "type": "string",
-          "examples": [
-            "76561191234567890"
-          ]
+          "examples": ["76561191234567890"]
         },
         "steam_group": {
-          "description": "Your Steam group",
+          "description": "Your Steam group vanity ID (used for custom URLs)",
           "type": "string",
-          "examples": [
-            "valve"
-          ]
+          "examples": ["valve"]
         },
         "twitter": {
           "description": "Your Twitter handle",
           "type": "string",
-          "examples": [
-            "CoolPerson12812381841823812"
-          ]
+          "examples": ["CoolPerson12812381841823812"]
         },
         "discord": {
-          "description": "Your Discord invite code, not the full URL",
+          "description": "Your Discord server invite code, not the full URL, or your Discord in the format username#0",
           "type": "string",
-          "examples": [
-            "vanity-or-invite"
-          ]
+          "examples": ["vanity-or-invite"]
         },
         "youtube": {
           "description": "Your YouTube channel (either /channel/id URL, @username or channel name)",
           "type": "string",
-          "examples": [
-            "@TheCoolPerson"
-          ]
+          "examples": ["@TheCoolPerson"]
         },
         "twitch": {
           "description": "Your Twitch channel name",
           "type": "string",
-          "examples": [
-            "CoolPersonStreamer"
-          ]
+          "examples": ["CoolPersonStreamer"]
         },
         "album": {
           "description": "Link to some Imgur album or other to provide more images",
           "type": "string",
-          "examples": [
-            "https://imgur.com/a/fajsf"
-          ]
+          "examples": ["https://imgur.com/a/fajsf"]
         }
       }
     },
@@ -194,9 +170,7 @@
             "type": "string"
           },
           "uniqueItems": true,
-          "examples": [
-            "en"
-          ]
+          "examples": ["en"]
         }
       }
     },
@@ -206,23 +180,17 @@
       "items": {
         "type": "string"
       },
-      "examples": [
-        "minimal, monochrome"
-      ]
+      "examples": ["minimal, monochrome"]
     },
     "repo": {
       "description": "GitHub repo web URL",
       "type": "string",
-      "examples": [
-        "https://github.com/cool-person/myhud"
-      ]
+      "examples": ["https://github.com/cool-person/myhud"]
     },
     "hash": {
       "description": "Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)",
       "type": "string",
-      "examples": [
-        "84c64d403a650b3ae4793c9d32e01b3383445740"
-      ]
+      "examples": ["84c64d403a650b3ae4793c9d32e01b3383445740"]
     },
     "prerelease": {
       "description": "If this is a prerelease/WIP HUD",
@@ -235,12 +203,10 @@
     "parent": {
       "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
       "type": "string",
-      "examples": [
-        "their-hud"
-      ]
+      "examples": ["their-hud"]
     },
     "resources": {
-      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images",
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
       "type": "array",
       "items": {
         "type": "string"
@@ -248,9 +214,7 @@
       "minItems": 1,
       "maxItems": 15,
       "uniqueItems": true,
-      "examples": [
-        "myhud-banner, cool-image-1, https://youtu.be/21asadf"
-      ]
+      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
     }
   }
 }

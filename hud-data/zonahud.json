@@ -14,9 +14,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,13 +34,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ]
+    "res": ["16/9"]
   },
   "repo": "https://github.com/tf2huds/zonahud",
-  "hash": "633ec34e176a36197230e95240325782d9114adf",
-  "resources": [
-    "zonahud-banner"
-  ]
+  "hash": "1d2105b40180193789b4cd1a19bebf72da4c15d9",
+  "resources": ["zonahud-banner"]
 }

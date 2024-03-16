@@ -1,15 +1,11 @@
 {
   "name": "Metro HUD",
   "author": "Unknown",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/QfU3Z"
   },
   "repo": "https://github.com/Hypnootize/Metro-Hud",
   "hash": "a4c0b83c304d792c662fbd0d5ef3c4a70ef17204",
-  "resources": [
-    "metro-hud-banner"
-  ]
+  "resources": ["metro-hud-banner"]
 }

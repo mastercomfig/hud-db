@@ -1,16 +1,12 @@
 {
   "name": "Goat HUD",
   "author": "Goat_",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "goat_hud",
     "album": "https://imgur.com/a/T584p"
   },
   "repo": "https://github.com/Hypnootize/Goat-Hud",
   "hash": "3b2d16b17de39fdfa9969715d6ef12eed097f8f5",
-  "resources": [
-    "goat-hud-banner"
-  ]
+  "resources": ["goat-hud-banner"]
 }

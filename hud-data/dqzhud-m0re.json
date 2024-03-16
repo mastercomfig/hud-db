@@ -2,9 +2,7 @@
   "name": "dqzhud m0re",
   "author": "dqz",
   "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "6f394e56b16926c7eab79822942682f1030c8150",
+  "hash": "20e3b964685ed06cdd2f9df417d551ad592706b6",
   "parent": "dqzhud",
-  "resources": [
-    "dqzhud-m0re-banner"
-  ]
+  "resources": ["dqzhud-m0re-banner"]
 }

@@ -6,8 +6,6 @@
     "album": "https://imgur.com/a/chhy30W"
   },
   "repo": "https://github.com/thekins/frankenhud",
-  "hash": "f03ea237b4e3b20bcae27bd18466520b7e9686d0",
-  "resources": [
-    "franken-hud-banner"
-  ]
+  "hash": "ad63333f2171315087b1465b562fd5471dccb5b4",
+  "resources": ["franken-hud-banner"]
 }

@@ -1,15 +1,11 @@
 {
   "name": "Wavesui",
   "author": "extracrispy",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/Xxxoc"
   },
   "repo": "https://github.com/Hypnootize/Wavesui-Hud",
-  "hash": "663021acedb4c0a26cb9374a45e1e4eb90ea8116",
-  "resources": [
-    "wavesui-banner"
-  ]
+  "hash": "864234983fbd38cc827318ffa7f2416c4aa45a8a",
+  "resources": ["wavesui-banner"]
 }

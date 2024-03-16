@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/misterslin/SlinFireHUD",
   "hash": "66671f11c90c7754d29d6cae5dc4f04c95832edd",
-  "resources": [
-    "slinfire-hud-banner"
-  ]
+  "resources": ["slinfire-hud-banner"]
 }

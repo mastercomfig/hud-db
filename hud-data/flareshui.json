@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/flaresmoney/flareshUI-GREEN",
   "hash": "6dbc5ba90c0f03fe9f2a9216b5f638dec51d7ee9",
-  "resources": [
-    "flareshui-banner"
-  ]
+  "resources": ["flareshui-banner"]
 }

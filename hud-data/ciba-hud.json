@@ -14,9 +14,7 @@
     "materials"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,16 +33,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/CibaCity/cibahud",
-  "hash": "b71d09692301c33cb5e83db8e3e0c49060fcdfc4",
-  "resources": [
-    "ciba-hud-banner"
-  ]
+  "hash": "9738f77676bb1b486e64a4d256ffd22388ad7abb",
+  "resources": ["ciba-hud-banner"]
 }

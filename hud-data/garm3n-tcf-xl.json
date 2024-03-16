@@ -1,16 +1,12 @@
 {
   "name": "Garm3n TCF-XL",
   "author": "Garm3n",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/Q7SLN"
   },
   "repo": "https://github.com/Hypnootize/Garm3n-TCF-XL",
   "hash": "1e6ba14d5cb79ba4aea062086c1fee5c8c48c0ed",
   "parent": "quakehud",
-  "resources": [
-    "garm3n-tcf-xl-banner"
-  ]
+  "resources": ["garm3n-tcf-xl-banner"]
 }

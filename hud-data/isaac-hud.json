@@ -6,8 +6,6 @@
     "album": "https://imgur.com/a/6vY5W"
   },
   "repo": "https://github.com/Xeletron/Isaac-Hud",
-  "hash": "b5c9b965cf01cea964899683188f88f12e51f10b",
-  "resources": [
-    "isaac-hud-banner"
-  ]
+  "hash": "a9c4b70ae6b02295a2197e04f0edabffaecaf4c7",
+  "resources": ["isaac-hud-banner"]
 }

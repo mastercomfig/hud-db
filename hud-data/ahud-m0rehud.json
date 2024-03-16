@@ -1,16 +1,12 @@
 {
   "name": "ahud-m0rehud",
   "author": "Unknown",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/icrhu"
   },
   "repo": "https://github.com/Hypnootize/ahud-m0rehud",
   "hash": "bf84a59a59b5974c28ee2d9a0880d7639848c97f",
   "parent": "ahud",
-  "resources": [
-    "ahud-m0rehud-banner"
-  ]
+  "resources": ["ahud-m0rehud-banner"]
 }

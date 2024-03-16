@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/deni294/DeniHud",
   "hash": "7cc059987273924da1d7000187861713564176d2",
-  "resources": [
-    "denihud-banner"
-  ]
+  "resources": ["denihud-banner"]
 }

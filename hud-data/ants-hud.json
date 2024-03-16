@@ -15,9 +15,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,15 +35,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/AsianAntwan/AntsHUD",
-  "hash": "e45155d821af37515fa0ea1f0d2ce8959d2e02e5",
-  "resources": [
-    "ants-hud-banner"
-  ]
+  "hash": "ed6cb37bf0c6c66e4f0e959a23f4c586a08350d0",
+  "resources": ["ants-hud-banner"]
 }
