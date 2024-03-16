@@ -2,12 +2,16 @@
 
 <p align="center">
   <p align="center">
-    The Black Mesa Research Facility is excited to announce the latest in HEV suit Heads-Up-Display technology; a design from 1998, now compatible with a "modern" class-based first person shooter.
+    Rise and shine <br>
+    Kruphixx - Arena & MvM <br>
+    Hypnotize - TF2 Hud Icons
     <br />
-    <a href="https://imgur.com/a/ka6q5Pe">Screenshots</a>
+    <a href="https://imgur.com/a/TXR3dPW">Screenshots</a>
     -
-    <a href="https://github.com/VillageGreenPreserver/Half-Life-Hud">GitHub</a>
+    <a href="https://github.com/VillageGreenPreserver/Half-Life-2-Hud">GitHub</a>
     -
-    <a href="https://gamebanana.com/mods/455763">GameBanana</a>
+    <a href="https://gamebanana.com/mods/390057">GameBanana</a>
+    -
+    <a href="https://tf2huds.dev/hud/Half-Life-2-HUD">TF2 Huds</a>
   </p>
 </p>
