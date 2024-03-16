@@ -90,11 +90,11 @@ Your hash is a commit SHA ID from your repo, pointing to the latest commit you w
 
 You can either copy it directly from GitHub commit history:
 
-![GitHub commit history copy full SHA](https://media.discordapp.net/attachments/1068126772811534417/1070118137074302976/image.png)
+![GitHub commit history copy full SHA](utils/commithistory.png)
 
 Or you can get it from the GitHub commit's page:
 
-![Annotated GitHub commit page highlighting where the hash is shown](https://media.discordapp.net/attachments/1068126772811534417/1070118137296584835/image.png)
+![GitHub commit page highlighting where the hash is shown](utils/commiturl.png)
 
 ### Update Helper
 
