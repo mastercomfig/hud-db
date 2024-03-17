@@ -22,7 +22,7 @@ There are 3 main folders for the HUDs:
 
 This is the main data source for a HUD. This defines the HUD and its properties. You create a `.json` file called `hud-id.json`. Here's an example with explanations (please note that comments are not allowed in actual JSON):
 
-`myhud.json`
+`my-hud.json`
 
 ```jsonc
 {
@@ -56,7 +56,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "verified": true, // For internal use only to enable some functionality. Do not set this yourself.
   "parent": "their-hud", // If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.
   "resources": [ // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
-    "myhud-banner", // First resource is the display banner in listings
+    "my-hud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
     "https://youtu.be/21asadf" // Supports youtu.be links for video embeds
   ]
@@ -112,7 +112,7 @@ This is Markdown displayed in the description box of your HUD page. Similarly to
 
 To replicate a classic layout like the one on `huds.tf`:
 
-`myhud.md`
+`my-hud.md`
 
 ```md
 # Description
@@ -137,8 +137,8 @@ You add resources that you list in your JSON to the `hud-resources/` folder, und
 ```
 hud-resouces/
 │
-└───myhud/
-    |    myhud-banner.webp
+└───my-hud/
+    |    my-hud-banner.webp
     |    cool-image-1.webp
     └─
 ```
