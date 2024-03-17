@@ -29,6 +29,22 @@
       "type": "string",
       "examples": ["2009-12-31"]
     },
+    "parent": {
+      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
+      "type": "string",
+      "examples": ["their-hud"]
+    },
+    "resources": {
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 15,
+      "uniqueItems": true,
+      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
+    },
     "social": {
       "title": "External Links",
       "description": "Links to your social media profiles and other pages",
@@ -205,22 +221,6 @@
     "verified": {
       "description": "For internal use only to enable some functionality. Do not set this yourself.",
       "type": "boolean"
-    },
-    "parent": {
-      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
-      "type": "string",
-      "examples": ["their-hud"]
-    },
-    "resources": {
-      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "minItems": 1,
-      "maxItems": 15,
-      "uniqueItems": true,
-      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
     }
   }
 }
