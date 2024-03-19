@@ -15,7 +15,7 @@ if len(sys.argv) > 1:
         else:
             globs.append(f"{arg}.json")
 else:
-    print("Must specify globs")
+    print("Must specify globs. Did you mean '*'?")
     sys.exit(1)
 
 huds = {}
@@ -26,7 +26,7 @@ for glb in globs:
 
 if len(huds) == 0:
     print(
-        f"No HUDs found. Your arguments passed were: {sys.argv[1:]}. Did you mean for that?"
+        f"No HUDs found. Your arguments passed were: {sys.argv[1:]}. Did you mean for that? Perhaps you meant to single quote a wildcard."
     )
     sys.exit(1)
 
