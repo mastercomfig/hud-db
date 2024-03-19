@@ -9,6 +9,7 @@
     "gamemode": ["ad", "ctf", "cp", "koth", "mannpower", "pl"],
     "res": ["16/9"]
   },
+  "tags": ["minimal", "flat", "pink"],
   "repo": "https://github.com/quickkennedy/candyhud",
   "hash": "c5fd838416babb76634527478fcae4e296d64115",
   "resources": ["candyhud-banner"]

@@ -6,6 +6,7 @@
     "steam_group": "BazHUD",
     "album": "https://imgur.com/a/982kf"
   },
+  "tags": ["flat"],
   "repo": "https://github.com/Hypnootize/Baz-Hud",
   "hash": "4e5251d92d733cc1d3414dffcc075cf4216bb42c",
   "resources": ["baz-hud-banner"]

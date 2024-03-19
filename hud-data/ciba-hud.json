@@ -35,6 +35,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/CibaCity/cibahud",
   "hash": "770eb4b0d1996197d2e41a478c2e1d347255ffb1",
   "resources": ["ciba-hud-banner"]

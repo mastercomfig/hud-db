@@ -37,6 +37,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
+  "tags": ["flat"],
   "repo": "https://github.com/MedicodiBiscotti/biscottiHUD",
   "hash": "394bcda789385da99a02e5897ee0fd1a593a8f24",
   "resources": ["biscotti-hud-banner"]

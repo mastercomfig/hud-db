@@ -38,6 +38,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/quickkennedy/cutehud",
   "hash": "f60ce66b54a0f3700238984dd0c31ecdc2c636a2",
   "resources": [

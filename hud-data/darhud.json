@@ -36,6 +36,7 @@
       "sd"
     ],
     "res": ["4/3", "16/9"],
-    "position": ["center", "corners"]
+    "position": ["center", "corners"],
+    "tags": ["classic"]
   }
 }

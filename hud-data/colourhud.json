@@ -38,6 +38,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10", "21/9", "32/9"]
   },
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/mcolour/colourhud",
   "hash": "8ecb5475c998789adb2f1af4f365f435ce19f096",
   "resources": [

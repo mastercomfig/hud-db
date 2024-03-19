@@ -5,35 +5,15 @@
     "steam_profile": "76561198159585055",
     "album": "https://imgur.com/a/TXR3dPW"
   },
-  "flags": [
-    "menus",
-    "materials",
-    "customization"
-  ],
+  "flags": ["menus", "materials", "customization"],
   "traits": {
-    "os": [
-      "windows"
-    ],
-    "gamemode": [
-      "ad",
-      "ctf",
-      "cp",
-      "koth",
-      "pl",
-      "plr",
-      "tc",
-	  "arena"
-    ],
-    "res": [
-      "16/9"
-    ],
-    "position": [
-      "corners"
-    ],
-    "lang": [
-      "en"
-    ]
+    "os": ["windows"],
+    "gamemode": ["ad", "ctf", "cp", "koth", "pl", "plr", "tc", "arena"],
+    "res": ["16/9"],
+    "position": ["corners"],
+    "lang": ["en"]
   },
+  "tags": ["stylized"],
   "repo": "https://github.com/VillageGreenPreserver/Half-Life-2-Hud",
   "hash": "2ee5836259eab8dbf027ae2ddd740c7db68ab6f6",
   "resources": [

@@ -39,6 +39,7 @@
     ],
     "res": ["4/3", "16/9", "16/10"]
   },
+  "tags": ["flat"],
   "repo": "https://github.com/raysfire/rayshud",
   "hash": "802f7b4795d1fb6b1d5de625cce797a03744e79a",
   "resources": ["banner", "hud", "hud-medic", "scoreboard", "menu", "loadout"]

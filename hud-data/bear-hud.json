@@ -6,6 +6,7 @@
     "album": "https://imgur.com/a/emNmL",
     "steam_group": "bearnauthud"
   },
+  "tags": ["minimal", "flat", "toon"],
   "repo": "https://github.com/tf2huds/bearhud",
   "hash": "c8b7a4b3c67eae4279c79902158bbcd0a60688ed",
   "parent": "broesel-hud",

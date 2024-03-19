@@ -34,6 +34,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/n0kk/ahud",
   "hash": "419f0b4bcfd5c086d35525ec24558b6bdb01f587",
   "resources": ["ahud-banner"]

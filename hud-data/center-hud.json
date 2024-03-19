@@ -10,7 +10,7 @@
     "materials",
     "customization"
   ],
-  "tags": ["vanilla", "default"],
+  "tags": ["default", "classic"],
   "repo": "https://github.com/Eerorri/center-hud",
   "hash": "df072ab5355613fcaf0430d3db1acb9b1acef8c4",
   "prerelease": false,

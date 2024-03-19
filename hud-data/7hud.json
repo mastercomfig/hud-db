@@ -38,6 +38,7 @@
     ],
     "res": ["16/9"]
   },
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/Sevin7/7hud",
   "hash": "e292c6ca94af292615ab451805bdd225c0573c83",
   "resources": ["7hud-banner"]

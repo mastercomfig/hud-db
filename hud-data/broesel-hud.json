@@ -30,6 +30,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
+  "tags": ["minimal"],
   "repo": "https://github.com/Hypnootize/Broesel-Hud",
   "hash": "6e33915acac30cfe774a78abfd25a879b90bfb6c",
   "resources": ["broesel-hud-banner"]

@@ -59,7 +59,7 @@
       "tr"
     ]
   },
-  "tags": ["minimal"],
+  "tags": ["minimal", "flat"],
   "repo": "https://github.com/rbjaxter/budhud",
   "hash": "4e9b93e299f28fb2c0f3d39cfad2deaae7f1d9d4",
   "resources": [

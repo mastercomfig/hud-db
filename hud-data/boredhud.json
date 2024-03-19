@@ -30,6 +30,7 @@
     ],
     "res": ["4/3", "16/9", "16/10"]
   },
+  "tags": ["flat"],
   "repo": "https://github.com/TheStaticVoid/boredHUD",
   "hash": "d25719dc58a39b7d632466d43c586b89014c0a41",
   "resources": [

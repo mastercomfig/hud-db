@@ -6,6 +6,7 @@
     "steam_group": "broeselhud",
     "album": "https://imgur.com/a/fG2xQ"
   },
+  "tags": ["minimal"],
   "repo": "https://github.com/Hypnootize/Broesel-Old",
   "hash": "6b6954d8c9ad6c9de2a9b566e0b8bb07c97eef7c",
   "parent": "broesel-hud",
