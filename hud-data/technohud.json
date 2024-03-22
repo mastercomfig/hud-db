@@ -7,9 +7,16 @@
     "discord": "rc4322#0",
     "album": "https://imgur.com/a/aHdoUKi"
   },
-  "flags": ["fonts", "menus", "materials", "customization"],
+  "flags": [
+    "fonts",
+    "menus",
+    "materials",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -23,13 +30,24 @@
       "sd",
       "mvm"
     ],
-    "res": ["4/3", "16/9"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["light", "minimal", "monochrome"],
+  "tags": [
+    "light",
+    "minimal",
+    "monochrome"
+  ],
   "repo": "https://github.com/TechnoSL/technohud",
-  "hash": "5482de8616473f74c493fec4931bd193ca81e00f",
+  "hash": "dbc64ef28bc102f2bcc7c0701f6c9d4953e1c89e",
   "prerelease": true,
   "resources": [
     "th-banner",
