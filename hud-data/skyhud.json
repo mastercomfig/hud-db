@@ -1,18 +1,13 @@
 {
   "name": "Skyhud",
   "author": "skai",
-  "contributors": [
-    "wingo"
-  ],
+  "contributors": ["wingo"],
   "social": {
     "steam_profile": "76561198184881255",
     "album": "https://imgur.com/a/nX2t80F"
   },
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -32,18 +27,11 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ]
+    "res": ["4/3", "5/4", "16/10", "16/9"],
+    "position": ["center"]
   },
   "repo": "https://github.com/skaiTF/skyhud",
-  "hash": "a7023c6ef9ce5a419acd0e6489296001027b93a8",
+  "hash": "fe0a4e20f8c0ece8f8fd7173ece2c2596bb3a107",
   "resources": [
     "skyhud-banner",
     "main-menu",
