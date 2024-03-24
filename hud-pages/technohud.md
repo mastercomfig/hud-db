@@ -2,20 +2,33 @@
 
 ## [screenshots](https://imgur.com/a/aHdoUKi)
 
-an attempt at a hud made from scratch (mostly)
+an attempt at a hud made from scratch
 
-should work fine in both 16:9 (tested in 1920x1080) and 4:3 (i play 1280x960 fulltime), other aspect ratios might be a bit wonkier as they are untested.
+should work fine in both 16:9 (tested in 1920x1080) and 4:3 (i play 1280x960 fulltime), other aspect ratios are untested.
 
-## credits / things used
+## Credits / Elements used (this hud would not be remotely done if not for these people, massive props.)
 
-### Hypnotize - m0rehud & SunsetHud
+### Hypnotize - m0rehud
 
-preloader/method to move buffs/status effects on Player Health, Main Menu, Inventory, Payload Bars, Loading Icon (SunsetHud), ItemPanel Methods, Killstreak & 5CP Settings.
+Preloader, References, Main Menu, Inventory, Payload, ItemPanel Methods, Killfeed/Engineer Textures, Medic Uber+Vacc display, Killstreak & 5CP Settings.
 
 ### amp-t - PaoloDefault & PZKPFW
 
-Class Selection, MOTD, Map Info Menu and PZKPFW Killfeed Settings
+Class Selection, MOTD, Map Info Menu. (modified by me) and PZKPFW Killfeed Settings
 
 ### playmoo - BotHud
 
-Source Scheme, tf_english chat modifications
+tf_english chat modifications
+
+### Shredder - c-sharp
+
+WinPanel
+
+### Broesel - Broesel Hud
+
+Engineer Build/Destroy, Spy Disguise Select
+
+## Special Thanks
+
+HUDS.TF Discord - various troubleshooting and suggestions/feedback
+moki - linux playtesting

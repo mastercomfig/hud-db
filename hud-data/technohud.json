@@ -47,13 +47,18 @@
     "monochrome"
   ],
   "repo": "https://github.com/TechnoSL/technohud",
-  "hash": "dbc64ef28bc102f2bcc7c0701f6c9d4953e1c89e",
+  "hash": "83b9af4edd222fbb48af921bd10fa8f068152453",
   "prerelease": true,
   "resources": [
     "th-banner",
     "th-menu",
-    "th-loadout",
     "th-backpack",
-    "th-gameplay"
+    "th-loadout",
+    "th-gameplay",
+    "th-demoman",
+    "th-medic",
+    "th-ctf",
+    "th-mvm",
+    "th-altfont"
   ]
 }
