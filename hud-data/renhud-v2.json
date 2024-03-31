@@ -17,23 +17,9 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
-    "gamemode": [
-      "ctf",
-      "cp",
-      "koth",
-      "mvm",
-      "pl",
-      "plr"
-    ],
-    "res": [
-      "4/3",
-      "16/10",
-      "16/9"
-    ]
+    "os": ["windows", "linux"],
+    "gamemode": ["ctf", "cp", "koth", "mvm", "pl", "plr"],
+    "res": ["4/3", "16/10", "16/9"]
   },
   "repo": "https://github.com/LunaXCBN/RenHud-V2",
   "hash": "a1a817ddbe60a026626cd8075fcaabac10c66932",

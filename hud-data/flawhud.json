@@ -1,6 +1,7 @@
 {
   "name": "FlawHUD",
   "author": "CriticalFlaw",
+  "verified": true,
   "social": {
     "steam_profile": "76561198041892999",
     "steam_group": "flawhud",
@@ -8,17 +9,9 @@
     "discord": "hTdtK9vBhE",
     "album": "https://imgur.com/a/0whDjXr"
   },
-  "flags": [
-    "customization",
-    "crosshairs",
-    "streamer-mode"
-  ],
+  "flags": ["customization", "crosshairs", "streamer-mode"],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -38,20 +31,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/CriticalFlaw/flawhud",
-  "hash": "bd630970eb289df0d49ecbacfa5b3b50be34f0dd",
-  "resources": [
-    "banner",
-    "hud",
-    "scoreboard",
-    "spectator",
-    "menu",
-    "loadout"
-  ]
+  "hash": "2c25f6862e4f1ef9aa822c0494a8db42112ee35a",
+  "resources": ["banner", "hud", "scoreboard", "spectator", "menu", "loadout"]
 }

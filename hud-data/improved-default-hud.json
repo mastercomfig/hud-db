@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/Eniere/idhud",
   "hash": "907692973518d293397bd654e8265e6b686dabff",
-  "resources": [
-    "improved-default-hud-banner"
-  ]
+  "resources": ["improved-default-hud-banner"]
 }

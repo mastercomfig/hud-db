@@ -1,0 +1,12 @@
+{
+  "name": "Barehud",
+  "author": "Jocelyn",
+  "social": {
+    "album": "https://imgur.com/a/cxLhQUk"
+  },
+  "repo": "https://www.dropbox.com/scl/fi/u3tlpw9qzkjiq9kwe48g6/Barehud.7z?rlkey=n7ppyhogkfgzbcpnht6gh7cp2&dl=1",
+  "hash": "",
+  "publishDate": "2023-11-26",
+  "parent": "broesel-hud",
+  "resources": ["barehud-banner"]
+}

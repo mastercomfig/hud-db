@@ -5,17 +5,9 @@
     "steam_profile": "76561198058754493",
     "album": "https://imgur.com/a/i3TpBPa"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "crosshairs",
-    "materials"
-  ],
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,15 +27,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/ShrekHUD",
-  "hash": "5a38ccb359b8398a96bffc57ecb1eec2a6e605a8",
+  "hash": "76ccef086b973ff608247683bbe650430bb9c60a",
   "resources": [
     "shrekhud-banner",
     "shrekhud-mm",

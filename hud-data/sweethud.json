@@ -7,7 +7,5 @@
   },
   "repo": "https://github.com/FireStarW/sweetHud",
   "hash": "24065b4638ca9422ef1b9419ede7c2ee70da8722",
-  "resources": [
-    "sweethud-banner"
-  ]
+  "resources": ["sweethud-banner"]
 }

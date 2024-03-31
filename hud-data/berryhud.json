@@ -8,44 +8,29 @@
     "album": "https://imgur.com/a/Q7QQwY2"
   },
   "flags": [
-  "menus", 
-  "scoreboards", 
-  "crosshairs", 
-  "minmode",
-  "materials", 
-  "customization"
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
   ],
   "traits": {
-    "os": [
-	"windows", 
-	"mac", 
-	"linux"
-	],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
-	"tournament", 
-	"comp", 
-	"cp", 
-	"halloween", 
-	"koth",
-	"mvm", 
-	"pass", 
-	"pl"
-	],
-    "res": 
-	[
-	"16/9"
-	]
+      "tournament",
+      "comp",
+      "cp",
+      "halloween",
+      "koth",
+      "mvm",
+      "pass",
+      "pl"
+    ],
+    "res": ["16/9"]
   },
-  "tags": [
-  "competitive",
-  "sixes", 
-  "highlander", 
-  "ultiduo"
-  ],
+  "tags": ["competitive", "sixes", "highlander", "ultiduo"],
   "repo": "https://github.com/hexereii/BerryHUD",
-  "hash": "f26da6b62b6a24a78f2cac8aa0b07f5ebc16b6a1",
-  "resources": 
-  [
-    "berrybanner"
-  ]
+  "hash": "97903dd6de4aa1fbbc834a5f48c37a975c24c020",
+  "resources": ["berrybanner"]
 }

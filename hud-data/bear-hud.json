@@ -7,7 +7,7 @@
     "steam_group": "bearnauthud"
   },
   "repo": "https://github.com/tf2huds/bearhud",
-  "hash": "80b82c19bb9281cd426901a17d82a894333955de",
+  "hash": "c8b7a4b3c67eae4279c79902158bbcd0a60688ed",
   "parent": "broesel-hud",
   "resources": ["bear-hud-banner"]
 }

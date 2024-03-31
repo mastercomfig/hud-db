@@ -1,6 +1,7 @@
 {
   "name": "HExHUD",
   "author": "Hypnotize",
+  "verified": true,
   "social": {
     "steam_profile": "76561198058754493",
     "album": "https://imgur.com/a/ENQcIqO"
@@ -16,10 +17,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,18 +37,12 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["16/9"],
+    "position": ["center"],
+    "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/hexhud",
-  "hash": "3863c50fa65768c03dd9b96989ce785e31da1e71",
+  "hash": "dd77c8e59830ac9f95b6ca9bb3fc15573bd58fdf",
   "resources": [
     "hexhud-banner",
     "hexhud-menu",

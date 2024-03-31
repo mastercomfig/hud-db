@@ -1,0 +1,33 @@
+{
+  "name": "SUPERCOMPHUD-OMEGA",
+  "author": "lavaOnoes",
+  "contributors": ["KACHOWHERO"],
+  "flags": ["fonts", "menus", "scoreboards", "materials"],
+  "repo": "https://github.com/lavaOnoes/SUPERCOMPHUD-OMEGA",
+  "hash": "d7da5e1769b415b912a179dd439186c7c0ee2f99",
+  "prerelease": false,
+  "resources": ["sketch-1700975276009", "1", "counter"],
+  "social": {
+    "steam_profile": "76561198850021147",
+    "youtube": "@lavaOnoes"
+  },
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr"
+    ],
+    "res": ["4/3", "16/10", "16/9"]
+  }
+}

@@ -4,9 +4,7 @@
   <p align="center">
     Material TF2 HUD which aims to keep a clean and minimalistic design
     <br />
-    <a href="https://imgur.com/a/4sgZ1">Screenshots</a>
-    -
-    <a href="https://github.com/Hypnootize/Hypnotize-Hud">GitHub</a>
+    <a href="https://tf2huds.dev/hud/Hypnotize-Hud">TF2 HUDs</a>
     -
     <a href="https://gamebanana.com/mods/291589">GameBanana</a>
     -

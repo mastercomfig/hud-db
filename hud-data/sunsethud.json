@@ -1,6 +1,7 @@
 {
   "name": "SunsetHUD",
   "author": "Hypnotize",
+  "verified": true,
   "social": {
     "steam_profile": "76561198058754493",
     "album": "https://imgur.com/a/cJYtauq"
@@ -16,10 +17,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,21 +37,12 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"],
+    "position": ["center"],
+    "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/sunsethud",
-  "hash": "eaf740cace7df49a1a4d82bdf9f42a202b94c54f",
+  "hash": "abc9378438daec5f4093e094d0de8a712155ee94",
   "resources": [
     "sunsethud-banner",
     "sunsethud-menu",

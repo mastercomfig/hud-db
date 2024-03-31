@@ -15,10 +15,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -38,21 +35,12 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"],
+    "position": ["center"],
+    "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/Hypnotize-m0rehud",
-  "hash": "e392a7a1e075674d27eab917f60d4b955e767d6f",
+  "hash": "c46bd07b2dc47772c46c286161b922ee836f2177",
   "parent": "m0rehud",
   "resources": [
     "m0rehypnotize-banner",

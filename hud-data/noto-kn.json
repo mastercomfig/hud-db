@@ -1,12 +1,11 @@
 {
   "name": "Noto-KN",
-  "author": "Hypnotize",
+  "author": "Unknown",
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/Hw6Yv"
   },
   "repo": "https://github.com/Hypnootize/Noto-KN-Hud",
   "hash": "761c79bddd25b4cee237709b691f7a8855a34d50",
-  "resources": [
-    "noto-kn-banner"
-  ]
+  "resources": ["noto-kn-banner"]
 }
