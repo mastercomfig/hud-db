@@ -15,7 +15,7 @@
 
 <!-- ACKNOWLEDGEMENTS -->
 
-### Acknowledgements
+#### Acknowledgements
 
 * omp - For motivating me to start making my own hud, occasional reference, and inspiration.
 * m0re - Inspiration, occasional reference.

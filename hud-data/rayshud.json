@@ -42,14 +42,14 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/raysfire/rayshud",
-  "hash": "802f7b4795d1fb6b1d5de625cce797a03744e79a",
+  "hash": "307a611ce13c57bd92867e7343a8319ef0c3637c",
   "verified": true,
   "resources": [
     "banner",
-    "hud",
-    "hud-medic",
-    "scoreboard",
     "menu",
-    "loadout"
+    "loadout",
+    "hud",
+    "hud-minmode",
+    "scoreboard"
   ]
 }
