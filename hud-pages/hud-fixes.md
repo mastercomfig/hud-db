@@ -8,7 +8,7 @@
 
 ---
 
-### Changelog
+#### Changelog
 - Added minmode UI for Capture the Flag and Player Destruction game-modes.
 - Added missing font definition HudMenuNumberFont to the client scheme.
 - Centered the Watch Movie button on the map info screen.
@@ -48,7 +48,7 @@
 - An alternate health indicator.
    - Enabled by copying contents of `resource/ui/customizations/health` into `resource/ui`
    
-### Acknowledgements
+#### Acknowledgements
 - [PapaPeach](https://github.com/PapaPeach) and [Hypnootize](https://github.com/Hypnootize) for log-based customizations method and panel.
 - [Tkain](https://gamebanana.com/members/1582147) for the high-quality [TF2 Logo](https://gamebanana.com/mods/27061).
 - [Metisz](https://github.com/Metisz) for the high-quality [Loading Screen](https://gamebanana.com/mods/285046).
@@ -58,7 +58,7 @@
 - [impale1](https://github.com/impale1) for the match summary and vote panel fixes.
 - [Eerorri](https://github.com/Eerorri) for the Capture the Flag UI fixes.
 
-### Suggested Mods
+#### Suggested Mods
 *Following mods do not fit the scope of this project, but should work alongside the HUD.*
 - [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959) by [NeoDement](https://github.com/NeoDement).
 - [HD Menu Event Backgrounds](https://gamebanana.com/mods/406953) by [Tkain](https://gamebanana.com/members/1582147)

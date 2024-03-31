@@ -44,6 +44,11 @@
   "hash": "eabd28aa5d2436b45eb78f0bf61b33a96c018db3",
   "verified": true,
   "resources": [
-    "banner"
+    "banner",
+    "menu",
+    "loadout",
+    "hud",
+    "hud-minmode",
+    "customizations"
   ]
 }
