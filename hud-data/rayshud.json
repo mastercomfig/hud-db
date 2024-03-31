@@ -1,7 +1,6 @@
 {
   "name": "rayshud",
   "author": "raysfire",
-  "verified": true,
   "contributors": ["CriticalFlaw"],
   "social": {
     "steam_group": "rayshud",
@@ -9,15 +8,15 @@
     "album": "https://imgur.com/a/vsxPG"
   },
   "flags": [
-    "fonts",
     "menus",
     "scoreboards",
     "crosshairs",
     "minmode",
-    "materials"
+    "materials",
+    "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,9 +36,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["center"],
+    "lang": ["en"]
   },
+  "tags": ["minimal"],
   "repo": "https://github.com/raysfire/rayshud",
   "hash": "802f7b4795d1fb6b1d5de625cce797a03744e79a",
-  "resources": ["banner", "hud", "hud-medic", "scoreboard", "menu", "loadout"]
+  "verified": true,
+  "resources": [
+    "banner",
+    "hud",
+    "hud-medic",
+    "scoreboard",
+    "menu",
+    "loadout"
+  ]
 }
