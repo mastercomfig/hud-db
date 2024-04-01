@@ -1,13 +1,19 @@
 {
   "name": "Community HUD Fixes",
   "author": "CriticalFlaw",
-  "verified": true,
   "social": {
+    "support": "https://github.com/sponsors/CriticalFlaw",
     "steam_profile": "76561198041892999",
     "twitter": "CriticalFlaw_",
-    "discord": "hTdtK9vBhE"
+    "discord": "hTdtK9vBhE",
+    "youtube": "@CriticalFlaw"
   },
-  "flags": ["customization", "crosshairs", "minmode", "materials"],
+  "flags": [
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
   "traits": {
     "os": ["windows", "mac", "linux"],
     "gamemode": [
@@ -29,9 +35,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["default"],
+    "lang": ["en"]
   },
+  "tags": ["default"],
   "repo": "https://github.com/CriticalFlaw/TF2HUD.Fixes",
-  "hash": "eabd28aa5d2436b45eb78f0bf61b33a96c018db3",
-  "resources": ["banner"]
+  "hash": "9f2652f0d612af1f7da9d5450e410f3cf0805041",
+  "verified": true,
+  "resources": [
+    "banner",
+    "menu",
+    "loadout",
+    "hud",
+    "hud-minmode",
+    "customizations"
+  ]
 }
