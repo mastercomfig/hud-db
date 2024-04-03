@@ -17,7 +17,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,13 +41,29 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center", "corners"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/CriticalFlaw/flawhud",
-  "hash": "2c25f6862e4f1ef9aa822c0494a8db42112ee35a",
+  "hash": "e2483e5770542d71d5c417e5f12afe79478c9fa5",
   "verified": true,
   "resources": [
     "banner",
