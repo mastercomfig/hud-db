@@ -4,8 +4,8 @@
   "contributors": [
     "Yara"
   ],
-  "releaseDate": "2024 04 06",
-  "resources": [
+  "releaseDate": "2024-04-06",
+  "resources": [ "sfondo-hud" ,
     "https://youtu.be/hlAn1QJPX7o"
   ],
   "flags": [
@@ -25,7 +25,7 @@
   "prerelease": false,
   "social": {
     "steam_profile": "76561199089787762",
-    "twitter": "@zTomma_",
+    "twitter": "zTomma_",
     "discord": "ztomma",
     "youtube": "@tomma4342",
     "twitch": "ztomma",
