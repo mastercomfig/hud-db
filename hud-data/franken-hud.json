@@ -5,6 +5,35 @@
     "steam_group": "frankenhud",
     "album": "https://imgur.com/a/O8C2vRd"
   },
+  "flags": [
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "customization"
+  ],
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["4/3", "5/4", "16/9", "16/10"]
+  },
   "repo": "https://github.com/thekins/frankenhud",
   "hash": "519e5186dad167b16e095f5e86ca277ac2ef7939",
   "resources": ["frankenhud-banner"]
