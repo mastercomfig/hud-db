@@ -36,5 +36,21 @@
   },
   "repo": "https://github.com/thekins/frankenhud",
   "hash": "519e5186dad167b16e095f5e86ca277ac2ef7939",
-  "resources": ["frankenhud-banner"]
+  "resources": [
+    "frankenhud-banner",
+    "engineer",
+    "5cp",
+    "ctf",
+    "mvm",
+    "scoreboard",
+    "winpanel",
+    "matchend",
+    "tournament_readymode",
+    "tournament_spectator",
+    "mainmenu",
+    "loadout",
+    "motd",
+    "teamselect",
+    "classselect"
+  ]
 }
