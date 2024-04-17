@@ -1,0 +1,12 @@
+{
+  "name": "Garm3n FM-II",
+  "author": "Garm3n",
+  "contributors": ["techno"],
+  "social": {
+    "album": "https://imgur.com/a/li4IloG"
+  },
+  "repo": "https://github.com/TechnoSL/Garm3n-FM-II",
+  "hash": "d394474be79ed040ab128cb7cf178fb56dc106e6",
+  "parent": "quakehud",
+  "resources": ["garm3n-fm-ii-banner"]
+}
