@@ -1,0 +1,64 @@
+{
+  "name": "technohud",
+  "author": "techno",
+  "releaseDate": "2024-01-11",
+  "social": {
+    "steam_profile": "76561198172101254",
+    "discord": "rc4322#0",
+    "album": "https://imgur.com/a/aHdoUKi"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "materials",
+    "customization"
+  ],
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "cp",
+      "koth",
+      "mannpower",
+      "pl",
+      "plr",
+      "ctf",
+      "sd",
+      "mvm"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "tags": [
+    "light",
+    "minimal",
+    "monochrome"
+  ],
+  "repo": "https://github.com/TechnoSL/technohud",
+  "hash": "2e30f89db16ffffb4ebc7f913f11ba8afa2f2f02",
+  "prerelease": true,
+  "resources": [
+    "th-banner",
+    "th-menu",
+    "th-backpack",
+    "th-loadout",
+    "th-gameplay",
+    "th-demoman",
+    "th-medic",
+    "th-ctf",
+    "th-mvm",
+    "th-altfont"
+  ]
+}

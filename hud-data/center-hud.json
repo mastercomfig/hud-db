@@ -1,0 +1,55 @@
+{
+  "name": "Center HUD",
+  "author": "Eerorri",
+  "releaseDate": "2023-12-23",
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": ["vanilla", "default"],
+  "repo": "https://github.com/Eerorri/center-hud",
+  "hash": "df072ab5355613fcaf0430d3db1acb9b1acef8c4",
+  "prerelease": false,
+  "resources": [
+    "centerlogo",
+    "center1",
+    "center2",
+    "center3",
+    "center4",
+    "center5",
+    "https://youtu.be/G39x7-gmCzU",
+    "https://youtu.be/x7PHVyhndsc"
+  ],
+  "social": {
+    "steam_profile": "76561199001745671",
+    "album": "https://imgur.com/a/0rIwB00"
+  },
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["4/3", "16/9", "21/9"],
+    "position": ["center"]
+  }
+}

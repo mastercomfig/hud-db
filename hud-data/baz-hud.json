@@ -1,16 +1,12 @@
 {
   "name": "Baz HUD",
   "author": "Bazoo",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "BazHUD",
     "album": "https://imgur.com/a/982kf"
   },
   "repo": "https://github.com/Hypnootize/Baz-Hud",
   "hash": "4e5251d92d733cc1d3414dffcc075cf4216bb42c",
-  "resources": [
-    "baz-hud-banner"
-  ]
+  "resources": ["baz-hud-banner"]
 }

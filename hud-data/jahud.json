@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/JarateKing/jahud-tf2",
   "hash": "aed90ea2dddd9190d99e50bd537c5ba0e2beb393",
-  "resources": [
-    "jahud-banner"
-  ]
+  "resources": ["jahud-banner"]
 }

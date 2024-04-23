@@ -6,6 +6,7 @@
   "required": ["name", "author", "repo", "hash", "resources"],
   "properties": {
     "name": {
+      "title": "HUD Name",
       "description": "Display name of your HUD",
       "type": "string",
       "examples": ["My HUD"]
@@ -28,8 +29,25 @@
       "type": "string",
       "examples": ["2009-12-31"]
     },
+    "parent": {
+      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
+      "type": "string",
+      "examples": ["their-hud"]
+    },
+    "resources": {
+      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 15,
+      "uniqueItems": true,
+      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
+    },
     "social": {
-      "description": "Links to your social media profiles",
+      "title": "External Links",
+      "description": "Links to your social media profiles and other pages",
       "type": "object",
       "properties": {
         "support": {
@@ -79,7 +97,8 @@
       }
     },
     "flags": {
-      "description": "A list of boolean flags whose presence indicates the existence of a feature of some kind",
+      "title": "Features",
+      "description": "A list of flags whose presence indicates the existence of a feature of some kind",
       "type": "array",
       "items": {
         "type": "string",
@@ -110,6 +129,7 @@
           "uniqueItems": true
         },
         "gamemode": {
+          "title": "Game Modes",
           "description": "What gamemodes does the HUD customize for",
           "type": "array",
           "items": {
@@ -137,19 +157,20 @@
           "uniqueItems": true
         },
         "res": {
+          "title": "Display Resolutions",
           "description": "What aspect ratios does the HUD support",
           "type": "array",
           "items": {
             "type": "string",
             "enum": [
-              "1/1",
               "4/3",
-              "5/4",
-              "16/10",
               "16/9",
-              "17/9",
+              "16/10",
               "21/9",
-              "32/9"
+              "32/9",
+              "17/9",
+              "1/1",
+              "5/4"
             ]
           },
           "uniqueItems": true
@@ -164,6 +185,7 @@
           "uniqueItems": true
         },
         "lang": {
+          "title": "Languages",
           "description": "What languages does the HUD support (if it has custom language files)",
           "type": "array",
           "items": {
@@ -199,22 +221,6 @@
     "verified": {
       "description": "For internal use only to enable some functionality. Do not set this yourself.",
       "type": "boolean"
-    },
-    "parent": {
-      "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
-      "type": "string",
-      "examples": ["their-hud"]
-    },
-    "resources": {
-      "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "minItems": 1,
-      "maxItems": 15,
-      "uniqueItems": true,
-      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
     }
   }
 }

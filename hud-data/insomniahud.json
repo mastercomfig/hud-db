@@ -15,10 +15,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "ad",
       "ctf",
@@ -30,27 +27,13 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10",
-      "21/9",
-      "32/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "16/9", "16/10", "21/9", "32/9"],
+    "position": ["center"],
+    "lang": ["en"]
   },
-  "tags": [
-    "monochrome",
-    "minimal",
-    "customizable"
-  ],
+  "tags": ["monochrome", "minimal", "customizable"],
   "repo": "https://github.com/p3tr1ch0r/insomniaHUD",
-  "hash": "f73d34494c0802559d5ddea6da37050499126de6",
+  "hash": "9cb4bd891175307f8eb8d023261ccb6463109f8c",
   "prerelease": true,
   "resources": [
     "logo_full",

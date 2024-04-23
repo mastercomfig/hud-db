@@ -19,4 +19,5 @@ A TF2 HUD designed by Peaches to serve as an environment to develop innovative i
 **Source of many innovative ideas:** JarateKing's [HUD documentation](https://github.com/JarateKing)  
 **Closed caption framework:** Clovervidia's [custom captions](https://github.com/clovervidia/clovervidias-captions)  
 **Xhud logo creation:** NuclearCore  
+**Math Consultant:** Popalofiti  
 **Support & testing:** The unsponsored [*Sponsored by Xhud*](https://rgl.gg/Public/Team.aspx?t=10432&r=40) roster

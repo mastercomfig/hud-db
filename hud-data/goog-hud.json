@@ -10,39 +10,19 @@
     "crosshairs",
     "customization"
   ],
-  "tags": [
-    "minimal",
-    "clean",
-    "competitive",
-    "comp",
-    "wagoogus",
-    "beta"
-  ],
+  "tags": ["minimal", "clean", "competitive", "customization", "comp"],
   "repo": "https://github.com/GreySux/googhud",
-  "hash": "f86abc317b03dcaa68d9c87d50822e77473bf604",
-  "resources": [
-    "googhudpic",
-    "googhudmenu",
-    "googhud6v6",
-    "googhud12v12",
-    "googhudmin1",
-    "googhudmin0",
-    "googhuduber",
-    "googhudclasses",
-    "googhudtargetid",
-    "googhuddamagenums"
-  ],
+  "hash": "86b5788cccedf524dcd26813b4f6b1a6d5ca947e",
+  "resources": ["1", "3", "4", "5", "6", "8", "10", "11", "12", "15", "16"],
   "social": {
     "support": "https://paypal.me/greysux",
     "steam_profile": "76561198050618142",
     "twitter": "Grey_Sucks",
     "discord": "52D6wACqen",
-    "album": "https://imgur.com/a/960Ftgi"
+    "album": "https://imgur.com/a/H6aybW9"
   },
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -61,18 +41,8 @@
       "rd",
       "sd"
     ],
-    "res": [
-      "16/10",
-      "16/9",
-      "4/3"
-    ],
-    "position": [
-      "center",
-      "corners",
-      "default"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["16/10", "16/9", "4/3"],
+    "position": ["center", "corners", "default"],
+    "lang": ["en"]
   }
 }

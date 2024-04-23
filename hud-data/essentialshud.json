@@ -1,0 +1,72 @@
+{
+  "name": "EssentialsHUD",
+  "author": "EssentialsTF",
+  "contributors": [
+    "CriticalFlaw",
+    "core",
+    "BlackOutJon",
+    "ArchRhythm",
+    "Telepotato",
+    "WolfMachina"
+  ],
+  "social": {
+    "twitter": "TF2Essentials",
+    "youtube": "@EssentialsTF",
+    "discord": "essentialstf",
+    "twitch": "essentialstf",
+    "album": "https://imgur.com/a/iaiEhX9"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "tags": [
+    "spectator",
+    "casting"
+  ],
+  "repo": "https://github.com/CriticalFlaw/EssentialsHUD",
+  "hash": "17e35b1b17af19f8a210437e86c847b737bb0fa5",
+  "resources": [
+    "banner",
+    "spectator",
+    "hud"
+  ]
+}

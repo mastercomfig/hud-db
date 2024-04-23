@@ -1,0 +1,13 @@
+{
+  "name": "Garm3n TF2",
+  "author": "Garm3n",
+  "contributors": ["Scoutman"],
+  "social": {
+    "album": "https://imgur.com/a/Vh6oAos"
+  },
+  "repo": "https://gamebanana.com/mods/26350",
+  "hash": "Update 9",
+  "publishDate": "2023-02-18",
+  "parent": "quakehud",
+  "resources": ["garm3n-tf2-banner"]
+}

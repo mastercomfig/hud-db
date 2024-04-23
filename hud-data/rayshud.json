@@ -10,16 +10,17 @@
     "album": "https://imgur.com/a/vsxPG"
   },
   "flags": [
-    "fonts",
     "menus",
     "scoreboards",
     "crosshairs",
     "minmode",
-    "materials"
+    "materials",
+    "customization"
   ],
   "traits": {
     "os": [
       "windows",
+      "mac",
       "linux"
     ],
     "gamemode": [
@@ -42,19 +43,34 @@
       "tc"
     ],
     "res": [
+      "1/1",
       "4/3",
+      "5/4",
+      "16/10",
       "16/9",
-      "16/10"
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
     ]
   },
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/raysfire/rayshud",
-  "hash": "e92807d14639d1c3c25e6e374354f035d2d58e71",
+  "hash": "307a611ce13c57bd92867e7343a8319ef0c3637c",
+  "verified": true,
   "resources": [
     "banner",
-    "hud",
-    "hud-medic",
-    "scoreboard",
     "menu",
-    "loadout"
+    "loadout",
+    "hud",
+    "hud-minmode",
+    "scoreboard"
   ]
 }

@@ -4,18 +4,9 @@
   "social": {
     "discord": "pc9ekye"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "minmode",
-    "materials",
-    "customization"
-  ],
+  "flags": ["fonts", "menus", "minmode", "materials", "customization"],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,16 +26,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/bo0bsy/ZeHud",
-  "hash": "a2c17b8d12ea11aaadcb8fc2e9ec874f5d19a20e",
-  "resources": [
-    "zehud-banner"
-  ]
+  "hash": "d30b3c3412fa18b02a1427967783a8bf340eda5e",
+  "resources": ["zehud-banner"]
 }

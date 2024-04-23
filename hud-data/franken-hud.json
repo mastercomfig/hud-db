@@ -3,11 +3,54 @@
   "author": "The Kins",
   "social": {
     "steam_group": "frankenhud",
-    "album": "https://imgur.com/a/chhy30W"
+    "album": "https://imgur.com/a/O8C2vRd"
+  },
+  "flags": [
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "customization"
+  ],
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/thekins/frankenhud",
-  "hash": "f03ea237b4e3b20bcae27bd18466520b7e9686d0",
+  "hash": "519e5186dad167b16e095f5e86ca277ac2ef7939",
   "resources": [
-    "franken-hud-banner"
+    "frankenhud-banner",
+    "engineer",
+    "5cp",
+    "ctf",
+    "mvm",
+    "scoreboard",
+    "winpanel",
+    "matchend",
+    "tournament_readymode",
+    "tournament_spectator",
+    "mainmenu",
+    "loadout",
+    "motd",
+    "teamselect",
+    "classselect"
   ]
 }

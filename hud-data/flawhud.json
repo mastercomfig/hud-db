@@ -1,18 +1,20 @@
 {
   "name": "FlawHUD",
   "author": "CriticalFlaw",
-  "verified": true,
   "social": {
+    "support": "https://github.com/sponsors/CriticalFlaw",
     "steam_profile": "76561198041892999",
     "steam_group": "flawhud",
     "twitter": "CriticalFlaw_",
     "discord": "hTdtK9vBhE",
-    "album": "https://imgur.com/a/0whDjXr"
+    "youtube": "@CriticalFlaw"
   },
   "flags": [
-    "customization",
+    "fonts",
     "crosshairs",
-    "streamer-mode"
+    "streamer-mode",
+    "materials",
+    "customization"
   ],
   "traits": {
     "os": [
@@ -40,19 +42,35 @@
       "tc"
     ],
     "res": [
+      "1/1",
       "4/3",
+      "5/4",
+      "16/10",
       "16/9",
-      "16/10"
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
     ]
   },
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/CriticalFlaw/flawhud",
-  "hash": "a7e12d5360b783c6cff9783489625f3b84217310",
+  "hash": "e2483e5770542d71d5c417e5f12afe79478c9fa5",
+  "verified": true,
   "resources": [
     "banner",
+    "menu",
+    "loadout",
     "hud",
     "scoreboard",
-    "spectator",
-    "menu",
-    "loadout"
+    "spectator"
   ]
 }

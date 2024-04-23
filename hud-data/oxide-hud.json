@@ -1,15 +1,11 @@
 {
   "name": "Oxide HUD",
   "author": "Oxide",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/R9a13"
   },
   "repo": "https://github.com/Hypnootize/Oxide-Hud",
   "hash": "1f18bf46252f80f4a5244d437aaebcdd2930338b",
-  "resources": [
-    "oxide-hud-banner"
-  ]
+  "resources": ["oxide-hud-banner"]
 }

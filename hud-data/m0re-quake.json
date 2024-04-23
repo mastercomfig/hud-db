@@ -1,16 +1,12 @@
 {
   "name": "m0re Quake",
   "author": "Grape",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/7TlzO"
   },
   "repo": "https://github.com/Hypnootize/m0re-Quake",
   "hash": "1aca46dd44a367d6abe0f164b35a4c92803c19ea",
   "parent": "m0rehud",
-  "resources": [
-    "m0re-quake-banner"
-  ]
+  "resources": ["m0re-quake-banner"]
 }

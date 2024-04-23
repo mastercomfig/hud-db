@@ -1,16 +1,12 @@
 {
   "name": "CBHUD - bowswer5",
   "author": "bowswer5",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/fELtIFG"
   },
   "repo": "https://github.com/Hypnootize/CBHud-bowswer5",
   "hash": "0801e92339d9126e0be862f786cd023089279bb5",
   "parent": "cb-hud",
-  "resources": [
-    "cbhud-bowswer5-banner"
-  ]
+  "resources": ["cbhud-bowswer5-banner"]
 }

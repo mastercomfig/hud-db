@@ -1,0 +1,4 @@
+<h1 class="SelectedElement">ULTRAHUD</h1>
+THE ADMINISTRATOR IS DEAD. AUSTRALIUM IS FUEL. 2FORT IS FULL.
+<br><br>
+<h1>Full Credits:</h1>Raysfire - Rayshud and the tutorials that helped me make this.<br><br>Hakita &amp; the ULTRAKILL dev team - Made one of my favorite games and inspired me to pick up HUD development.<br><br>VillageGreenPreserver - Healthbar (<a href="https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main" target="_blank">https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main</a>)<br><br>Gurg on Steam - Class and Team Select backgrounds (<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709&amp;searchtext=" rel="nofollow" target="_blank">https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709&amp;searchtext=</a>)<br><br>[deleted] on Reddit - The colored version of V1s head in the UK logo (https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/)<br><br>

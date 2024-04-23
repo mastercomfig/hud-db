@@ -6,7 +6,5 @@
   },
   "repo": "https://github.com/omnibombulator/Flarepunch",
   "hash": "60ad1bb5a87b656acc5269edebcdebffcdf4c5a4",
-  "resources": [
-    "flarepunch-banner"
-  ]
+  "resources": ["flarepunch-banner"]
 }
