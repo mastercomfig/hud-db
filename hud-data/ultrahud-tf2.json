@@ -2,7 +2,7 @@
   "name": "ULTRAHUD-TF2",
   "author": "The 2fort Cremator",
   "contributors": [
-    "Raysfire", "VillageGreenPreserver"
+    "Raysfire", "VillageGreenPreserver", "Tomma", "TechnoSL"
   ],
   "releaseDate": "2024-02-24",
   "resources": [
@@ -12,12 +12,15 @@
     "fonts",
     "menus",
     "crosshairs",
-    "minmode"
+    "minmode",
+    "customization"
   ],
   "repo": "https://github.com/cremator-2fort/ULTRAHUD-TF2",
-  "hash": "301d2bdcce983586aea15562d85018814100b3fc",
-  "prerelease": true,
-  "social": {},
+  "hash": "cdaf659f9a41f4aa4ad216c5dfb266976ef89bbd",
+  "prerelease": false,
+  "social": {
+    "discord": "https://discord.gg/v8nmUKRX62"
+  },
   "traits": {
     "os": [
       "windows"
