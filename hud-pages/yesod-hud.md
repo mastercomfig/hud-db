@@ -1,13 +1,7 @@
-# Description
+**Updated/Reworked version of Collyhud**
 
-Updated/Reworked version of Collyhud
-Make sure to install the fonts
-  
-Screenshots: <https://imgur.com/a/DuWMTA8>
 
-# Credits
-  
-Inspiration from:  
+[Screenshots](https://imgur.com/a/DuWMTA8)
 
-collyhud by omnibobulator
-HexHud by Hypnotize
+Things to work/rework on: Passtime UI/Competitive Queue/Taunt UI/Stats/Quickswitch Menu/End of Casual Match
+
