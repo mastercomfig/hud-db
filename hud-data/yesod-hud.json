@@ -1,20 +1,43 @@
 {
   "name": "yesodHUD",
   "author": "yesod",
-  "social": {
-    "album": "https://imgur.com/a/DuWMTA8"
-  },
- 
-   "flags": [
+  "contributors": [
+    "colly",
+    "hypnotize"
+  ],
+  "releaseDate": "2024-5-4",
+  "resources": [
+    "yesod-title",
+    "yesod-menu",
+    "yesod-buff",
+    "yesod-hurt",
+    "yesod-medic",
+    "yesod-winpanel",
+    "yesod-scoreboard",
+    "yesod-stv"
+  ],
+  "flags": [
     "fonts",
     "menus",
     "scoreboards",
     "materials",
     "customization"
   ],
-  
-   "traits": {
-    "os": ["windows", "linux"],
+  "tags": [
+    "minimal"
+  ],
+  "repo": "https://github.com/yesod404/yesodCollyHUD/tree/main",
+  "hash": "9a158cdda01ed573b9bad350ae2f51be6171cde5",
+  "prerelease": true,
+  "social": {
+    "steam_profile": "76561198212866289",
+    "discord": ".yesod",
+    "album": "https://imgur.com/a/DuWMTA8"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -34,18 +57,11 @@
       "sd",
       "tc"
     ],
-	
-  "repo": "https://github.com/yesod404/yesodCollyHUD",
-  "hash": "",
-  "publishDate": "2024-5-4",
-  "resources": [
-      "yesod-title",
-      "yesod-menu",
-      "yesod-buff",
-      "yesod-hurt",
-      "yesod-medic",
-      "yesod-winpanel",
-      "yesod-scoreboard",
-      "yesod-stv"
-	  ]
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
 }
