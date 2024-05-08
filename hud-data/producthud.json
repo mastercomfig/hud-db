@@ -1,0 +1,97 @@
+{
+  "name": "ProductHUD",
+  "author": "Kruphixx",
+  "contributors": [
+    "omnibombulator (Original Creator)",
+    "Hypnotize",
+    "VillageGreenPreserver",
+    "quickkennedy"
+  ],
+  "releaseDate": "2024-05-08",
+  "resources": [
+    "producthud-banner",
+    "mainmenu",
+    "charactersetup",
+    "loadout",
+    "backpack",
+    "stats",
+    "vgui",
+    "payload",
+    "2cp",
+    "disguise",
+    "taunt",
+    "build",
+    "destroy",
+    "koth",
+    "ctf",
+    "plr",
+    "mvm",
+    "mvm_ready",
+    "mvm_scoreboard",
+    "mvm_upgrade",
+    "teamselect",
+    "classselect",
+    "pause",
+    "tournament_setup",
+    "tournament_ready",
+    "tournament_spectator",
+    "win",
+    "minmode_off",
+    "minmode_on"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "repo": "https://github.com/Kruphixx/producthud",
+  "hash": "https://github.com/Kruphixx/producthud",
+  "prerelease": false,
+  "social": {
+    "issues": "https://github.com/Kruphixx/producthud/issues",
+    "steam_profile": "76561198138061435",
+    "discord": "kruphixx",
+    "album": "https://imgur.com/a/mZHn0Kw"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "21/9",
+      "32/9",
+      "17/9",
+      "1/1",
+      "5/4"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
