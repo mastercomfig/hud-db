@@ -6,7 +6,7 @@
   ],
   "releaseDate": "2024-02-24",
   "resources": [
-    "ultrahud-logo"
+    "divine-intervention"
   ],
   "flags": [
     "fonts",
@@ -16,7 +16,7 @@
     "customization"
   ],
   "repo": "https://github.com/cremator-2fort/ULTRAHUD-TF2",
-  "hash": "664af18119f92d069bfe8822122cd799b3eb8ae4",
+  "hash": "dadd1470c83a19d79ff89c0c42662f21615b8bf1",
   "prerelease": false,
   "social": {
     "discord": "https://discord.gg/v8nmUKRX62"
