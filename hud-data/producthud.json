@@ -17,13 +17,12 @@
     "payload",
     "ctf",
     "mvm",
+    "scoreboard",
+    "win",
     "teamselect",
     "classselect",
     "pause",
-    "tournament_setup",
-    "tournament_ready",
-    "tournament_spectator",
-    "win"
+    "tournament_spectator"
   ],
   "flags": [
     "fonts",
@@ -34,12 +33,11 @@
     "customization"
   ],
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "d3eaa8e6628150720061320e39894abb57605900",
+  "hash": "d0bec15bdd725c97f149c4eba1763b00bebc9138",
   "prerelease": false,
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
     "steam_profile": "76561198138061435",
-    "discord": "kruphixx",
     "album": "https://imgur.com/a/mZHn0Kw"
   },
   "traits": {
