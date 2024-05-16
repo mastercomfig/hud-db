@@ -1,0 +1,34 @@
+{
+  "name": "RedX_m0re",
+  "author": "RedX",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "releaseDate": "2024-02-05",
+  "parent": "m0rehud",
+  "resources": [
+    "https://github.com/Red-X1/RedX_m0re/assets/114523378/3a38171e-8fcf-4055-865b-e1358ea42180",
+    "https://github.com/Red-X1/RedX_m0re/assets/114523378/38a93258-05c0-4763-a66a-d2fd2d524ebe",
+    "https://github.com/Red-X1/RedX_m0re/assets/114523378/6087cd8e-04bb-45d8-ba99-cb474fa56c20",
+    "https://github.com/Red-X1/RedX_m0re/assets/114523378/944d5175-ec5e-4a34-853a-21ae7a61d03d"
+  ],
+  "flags": [
+    "minmode"
+  ],
+  "repo": "https://github.com/Red-X1/RedX_m0re",
+  "hash": "7033596cc056a59253df5fd6b457b5ce53e7970d",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198027461393",
+    "discord": "666redx"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "mac"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
