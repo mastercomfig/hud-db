@@ -62,5 +62,8 @@
     "lang": [
       "English"
     ]
+    "resources": [
+      "bania-hud-banner"
+    ]
   }
 }
