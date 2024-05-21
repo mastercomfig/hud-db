@@ -2,7 +2,7 @@
 
 # ULTRAHUD-TF2
 
-### *THE ADMINISTRATOR IS DEAD. AUSTRALIUM IS FUEL. 2FORT IS FULL*
+### *THE ADMINISTRATOR IS DEAD. AUSTRALIUM IS FUEL. 2FORT IS FULL.*
 
 ![ULTRAHUD-LOGO](https://i.imgur.com/bVuGDn6.png)
 
@@ -33,3 +33,7 @@ Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfile
 Tomma - WeirdcoreHUD is a source of inspiration for me. Also gladly let me use his HUD options as a base for the Calibration screen.
 
 TechnoSL - Made plenty of fixes to fonts and made colors consistent across many places.
+
+Hewett Tsoi - Font "Alagard" used in the Gabriel Pack (https://www.dafont.com/alagard.font).
+
+Jofre - The speedometer.
