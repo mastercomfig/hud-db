@@ -9,21 +9,18 @@
   ],
   "releaseDate": "2024-05-08",
   "resources": [
-    "producthud-banner",
-    "mainmenu",
-    "charactersetup",
-    "loadout",
-    "backpack",
-    "payload",
-    "ctf",
-    "mvm",
-    "teamselect",
-    "classselect",
-    "pause",
-    "tournament_setup",
-    "tournament_ready",
-    "tournament_spectator",
-    "win"
+    "producthud-banner-new",
+    "mainmenu-new",
+    "mainmenu-dark",
+    "classloadout",
+    "backpack-new",
+    "team-select",
+    "class-select",
+    "scoreboard",
+    "winpanel",
+    "5cp",
+    "payload-new",
+    "mvm-new"
   ],
   "flags": [
     "fonts",
@@ -34,12 +31,11 @@
     "customization"
   ],
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "d3eaa8e6628150720061320e39894abb57605900",
+  "hash": "a072db4091ffe79f0374024cd70a9b3034bd6b2e",
   "prerelease": false,
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
     "steam_profile": "76561198138061435",
-    "discord": "kruphixx",
     "album": "https://imgur.com/a/mZHn0Kw"
   },
   "traits": {
