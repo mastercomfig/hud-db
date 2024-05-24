@@ -1,0 +1,19 @@
+{
+    "name": "huehued",
+    "author": "Unknown",
+    "contributors": [
+      "techno",
+      "Hypnotize"
+    ],
+    "social": {
+      "album": "https://imgur.com/a/lcxp5sm"
+    },
+    "repo": "https://github.com/TechnoSL/huehued",
+    "hash": "5c39ae86eae3f07924e757dae53474e544d3a9b6",
+    "parent": "quakehud",
+    "resources": [
+      "huehued-menu",
+      "huehued-gameplay",
+      "huehued-medic"
+    ]
+  }
