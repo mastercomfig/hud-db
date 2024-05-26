@@ -1,48 +1,51 @@
 {
-  "name": "Half-Life 2 HUD",
-  "author": "Village Green Preserver",
-  "social": {
-    "steam_profile": "76561198159585055",
-    "album": "https://imgur.com/a/TXR3dPW"
-  },
-  "flags": [
-    "menus",
-    "materials",
-    "customization"
-  ],
-  "traits": {
-    "os": [
-      "windows"
-    ],
-    "gamemode": [
-      "ad",
-      "ctf",
-      "cp",
-      "koth",
-      "pl",
-      "plr",
-      "tc",
-	  "arena"
-    ],
-    "res": [
-      "16/9"
-    ],
-    "position": [
-      "corners"
-    ],
-    "lang": [
-      "en"
-    ]
-  },
-  "repo": "https://github.com/VillageGreenPreserver/Half-Life-2-Hud",
-  "hash": "1e6da6c56cf58920daf50b8feace136f865eb008",
-  "resources": [
-    "half-life-2-hud-banner",
-    "half-life-2-hud-menu",
-    "half-life-2-hud-mm",
-    "half-life-2-hud-inv",
-    "half-life-2-hud-class",
-    "half-life-2-hud-ingame",
-    "half-life-2-hud-score"
-  ]
+	"name": "Half-Life 2 HUD",
+	"author": "Village Green Preserver",
+	"contributors": [
+		"Village Green Preserver",
+		"Kruphixx"],
+	"social": {
+		"steam_profile": "76561198159585055",
+		"album": "https://imgur.com/a/TXR3dPW"
+	},
+	"flags": [
+		"menus",
+		"materials",
+		"customization"
+	],
+	"traits": {
+		"os": [
+			"windows"
+		],
+		"gamemode": [
+			"ad",
+			"ctf",
+			"cp",
+			"koth",
+			"pl",
+			"plr",
+			"tc",
+			"arena"
+		],
+		"res": [
+			"16/9"
+		],
+		"position": [
+			"corners"
+		],
+		"lang": [
+			"en"
+		]
+	},
+	"repo": "https://github.com/VillageGreenPreserver/Half-Life-2-Hud",
+	"hash": "1e6da6c56cf58920daf50b8feace136f865eb008",
+	"resources": [
+		"half-life-2-hud-banner",
+		"half-life-2-hud-menu",
+		"half-life-2-hud-mm",
+		"half-life-2-hud-inv",
+		"half-life-2-hud-class",
+		"half-life-2-hud-ingame",
+		"half-life-2-hud-score"
+	]
 }
