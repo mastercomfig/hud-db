@@ -5,7 +5,7 @@
   "releaseDate": "2022-02-12",
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "repo": "https://github.com/VillageGreenPreserver/MonoHud",
-  "hash": "1af70659f04c48bea5fedf772bf93be11e685210",
+  "hash": "971e93d6dba592258e371a0e22439177b7510385",
   "prerelease": false,
   "resources": [
     "banner",
