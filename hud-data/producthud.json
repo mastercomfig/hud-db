@@ -5,7 +5,8 @@
     "omnibombulator (Original Creator)",
     "Hypnotize",
     "VillageGreenPreserver",
-    "quickkennedy"
+    "quickkennedy",
+    "TechnoSL"
   ],
   "releaseDate": "2024-05-08",
   "resources": [
@@ -31,7 +32,7 @@
     "customization"
   ],
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "a072db4091ffe79f0374024cd70a9b3034bd6b2e",
+  "hash": "dd76098c7ff5975086c38177208035c45a50a637",
   "prerelease": false,
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
