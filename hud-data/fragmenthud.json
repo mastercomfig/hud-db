@@ -1,0 +1,84 @@
+{
+  "name": "FRAGMENTHUD",
+  "author": "leadscales",
+  "contributors": [
+    "fraxinus",
+    "norsus",
+    "eightyeight"
+  ],
+  "repo": "https://github.com/leadscales/fragmenthud",
+  "hash": "2437c19c849c2c3468f6bf55779b787918fb26b7",
+  "prerelease": true,
+  "social": {
+    "steam_profile": "76561199066986123",
+    "discord": "yADdaAPvc4",
+    "youtube": "@leadscales"
+  },
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "minimal",
+    "duotone",
+    "monochrome",
+    "customizable",
+    "modern"
+  ],
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "pl",
+      "plr",
+      "sd"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "21/9",
+      "32/9",
+      "17/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en",
+      "pt",
+      "fr",
+      "it",
+      "pl",
+      "ru",
+      "es",
+      "uk"
+    ]
+  },
+  "resources": [
+    "full",
+    "mainmenu",
+    "charinfo",
+    "backpack",
+    "loadout",
+    "teammenu",
+    "classmenu",
+    "pl",
+    "ad",
+    "koth",
+    "5cp",
+    "ctf"
+  ]
+}
