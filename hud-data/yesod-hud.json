@@ -1,7 +1,7 @@
 {
   "name": "yesodHUD",
   "author": "yesod",
-  "contributors": ["colly", "hypnotize"],
+  "contributors": ["colly", "Hypnotize"],
   "releaseDate": "2024-05-04",
   "resources": [
     "yesod-title",
