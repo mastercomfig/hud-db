@@ -2,11 +2,11 @@
   "name": "ProductHUD",
   "author": "Kruphixx",
   "contributors": [
-    "omnibombulator (Original Creator)",
+    "omnibombulator",
     "Hypnotize",
-    "VillageGreenPreserver",
+    "Village Green Preserver",
     "quickkennedy",
-    "TechnoSL"
+    "techno"
   ],
   "releaseDate": "2024-05-08",
   "resources": [
@@ -40,10 +40,7 @@
     "album": "https://imgur.com/a/mZHn0Kw"
   },
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -63,18 +60,7 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10",
-      "21/9",
-      "32/9",
-      "17/9",
-      "1/1",
-      "5/4"
-    ],
-    "position": [
-      "center"
-    ]
+    "res": ["4/3", "16/9", "16/10", "21/9", "32/9", "17/9", "1/1", "5/4"],
+    "position": ["center"]
   }
 }

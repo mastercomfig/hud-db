@@ -9,7 +9,7 @@ A clean and fresh TF2 HUD made from scratch, inspired by the spectator hud used 
 - Custom spectator tournament panels for 9v9 included in "`resource/ui/spectatortournament_9v9`", default is 6v6.
 - Install the fonts included in "resource/fonts" folder. (if needed).
 
-A huge shout-out to Raysfire for the tutorials, Doodles's website for the information regarding each hud file and to the people in the tftv forums for helping me out with some questions related to editing files.  
+A huge shout-out to raysfire for the tutorials, Doodles's website for the information regarding each hud file and to the people in the tftv forums for helping me out with some questions related to editing files.  
 
 Also thanks a lot for the inspiration to all the hud creators out there.
 

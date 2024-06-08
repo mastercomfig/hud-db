@@ -24,7 +24,7 @@ raysfire - Rayshud and the tutorials that helped me make this.
 
 Hakita & the ULTRAKILL dev team - Made one of my favorite games and inspired me to pick up HUD development.
 
-VillageGreenPreserver - Healthbar (<https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main>)
+Village Green Preserver - Healthbar (<https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main>)
 
 Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709>)
 
@@ -32,8 +32,8 @@ Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfile
 
 Tomma - WeirdcoreHUD is a source of inspiration for me. Also gladly let me use his HUD options as a base for the Calibration screen.
 
-TechnoSL - Made plenty of fixes to fonts and made colors consistent across many places.
+techno - Made plenty of fixes to fonts and made colors consistent across many places.
 
 Hewett Tsoi - Font "Alagard" used in the Gabriel Pack (https://www.dafont.com/alagard.font).
 
-Jofre - The speedometer.
+Jofre Problem? - The speedometer.
