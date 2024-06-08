@@ -30,6 +30,7 @@
     "res": ["16/9"]
   },
   "repo": "https://github.com/Hypnootize/Rev-Hud",
+  "githubAuthor": null,
   "hash": "e642877bbdbaa297991133ce1109356685b6c761",
   "resources": ["rev-hud-banner"]
 }

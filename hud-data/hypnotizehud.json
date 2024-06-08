@@ -42,6 +42,7 @@
     "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/hypnotizehud",
+  "githubAuthor": null,
   "hash": "373d33c8a00833b37156c896274f199adae751a0",
   "resources": [
     "hypnotizehud-banner",

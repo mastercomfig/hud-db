@@ -39,6 +39,7 @@
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/cjrose/voidHUD",
+  "githubAuthor": "TheStaticVoid",
   "hash": "2cc08c4d8e08085549bdb5cd0080e6f28ba12921",
   "resources": [
     "voidhud-banner",

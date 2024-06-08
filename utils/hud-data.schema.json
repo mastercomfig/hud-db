@@ -221,6 +221,14 @@
     "verified": {
       "description": "For internal use only to enable some functionality. Do not set this yourself.",
       "type": "boolean"
+    },
+    "usesReleases": {
+      "description": "If the HUD uses GitHub releases for versioning and changelogs.",
+      "type": "boolean"
+    },
+    "githubAuthor": {
+      "description": "GitHub account used for profile information for the HUD.",
+      "type": ["string", "null"]
     }
   }
 }

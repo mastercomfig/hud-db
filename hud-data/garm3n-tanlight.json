@@ -6,6 +6,7 @@
     "album": "https://imgur.com/a/JYBQB"
   },
   "repo": "https://github.com/Hypnootize/Garm3n-TanLight",
+  "githubAuthor": null,
   "hash": "7465589785f8b74815942990de1e18e892f6ee7a",
   "parent": "quakehud",
   "resources": ["garm3n-tanlight-banner"]

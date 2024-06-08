@@ -23,6 +23,7 @@
     "res": ["16/9"]
   },
   "repo": "https://github.com/omnibombulator/collyhud",
+  "githubRepo": null,
   "hash": "1084699a883c75313f4f2a102b8d8058ec472756",
   "resources": ["colly-hud-banner"]
 }

@@ -7,6 +7,7 @@
     "album": "https://imgur.com/a/fG2xQ"
   },
   "repo": "https://github.com/Hypnootize/Broesel-Old",
+  "githubAuthor": null,
   "hash": "6b6954d8c9ad6c9de2a9b566e0b8bb07c97eef7c",
   "parent": "broesel-hud",
   "resources": ["broesel-old-banner"]
