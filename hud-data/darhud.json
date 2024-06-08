@@ -1,7 +1,6 @@
 {
   "name": "DarHUD",
   "author": "DarSitam",
-  "contributors": ["DarSitam"],
   "releaseDate": "2023-08-17",
   "flags": ["scoreboards", "minmode", "materials", "customization"],
   "tags": ["modern"],
