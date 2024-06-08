@@ -6,7 +6,7 @@
     "album": "https://imgur.com/a/aYQhZd1"
   },
   "repo": "https://github.com/tekunotri/LackHUD",
-  "githubRepo": null,
+  "githubAuthor": null,
   "hash": "3e378660ad643dbf2c4a82f0f2eb87e69f21b1a8",
   "parent": "broesel-hud",
   "resources": ["lackhud-menu", "lackhud-gameplay"]

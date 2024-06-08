@@ -43,7 +43,7 @@
   },
   "tags": ["spectator", "casting"],
   "repo": "https://github.com/CriticalFlaw/EssentialsHUD",
-  "githubRepo": null,
+  "githubAuthor": null,
   "hash": "17e35b1b17af19f8a210437e86c847b737bb0fa5",
   "resources": ["banner", "spectator", "hud"]
 }

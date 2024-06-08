@@ -6,7 +6,7 @@
     "album": "https://imgur.com/a/lcxp5sm"
   },
   "repo": "https://github.com/tekunotri/huehued",
-  "githubRepo": null,
+  "githubAuthor": null,
   "hash": "5c39ae86eae3f07924e757dae53474e544d3a9b6",
   "parent": "quakehud",
   "resources": ["huehued-menu", "huehued-gameplay", "huehued-medic"]
