@@ -1,7 +1,10 @@
 {
   "name": "yesodHUD",
   "author": "yesod",
-  "contributors": ["colly", "Hypnotize"],
+  "contributors": [
+    "colly",
+    "Hypnotize"
+  ],
   "releaseDate": "2024-05-04",
   "resources": [
     "yesod-title",
@@ -13,10 +16,18 @@
     "yesod-scoreboard",
     "yesod-stv"
   ],
-  "flags": ["fonts", "menus", "scoreboards", "materials", "customization"],
-  "tags": ["minimal"],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/yesod404/yesodCollyHUD",
-  "hash": "9a158cdda01ed573b9bad350ae2f51be6171cde5",
+  "hash": "f34727bad0ea2de472e567cce632b8995c204a0d",
   "prerelease": true,
   "social": {
     "steam_profile": "76561198212866289",
@@ -24,7 +35,9 @@
     "album": "https://imgur.com/a/DuWMTA8"
   },
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -44,7 +57,11 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"],
-    "position": ["center"]
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
   }
 }
