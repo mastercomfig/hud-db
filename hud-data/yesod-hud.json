@@ -3,9 +3,11 @@
   "author": "yesod",
   "contributors": [
     "colly",
-    "Hypnotize"
+    "hypnotize",
+    "techno",
+    "Village Green Preserver"
   ],
-  "releaseDate": "2024-05-04",
+  "releaseDate": "2024-06-09",
   "resources": [
     "yesod-title",
     "yesod-menu",
@@ -31,7 +33,7 @@
   "prerelease": false,
   "social": {
     "steam_profile": "76561198212866289",
-    "discord": ".yesod#0",
+    "discord": ".yesod",
     "album": "https://imgur.com/a/DuWMTA8"
   },
   "traits": {
@@ -57,9 +59,7 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ],
+    "res": ["4/3", "16/9"],
     "position": [
       "center"
     ]
