@@ -1,0 +1,61 @@
+{
+  "name": "Bania Hud",
+  "author": "smh2211",
+  "contributors": [
+    "Hypnotize",
+    "Chippy",
+    "Village Green Preserver",
+    "weareallimaginary"
+  ],
+  "releaseDate": "2024-05-20",
+  "resources": [
+    "bania-hud-banner"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "tags": [
+    "minimal",
+    "box",
+    "black and white"
+  ],
+  "repo": "https://github.com/HUBM3N/Bania-Hud",
+  "hash": "6b5e53b451b02348c1bdbd6d00b00537eaeb8738",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198992606708",
+    "discord": "cowshit#0",
+    "album": "https://imgur.com/a/ULn1arh"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr",
+      "pd"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
