@@ -1,6 +1,5 @@
 {
   "name": "Bania Hud",
-  "": "a hud i made lolololol",
   "author": "smh2211",
   "contributors": [
     "Hypnotize",
@@ -10,10 +9,7 @@
   ],
   "releaseDate": "2024-05-20",
   "resources": [
-    "huds.tf discord",
-    "fontforge",
-    "paint.net",
-    "notepad++"
+    "bania-hud-banner",
   ],
   "flags": [
     "fonts",
@@ -25,14 +21,13 @@
     "minimal",
     "box",
     "black and white",
-    ""
   ],
   "repo": "https://github.com/HUBM3N/Bania-Hud",
   "hash": "6b5e53b451b02348c1bdbd6d00b00537eaeb8738",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198992606708",
-    "discord": "cowshit",
+    "discord": "cowshit#0",
     "album": "https://imgur.com/a/ULn1arh"
   },
   "traits": {
@@ -60,10 +55,7 @@
       "center"
     ],
     "lang": [
-      "English"
-    ]
-    "resources": [
-      "bania-hud-banner"
+      "en"
     ]
   }
 }
