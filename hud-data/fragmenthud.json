@@ -7,7 +7,7 @@
     "eightyeight"
   ],
   "repo": "https://github.com/leadscales/fragmenthud",
-  "hash": "2437c19c849c2c3468f6bf55779b787918fb26b7",
+  "hash": "3b20807d6f3741f118ce2dd35e8dfd52444e8dc8",
   "prerelease": true,
   "social": {
     "steam_profile": "76561199066986123",
@@ -26,6 +26,7 @@
     "minimal",
     "duotone",
     "monochrome",
+    "gradient",
     "customizable",
     "modern"
   ],
