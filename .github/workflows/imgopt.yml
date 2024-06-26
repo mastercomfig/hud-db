@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'mastercomfig/hud-db'
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Convert to WebP
         id: convert
         run: |
