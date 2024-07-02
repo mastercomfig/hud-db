@@ -15,7 +15,8 @@
   ],
   "traits": {
     "os": [
-      "windows"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "tournament",
@@ -28,7 +29,8 @@
       "plr",
       "ctf",
       "sd",
-      "mvm"
+      "mvm",
+      "pass"
     ],
     "res": [
       "4/3",
@@ -47,7 +49,7 @@
     "monochrome"
   ],
   "repo": "https://github.com/tekunotri/technohud",
-  "hash": "1fb59f6abfc4214c54ad7a35693c85759649bcb3",
+  "hash": "ba11d2ef6660c88d80c43e5b52346c2ca77daebd",
   "prerelease": true,
   "resources": [
     "th-banner",
