@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'mastercomfig/hud-db'
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Convert to WebP
         id: convert
         run: |
@@ -43,7 +43,7 @@ jobs:
         run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
       - name: Create New Pull Request If Needed
         if: steps.compress.outputs.markdown != '' || steps.convert.outcome == 'success'
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           title: Auto Optimize Images
           branch: imgopt

@@ -19,7 +19,8 @@
       "minimal"
     ],
     "repo": "https://github.com/tekunotri/optive-hud",
-    "hash": "08dc070e23f4938740502fdfd9e3e0962c4ab465",
+    "githubAuthor": null,
+    "hash": "63dfa2427001838fd4f50961e99104e8dd052cc6",
     "prerelease": false,
     "social": {},
     "traits": {
