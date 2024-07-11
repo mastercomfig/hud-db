@@ -30,7 +30,10 @@
       "ctf",
       "sd",
       "mvm",
-      "pass"
+      "pass",
+      "rd",
+      "sd",
+      "halloween"
     ],
     "res": [
       "4/3",
@@ -49,7 +52,7 @@
     "monochrome"
   ],
   "repo": "https://github.com/tekunotri/technohud",
-  "hash": "ba11d2ef6660c88d80c43e5b52346c2ca77daebd",
+  "hash": "68dd18d6fcd861344a70bc69a715b1c440993a3b",
   "prerelease": true,
   "resources": [
     "th-banner",
