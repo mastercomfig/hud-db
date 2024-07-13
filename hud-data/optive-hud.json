@@ -1,52 +1,30 @@
 {
-    "name": "optive hud",
-    "author": "Optivex",
-    "contributors": [
-      "techno"
+  "name": "optive hud",
+  "author": "Optivex",
+  "contributors": ["techno"],
+  "releaseDate": "2020-08-27",
+  "resources": ["optivehud-menu", "https://youtu.be/DmAiJ9Oz-nY"],
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs"],
+  "tags": ["minimal"],
+  "repo": "https://github.com/tekunotri/optive-hud",
+  "githubAuthor": null,
+  "hash": "63dfa2427001838fd4f50961e99104e8dd052cc6",
+  "prerelease": false,
+  "social": {},
+  "traits": {
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "pl",
+      "plr"
     ],
-    "releaseDate": "2020-08-27",
-    "resources": [
-      "optivehud-menu",
-      "https://youtu.be/DmAiJ9Oz-nY?si=9I9GbAkCXs4Y_yrx"
-    ],
-    "flags": [
-      "fonts",
-      "menus",
-      "scoreboards",
-      "crosshairs"
-    ],
-    "tags": [
-      "minimal"
-    ],
-    "repo": "https://github.com/tekunotri/optive-hud",
-    "githubAuthor": null,
-    "hash": "63dfa2427001838fd4f50961e99104e8dd052cc6",
-    "prerelease": false,
-    "social": {},
-    "traits": {
-      "gamemode": [
-        "tournament",
-        "comp",
-        "arena",
-        "ad",
-        "ctf",
-        "cp",
-        "halloween",
-        "pl",
-        "plr"
-      ],
-      "res": [
-        "4/3",
-        "16/9",
-        "16/10",
-        "5/4"
-      ],
-      "position": [
-        "center"
-      ],
-      "lang": [
-        "en"
-      ]
-    }
+    "res": ["4/3", "16/9", "16/10", "5/4"],
+    "position": ["center"],
+    "lang": ["en"]
   }
-  
+}

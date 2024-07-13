@@ -8,20 +8,9 @@
     "weareallimaginary"
   ],
   "releaseDate": "2024-05-20",
-  "resources": [
-    "bania-hud-banner"
-  ],
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "materials"
-  ],
-  "tags": [
-    "minimal",
-    "box",
-    "black and white"
-  ],
+  "resources": ["bania-hud-banner"],
+  "flags": ["fonts", "menus", "scoreboards", "materials"],
+  "tags": ["minimal", "box", "black-and-white"],
   "repo": "https://github.com/HUBM3N/Bania-Hud",
   "hash": "6b5e53b451b02348c1bdbd6d00b00537eaeb8738",
   "prerelease": false,
@@ -31,9 +20,7 @@
     "album": "https://imgur.com/a/ULn1arh"
   },
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -46,16 +33,8 @@
       "plr",
       "pd"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "16/9", "16/10"],
+    "position": ["center"],
+    "lang": ["en"]
   }
 }
