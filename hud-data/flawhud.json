@@ -6,7 +6,7 @@
     "steam_profile": "76561198041892999",
     "steam_group": "flawhud",
     "twitter": "CriticalFlaw_",
-    "discord": "hTdtK9vBhE",
+    "discord": "/hTdtK9vBhE",
     "youtube": "@CriticalFlaw"
   },
   "flags": [
@@ -17,11 +17,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -41,36 +37,13 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "1/1",
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ],
-    "position": [
-      "center",
-      "corners"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["center", "corners"],
+    "lang": ["en"]
   },
-  "tags": [
-    "minimal"
-  ],
+  "tags": ["minimal"],
   "repo": "https://github.com/CriticalFlaw/flawhud",
   "hash": "8d4299a96b5061ebf9c60e052db1b4529c8c6a4f",
   "verified": true,
-  "resources": [
-    "banner",
-    "menu",
-    "loadout",
-    "hud",
-    "scoreboard",
-    "spectator"
-  ]
+  "resources": ["banner", "menu", "loadout", "hud", "scoreboard", "spectator"]
 }
