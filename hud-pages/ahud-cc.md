@@ -16,7 +16,7 @@ Have a lovely day, au revoir!
 [Report bugs here](https://github.com/jakadak/ahud-cc/issues/new/choose)
   
 ### Special thanks:
-- [Hikyle](https://github.com/Hikyle), [N0kk](https://github.com/N0kk), [Critical Fow](https://github.com/CriticalFlaw): Original aHUD developers  
+- [Hikyle](https://github.com/Hikyle), [N0kk](https://github.com/N0kk), [CriticalFlaw](https://github.com/CriticalFlaw): Original aHUD developers  
 - [Hypnootize](https://github.com/Hypnootize): Basefile Script Integration + Class Icons + Fonts + Item-menu alternative from Sunsethud  
 - [Peaches](https://github.com/PapaPeach): Side menu + Binds in options  
 - [SiFWolf](https://gamebanana.com/members/1417462): Integrated modes: Consistent Kill Icons (2023)  
