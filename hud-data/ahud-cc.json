@@ -1,0 +1,98 @@
+{
+  "name": "ahud-cc",
+  "author": "Jakadak",
+  "contributors": [
+    "Hikyle",
+    "Hypnootize",
+    "Peaches",
+    "SiFWolf",
+    "Quik",
+    "Griever"
+  ],
+  "releaseDate": "2024-07-25",
+  "parent": "ahud",
+  "resources": [
+    "ahud-cc",
+    "jnLvG82",
+    "acjZPmi",
+    "6uG5LUw",
+    "9UJR0gP",
+    "wicJuVg",
+    "z1TlYCe",
+    "I4QkmZG",
+    "yasPpKx",
+    "yWW5unT",
+    "vS86iQv",
+    "2Alfd01",
+    "TJmP2wd",
+    "Bnmc2Cz",
+    "EfQG3FE",
+    "yj3ny7D",
+    "BZB8QyN",
+    "92mh8vI",
+    "ihvvGb3",
+    "dC41F3U",
+    "GtOYXLe",
+    "rN5xzbI",
+    "uxzGC9x"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "clean",
+    "minimal",
+    "competive"
+  ],
+  "repo": "https://github.com/jakadak/ahud-cc",
+  "hash": "89bc967b00e7b818ad998b93a6e8646d57c5577c",
+  "prerelease": false,
+  "social": {
+    "issues": "https://github.com/jakadak/ahud-cc/issues/new/choose",
+    "steam_profile": "76561198235002312",
+    "steam_group": "https://steamcommunity.com/groups/ahud-cc",
+    "discord": "jakadak",
+    "album": "https://imgur.com/a/zPrf6Iw"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
