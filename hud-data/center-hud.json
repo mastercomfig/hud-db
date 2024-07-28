@@ -1,9 +1,13 @@
 {
   "name": "Center HUD",
-  "author": "Eerorri",
+  "author": "Rorrii",
   "releaseDate": "2023-12-23",
+  "resources": [
+    "centerhudlogo",
+    "centerhudimage",
+    "https://youtu.be/_RjJj9XU_iI"  
+  ],
   "flags": [
-    "fonts",
     "menus",
     "crosshairs",
     "minmode",
@@ -11,25 +15,21 @@
     "customization"
   ],
   "tags": ["vanilla", "default"],
-  "repo": "https://github.com/Eerorri/center-hud",
-  "hash": "9b7f760673449da5d582092acb2f9138b598dbcd",
+  "repo": "https://github.com/Rorriis/center-hud",
+  "hash": "4f2e31711b46e65d69728a84930f6082a451fc14",
   "prerelease": false,
-  "resources": [
-    "centerlogo",
-    "center1",
-    "center2",
-    "center3",
-    "center4",
-    "center5",
-    "https://youtu.be/a_38tTV4Xhc",
-    "https://youtu.be/G39x7-gmCzU"
-  ],
+
   "social": {
     "steam_profile": "76561199001745671",
-    "twitter": "Eerorri_"
+    "discord": "rorriis#0",
+    "twitter": "Rorriis_",
+    "album": "https://imgur.com/a/NLdQS6O"
   },
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -49,7 +49,19 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "21/9"],
-    "position": ["center"]
+    "res": [
+      "4/3",
+      "16/9",
+      "21/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en",
+      "fi",
+      "ro",
+      "tu"
+    ]
   }
 }
