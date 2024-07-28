@@ -13,6 +13,8 @@
     "producthud-banner-new",
     "mainmenu-new",
     "mainmenu-dark",
+    "mainmenu-green",
+    "mainmenu-purple",
     "classloadout",
     "backpack-new",
     "team-select",
@@ -32,7 +34,7 @@
     "customization"
   ],
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "9be166b4e24e049eee7f24080a1ce99dca81e5af",
+  "hash": "13a950d15fe305ff20f1d66dc970e6b869d51fa3",
   "prerelease": false,
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
