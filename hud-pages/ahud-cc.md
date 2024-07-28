@@ -1,5 +1,5 @@
-## ahud with modern features │ [screenshots](https://imgur.com/a/zPrf6Iw)  
-**[SCREENSHOTS](https://imgur.com/a/zPrf6Iw)**  
+## AHUD WITH MODERN FEATURES │ [SCREENSHOTS](https://imgur.com/gallery/ahud-cc-9npCWPa)  
+**[SCREENSHOTS](https://imgur.com/gallery/ahud-cc-9npCWPa)**  
 **[AHUD-CC WIKI](https://github.com/jakadak/ahud-cc/wiki)**  
 
 ### Modern update for Ahud
