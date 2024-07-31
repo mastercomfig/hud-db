@@ -2,8 +2,6 @@ name: autofix.ci
 
 on:
   pull_request:
-  push:
-    branches: [ "main" ]
 jobs:
   autofix:
     runs-on: ubuntu-latest
