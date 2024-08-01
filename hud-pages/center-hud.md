@@ -6,11 +6,11 @@
   <h2>
   Additional Downloads
   </h2>
-  <a href="https://github.com/Eerorri/center-hud/releases/download/v17/center-hud-linux-v17.zip">Linux Version</a>
+  <a href="https://github.com/Eerorri/center-hud/releases/download/v17b/center-hud-linux-v17b.zip">Linux Version</a>
   ·
-  <a href="https://github.com/Eerorri/center-hud/releases/download/v17/center-hud-lite-v17.zip">Lite Version</a>
+  <a href="https://github.com/Eerorri/center-hud/releases/download/v17b/center-hud-lite-v17b.zip">Lite Version</a>
   ·
-  <a href="https://github.com/Eerorri/center-hud/releases/download/v17/center-hud-tf2c.zip">TF2C Version</a>
+  <a href="https://github.com/Eerorri/center-hud/releases/download/v17b/center-hud-tf2c.zip">TF2C Version</a>
 </div>
   <br />
 <div id="translators" align="center">
