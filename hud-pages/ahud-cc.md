@@ -1,4 +1,4 @@
-## AHUD WITH MODERN FEATURES │ [SCREENSHOTS](https://imgur.com/gallery/ahud-cc-9npCWPa)  
+## AHUD WITH MODERN FEATURES
 **[SCREENSHOTS](https://imgur.com/gallery/ahud-cc-9npCWPa)**  
 **[AHUD-CC WIKI](https://github.com/jakadak/ahud-cc/wiki)**  
 
