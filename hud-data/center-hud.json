@@ -16,7 +16,7 @@
   ],
   "tags": ["vanilla", "default"],
   "repo": "https://github.com/Rorriis/center-hud",
-  "hash": "4f2e31711b46e65d69728a84930f6082a451fc14",
+  "hash": "a0ad006b0884026764e0e762e07f7e125f88a133",
   "prerelease": false,
 
   "social": {
@@ -61,7 +61,7 @@
       "en",
       "fi",
       "ro",
-      "tu"
+      "tr"
     ]
   }
 }
