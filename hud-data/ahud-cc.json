@@ -11,6 +11,7 @@
   ],
   "releaseDate": "2024-07-25",
   "parent": "ahud",
+  "distinguishedFromParent": true,
   "resources": [
     "ahud-cc",
     "jnLvG82",
@@ -38,13 +39,9 @@
     "materials",
     "customization"
   ],
-  "tags": [
-    "clean",
-    "minimal",
-    "competitive"
-  ],
+  "tags": ["clean", "minimal", "competitive"],
   "repo": "https://github.com/jakadak/ahud-cc",
-  "hash": "6efce1782734210071a29a82a53e6dc10f15aa58",
+  "hash": "86c19c4c79017de0cae70f792afc90e02246b681",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198235002312",
@@ -52,9 +49,7 @@
     "album": "https://imgur.com/gallery/ahud-cc-9npCWPa"
   },
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -73,16 +68,8 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "default"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "16/9", "16/10"],
+    "position": ["default"],
+    "lang": ["en"]
   }
 }

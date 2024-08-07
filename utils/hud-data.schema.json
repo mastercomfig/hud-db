@@ -36,6 +36,10 @@
       "pattern": "^[\\w][\\w.-]*$",
       "examples": ["their-hud"]
     },
+    "distinguishedFromParent": {
+      "description": "If this HUD is a major update/edit to its parent, and thus should be listed separately from the parent HUD.",
+      "type": "boolean"
+    },
     "resources": {
       "description": "A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images. First resource is required, must be an image and is used as the display banner. Resources also support youtu.be links for video embeds.",
       "type": "array",
