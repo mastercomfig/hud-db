@@ -2,6 +2,8 @@
   "name": "ULTRAHUD-TF2",
   "author": "The 2fort Cremator",
   "contributors": ["raysfire", "Village Green Preserver", "Tomma", "techno"],
+  "parent": "rayshud",
+  "distinguishedFromParent": true,
   "releaseDate": "2024-02-24",
   "resources": ["divine-intervention"],
   "flags": ["fonts", "menus", "crosshairs", "minmode", "customization"],
