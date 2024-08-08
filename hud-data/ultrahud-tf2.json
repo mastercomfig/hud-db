@@ -5,7 +5,7 @@
   "parent": "rayshud",
   "distinguishedFromParent": true,
   "releaseDate": "2024-02-24",
-  "resources": ["divine-intervention"],
+  "resources": ["item-update"],
   "flags": ["fonts", "menus", "crosshairs", "minmode", "customization"],
   "repo": "https://github.com/2fort-cremator/ULTRAHUD-TF2",
   "hash": "a9ef940eafdc7fec30929b809c426c3a04fb8538",
