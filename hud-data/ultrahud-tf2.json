@@ -8,7 +8,7 @@
   "resources": ["item-update"],
   "flags": ["fonts", "menus", "crosshairs", "minmode", "customization"],
   "repo": "https://github.com/2fort-cremator/ULTRAHUD-TF2",
-  "hash": "a9ef940eafdc7fec30929b809c426c3a04fb8538",
+  "hash": "c6c001cea25c04e2df03d689f937a40795053e69",
   "prerelease": false,
   "social": {
     "discord": "/v8nmUKRX62"
