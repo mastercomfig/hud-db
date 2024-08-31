@@ -8,39 +8,47 @@
     "quickkennedy",
     "techno"
   ],
+
   "releaseDate": "2024-05-08",
-  "resources": [
-    "producthud-banner-new",
-    "mainmenu-new",
-    "mainmenu-dark",
-    "mainmenu-green",
-    "mainmenu-purple",
-    "classloadout",
-    "backpack-new",
-    "team-select",
-    "class-select",
-    "scoreboard",
-    "winpanel",
-    "5cp",
-    "payload-new",
-    "mvm-new"
-  ],
-  "flags": [
-    "fonts",
-    "menus",
-    "crosshairs",
-    "minmode",
-    "materials",
-    "customization"
-  ],
-  "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "13a950d15fe305ff20f1d66dc970e6b869d51fa3",
   "prerelease": false,
+
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
     "steam_profile": "76561198138061435",
-    "album": "https://imgur.com/a/mZHn0Kw"
+    "album": "https://github.com/Kruphixx/producthud/blob/screenshots/showcase.md"
   },
+
+  "resources": [
+    "product-banner-new",
+    "product-menu-default",
+    "product-menu-dark",
+    "product-menu-green",
+    "product-menu-purple",
+    "product-loadout",
+    "product-teamselect",
+    "product-classselect",
+    "product-health-default",
+    "product-health-minimal",
+    "product-uber",
+    "product-payload",
+    "product-mvm",
+    "product-scoreboard"
+  ],
+
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+
+  "repo": "https://github.com/Kruphixx/producthud",
+  "hash": "441b696a82062328bea7cd5eb0abf006e0d8ef4a",
+
   "traits": {
     "os": ["windows", "linux"],
     "gamemode": [
