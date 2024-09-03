@@ -47,7 +47,7 @@
 - High-quality item images.
 - An alternate health indicator.
    - Enabled by copying contents of `resource/ui/customizations/health` into `resource/ui`
-   
+
 #### Acknowledgements
 - [PapaPeach](https://github.com/PapaPeach) and [Hypnootize](https://github.com/Hypnootize) for log-based customizations method and panel.
 - [Tkain](https://gamebanana.com/members/1582147) for the high-quality [TF2 Logo](https://gamebanana.com/mods/27061).

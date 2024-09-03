@@ -28,7 +28,7 @@ Village Green Preserver - Healthbar (<https://github.com/VillageGreenPreserver/H
 
 Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709>)
 
-[deleted] on Reddit - The colored version of V1s head in the UK logo (<https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/>)
+Unknown on Reddit - The colored version of V1s head in the UK logo (<https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/>)
 
 Tomma - WeirdcoreHUD is a source of inspiration for me. Also gladly let me use his HUD options as a base for the Calibration screen.
 

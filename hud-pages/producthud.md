@@ -10,6 +10,4 @@ A flat, minimalistic Team Fortress 2 custom HUD originally created by omnibombul
 ## Credits
 * Hypnotize - Custom gamemode materials, custom crosshairs
 * HUDS.tf Discord (particularly Village Green Preserver, quickkennedy and some others) - Help with a lot of things
-
-* Inspiration
-HypnotizeHUD, SunsetHUD, FlarepunchHUD
+* Inspiration: HypnotizeHUD, SunsetHUD, FlarepunchHUD

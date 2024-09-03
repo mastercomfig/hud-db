@@ -1,8 +1,10 @@
 ## AHUD WITH MODERN FEATURES
+
 **[SCREENSHOTS](https://imgur.com/gallery/ahud-cc-9npCWPa)**  
 **[AHUD-CC WIKI](https://github.com/jakadak/ahud-cc/wiki)**  
 
 ### Modern update for Ahud
+
 - Support for more gamemodes (Payload, Bosses, Player destruction, Robot destruction,...)
 - HUD Customizations Menu (Scoreboard, Ubercharge meter, Streamer mode, Chat,...)
 - Community servers features (Play categories, special buttons)
@@ -11,11 +13,12 @@
 - 16:9, 16:10, and 4:3 support
 
 Have a lovely day, au revoir!  
-***
+---
 [Installation](https://github.com/jakadak/ahud-cc/wiki/Installation)  
 [Report bugs here](https://github.com/jakadak/ahud-cc/issues/new/choose)
   
-### Special thanks:
+### Special thanks
+
 - [Hikyle](https://github.com/Hikyle), [N0kk](https://github.com/N0kk), [CriticalFlaw](https://github.com/CriticalFlaw): Original aHUD developers  
 - [Hypnootize](https://github.com/Hypnootize): Basefile Script Integration + Class Icons + Fonts + Item-menu alternative from Sunsethud  
 - [Peaches](https://github.com/PapaPeach): Side menu + Binds in options  
