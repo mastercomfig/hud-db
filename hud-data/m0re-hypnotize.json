@@ -3,7 +3,7 @@
   "author": "Hypnotize",
   "social": {
     "steam_profile": "76561198058754493",
-    "album": "http://imgur.com/a/2gckG"
+    "album": "https://github.com/Hypnootize/Hypnotize-m0rehud/blob/screenshots/showcase.md"
   },
   "flags": [
     "fonts",
@@ -15,10 +15,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -38,21 +35,12 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"],
+    "position": ["center"],
+    "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/Hypnotize-m0rehud",
-  "hash": "e392a7a1e075674d27eab917f60d4b955e767d6f",
+  "hash": "21e7c1510cf2063b64e10a91dba01c0ec07961d2",
   "parent": "m0rehud",
   "resources": [
     "m0rehypnotize-banner",

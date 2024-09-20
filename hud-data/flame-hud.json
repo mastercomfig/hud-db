@@ -1,16 +1,13 @@
 {
   "name": "Flame HUD",
   "author": "Flame",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "flamehud",
     "album": "https://imgur.com/a/NHBdv"
   },
   "repo": "https://github.com/Hypnootize/Flame-Hud",
-  "hash": "5cfc0a3049696f534c8b6ddaf742ccfa8124e980",
-  "resources": [
-    "flame-hud-banner"
-  ]
+  "githubAuthor": null,
+  "hash": "94fff01603e960a5351aaa99a0133b483e928852",
+  "resources": ["flame-hud-banner"]
 }

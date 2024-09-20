@@ -1,0 +1,12 @@
+{
+  "name": "Maidcore Hud",
+  "author": "Mokila",
+  "social": {
+    "steam_profile": "76561199239940633",
+    "album": "https://imgur.com/a/C6e2GxG"
+  },
+  "repo": "https://gamebanana.com/mods/433789",
+  "hash": "0.4",
+  "publishDate": "2023-04-09",
+  "resources": ["maidcore-hud-banner"]
+}

@@ -1,23 +1,13 @@
 {
   "name": "QTC HUD",
   "author": "Colly",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/lS0SX"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "crosshairs",
-    "materials"
-  ],
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,13 +27,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ]
+    "res": ["16/9"]
   },
   "repo": "https://github.com/Hypnootize/QTC-Hud",
+  "githubAuthor": null,
   "hash": "ac47e2002bd13c1ec5758a73fe0c9c64d9d5f71e",
-  "resources": [
-    "qtc-hud-banner"
-  ]
+  "resources": ["qtc-hud-banner"]
 }

@@ -1,10 +1,11 @@
 {
   "name": "KBNHud",
   "author": "J\u00f6tunn",
+  "verified": true,
   "social": {
     "steam_profile": "76561198030388943",
     "steam_group": "KBNHud",
-    "discord": "NhnSysw",
+    "discord": "/NhnSysw",
     "album": "https://imgur.com/a/nmXU42d"
   },
   "flags": [
@@ -17,11 +18,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -41,23 +38,11 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ]
+    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
   },
-  "tags": [
-    "minimal",
-    "ultra-minimal",
-    "competitive"
-  ],
+  "tags": ["minimal", "ultra-minimal", "competitive"],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "bec374fadc27e64be72be6bc21276c2889cdc945",
+  "hash": "c445242b1d87566ce8fa200dc50910acdc30af7d",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",

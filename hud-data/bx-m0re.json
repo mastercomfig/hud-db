@@ -1,16 +1,13 @@
 {
   "name": "BX-m0re",
   "author": "evans",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/gsGjG"
   },
   "repo": "https://github.com/Hypnootize/bx-m0rehud",
+  "githubAuthor": null,
   "hash": "9f6a28ed1bda90a07c797437ad3ca378ae300d96",
-  "parent": "bx-m0re",
-  "resources": [
-    "bx-m0re-banner"
-  ]
+  "parent": "m0rehud",
+  "resources": ["bx-m0re-banner"]
 }

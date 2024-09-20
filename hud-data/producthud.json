@@ -1,0 +1,76 @@
+{
+  "name": "ProductHUD",
+  "author": "Kruphixx",
+  "contributors": [
+    "omnibombulator",
+    "Hypnotize",
+    "Village Green Preserver",
+    "quickkennedy",
+    "techno"
+  ],
+
+  "releaseDate": "2024-05-08",
+  "prerelease": false,
+
+  "social": {
+    "issues": "https://github.com/Kruphixx/producthud/issues",
+    "steam_profile": "76561198138061435",
+    "album": "https://github.com/Kruphixx/producthud/blob/screenshots/showcase.md"
+  },
+
+  "resources": [
+    "product-banner-new",
+    "product-menu-default",
+    "product-menu-dark",
+    "product-menu-green",
+    "product-menu-purple",
+    "product-loadout",
+    "product-teamselect",
+    "product-classselect",
+    "product-health-default",
+    "product-health-minimal",
+    "product-uber",
+    "product-payload",
+    "product-mvm",
+    "product-scoreboard"
+  ],
+
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+
+  "repo": "https://github.com/Kruphixx/producthud",
+  "hash": "441b696a82062328bea7cd5eb0abf006e0d8ef4a",
+
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["4/3", "16/9", "16/10", "21/9", "32/9", "17/9", "1/1", "5/4"],
+    "position": ["center"]
+  }
+}

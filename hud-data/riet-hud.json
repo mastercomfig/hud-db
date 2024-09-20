@@ -1,0 +1,14 @@
+{
+  "name": "RietHUD Remastered",
+  "author": "The Riet Rezulux",
+  "contributors": ["Igniteous"],
+  "social": {
+    "issues": "https://steamcommunity.com/groups/RietHUD/comments",
+    "album": "https://imgur.com/a/2njqi",
+    "steam_group": "RietHUD"
+  },
+  "repo": "https://github.com/tf2huds/riethud",
+  "githubAuthor": null,
+  "hash": "afc96641001907f5f84f46460f5a009f8a09bf54",
+  "resources": ["riet-hud-banner"]
+}

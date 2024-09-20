@@ -3,7 +3,7 @@
   "author": "quickkennedy",
   "social": {
     "steam_profile": "76561198304536343",
-    "steam_group": "quakehud",
+    "steam_group": "quakehudgroup",
     "album": "https://imgur.com/a/kaAQlTJ"
   },
   "flags": [
@@ -16,10 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,15 +36,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/quickkennedy/cutehud",
-  "hash": "bdfc90d8cc3c518c00a139b6a794eabd33b73e69",
+  "hash": "f60ce66b54a0f3700238984dd0c31ecdc2c636a2",
   "resources": [
     "cutehud-banner",
     "mainmenu",

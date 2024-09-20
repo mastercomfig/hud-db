@@ -1,15 +1,12 @@
 {
   "name": "PV HUD",
   "author": "povohat",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/C3dXl"
   },
   "repo": "https://github.com/Hypnootize/PV-Hud",
+  "githubAuthor": null,
   "hash": "12e5783514b2baf6bde43555bfdc32d18e8310c7",
-  "resources": [
-    "pv-hud-banner"
-  ]
+  "resources": ["pv-hud-banner"]
 }

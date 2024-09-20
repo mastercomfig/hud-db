@@ -1,26 +1,28 @@
 {
   "name": "budhud",
   "author": "Whisker",
+  "verified": true,
   "releaseDate": "2014-06-28",
   "social": {
     "support": "https://github.com/sponsors/rbjaxter",
     "steam_profile": "76561197988447469",
     "steam_group": "budhud",
     "twitter": "rbjaxter",
-    "discord": "TkxNKU2",
+    "discord": "/TkxNKU2",
+    "youtube": "@whisker",
+    "twitch": "whisker",
     "album": "https://imgur.com/a/aJ1K5"
   },
   "flags": [
-    "streamer-mode",
+    "fonts",
+    "menus",
     "crosshairs",
+    "scoreboards",
+    "streamer-mode",
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -40,36 +42,26 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "1/1",
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ],
-    "position": [
-      "center"
-    ],
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["center"],
     "lang": [
-      "zh",
+      "pt",
       "en",
       "fr",
       "de",
       "it",
-      "pt",
+      "ja",
+      "no",
       "ro",
       "ru",
-      "es"
+      "zh",
+      "es",
+      "tr"
     ]
   },
-  "tags": [
-    "minimal"
-  ],
+  "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
-  "hash": "42d0e26a2d8b59609a4cbab49d99204eaeead825",
+  "hash": "ac761b9d00b883f29e8d6cb881c3d70d9bf50274",
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",

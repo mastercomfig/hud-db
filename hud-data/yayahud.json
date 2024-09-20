@@ -1,9 +1,7 @@
 {
   "name": "Yayahud",
   "author": "yttrium",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/LCENr"
   },
@@ -16,10 +14,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,15 +34,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/yayahud",
-  "hash": "aea8ce26277d45202643a445b3b4e76bd8f8ff44",
-  "resources": [
-    "yayahud-banner"
-  ]
+  "githubAuthor": "Yttrium-tYcLief",
+  "hash": "c332ff5857adca1923a1394f88362c1300394c0d",
+  "resources": ["yayahud-banner"]
 }

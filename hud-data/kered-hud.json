@@ -1,15 +1,12 @@
 {
   "name": "Kered HUD",
   "author": "Kered",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/JV6hL"
   },
   "repo": "https://github.com/Hypnootize/Kered-Hud",
+  "githubAuthor": null,
   "hash": "a5fefffadf20eb958cca6d4437fea22f1d86df87",
-  "resources": [
-    "kered-hud-banner"
-  ]
+  "resources": ["kered-hud-banner"]
 }

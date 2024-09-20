@@ -1,22 +1,13 @@
 {
   "name": "collyhud",
   "author": "Colly",
-  "contributors": [
-    "omnibombulator"
-  ],
+  "contributors": ["omnibombulator"],
   "social": {
     "album": "https://ibb.co/album/dwngXw"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "materials"
-  ],
+  "flags": ["fonts", "menus", "scoreboards", "materials"],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "ad",
@@ -29,13 +20,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ]
+    "res": ["16/9"]
   },
   "repo": "https://github.com/omnibombulator/collyhud",
+  "githubAuthor": null,
   "hash": "1084699a883c75313f4f2a102b8d8058ec472756",
-  "resources": [
-    "colly-hud-banner"
-  ]
+  "resources": ["colly-hud-banner"]
 }

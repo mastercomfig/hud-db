@@ -1,9 +1,7 @@
 {
   "name": "medHUD",
   "author": "intel",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "medhud",
     "album": "https://imgur.com/a/1ufBE"
@@ -17,9 +15,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,16 +35,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/medHUD",
-  "hash": "a8afa58261ea680e1b59b86a8871654cb28a0244",
-  "resources": [
-    "med-hud-banner"
-  ]
+  "githubAuthor": "Intellectualbadass",
+  "hash": "a7eb9a0ca8cb5d57bddb5a28ec776d17eba84ab0",
+  "resources": ["med-hud-banner"]
 }

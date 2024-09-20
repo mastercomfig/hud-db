@@ -1,0 +1,40 @@
+{
+  "name": "DarHUD",
+  "author": "DarSitam",
+  "releaseDate": "2023-08-17",
+  "flags": ["scoreboards", "minmode", "materials", "customization"],
+  "tags": ["modern"],
+  "repo": "https://github.com/DarSitam/DarHud",
+  "hash": "575115ca7f3da9c017503ad89fe8cb6ee1a67589",
+  "prerelease": false,
+  "resources": ["darhud-logo"],
+  "social": {
+    "steam_profile": "76561198148464161",
+    "twitter": "DarSitam",
+    "discord": "/txn4CxyVmp",
+    "youtube": "@DarSitam",
+    "twitch": "DarSitam",
+    "album": "https://imgur.com/a/pTE0V2X"
+  },
+  "traits": {
+    "os": ["windows"],
+    "gamemode": [
+      "tournament",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "sd"
+    ],
+    "res": ["4/3", "16/9"],
+    "position": ["center", "corners"]
+  }
+}

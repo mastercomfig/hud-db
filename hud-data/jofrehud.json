@@ -4,33 +4,13 @@
   "social": {
     "album": "https://imgur.com/a/8RKavUI"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "materials",
-    "customization"
-  ],
+  "flags": ["fonts", "menus", "materials", "customization"],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
-    "gamemode": [
-      "arena",
-      "ad",
-      "ctf",
-      "cp",
-      "koth",
-      "pl"
-    ],
-    "res": [
-      "16/9",
-      "16/10"
-    ]
+    "os": ["windows", "linux"],
+    "gamemode": ["arena", "ad", "ctf", "cp", "koth", "pl"],
+    "res": ["16/9", "16/10"]
   },
-  "repo": "https://github.com/Jofre-Problem/JofreHUD-Dev",
-  "hash": "9cde723a52e2de9dbe13979d00b7a464f25346d4",
-  "resources": [
-    "jofrehud-banner"
-  ]
+  "repo": "https://github.com/Jofre-Problem/JofreHUD",
+  "hash": "ee162a5fbcde15edfb49800cd2a0ef1f8a496fbe",
+  "resources": ["jofrehud-banner"]
 }

@@ -10,7 +10,7 @@ Darker and more complete version of TeaHud!
 
 # Special Thanks
 
--Raysfire (the choosen one "tutorials")  
+-raysfire (the choosen one "tutorials")  
 -Hypnotize (hud beast and good guy)  
 -Whisker & Wiethoofd (guides and tricks for #base)  
 -JarateKing (BaseHud)  

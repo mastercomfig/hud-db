@@ -1,16 +1,12 @@
 {
   "name": "Topsh_it HUD",
   "author": "omnibombulator",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
-    "steam_group": "https://www.teamfortress.tv/12693",
     "album": "https://imgur.com/a/KtKEH"
   },
   "repo": "https://github.com/Hypnootize/Topsh_it-Hud",
+  "githubAuthor": "omnibombulator",
   "hash": "aacd8519fe93f0feb1423fb178000ecffce4b410",
-  "resources": [
-    "topsh_it-hud-banner"
-  ]
+  "resources": ["topsh_it-hud-banner"]
 }

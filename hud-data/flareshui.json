@@ -4,9 +4,7 @@
   "social": {
     "album": "https://imgur.com/a/G66bOBw"
   },
-  "repo": "https://github.com/flaresmoney/flareshUI-GREEN",
+  "repo": "https://github.com/flareshmoney/flareshUI-GREEN",
   "hash": "6dbc5ba90c0f03fe9f2a9216b5f638dec51d7ee9",
-  "resources": [
-    "flareshui-banner"
-  ]
+  "resources": ["flareshui-banner"]
 }

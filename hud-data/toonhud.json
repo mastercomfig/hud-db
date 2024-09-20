@@ -1,0 +1,13 @@
+{
+  "name": "ToonHUD",
+  "author": "Griever",
+  "releaseDate": "2013-07-02",
+  "social": {
+    "steam_group": "toonhud",
+    "album": "https://imgur.com/a/8Ktyl8m"
+  },
+  "repo": "https://toonhud.com/",
+  "hash": "11.4",
+  "publishDate": "2022-12-28",
+  "resources": ["toonhud-banner"]
+}

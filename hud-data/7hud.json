@@ -1,6 +1,7 @@
 {
   "name": "7HUD",
   "author": "sevin",
+  "verified": true,
   "social": {
     "steam_profile": "76561198056804798",
     "steam_group": "7HUD",
@@ -15,11 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,13 +36,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ]
+    "res": ["16/9"]
   },
   "repo": "https://github.com/Sevin7/7hud",
-  "hash": "474914eceb324d77296831824e4cc7dc484d0a1f",
-  "resources": [
-    "7hud-banner"
-  ]
+  "hash": "e292c6ca94af292615ab451805bdd225c0573c83",
+  "resources": ["7hud-banner"]
 }

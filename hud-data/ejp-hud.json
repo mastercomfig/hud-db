@@ -1,16 +1,13 @@
 {
   "name": "EJP HUD",
   "author": "b4stian",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "ejphud",
     "album": "https://imgur.com/a/K8ZYc"
   },
   "repo": "https://github.com/Hypnootize/EJP-Hud",
+  "githubAuthor": null,
   "hash": "15ccfb1aed9dd95818550f62026f9e8292c9fed7",
-  "resources": [
-    "ejp-hud-banner"
-  ]
+  "resources": ["ejp-hud-banner"]
 }

@@ -4,9 +4,7 @@
   <p align="center">
     Clean, functional and minimalistic TF2 HUD created by m0re.
     <br />
-    <a href="http://imgur.com/a/sxOyM">Screenshots</a>
-    -
-    <a href="https://github.com/Hypnootize/m0rehud">GitHub</a>
+    <a href="https://tf2huds.dev/hud/m0re-Hud">TF2 HUDs</a>
     -
     <a href="https://gamebanana.com/mods/291596">GameBanana</a>
     -
@@ -14,8 +12,16 @@
     -
     <a href="https://github.com/Hypnootize/m0rehud/wiki">HUD Wiki</a>
     -
-    <a href="https://github.com/Hypnootize/m0rehud/wiki/Customization">Customization</a>
+    <a href="https://github.com/Hypnootize/m0rehud/wiki/CUSTOMIZATIONS">Customization</a>
     -
     <a href="https://github.com/Hypnootize/m0rehud/wiki/Credits">Credits</a>
+    <br /><br />
+    HUD Versions:
+    <br />
+    <a href="https://github.com/Hypnootize/m0rehud/archive/master.zip">m0rehud For Windows</a>
+    -
+    <a href="https://github.com/Hypnootize/m0rehud/archive/linux.zip">m0rehud For Linux</a>
+    -
+    <a href="https://github.com/Hypnootize/m0rehud/archive/classic.zip">m0rehud Classic</a>
   </p>
 </p>

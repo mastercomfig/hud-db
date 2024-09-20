@@ -1,6 +1,5 @@
 # Description
 
-
 Simplistic HUD created by a Medic main, with the purpose of visibility, while still being noticeable. Heavily based on SunsetHUD/PeachHUD.  
   
 The files are a mess since this is my first HUD, I wouldn't suggest trying to modify things unless you know what you're doing.  

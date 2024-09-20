@@ -1,22 +1,13 @@
 {
   "name": "Overwatch HUD",
-  "author": "nimtra",
+  "author": "kmarcie",
   "social": {
     "steam_group": "overwatchhud",
     "album": "https://imgur.com/a/U1gfV"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "crosshairs",
-    "minmode",
-    "materials"
-  ],
+  "flags": ["fonts", "menus", "crosshairs", "minmode", "materials"],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,14 +27,9 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9",
-      "16/10"
-    ]
+    "res": ["16/9", "16/10"]
   },
-  "repo": "https://github.com/nimtra/overwatchhud",
-  "hash": "2e08c941c37b367a8963f0e3d16b5c9fcd49da87",
-  "resources": [
-    "overwatch-hud-banner"
-  ]
+  "repo": "https://github.com/kmarcie/overwatchhud",
+  "hash": "117dc2ff4e134aeb9af65b52a446312f2b43cde3",
+  "resources": ["overwatch-hud-banner"]
 }

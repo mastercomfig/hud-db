@@ -1,12 +1,28 @@
 {
   "name": "Half-Life 2 HUD",
   "author": "Village Green Preserver",
+  "contributors": ["Kruphixx"],
   "social": {
+    "steam_profile": "76561198159585055",
     "album": "https://imgur.com/a/TXR3dPW"
   },
+  "flags": ["menus", "materials", "customization"],
+  "traits": {
+    "os": ["windows"],
+    "gamemode": ["ad", "ctf", "cp", "koth", "pl", "plr", "tc", "arena"],
+    "res": ["16/9"],
+    "position": ["corners"],
+    "lang": ["en"]
+  },
   "repo": "https://github.com/VillageGreenPreserver/Half-Life-2-Hud",
-  "hash": "056cd2a3488e9f9879d14647b6755437e2e9c073",
+  "hash": "7133bd32de09f2ce8d6450b3868af0c67b311734",
   "resources": [
-    "half-life-2-hud-banner"
+    "half-life-2-hud-banner",
+    "half-life-2-hud-menu",
+    "half-life-2-hud-mm",
+    "half-life-2-hud-inv",
+    "half-life-2-hud-class",
+    "half-life-2-hud-ingame",
+    "half-life-2-hud-score"
   ]
 }

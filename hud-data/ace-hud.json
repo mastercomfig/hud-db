@@ -1,16 +1,13 @@
 {
   "name": "Ace HUD",
   "author": "Mangachu",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/uBg83"
   },
   "repo": "https://github.com/Hypnootize/Ace-Hud",
+  "githubAuthor": null,
   "hash": "de504c3ee4a64e827ce8942e39b68cb37747ab76",
   "parent": "hudas-iscariote",
-  "resources": [
-    "ace-hud-banner"
-  ]
+  "resources": ["ace-hud-banner"]
 }

@@ -1,8 +1,10 @@
 {
   "name": "ColourHUD",
   "author": "MrColour",
+  "releaseDate": "2022-07-28",
   "social": {
-    "album": "https://imgur.com/a/g7KUgL9"
+    "album": "https://imgur.com/a/E64cxWR",
+    "steam_profile": "76561198145928739"
   },
   "flags": [
     "fonts",
@@ -14,10 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,16 +36,18 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "5/4", "16/9", "16/10", "21/9", "32/9"]
   },
   "repo": "https://github.com/mcolour/colourhud",
-  "hash": "11e12149623f343924de90d4880362a0e8083ff0",
+  "hash": "8ecb5475c998789adb2f1af4f365f435ce19f096",
   "resources": [
-    "colourhud-banner"
+    "colourhud-banner",
+    "colourhud-01-mainmenu",
+    "colourhud-02-hud_minmode_off",
+    "colourhud-03-hud_minmode_on",
+    "colourhud-04-itemmenu",
+    "colourhud-05-loadoutmenu",
+    "colourhud-06-ctf",
+    "colourhud-07-plr"
   ]
 }

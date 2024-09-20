@@ -3,7 +3,7 @@
   "author": "Peaches",
   "social": {
     "support": "https://ko-fi.com/peachestv",
-    "discord": "HyZRVtp",
+    "discord": "/HyZRVtp",
     "youtube": "@PeachesFPS",
     "twitch": "peachestv"
   },
@@ -16,9 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": [
-      "windows"
-    ],
+    "os": ["windows"],
     "gamemode": [
       "tournament",
       "comp",
@@ -33,25 +31,14 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["4/3", "5/4", "16/10", "16/9"],
+    "position": ["center"],
+    "lang": ["en"]
   },
-  "tags": [
-    "minimal"
-  ],
+  "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "765298bffce1598a475594cd03115df1ba6bb08c",
-  "prerelease": true,
+  "hash": "1e2f554594a49655bbd94d096eef31d8e6250e48",
+  "prerelease": false,
   "resources": [
     "xhud-banner",
     "ingame",

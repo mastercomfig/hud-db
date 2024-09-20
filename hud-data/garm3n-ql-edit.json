@@ -1,16 +1,13 @@
 {
   "name": "Garm3n QL-Edit",
   "author": "Garm3n",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/Zvasl"
   },
   "repo": "https://github.com/Hypnootize/Garm3n-QL-Edit",
+  "githubAuthor": null,
   "hash": "9f5aeb246267c5c60452214bec9d1ccf8d583a1c",
   "parent": "quakehud",
-  "resources": [
-    "garm3n-ql-edit-banner"
-  ]
+  "resources": ["garm3n-ql-edit-banner"]
 }

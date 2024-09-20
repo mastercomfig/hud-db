@@ -1,24 +1,13 @@
 {
   "name": "Broken HUD",
   "author": "Colly",
-  "contributors": [
-    "Hypnotize"
-  ],
+  "contributors": ["Hypnotize"],
   "social": {
     "album": "https://imgur.com/a/fu94w"
   },
-  "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
-    "crosshairs",
-    "customization"
-  ],
+  "flags": ["fonts", "menus", "scoreboards", "crosshairs", "customization"],
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -38,15 +27,10 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ]
+    "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/Broken-Hud",
+  "githubAuthor": null,
   "hash": "fc809e41991b32ecafa7490801fdc324ca815594",
-  "resources": [
-    "broken-hud-banner"
-  ]
+  "resources": ["broken-hud-banner"]
 }
