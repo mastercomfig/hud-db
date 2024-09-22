@@ -1,0 +1,50 @@
+{
+  "name": "VCR_HUD",
+  "author": "Village Green Preserver",
+  "releaseDate": "2024-09-17",
+  "distinguishedFromParent": false,
+  "resources": [
+    "00-banner",
+    "01-menu",
+    "03-loadout",
+    "12-class",
+    "14-xhair-values",
+    "21-scoreboard",
+    "27-pl"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "repo": "https://github.com/VillageGreenPreserver/VCRHud",
+  "hash": "901e92588faef788a2e06b74bd86407dcb483f6e",
+  "prerelease": false,
+  "social": {
+    "album": "https://github.com/VillageGreenPreserver/VGP-Screens/blob/main/pages/VCR.md"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr",
+      "pd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "corners"
+    ]
+  }
+}
