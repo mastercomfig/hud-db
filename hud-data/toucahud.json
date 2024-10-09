@@ -1,0 +1,71 @@
+{
+  "name": "toucaHUD",
+  "author": "touca",
+  "contributors": [
+    "Jofre",
+    "Hypnotize",
+    "Colly",
+    "Omnibombulator"
+  ],
+  "releaseDate": "2024-10-03",
+  "parent": "hexhud, collyhud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "https://imgur.com/2CbDLfM"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "minmode",
+    "materials"
+  ],
+  "tags": [
+    "Minimal",
+    "Competitive",
+    "Comp",
+    "Overhaul",
+    "touca"
+  ],
+  "repo": "https://github.com/toucaknight/toucaHUD",
+  "hash": "419642a03feb56057804d629b24a2a4e0f1199eb",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198986534519",
+    "discord": ".touca",
+    "album": "https://imgur.com/a/vY3nZi3"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "English"
+    ]
+  }
+}
