@@ -1,0 +1,3 @@
+The HUD combines two of my favorite HUDs, CollyHUD and HExHUD, into something tailor-made for me and my interests as a competitive TF2 player. This HUD won't change the world or travel back in time to fight Professor Poopypants, but I want to show it off and, maybe, make someone's day in the process!
+
+Thank you to Hypnotize, Colly, and Omnibombulator for inspiration and development on HExHUD and CollyHUD respectively! Thank you to Jofre for the time spent and dedication to helping make this HUD as great as it can be for me!
