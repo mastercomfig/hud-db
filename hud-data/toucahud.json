@@ -8,10 +8,10 @@
     "Omnibombulator"
   ],
   "releaseDate": "2024-10-03",
-  "parent": "hexhud, collyhud",
+  "parent": "hexhud",
   "distinguishedFromParent": true,
   "resources": [
-    "https://imgur.com/2CbDLfM"
+    "toucahud-banner, toucahud-menu, toucahud-backpackui, toucahud-backpackheavy, toucahud-ingameui, toucahud-ingamemeter, toucahud-ingamestickycount, toucahud-ingameheadcount, toucahud-ingameubercharge, toucahud-ingamenobuilding, toucahud-ingamebuildmenu, toucahud-ingameallbuilding, toucahud-ingamedestroybuild, toucahud-ingamedisguise, toucahud-ingametauntmenu"
   ],
   "flags": [
     "fonts",
@@ -21,10 +21,10 @@
     "materials"
   ],
   "tags": [
-    "Minimal",
-    "Competitive",
-    "Comp",
-    "Overhaul",
+    "minimal",
+    "competitive",
+    "comp",
+    "overhaul",
     "touca"
   ],
   "repo": "https://github.com/toucaknight/toucaHUD",
