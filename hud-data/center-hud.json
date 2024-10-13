@@ -16,7 +16,7 @@
   ],
   "tags": ["vanilla", "default"],
   "repo": "https://github.com/Rorriis/center-hud",
-  "hash": "a0ad006b0884026764e0e762e07f7e125f88a133",
+  "hash": "93a2fe96a70e50a592c965729294199fb7d99d60",
   "prerelease": false,
 
   "social": {
@@ -26,10 +26,7 @@
     "album": "https://imgur.com/a/NLdQS6O"
   },
   "traits": {
-    "os": [
-      "windows",
-      "linux"
-    ],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -49,19 +46,8 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "21/9"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en",
-      "fi",
-      "ro",
-      "tr"
-    ]
-  }
+    "res": ["4/3", "16/9", "16/10", "21/9"],
+    "position": ["center"],
+    "lang": ["en", "fi", "ro", "tr", "ru"]
+  }  
 }
