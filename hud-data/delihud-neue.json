@@ -1,6 +1,6 @@
 {
   "name": "deliHUD Neue",
-  "author": "Deli",
+  "author": "deli",
   "social": {
     "steam_group": "deliHUD",
     "album": "https://imgur.com/a/ix8g52d"
@@ -30,7 +30,7 @@
     "res": ["5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/delegacz/deliHUDNeue",
-  "hash": "37abc07a018e00abf9dd8989790523c22f08f858",
+  "hash": "68813b7d669e80c1e774ec260b8aa4e958ef41db",
   "parent": "deli-hud",
   "resources": ["delihud-neue-banner"]
 }
