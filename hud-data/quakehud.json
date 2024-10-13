@@ -1,7 +1,9 @@
 {
   "name": "quakehud",
   "author": "quickkennedy",
-  "contributors": ["Garm3n"],
+  "contributors": [
+    "Garm3n"
+  ],
   "social": {
     "steam_profile": "76561198304536343",
     "steam_group": "quakehudgroup",
@@ -16,7 +18,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "arena",
       "ad",
@@ -29,9 +34,16 @@
       "pd",
       "sd"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/quickkennedy/quakehud",
-  "hash": "83364b30c40054028b610c01476e4ace16eecab3",
-  "resources": ["quakehud-banner"]
+  "hash": "a4c8a401bb2c537c0974f78058b69554c9cbd792",
+  "resources": [
+    "quakehud-banner"
+  ]
 }
