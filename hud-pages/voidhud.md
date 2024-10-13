@@ -8,7 +8,7 @@ Feel free to join the Discord if you have any other questions.
 
 # Credits
 
-**collycat** - Black and white killfeed icons [[Source](https://www.teamfortress.tv/48176/collyhud)]
+**collycat** - Black and white killfeed icons [Source](https://www.teamfortress.tv/48176/collyhud)
 
 # Special Thanks
 

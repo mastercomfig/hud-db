@@ -3,9 +3,11 @@
   "author": "Chippy",
   "contributors": ["Hypnotize"],
   "social": {
+    "steam_group": "knhud",
     "album": "https://imgur.com/a/odCHW"
   },
   "repo": "https://github.com/Hypnootize/KN-Edit",
+  "githubAuthor": null,
   "hash": "55d125662fd0fd86643b77c526f5b856b23f35c7",
   "parent": "kn-hud",
   "resources": ["kn-edit-banner"]

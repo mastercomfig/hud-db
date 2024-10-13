@@ -36,6 +36,7 @@
     "res": ["16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/OMP-Hud",
+  "githubAuthor": "omp",
   "hash": "e051158f22ba1be5343eb9765451a037c8460589",
   "resources": ["omp-hud-banner"]
 }

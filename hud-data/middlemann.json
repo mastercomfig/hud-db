@@ -4,7 +4,7 @@
   "social": {
     "support": "https://ko-fi.com/vexcenot",
     "steam_profile": "76561198170023074",
-    "discord": "9QzHkQx",
+    "discord": "/9QzHkQx",
     "youtube": "@Vexcenot",
     "album": "https://imgur.com/a/B1572CO"
   },
@@ -13,8 +13,6 @@
     "menus",
     "scoreboards",
     "crosshairs",
-    "minmode",
-    "streamer-mode",
     "materials",
     "customization"
   ],
@@ -69,7 +67,7 @@
     "vanilla"
   ],
   "repo": "https://github.com/Vexcenot/-Middle-Mann",
-  "hash": "1e25846f151cb7bc2bc56cb523bca40913c2a36e",
+  "hash": "e443f7e4b6aa3b7eb3a1899d218e38a549f55356",
   "resources": [
     "middlemann-banner"
   ]

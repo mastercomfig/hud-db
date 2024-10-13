@@ -6,6 +6,7 @@
     "album": "https://imgur.com/a/gzaxK"
   },
   "repo": "https://github.com/Hypnootize/Garm3n-VIP-Quad",
+  "githubAuthor": null,
   "hash": "a9e4885bae2ea0a3a1b28841ab951ae480832377",
   "parent": "quakehud",
   "resources": ["garm3n-vip-quad-banner"]

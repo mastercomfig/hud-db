@@ -6,6 +6,7 @@
     "album": "https://imgur.com/a/icrhu"
   },
   "repo": "https://github.com/Hypnootize/ahud-m0rehud",
+  "githubAuthor": null,
   "hash": "bf84a59a59b5974c28ee2d9a0880d7639848c97f",
   "parent": "ahud",
   "resources": ["ahud-m0rehud-banner"]

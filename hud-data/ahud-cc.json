@@ -1,0 +1,70 @@
+{
+  "name": "ahud-cc",
+  "author": "Jakadak",
+  "contributors": [
+    "XkzLL"
+  ],
+  "releaseDate": "2024-07-25",
+  "parent": "ahud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "ahud-cc",
+    "jnLvG82",
+    "acjZPmi",
+    "wicJuVg",
+    "z1TlYCe",
+    "I4QkmZG",
+    "yWW5unT",
+    "vS86iQv",
+    "TJmP2wd",
+    "Bnmc2Cz",
+    "EfQG3FE",
+    "yj3ny7D",
+    "BZB8QyN",
+    "92mh8vI",
+    "ihvvGb3"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "streamer-mode",
+    "materials",
+    "customization"
+  ],
+  "tags": ["clean", "minimal", "competitive"],
+  "repo": "https://github.com/jakadak/ahud-cc",
+  "hash": "ea3aee0a7e27c253da31ed3d89d92680ba995ae5",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198235002312",
+    "steam_group": "ahud-cc",
+    "album": "https://imgur.com/gallery/ahud-cc-9npCWPa"
+  },
+  "traits": {
+    "os": ["windows"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["4/3", "16/9", "16/10"],
+    "position": ["default"],
+    "lang": ["en"]
+  }
+}

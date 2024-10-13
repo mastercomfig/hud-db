@@ -1,11 +1,10 @@
 {
   "name": "WeirdcoreHUD",
   "author": "Tomma",
-  "contributors": [
-    "Yara"
-  ],
+  "contributors": ["Yara"],
   "releaseDate": "2024-04-06",
-  "resources": [ "sfondo-hud" ,
+  "resources": [
+    "sfondo-hud",
     "https://youtu.be/hlAn1QJPX7o",
     "1",
     "2",
@@ -24,27 +23,21 @@
     "materials",
     "customization"
   ],
-  "tags": [
-    "vaporwave"
-  ],
+  "tags": ["vaporwave"],
   "repo": "https://github.com/zTomma/WeirdcoreHUD",
-  "hash": "c3c1673da31ff30fa509dbe182be6e44a3e4affb",
+  "hash": "1eafa4e923063a81713f877ceac21e5eb52be7b6",
   "prerelease": false,
   "social": {
     "support": "https://linktr.ee/zTomma",
     "steam_profile": "76561199089787762",
     "twitter": "zTomma_",
-    "discord": "ztomma",
+    "discord": "ztomma#0",
     "youtube": "@tomma4342",
     "twitch": "ztomma",
     "album": "https://imgur.com/gallery/NXw4G8v"
   },
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "arena",
@@ -63,14 +56,8 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "16/9"
-    ],
-    "position": [
-      "default"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["16/9"],
+    "position": ["default"],
+    "lang": ["en"]
   }
 }

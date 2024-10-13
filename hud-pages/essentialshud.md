@@ -1,4 +1,4 @@
-Spectator HUD for Team Fortress 2, created by [EssentialsTF](https://essentials.tf/).
+Spectator HUD for Team Fortress 2, created by [EssentialsTF](https://essentials.tf).
 
 #### Acknowledgements
 - Original layout design by [WolfMachina](https://twitter.com/WolfMachina), [BlackOutJon](https://twitter.com/BlackOutJon) and [ArchRhythm](https://twitter.com/ArchRhythm).

@@ -1,0 +1,70 @@
+{
+  "name": "yesodHUD",
+  "author": "yesod",
+  "contributors": [
+    "colly",
+    "hypnotize",
+    "techno",
+    "Village Green Preserver"
+  ],
+  "releaseDate": "2024-06-09",
+  "resources": [
+    "yesod-title",
+    "yesod-menu",
+    "yesod-buff",
+    "yesod-hurt",
+    "yesod-medic",
+    "yesod-winpanel",
+    "yesod-scoreboard",
+    "yesod-stv"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "minimal"
+  ],
+  "repo": "https://github.com/yesod404/yesodCollyHUD",
+  "hash": "79f8e006d912e0afa958a318a719f0224291cd0f",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198212866289",
+    "discord": ".yesod#0",
+    "album": "https://imgur.com/a/DuWMTA8"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}

@@ -15,7 +15,7 @@ jobs:
     name: Update HUDs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Refresh hash
         run: |
           python utils/update_hash.py ${{ github.event.inputs.huds }}
@@ -25,3 +25,20 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "HUD update: ${{ github.event.inputs.huds }}" || true
           git push
+  check:
+    name: Check HUDs
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/cache@v4
+      with:
+        key: ${{ github.ref }}
+        path: .cache
+    - uses: pnpm/action-setup@v4.0.0
+      with:
+        version: 7
+    - name: Check
+      run: |
+        pnpm i
+        pnpm lint
+        pnpm check

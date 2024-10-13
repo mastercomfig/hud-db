@@ -38,6 +38,7 @@
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/medHUD",
+  "githubAuthor": "Intellectualbadass",
   "hash": "a7eb9a0ca8cb5d57bddb5a28ec776d17eba84ab0",
   "resources": ["med-hud-banner"]
 }

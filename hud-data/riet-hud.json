@@ -8,6 +8,7 @@
     "steam_group": "RietHUD"
   },
   "repo": "https://github.com/tf2huds/riethud",
+  "githubAuthor": null,
   "hash": "afc96641001907f5f84f46460f5a009f8a09bf54",
   "resources": ["riet-hud-banner"]
 }

@@ -3,7 +3,7 @@
   "author": "Peaches",
   "social": {
     "support": "https://ko-fi.com/peachestv",
-    "discord": "HyZRVtp",
+    "discord": "/HyZRVtp",
     "youtube": "@PeachesFPS",
     "twitch": "peachestv"
   },
@@ -37,7 +37,7 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/xhud",
-  "hash": "bd3100ae6453b01915c820d8608b0873f47016e2",
+  "hash": "1e2f554594a49655bbd94d096eef31d8e6250e48",
   "prerelease": false,
   "resources": [
     "xhud-banner",
