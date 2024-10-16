@@ -43,7 +43,7 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/CriticalFlaw/flawhud",
-  "hash": "8d4299a96b5061ebf9c60e052db1b4529c8c6a4f",
+  "hash": "6282582e531ec1ca20b0ab85f9f1511be2f346df",
   "verified": true,
   "resources": ["banner", "menu", "loadout", "hud", "scoreboard", "spectator"]
 }
