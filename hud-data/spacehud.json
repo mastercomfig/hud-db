@@ -16,7 +16,7 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,6 +37,7 @@
       "tc"
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
+    "lang": ["en"]
   },
   "tags": ["minimalist", "simple"],
   "repo": "https://github.com/BingBongBonky/SpaceHud",
