@@ -86,7 +86,12 @@
           "description": "Your Twitter handle",
           "type": "string",
           "pattern": "^(\\w){1,15}$",
-          "examples": ["CoolPerson12812381841823812"]
+          "examples": ["CoolPerson12812"]
+        },
+        "bsky": {
+          "description": "Your BSky handle",
+          "type": "string",
+          "examples": ["coolerperson128123.bsky.social"]
         },
         "discord": {
           "description": "Your Discord server invite code, beginning with / (not the full URL), or your Discord in the format username#0",
