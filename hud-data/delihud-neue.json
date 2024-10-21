@@ -30,7 +30,8 @@
     "res": ["5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/delegacz/deliHUDNeue",
-  "hash": "68813b7d669e80c1e774ec260b8aa4e958ef41db",
+  "hash": "97add5b762bf81191d7e07cb45c4172dc169866b",
   "parent": "deli-hud",
+  "distinguishedFromParent": true,
   "resources": ["delihud-neue-banner"]
 }
