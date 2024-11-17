@@ -16,14 +16,14 @@
   ],
   "tags": ["vanilla", "default"],
   "repo": "https://github.com/Rorriis/center-hud",
-  "hash": "93a2fe96a70e50a592c965729294199fb7d99d60",
+  "hash": "aba229130714b3266413d77d0cc5b165b9f8c3b0",
   "prerelease": false,
 
   "social": {
     "steam_profile": "76561199001745671",
     "discord": "rorriis#0",
-    "twitter": "Rorriis_",
-    "album": "https://imgur.com/a/NLdQS6O"
+    "bsky": "rorrii.bsky.social",
+    "album": "https://imgur.com/a/NLdQS6O",
   },
   "traits": {
     "os": ["windows", "linux"],
