@@ -1,11 +1,73 @@
 {
   "name": "QuoteHUD",
-  "author": "QuoteStrife",
+  "author": "Qüöte | quotestrife",
+  "contributors": [
+    "Broesel-tf",
+    "DETENOG"
+  ],
+  "releaseDate": "2019-05-25",
+  "parent": "bear-hud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "quotehud-banner.webp",
+    "quote1.jpg",
+    "quote2.jpg",
+    "quote3.jpg",
+    "quote4.jpg",
+    "quote5.jpg",
+    "quote6.jpg",
+    "quote7.jpg"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials"
+  ],
+  "tags": [
+    "minimal",
+    "cartoony"
+  ],
+  "repo": "https://github.com/Silk-OT/QuoteHUD",
+  "hash": "c33c8d51ed265dc12170df77885c45f782cc11b6",
+  "prerelease": false,
   "social": {
-    "album": "https://imgur.com/a/E58DNqI"
+    "steam_profile": "76561198166167645",
+    "steam_group": "quotestrife",
+    "twitter": "SillySilk_",
+    "bsky": "quotesilk@bsky.social",
+    "discord": "quotestrife",
+    "album": "https://imgur.com/gallery/quotehud-pics-E58DNqI"
   },
-  "repo": "https://gamebanana.com/guis/34691",
-  "hash": "",
-  "publishDate": "2020-11-30",
-  "resources": ["quotehud-banner"]
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mvm",
+      "pl",
+      "plr",
+      "pd",
+      "tc"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
 }
