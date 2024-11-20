@@ -9,14 +9,14 @@
   "parent": "bear-hud",
   "distinguishedFromParent": true,
   "resources": [
-    "quotehud-banner.webp",
-    "quote1.jpg",
-    "quote2.jpg",
-    "quote3.jpg",
-    "quote4.jpg",
-    "quote5.jpg",
-    "quote6.jpg",
-    "quote7.jpg"
+    "quotehud-banner",
+    "quote1",
+    "quote2",
+    "quote3",
+    "quote4",
+    "quote5",
+    "quote6",
+    "quote7"
   ],
   "flags": [
     "fonts",
