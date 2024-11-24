@@ -4,8 +4,8 @@
   "contributors": [
     "Sinders"
   ],
-  "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "4ef445c484dcf07ba135edc644dd627b463f7acf",
+  "repo": "https://github.com/irodionr/dqz_hud/tree/2022",
+  "hash": "d2f5b443a87011dd6fda584c97f601a9162b8aa2",
   "parent": "dqzhud",
   "resources": [
     "dqzhud-2022-banner"
