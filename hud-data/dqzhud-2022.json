@@ -1,9 +1,13 @@
 {
   "name": "dqzhud 2022",
   "author": "dqz",
-  "contributors": ["Sinders"],
+  "contributors": [
+    "Sinders"
+  ],
   "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "d2f5b443a87011dd6fda584c97f601a9162b8aa2",
+  "hash": "4ef445c484dcf07ba135edc644dd627b463f7acf",
   "parent": "dqzhud",
-  "resources": ["dqzhud-2022-banner"]
+  "resources": [
+    "dqzhud-2022-banner"
+  ]
 }

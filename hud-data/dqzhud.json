@@ -1,11 +1,15 @@
 {
   "name": "dqzhud",
   "author": "dqz",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/tTP2LIf"
   },
   "repo": "https://github.com/irodionr/dqz_hud",
   "hash": "4ef445c484dcf07ba135edc644dd627b463f7acf",
-  "resources": ["dqzhud-banner"]
+  "resources": [
+    "dqzhud-banner"
+  ]
 }
