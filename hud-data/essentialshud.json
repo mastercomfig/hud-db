@@ -12,16 +12,12 @@
   "social": {
     "twitter": "TF2Essentials",
     "youtube": "@EssentialsTF",
-    "discord": "essentialstf",
+    "discord": "/essentialstf",
     "twitch": "essentialstf",
     "album": "https://imgur.com/a/iaiEhX9"
   },
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows", "mac", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -41,32 +37,13 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "1/1",
-      "4/3",
-      "5/4",
-      "16/10",
-      "16/9",
-      "17/9",
-      "21/9",
-      "32/9"
-    ],
-    "position": [
-      "default"
-    ],
-    "lang": [
-      "en"
-    ]
+    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
+    "position": ["default"],
+    "lang": ["en"]
   },
-  "tags": [
-    "spectator",
-    "casting"
-  ],
+  "tags": ["spectator", "casting"],
   "repo": "https://github.com/CriticalFlaw/EssentialsHUD",
-  "hash": "17e35b1b17af19f8a210437e86c847b737bb0fa5",
-  "resources": [
-    "banner",
-    "spectator",
-    "hud"
-  ]
+  "githubAuthor": null,
+  "hash": "60ad8c97a2856902d32d67132b2dfaa84b154fe9",
+  "resources": ["banner", "spectator", "hud"]
 }

@@ -36,6 +36,7 @@
     "res": ["4/3", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/Flat-Hud",
+  "githubAuthor": null,
   "hash": "9a2ea2219e53b031b5efc6003ded5ef309cb3a00",
   "resources": ["flat-hud-banner"]
 }

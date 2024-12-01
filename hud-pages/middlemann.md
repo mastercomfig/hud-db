@@ -8,7 +8,7 @@ Vanilla Centered TF2 Hud with default health and ammo in the middle. It clears t
 
 # Credits
 
-Jofre for lionhud
+Jofre Problem? for lionhud
 
 lil & techno for teaching me github's existence
 

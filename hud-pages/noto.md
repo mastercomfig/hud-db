@@ -6,4 +6,4 @@ Noto also includes a Minimal HUD, and boasts more customizable features, with a 
 
 # Special Thanks
 
-Raysfire, Guuse, Dewote, Cubbs, Gubbins, Colly, Flatline, The TFTV HUD Community, Whahay, TheSupremeCommander, Quartz, Sir Villeta, Harvard
+raysfire, Guuse, Dewote, Cubbs, Gubbins, Colly, Flatline, The TFTV HUD Community, Whahay, TheSupremeCommander, Quartz, Sir Villeta, Harvard

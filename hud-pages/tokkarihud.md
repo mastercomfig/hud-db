@@ -6,7 +6,7 @@ I'll be updating the HUD based on feedback as well as generally maintaining and 
 Note: Minmode and Comp are not supported. And the HUD is only designed for 16:9
 
 Credits:
-Raysfire - Tutorials that got me started
+raysfire - Tutorials that got me started
 
 Hypnootize - TF2 Icons
 

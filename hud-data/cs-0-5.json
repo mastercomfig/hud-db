@@ -2,9 +2,12 @@
   "name": "cs-0.5",
   "author": "lavaOnoes",
   "social": {
+    "steam_profile": "76561198850021147",
+    "youtube": "@lavaOnoes",
     "album": "https://imgur.com/a/ufBP4wH"
   },
   "repo": "https://www.dropbox.com/s/3l5i32l5steol27/cs-0.5.7z?dl=1",
+  "githubAuthor": "lavaOnoes",
   "hash": "",
   "publishDate": "2022-08-02",
   "resources": ["cs-0-5-banner"]

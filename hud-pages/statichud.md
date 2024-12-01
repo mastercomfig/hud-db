@@ -9,11 +9,11 @@ This HUD comes with a lot of customization, check out the GitHub wiki!
 # Credits
 
 **Sven Pels** - Creator of The Bold Font
-[[Source](https://www.dafont.com/the-bold-font.font)]
+[Source](https://www.dafont.com/the-bold-font.font)
 **Canonical Ltd** - Creater of the Ubuntu Font family
-[[Source](https://design.ubuntu.com/font/)]
+[Source](https://design.ubuntu.com/font/)
 **Valve** - TF2 Artwort
-[[Source](https://www.teamfortress.com/artwork.php)]
+[Source](https://www.teamfortress.com/artwork.php)
 
 # Special Thanks
 

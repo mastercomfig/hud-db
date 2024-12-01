@@ -1,0 +1,18 @@
+{
+  "name": "Mini Hud",
+  "author": "Unknown",
+  "contributors": [
+    "techno"
+  ],
+  "social": {
+    "album": "https://imgur.com/a/YqeYDu5"
+  },
+  "repo": "https://github.com/tekunotri/Mini-Hud",
+  "githubAuthor": null,
+  "hash": "241ba627ef408054c1007d11f3c90bacca5adc9a",
+  "resources": [
+    "minihud-menu",
+    "minihud-loadout",
+    "minihud-gameplay"
+  ]
+}

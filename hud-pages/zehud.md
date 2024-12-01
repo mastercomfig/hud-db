@@ -6,7 +6,7 @@ there are still some bugs and issues, I am working on fixing all of them.
 
 # Credits
 
-Hypnotize, CriticalFlaw, Raysfire, DrinkinTea, JarateKing, JofreProblem
+Hypnotize, CriticalFlaw, raysfire, DrinkinTea, JarateKing, JofreProblem
 
 # Special Thanks
 

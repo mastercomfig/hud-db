@@ -3,7 +3,7 @@
   "author": "Hypnotize",
   "social": {
     "steam_profile": "76561198058754493",
-    "album": "https://imgur.com/a/i3TpBPa"
+    "album": "https://github.com/Hypnootize/ShrekHUD/blob/screenshots/showcase.md"
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "traits": {
@@ -30,7 +30,7 @@
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
   "repo": "https://github.com/Hypnootize/ShrekHUD",
-  "hash": "76ccef086b973ff608247683bbe650430bb9c60a",
+  "hash": "bec18281772cfa6797c8486f92baa3ca58d487a9",
   "resources": [
     "shrekhud-banner",
     "shrekhud-mm",

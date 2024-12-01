@@ -3,6 +3,7 @@
   "author": "techno",
   "social": {
     "steam_profile": "76561198172101254",
+    "discord": "rc4322#0",
     "album": "https://imgur.com/a/09sf6VU"
   },
   "flags": [
@@ -51,8 +52,8 @@
       "en"
     ]
   },
-  "repo": "https://github.com/TechnoSL/m0re_techno",
-  "hash": "e87445b6594ca26a56fce485cdeed924238f8ae2",
+  "repo": "https://github.com/tekunotri/m0re_techno",
+  "hash": "2cc17922f0d22545e30fd2a2bcfe7df4a8f3c35d",
   "parent": "m0rehud",
   "resources": [
     "m0re-techno-banner",

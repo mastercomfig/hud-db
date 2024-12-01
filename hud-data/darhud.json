@@ -1,18 +1,17 @@
 {
   "name": "DarHUD",
   "author": "DarSitam",
-  "contributors": ["DarSitam"],
   "releaseDate": "2023-08-17",
   "flags": ["scoreboards", "minmode", "materials", "customization"],
   "tags": ["modern"],
   "repo": "https://github.com/DarSitam/DarHud",
-  "hash": "d33d6e4b7f2b353d0fcad467f72d39dd95fd3092",
+  "hash": "7f2044e4cb88dadff4d139e3e23b60ee8c83d33d",
   "prerelease": false,
   "resources": ["darhud-logo"],
   "social": {
     "steam_profile": "76561198148464161",
     "twitter": "DarSitam",
-    "discord": "https://discord.gg/txn4CxyVmp",
+    "discord": "/txn4CxyVmp",
     "youtube": "@DarSitam",
     "twitch": "DarSitam",
     "album": "https://imgur.com/a/pTE0V2X"

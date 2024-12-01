@@ -16,9 +16,8 @@ Russ (Me) - Hud Creator / Designer
 N1te - Assistant / Helper
 Rayno - Beta Tester
 Reaps - Beta Tester (ThugHud Mascot)
-Techno - Helping me upload the hud
-Mastercomms - For allowing me to use the word erotic
-            • Allowing me to upload this hud
+techno - Helping me upload the hud
+mastercoms - For allowing me to use the word erotic and allowing me to upload this hud
 
 # Special Mentions
 Window & Cha1r - Creator of BocchiHud the Inspiration of ThugHud

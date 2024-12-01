@@ -2,9 +2,10 @@
   "name": "PeachHUD",
   "author": "Peaches",
   "contributors": ["Hypnotize"],
+  "releaseDate": "2019-11-06",
   "social": {
     "support": "https://ko-fi.com/peachestv",
-    "discord": "HyZRVtp",
+    "discord": "/HyZRVtp",
     "youtube": "@PeachesFPS",
     "twitch": "peachestv",
     "album": "https://imgur.com/a/j6d9TjP"
@@ -46,7 +47,7 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/PapaPeach/PeachHUD",
-  "hash": "9747ed5aa5184c75d4bd2b84cac2b6fcfc3114d7",
+  "hash": "000969350e1399def203e308089f75cf080b4a16",
   "resources": [
     "PeachHUD-banner",
     "ingame",

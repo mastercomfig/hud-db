@@ -1,11 +1,11 @@
 {
   "name": "Mono Hud",
   "author": "Village Green Preserver",
-  "contributors": ["Village Green Preserver"],
+  "contributors": ["Kruphixx"],
   "releaseDate": "2022-02-12",
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "repo": "https://github.com/VillageGreenPreserver/MonoHud",
-  "hash": "cdc03fb7cf5075dee0516585fdc7434d9cde4fb0",
+  "hash": "283a006e971ce6a99f512e668673e5d5b8730617",
   "prerelease": false,
   "resources": [
     "banner",

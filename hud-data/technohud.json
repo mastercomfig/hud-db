@@ -15,7 +15,8 @@
   ],
   "traits": {
     "os": [
-      "windows"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "tournament",
@@ -28,7 +29,10 @@
       "plr",
       "ctf",
       "sd",
-      "mvm"
+      "mvm",
+      "pass",
+      "rd",
+      "halloween"
     ],
     "res": [
       "4/3",
@@ -46,8 +50,8 @@
     "minimal",
     "monochrome"
   ],
-  "repo": "https://github.com/TechnoSL/technohud",
-  "hash": "2e30f89db16ffffb4ebc7f913f11ba8afa2f2f02",
+  "repo": "https://github.com/tekunotri/technohud",
+  "hash": "24950873f76cb49f81d68c0ab28a0d7a0332d3e0",
   "prerelease": true,
   "resources": [
     "th-banner",
@@ -56,7 +60,9 @@
     "th-loadout",
     "th-gameplay",
     "th-demoman",
+    "th-engineer",
     "th-medic",
+    "th-spy",
     "th-ctf",
     "th-mvm",
     "th-altfont"

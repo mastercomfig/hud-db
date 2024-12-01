@@ -8,7 +8,7 @@
     "steam_profile": "76561197988447469",
     "steam_group": "budhud",
     "twitter": "rbjaxter",
-    "discord": "TkxNKU2",
+    "discord": "/TkxNKU2",
     "youtube": "@whisker",
     "twitch": "whisker",
     "album": "https://imgur.com/a/aJ1K5"
@@ -61,7 +61,7 @@
   },
   "tags": ["minimal"],
   "repo": "https://github.com/rbjaxter/budhud",
-  "hash": "4e9b93e299f28fb2c0f3d39cfad2deaae7f1d9d4",
+  "hash": "357f38a270006ad5e34ee4fcbd217872e7dfaa97",
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",

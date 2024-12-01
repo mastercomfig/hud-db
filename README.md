@@ -40,8 +40,9 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "issues": "", // An extra link where users can get help/report issues. If not present, will use GitHub Issues.
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group vanity ID (used for custom URLs) (optional)
-    "twitter": "CoolPerson12812381841823812", // Your Twitter handle (optional)
-    "discord": "vanity-or-invite", // Your Discord server invite code, not the full URL, or your Discord in the format username#0 (optional)
+    "twitter": "CoolPerson12812", // Your Twitter handle (optional)
+    "bsky": "coolerperson128123.bsky.social", // You BSky handle (optional)
+    "discord": "/vanity-or-invite", // Your Discord server invite code, beginning with / (not the full URL), or your Discord in the format username#0 (optional)
     "youtube": "@TheCoolPerson", // Your YouTube channel (either /channel/userhash partial URL, @username or channel name) (optional)
     "twitch": "CoolPersonStreamer", // Your Twitch channel name (optional)
     "album": "https://imgur.com/a/fajsf" // Link to some Imgur album or other to provide more images (optional)

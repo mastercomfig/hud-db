@@ -3,7 +3,7 @@
   "author": "Hypnotize",
   "social": {
     "steam_profile": "76561198058754493",
-    "album": "http://imgur.com/a/2gckG"
+    "album": "https://github.com/Hypnootize/Hypnotize-m0rehud/blob/screenshots/showcase.md"
   },
   "flags": [
     "fonts",
@@ -40,7 +40,7 @@
     "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/Hypnotize-m0rehud",
-  "hash": "c46bd07b2dc47772c46c286161b922ee836f2177",
+  "hash": "21e7c1510cf2063b64e10a91dba01c0ec07961d2",
   "parent": "m0rehud",
   "resources": [
     "m0rehypnotize-banner",

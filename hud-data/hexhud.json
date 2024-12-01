@@ -4,7 +4,7 @@
   "verified": true,
   "social": {
     "steam_profile": "76561198058754493",
-    "album": "https://imgur.com/a/ENQcIqO"
+    "album": "https://github.com/Hypnootize/hexhud/blob/screenshots/showcase.md"
   },
   "flags": [
     "fonts",
@@ -37,21 +37,21 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"],
+    "res": ["16/9", "16/10"],
     "position": ["center"],
     "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/hexhud",
-  "hash": "dd77c8e59830ac9f95b6ca9bb3fc15573bd58fdf",
+  "hash": "b91156b6f207297b9e24a0d3cea9849f214d1ab6",
   "resources": [
     "hexhud-banner",
     "hexhud-menu",
     "hexhud-backpack",
-    "hexhud-buff",
-    "hexhud-low",
-    "hexhud-minmode",
+    "hexhud-health-ammo",
+    "hexhud-health-ammo-centered",
+    "hexhud-health-ammo-minmode",
     "hexhud-medic",
-    "hexhud-win",
+    "hexhud-mvm",
     "hexhud-scoreboard",
     "hexhud-spectator"
   ]
