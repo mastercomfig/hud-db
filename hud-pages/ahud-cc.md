@@ -19,12 +19,12 @@ Have a lovely day, au revoir!
   
 ### Special thanks
 
-- [Hikyle](https://github.com/Hikyle), [N0kk](https://github.com/N0kk), [CriticalFlaw](https://github.com/CriticalFlaw): Original aHUD developers  
+- [Kruphixx](https://github.com/Kruphixx): Scream Fortress 2024 update, Payload HUD  
+- [Hikyle](https://github.com/Hikyle), [N0kk](https://github.com/N0kk), [CriticalFlaw](https://github.com/CriticalFlaw): Original aHUD developers
 - [Hypnootize](https://github.com/Hypnootize): Basefile Script Integration + Class Icons + Fonts + Item-menu alternative from Sunsethud  
 - [Peaches](https://github.com/PapaPeach): Side menu + Binds in options  
 - [SiFWolf](https://gamebanana.com/members/1417462): Integrated modes: Consistent Kill Icons (2023)  
 - [Quik](https://www.teamfortress.tv/user/Quik): No-smoke explosions (eotl_pyro_pool_explosion_flash / explosions_pyro_pool.vpk)  
-- [Kruphixx](https://github.com/Kruphixx): Payload HUD
 - Griever: [Toonhud](https://steamcommunity.com/id/griiver/) Xhairs (crosshairs) & Hitmarkers  
 - [Doodle](https://doodlesstuff.com/?p=tf2hud) & [JarateKing](https://github.com/JarateKing) for tutorials
 - XkzLL, Revan <33
