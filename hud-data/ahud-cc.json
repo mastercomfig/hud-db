@@ -2,7 +2,8 @@
   "name": "ahud-cc",
   "author": "Jakadak",
   "contributors": [
-    "XkzLL"
+    "XkzLL",
+    "Kruphixx"
   ],
   "releaseDate": "2024-07-25",
   "parent": "ahud",
@@ -36,7 +37,7 @@
   ],
   "tags": ["clean", "minimal", "competitive"],
   "repo": "https://github.com/jakadak/ahud-cc",
-  "hash": "ea3aee0a7e27c253da31ed3d89d92680ba995ae5",
+  "hash": "8566e7a444a5fc2ad24f16720e989a323a464faa",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198235002312",
