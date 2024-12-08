@@ -7,7 +7,7 @@
   "resources": ["banner", "normal", "buff", "hurt"],
   "flags": ["minmode"],
   "repo": "https://github.com/Red-X1/RedX_m0re",
-  "hash": "b2909835b0d48014448e9f86fc7e2cc4aa416cf0",
+  "hash": "e9f0cdc9ca2f045184c93162d9c0f058d41c9ebe",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198027461393",
