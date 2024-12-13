@@ -12,8 +12,7 @@
 - Live improving mods (No-smoke exposions, Consistent kill icons, Closed captions, Extended fonts)  
 - 16:9, 16:10, and 4:3 support  
 
-Have a lovely day, au revoir!  
----
+# Have a lovely day, au revoir!
 [Installation](https://github.com/jakadak/ahud-cc/wiki/Installation)  
 [Report bugs here](https://github.com/jakadak/ahud-cc/issues/new/choose)  
 
