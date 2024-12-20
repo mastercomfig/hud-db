@@ -5,7 +5,7 @@
   "releaseDate": "2024-04-06",
   "resources": [
     "sfondo-hud",
-    "https://youtu.be/hlAn1QJPX7o",
+    "https://youtu.be/QUye8KZD2hU",
     "1",
     "2",
     "20240404183926_1",
@@ -25,7 +25,7 @@
   ],
   "tags": ["vaporwave"],
   "repo": "https://github.com/zTomma/WeirdcoreHUD",
-  "hash": "1eafa4e923063a81713f877ceac21e5eb52be7b6",
+  "hash": "cfd3a5aff1a784532a00586827f4999b338e04c8",
   "prerelease": false,
   "social": {
     "support": "https://linktr.ee/zTomma",
@@ -56,8 +56,17 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"],
-    "position": ["default"],
-    "lang": ["en"]
+    "res": [
+      "16/9",
+      "21/9",
+      "4/3",
+      "16/10"
+    ],
+    "position": [
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
   }
 }

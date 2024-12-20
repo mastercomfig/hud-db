@@ -1,16 +1,15 @@
 <div id="main" align="center">
   A TF2 HUD focused on putting critical HUD info in the center, while sticking to the style of the default HUD, adding customization and fixing things.
   <br>
-  <a href="https://github.com/Eerorri/center-hud/wiki">Center HUD Wiki</a>
+  <h3><b>IMPORTANT: Keep the folder name as "center-hud", otherwise customizations will break.</b></h3>
+  <a href="https://github.com/Rorriis/center-hud/wiki">Center HUD Wiki</a>
 </div>
 <br>
 <div id="additional" align="center">
   <h2>Additional Downloads</h2>
-  <a href="https://github.com/Rorriis/center-hud/releases/download/v18/center-hud-linux.zip">Linux Version</a>
+  <a href="https://github.com/Rorriis/center-hud/releases/download/v20/center-hud-lite.zip">Lite Version</a>
   ·
-  <a href="https://github.com/Rorriis/center-hud/releases/download/v18/center-hud-lite.zip">Lite Version</a>
-  ·
-  <a href="https://github.com/Rorriis/center-hud/releases/download/v18/center-hud-tf2c.zip">TF2C Version</a>
+  <a href="https://github.com/Rorriis/center-hud/releases/download/v20/center-hud-tf2c.zip">TF2C Version</a>
 </div>
 <br>
 <div id="translators" align="center">
@@ -21,7 +20,9 @@
   ·
   <a href="https://steamcommunity.com/id/bambambambrrrbrrrboopboop/">bjrkk (Romanian)</a>
   ·
-  <a href="https://github.com/realFunnyScout">realFunnyScout (Russian)</a></p>
+  <a href="https://github.com/realFunnyScout">realFunnyScout (Russian)</a>
+  ·
+  Ashe wiki.tf (Spanish)</p>
 </div>
 <br>
 <div id="credits" align="center">

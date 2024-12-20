@@ -1,20 +1,69 @@
 {
   "name": "RedX_m0re",
   "author": "RedX",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "releaseDate": "2024-02-05",
   "parent": "m0rehud",
-  "resources": ["banner", "normal", "buff", "hurt"],
-  "flags": ["minmode"],
+  "distinguishedFromParent": true,
+  "resources": [
+    "banner",
+    "normal",
+    "buff",
+    "hurt",
+    "nonminmode",
+    "scoreboard",
+    "changingmap"
+  ],
+  "flags": [
+    "crosshairs",
+    "minmode",
+    "customization"
+  ],
   "repo": "https://github.com/Red-X1/RedX_m0re",
-  "hash": "232e70918945032685d75f7033c9fc58da815d3f",
+  "hash": "32e1376382bd1e05cc67b9d10a13530cf1e2b359",
   "prerelease": false,
   "social": {
+    "issues": "https://github.com/Red-X1/RedX_m0re/issues",
     "steam_profile": "76561198027461393",
-    "discord": "666redx#0"
+    "discord": "666redx#0",
+    "album": "https://imgur.com/a/redx-m0re-hud-o8a5SVx"
   },
   "traits": {
-    "os": ["windows", "mac"],
-    "position": ["center"]
+    "os": [
+      "windows",
+      "mac"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "21/9",
+      "5/4"
+    ],
+    "position": [
+      "center",
+      "default"
+    ]
   }
 }

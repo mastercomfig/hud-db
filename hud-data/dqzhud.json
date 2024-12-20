@@ -1,7 +1,16 @@
 {
   "name": "dqzhud",
   "author": "dqz",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "social": {
+    "discord": "dqz#0",
+    "album": "https://imgur.com/a/tTP2LIf"
+  },
   "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "e1050852687eabc761161529b446a113d32875ed",
-  "resources": ["dqzhud-banner"]
+  "hash": "4ef445c484dcf07ba135edc644dd627b463f7acf",
+  "resources": [
+    "dqzhud-banner"
+  ]
 }
