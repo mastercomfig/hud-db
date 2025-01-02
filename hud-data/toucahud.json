@@ -11,7 +11,7 @@
   "parent": "hexhud",
   "distinguishedFromParent": true,
   "resources": [
-    "toucahud-banner", "toucahud-menu", "toucahud-backpack", "toucahud-backpackwithmetal", "toucahud-loadouts", "toucahud-stats", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedestroybuild", "toucahud-ingamedisguise", "toucahud-ingametauntmenu"
+    "toucahud-banner", "toucahud-menu", "toucahud-backpack", "toucahud-backpackwithmetal", "toucahud-loadouts", "toucahud-stats", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedisguise"
   ],
   "flags": [
     "fonts",
