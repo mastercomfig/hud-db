@@ -28,7 +28,7 @@
     "product-teamselect",
     "product-classselect",
     "product-health-default",
-    "product-health-minimal",
+    "product-health-bottom",
     "product-uber",
     "product-payload",
     "product-mvm",
@@ -47,7 +47,7 @@
   ],
 
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "441b696a82062328bea7cd5eb0abf006e0d8ef4a",
+  "hash": "4b4006312254f6e3570713fa1ffa39cc92accd21",
 
   "traits": {
     "os": ["windows", "linux"],
