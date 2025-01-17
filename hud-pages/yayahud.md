@@ -2,7 +2,7 @@
 
 yayahud is the next generation of yahud and takyahud, keeping with the original guidelines without just being a carbon copy updated just for compatibility.  
   
-Sometimes I forget to upload the attachment on huds.tf. If the HUD isn't working for you please try downloading the latest file from the thread on TFTV (<http://www.teamfortress.tv/26847/yayahud>). If you can, please also leave a message in that thread to remind me to update the HUD here. It's hard work!
+Sometimes I forget to upload the attachment on huds.tf. If the HUD isn't working for you please try downloading the latest file from the thread on TFTV (<https://www.teamfortress.tv/26847/yayahud>). If you can, please also leave a message in that thread to remind me to update the HUD here. It's hard work!
 
 # Credits
 

@@ -14,7 +14,7 @@ I was unappeased with the lack of ULTRAKILL themed content for TF2, especially H
 
 ## Community Stuff
 
-### Discord Server: <https://discord.gg/v8nmUKRX62>
+### Discord Server: <https://discord.gg/invite/v8nmUKRX62>
 
 ### Steam Group: <https://steamcommunity.com/groups/ultrahudtf2>
 

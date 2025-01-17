@@ -12,7 +12,7 @@
 
 * **[How to install and set up KBNHud](https://github.com/Jotunn/kbnhud/wiki/Setup)**
 * **[How to customize KBNHud](https://github.com/Jotunn/kbnhud/wiki/Customization)**
-* **[CriticalFlaw's HUD Editor, the easiest way to install and customize KBNHud](http://www.criticalflaw.ca/TF2HUD.Editor/)**
+* **[CriticalFlaw's HUD Editor, the easiest way to install and customize KBNHud](https://www.criticalflaw.ca/TF2HUD.Editor/)**
 * **[KBNHud README](https://github.com/Jotunn/kbnhud#readme)**
 * **[KBNHud Wiki](https://github.com/Jotunn/kbnhud/wiki)**
 * **[GameBanana Mirror](https://gamebanana.com/mods/26847)**
