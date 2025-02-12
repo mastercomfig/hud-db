@@ -1,4 +1,5 @@
 <!-- TITLE -->
+
 <p align="center">
   <p align="center">
     A simplistic yet bold HUD for Team Fortress 2, made to cut out a lot of clutter included with the stock hud. Includes minimal mode for competitive play and a range of vivid colors associated with both low health, ammo and other useful values.

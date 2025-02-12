@@ -4,7 +4,6 @@ Based off the abandoned BearHUD (a fork of broeselhud_blue), QuoteHUD takes a mo
 
 This HUD is what very likely got me accepted into college so as thanks, please feel rest assured that this HUD will remain up to date regardless of how many (or how little) ValvE updates their IP.
 
-
 ## Additional information
 
 BTW if you want CC in your language replace the closedcaption_english .txt and .dat files in QuoteHud\Resource with the language of your choice, which can be found here (https://github.com/QyenidQuartz/Team-Fortress-2-Closed-Captions).

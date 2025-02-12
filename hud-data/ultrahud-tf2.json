@@ -1,12 +1,26 @@
 {
   "name": "ULTRAHUD-TF2",
   "author": "The 2fort Cremator",
-  "contributors": ["raysfire", "Hypnootize", "Village Green Preserver", "Tomma", "techno"],
+  "contributors": [
+    "raysfire",
+    "Hypnootize",
+    "Village Green Preserver",
+    "Tomma",
+    "techno"
+  ],
   "parent": "rayshud",
   "distinguishedFromParent": true,
   "releaseDate": "2024-02-24",
-  "resources": ["ultrahud-logo"],
-  "flags": ["fonts", "menus", "crosshairs", "minmode", "customization"],
+  "resources": [
+    "ultrahud-logo"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "customization"
+  ],
   "repo": "https://github.com/2fort-cremator/ULTRAHUD-TF2",
   "hash": "c6f50063d60ae499b0b7c634111fa4e9937170cb",
   "prerelease": false,
@@ -14,9 +28,18 @@
     "discord": "/v8nmUKRX62"
   },
   "traits": {
-    "os": ["windows"],
-    "res": ["16/9"],
-    "position": ["center", "corners"],
-    "lang": ["en"]
+    "os": [
+      "windows"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   }
 }

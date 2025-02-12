@@ -12,6 +12,7 @@ kovaaks tf2 playlist. Be looking out for that tweet later on today. Don't forget
 there. If you one them crazy sniper main, tag yaself! Snipe Day! Smooth with ya boy! Erotic Sniper Reaps!
 
 # Special Credits
+
 Russ (Me) - Hud Creator / Designer
 N1te - Assistant / Helper
 Rayno - Beta Tester
@@ -20,8 +21,8 @@ techno - Helping me upload the hud
 mastercoms - For allowing me to use the word erotic and allowing me to upload this hud
 
 # Special Mentions
+
 Window & Cha1r - Creator of BocchiHud the Inspiration of ThugHud
 Sponsored by N1tehud & Morbious
 
-[Screenshots](https://imgur.com/a/9B3JqwM)  
-
+[Screenshots](https://imgur.com/a/9B3JqwM)

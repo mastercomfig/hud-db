@@ -9,6 +9,7 @@
 ---
 
 #### Changelog
+
 - Added minmode UI for Capture the Flag and Player Destruction game-modes.
 - Added missing font definition HudMenuNumberFont to the client scheme.
 - Centered the Watch Movie button on the map info screen.
@@ -40,15 +41,23 @@
 - Updated the Replay screen's header and footer to match other main menu screens.
 
 #### Additional Changes
+
 - A customizations menu for toggling the crosshair, speedometer, damage numbers, transparent viewmodels and more.
+
 - Matchmaking stats on the main menu.
+
 - Buttons for changing team colors on the Loadout screen.
+
 - Navigation shortcut keys for multiple menu pages - A key for left and D for right.
+
 - High-quality item images.
+
 - An alternate health indicator.
+
    - Enabled by copying contents of `resource/ui/customizations/health` into `resource/ui`
 
 #### Acknowledgements
+
 - [PapaPeach](https://github.com/PapaPeach) and [Hypnootize](https://github.com/Hypnootize) for log-based customizations method and panel.
 - [Tkain](https://gamebanana.com/members/1582147) for the high-quality [TF2 Logo](https://gamebanana.com/mods/27061).
 - [Metisz](https://github.com/Metisz) for the high-quality [Loading Screen](https://gamebanana.com/mods/285046).
@@ -59,7 +68,9 @@
 - [Eerorri](https://github.com/Eerorri) for the Capture the Flag UI fixes.
 
 #### Suggested Mods
+
 *Following mods do not fit the scope of this project, but should work alongside the HUD.*
+
 - [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959) by [NeoDement](https://github.com/NeoDement).
 - [HD Menu Event Backgrounds](https://gamebanana.com/mods/406953) by [Tkain](https://gamebanana.com/members/1582147)
 - [Upscaled Menu Character Images](https://gamebanana.com/mods/287264) by [AtomicTEM](https://gamebanana.com/members/1528272)
