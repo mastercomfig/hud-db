@@ -7,6 +7,9 @@
   "repo": "https://github.com/tacogamma/isA_HUD",
   "hash": "43e76db71e9ec1e2cb9b222a2fc0b286bb7a3c9b",
   "resources": [
-    "isa_hud-banner"
+    "isa_banner",
+    "isa_menu",
+    "isa_normal",
+    "isa_minmode"
   ]
 }
