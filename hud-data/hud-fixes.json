@@ -35,8 +35,8 @@
     "lang": ["en"]
   },
   "tags": ["default"],
-  "repo": "https://github.com/CriticalFlaw/TF2HUD.Fixes",
-  "hash": "92db8fe7239d752d331f49cbc28702ad54dca990",
+  "repo": "https://github.com/CriticalFlaw/tf2hud-fixes",
+  "hash": "c6a6252375c6b5f8f71d08f40adc44d96bb2ad76",
   "verified": true,
   "resources": [
     "banner",

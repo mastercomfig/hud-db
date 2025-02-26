@@ -5,6 +5,7 @@ HUD aimed to be more modern-looking while keeping the aspect of TF2
 Version 2024.12
 
 # Credits
+
 - The huds.tf discord for an enormous help
 - RaysFire / JarateKing for some documentations
 - Zeesastrous / a krillion to 1 for inspirations
