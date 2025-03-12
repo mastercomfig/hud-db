@@ -5,7 +5,7 @@
   "flags": ["scoreboards", "minmode", "materials", "customization"],
   "tags": ["modern"],
   "repo": "https://github.com/DarSitam/DarHud",
-  "hash": "7f2044e4cb88dadff4d139e3e23b60ee8c83d33d",
+  "hash": "b5b9d62885a8e2f7ef24f2ed73f46389a78852aa",
   "prerelease": false,
   "resources": ["darhud-logo"],
   "social": {
