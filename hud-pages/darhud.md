@@ -2,7 +2,7 @@
 
 HUD aimed to be more modern-looking while keeping the aspect of TF2
 
-Version 2025.13
+Version 2025.14
 
 # Credits
 
