@@ -1,6 +1,6 @@
 {
-  "name": "ULTRAHUD-TF2",
-  "author": "The 2fort Cremator",
+  "name": "ULTRAHUD",
+  "author": "Heaven Piercer",
   "contributors": [
     "raysfire",
     "Hypnootize",
@@ -12,20 +12,22 @@
   "distinguishedFromParent": true,
   "releaseDate": "2024-02-24",
   "resources": [
-    "ultrahud-logo"
+    "ultrareboot_banner"
   ],
   "flags": [
     "fonts",
     "menus",
     "crosshairs",
     "minmode",
-    "customization"
+    "customization",
+    "streamer-mode"
   ],
-  "repo": "https://github.com/2fort-cremator/ULTRAHUD-TF2",
-  "hash": "c097a5b6d4bcc3b693b11fbcab4b2111a92962b3",
+  "repo": "https://github.com/heaven-piercer/ULTRAHUD-TF2",
+  "hash": "abf1b94e74bac5459ae5fb03dc529ac21a851896",
   "prerelease": false,
   "social": {
-    "discord": "/v8nmUKRX62"
+    "discord": "/v8nmUKRX62",
+    "album": "https://imgur.com/a/Y7q58Im"
   },
   "traits": {
     "os": [
