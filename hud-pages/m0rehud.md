@@ -18,9 +18,7 @@
     <br /><br />
     HUD Versions:
     <br />
-    <a href="https://github.com/Hypnootize/m0rehud/archive/master.zip">m0rehud For Windows</a>
-    -
-    <a href="https://github.com/Hypnootize/m0rehud/archive/linux.zip">m0rehud For Linux</a>
+    <a href="https://github.com/Hypnootize/m0rehud/archive/master.zip">m0rehud</a>
     -
     <a href="https://github.com/Hypnootize/m0rehud/archive/classic.zip">m0rehud Classic</a>
   </p>
