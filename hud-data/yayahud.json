@@ -3,7 +3,7 @@
   "author": "yttrium",
   "contributors": ["Hypnotize"],
   "social": {
-    "album": "https://imgur.com/a/LCENr"
+    "album": "https://github.com/TF2HUDsArchive/yayahud/blob/screenshots/showcase.md"
   },
   "flags": [
     "fonts",
@@ -36,7 +36,7 @@
     ],
     "res": ["4/3", "16/9", "16/10"]
   },
-  "repo": "https://github.com/Hypnootize/yayahud",
+  "repo": "https://github.com/TF2HUDsArchive/yayahud",
   "githubAuthor": "Yttrium-tYcLief",
   "hash": "c332ff5857adca1923a1394f88362c1300394c0d",
   "resources": ["yayahud-banner"]
