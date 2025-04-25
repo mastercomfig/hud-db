@@ -3,7 +3,7 @@
   "author": "Colly",
   "contributors": ["Hypnotize"],
   "social": {
-    "album": "https://imgur.com/a/lS0SX"
+    "album": "https://github.com/TF2HUDsArchive/QTC-Hud/blob/screenshots/showcase.md"
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
   "traits": {
@@ -29,7 +29,7 @@
     ],
     "res": ["16/9"]
   },
-  "repo": "https://github.com/Hypnootize/QTC-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/QTC-Hud",
   "githubAuthor": null,
   "hash": "ac47e2002bd13c1ec5758a73fe0c9c64d9d5f71e",
   "resources": ["qtc-hud-banner"]

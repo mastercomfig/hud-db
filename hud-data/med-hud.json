@@ -4,7 +4,7 @@
   "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "medhud",
-    "album": "https://imgur.com/a/1ufBE"
+    "album": "https://github.com/TF2HUDsArchive/medHUD/blob/screenshots/showcase.md"
   },
   "flags": [
     "fonts",
@@ -37,7 +37,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
-  "repo": "https://github.com/Hypnootize/medHUD",
+  "repo": "https://github.com/TF2HUDsArchive/medHUD",
   "githubAuthor": "Intellectualbadass",
   "hash": "a7eb9a0ca8cb5d57bddb5a28ec776d17eba84ab0",
   "resources": ["med-hud-banner"]

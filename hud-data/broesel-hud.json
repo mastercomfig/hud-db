@@ -4,7 +4,7 @@
   "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "broeselhud",
-    "album": "https://imgur.com/a/YxG82"
+    "album": "https://github.com/TF2HUDsArchive/Broesel-Hud/blob/screenshots/showcase.md"
   },
   "flags": ["fonts", "scoreboards", "crosshairs", "customization"],
   "traits": {
@@ -30,7 +30,7 @@
     ],
     "res": ["4/3", "5/4", "16/9", "16/10"]
   },
-  "repo": "https://github.com/Hypnootize/Broesel-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/Broesel-Hud",
   "githubAuthor": null,
   "hash": "6e33915acac30cfe774a78abfd25a879b90bfb6c",
   "resources": ["broesel-hud-banner"]
