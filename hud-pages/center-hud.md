@@ -1,6 +1,5 @@
 A TF2 HUD focused on putting critical HUD info in the center, while sticking to the style of the default HUD, adding customization and fixing things.
 
-- <a href="https://github.com/RoseyLemonz/center-hud/releases">Downloads</a>
 - <a href="https://discord.gg/p5JV3k5CfE">Discord</a>
 - <a href="https://github.com/RoseyLemonz/center-hud/tree/lite">Lite Version</a>
 - <a href="https://github.com/RoseyLemonz/center-hud/tree/tf2c">TF2C Version</a>
