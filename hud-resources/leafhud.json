@@ -1,0 +1,51 @@
+{
+  "name": "LeafHUD",
+  "author": "RazorLeaf16",
+  "contributors": [
+    "Hypnotize"
+  ],
+  "releaseDate": "2024-10-08",
+  "parent": "m0rehud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "https://i.imgur.com/RhV3nAY.jpeg"
+  ],
+  "flags": [
+    "fonts",
+	"menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "simple"
+  ],
+  "repo": "https://github.com/RazorLeaf16/LeafHUD",
+  "hash": "0d03fb34728a9231279f7157ae147385410f7953",
+  "prerelease": false,
+  "social": {},
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
