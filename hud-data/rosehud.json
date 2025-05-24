@@ -1,0 +1,38 @@
+{
+  "name": "roseHUD",
+  "author": "RoseyLemonz",
+  "resources": [
+    "rosehudmain",
+    "rosehud1"
+  ],
+  "flags": [
+    "fonts",
+    "materials"
+  ],
+  "tags": [
+    "minimal"
+  ],
+  "repo": "https://github.com/RoseyLemonz/rosehud",
+  "hash": "6a86341d6073942e733da813108d8a63ab368865",
+  "prerelease": true,
+  "social": {
+    "bsky": "narumitsu.gay",
+    "discord": "/p5JV3k5CfE"
+  },
+  "traits": {
+    "os": [
+      "linux"
+    ],
+    "gamemode": [
+      "ctf",
+      "cp",
+      "pl"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
