@@ -3,9 +3,9 @@
   "author": "Oxide",
   "contributors": ["Hypnotize"],
   "social": {
-    "album": "https://imgur.com/a/R9a13"
+    "album": "https://github.com/TF2HUDsArchive/Oxide-Hud/blob/screenshots/showcase.md"
   },
-  "repo": "https://github.com/Hypnootize/Oxide-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/Oxide-Hud",
   "githubAuthor": null,
   "hash": "1f18bf46252f80f4a5244d437aaebcdd2930338b",
   "resources": ["oxide-hud-banner"]

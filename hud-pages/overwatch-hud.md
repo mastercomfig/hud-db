@@ -1,7 +1,7 @@
 TF2 HUD based off of Overwatch 2.
 
 Notes:  
-If you don't like how far away the health/ammo is from the center, turning on minimal mode (cl_hud_minmode 1) will move the health/ammo to the center of the screen. (http://i.imgur.com/Im28G5K.png)  
+If you don't like how far away the health/ammo is from the center, turning on minimal mode (cl_hud_minmode 1) will move the health/ammo to the center of the screen. (https://i.imgur.com/Im28G5K.png)  
 Currently I haven't edited the mann vs machine HUD elements. I plan on doing them at a later date.  
 Crosshairs are managed in resources/ui/HudPlayerClass.res.
 

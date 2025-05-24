@@ -2,17 +2,21 @@
 
 # ULTRAHUD-TF2
 
-### *THE ADMINISTRATOR IS DEAD. AUSTRALIUM IS FUEL. 2FORT IS FULL.*
-
 ![ULTRAHUD-LOGO](https://i.imgur.com/bVuGDn6.png)
 
 </div>
 
-A simple HUD which tries to bring the ULTRAKILL HUD into TF2.
+## *THE ADMINISTRATOR IS DEAD.*
 
-I was unappeased with the lack of ULTRAKILL themed content for TF2, especially HUDs, so I decided to take matters into my own hands. This is still very early in development, so expect some bugs.
+A TF2 Mod that ports the UI seen in ULTRAKILL by Arsi "Hakita" Patala.
+Features completely reworked menus and HUD faithful to ULTRAKILL.
 
-## Community Stuff
+## *AUSTRALIUM IS FUEL.*
+
+ULTRAHUD features a variety of color customizations to alter the look and feel of the HUD, with a variety of possible color combinations.
+There also exists a modular streamer mode, to hide whatever you need to. The main menu background can be customized between many of the official album art seen in ULTRAKILL (and some fanmade ones!).
+
+## *2FORT IS FULL.*
 
 ### Discord Server: <https://discord.gg/v8nmUKRX62>
 
@@ -20,11 +24,11 @@ I was unappeased with the lack of ULTRAKILL themed content for TF2, especially H
 
 ## Full Credits
 
-raysfire - Rayshud and the tutorials that helped me make this.
+raysfire & Hypnootize- Rayshud and the tutorials that helped me make this.
 
 Hakita & the ULTRAKILL dev team - Made one of my favorite games and inspired me to pick up HUD development.
 
-Village Green Preserver - Healthbar (<https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main>)
+VillageGreenPreserver - Healthbar (<https://github.com/VillageGreenPreserver/Horizontal-Health-Bar/tree/main>) and being a chill dude with divine knowledge about HUDs.
 
 Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709>)
 
@@ -32,8 +36,8 @@ Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfile
 
 Tomma - WeirdcoreHUD is a source of inspiration for me. Also gladly let me use his HUD options as a base for the Calibration screen.
 
-techno - Made plenty of fixes to fonts and made colors consistent across many places.
+TechnoSL - Made plenty of fixes to fonts and made colors consistent across many places.
 
-Hewett Tsoi - Font "Alagard" used in the Gabriel Pack (https://www.dafont.com/alagard.font).
+Goose - Some of the custom menu backgrounds.
 
-Jofre Problem? - The speedometer.
+ULTRAWIKI - The assets used for SmileOS 2.0.

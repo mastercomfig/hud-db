@@ -1,12 +1,19 @@
 {
   "name": "srshud",
   "author": "Unknown",
-  "contributors": ["techno", "Hypnotize"],
+  "contributors": [
+    "techno",
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://imgur.com/a/H2K2zyg"
   },
   "repo": "https://github.com/tekunotri/srshud",
   "githubAuthor": null,
-  "hash": "5f79fb6f7b14bb05cc3f21b80fe3fe9495577fc8",
-  "resources": ["srshud-menu", "srshud-gameplay", "srshud-medic"]
+  "hash": "3c6890f951156cb9934184ac788e88b0d268be18",
+  "resources": [
+    "srshud-menu",
+    "srshud-gameplay",
+    "srshud-medic"
+  ]
 }

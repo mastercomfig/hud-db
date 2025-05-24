@@ -2,12 +2,8 @@
   "name": "ahud-cc",
   "author": "Jakadak",
   "contributors": [
-    "Hikyle",
-    "Hypnootize",
-    "Peaches",
-    "SiFWolf",
-    "Quik",
-    "Griever"
+    "XkzLL",
+    "Kruphixx"
   ],
   "releaseDate": "2024-07-25",
   "parent": "ahud",
@@ -41,7 +37,7 @@
   ],
   "tags": ["clean", "minimal", "competitive"],
   "repo": "https://github.com/jakadak/ahud-cc",
-  "hash": "86c19c4c79017de0cae70f792afc90e02246b681",
+  "hash": "8566e7a444a5fc2ad24f16720e989a323a464faa",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198235002312",

@@ -13,13 +13,15 @@
     "menus",
     "scoreboards",
     "crosshairs",
-    "minmode",
-    "streamer-mode",
     "materials",
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -39,12 +41,34 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center", "corners", "default"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "corners",
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal", "modern", "middle", "vanilla"],
+  "tags": [
+    "minimal",
+    "modern",
+    "middle",
+    "vanilla"
+  ],
   "repo": "https://github.com/Vexcenot/-Middle-Mann",
-  "hash": "d5bc167b51e4c1d4defede36405c24c87bcbc30c",
-  "resources": ["middlemann-banner"]
+  "hash": "96dbeffab2fd2674c26c2794f9350cf3e151dba0",
+  "resources": [
+    "middlemann-banner"
+  ]
 }

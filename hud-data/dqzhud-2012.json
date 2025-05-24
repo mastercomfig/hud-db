@@ -1,8 +1,13 @@
 {
   "name": "dqzhud 2012",
   "author": "dqz",
+  "contributors": [
+    "Sinders"
+  ],
   "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "be364cb2b1c384fceab85bbfec7a5e493fcf6410",
+  "hash": "a77fd835520e9e403774d42a944b3519d06a36e4",
   "parent": "dqzhud",
-  "resources": ["dqzhud-2012-banner"]
+  "resources": [
+    "dqzhud-2012-banner"
+  ]
 }

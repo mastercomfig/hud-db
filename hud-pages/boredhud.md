@@ -4,7 +4,7 @@ This HUD started as a result of personal boredom, and eventually evolved into a 
 
 # Credits
 
-**Typodermic Fonts** - Creator of Blue Highway [[Source](http://www.dafont.com/typodermic.d1705)]
-**Steve Gardner** - Creator of Larke Neue [[Source](http://www.dafont.com/steve-gardner.d5188)]
+**Typodermic Fonts** - Creator of Blue Highway [Source](https://www.dafont.com/typodermic.d1705)
+**Steve Gardner** - Creator of Larke Neue [Source](https://www.dafont.com/steve-gardner.d5188)
 **Doodles** - Without his tutorials, I would've never figured out HUD editing
-[[Source](http://doodlesstuff.com/?tutorial=tf2hud)]
+[Source](https://doodlesstuff.com/?tutorial=tf2hud)

@@ -1,20 +1,47 @@
 {
-  "name": "ULTRAHUD-TF2",
-  "author": "The 2fort Cremator",
-  "contributors": ["raysfire", "Village Green Preserver", "Tomma", "techno"],
+  "name": "ULTRAHUD",
+  "author": "Heaven Piercer",
+  "contributors": [
+    "raysfire",
+    "Hypnootize",
+    "Village Green Preserver",
+    "Tomma",
+    "techno"
+  ],
+  "parent": "rayshud",
+  "distinguishedFromParent": true,
   "releaseDate": "2024-02-24",
-  "resources": ["divine-intervention"],
-  "flags": ["fonts", "menus", "crosshairs", "minmode", "customization"],
-  "repo": "https://github.com/2fort-cremator/ULTRAHUD-TF2",
-  "hash": "b7813f185e85fa8be8649a957ee9328f68e84e92",
+  "resources": [
+    "ultrareboot_banner"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "customization",
+    "streamer-mode"
+  ],
+  "repo": "https://github.com/heaven-piercer/ULTRAHUD-TF2",
+  "hash": "fbea43a3fe23dba03c5196d6976be585000e35b0",
   "prerelease": false,
   "social": {
-    "discord": "/v8nmUKRX62"
+    "discord": "/v8nmUKRX62",
+    "album": "https://imgur.com/a/Y7q58Im"
   },
   "traits": {
-    "os": ["windows"],
-    "res": ["16/9"],
-    "position": ["center", "corners"],
-    "lang": ["en"]
+    "os": [
+      "windows"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   }
 }

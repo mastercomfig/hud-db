@@ -3,7 +3,7 @@
   "author": "Flatline",
   "contributors": ["Hypnotize"],
   "social": {
-    "album": "https://imgur.com/a/172lD"
+    "album": "https://github.com/TF2HUDsArchive/Clip-Hud/blob/screenshots/showcase.md"
   },
   "flags": ["fonts", "menus", "crosshairs", "materials"],
   "traits": {
@@ -25,7 +25,7 @@
     ],
     "res": ["16/9"]
   },
-  "repo": "https://github.com/Hypnootize/Clip-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/Clip-Hud",
   "githubAuthor": null,
   "hash": "f77879deddad8adbae4ca890bce6f374037c3da3",
   "resources": ["clip-hud-banner"]

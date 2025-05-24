@@ -1,0 +1,74 @@
+{
+  "name": "toucaHUD",
+  "author": "touca",
+  "contributors": [
+    "Jofre",
+    "Hypnotize",
+    "Colly",
+    "Omnibombulator"
+  ],
+  "releaseDate": "2024-10-03",
+  "parent": "hexhud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "toucahud-banner", "toucahud-menu", "toucahud-backpack", "toucahud-backpackwithmetal", "toucahud-loadouts", "toucahud-stats", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedisguise"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "minmode",
+    "streamer-mode",
+    "materials"
+  ],
+  "tags": [
+    "minimal",
+    "competitive",
+    "comp",
+    "overhaul",
+    "touca"
+  ],
+  "repo": "https://github.com/toucaknight/toucaHUD",
+  "hash": "a765221a6c0927faee145dfe30908340648468c7",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198986534519",
+    "discord": ".touca#0",
+    "album": "https://imgur.com/a/toucahud-As2hf38"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
