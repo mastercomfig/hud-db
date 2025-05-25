@@ -13,8 +13,8 @@
     "yesod-mainmenu",
     "yesod-classes",
     "yesod-hp",
-	"yesod-buff",
-	"yesod-hurt",
+    "yesod-buff",
+    "yesod-hurt",
     "yesod-uber",
     "yesod-winpanel",
     "yesod-scoreboard",
@@ -41,8 +41,8 @@
   },
   "traits": {
     "os": [
-      "windows"
-	  "linux"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "tournament",
