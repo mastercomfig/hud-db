@@ -1,6 +1,7 @@
 {
   "name": "Mono Hud",
   "author": "Village Green Preserver",
+  "verified": true,
   "contributors": ["Kruphixx"],
   "releaseDate": "2022-02-12",
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "materials"],
