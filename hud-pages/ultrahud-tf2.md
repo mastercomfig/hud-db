@@ -41,3 +41,5 @@ TechnoSL - Made plenty of fixes to fonts and made colors consistent across many 
 Goose - Some of the custom menu backgrounds.
 
 ULTRAWIKI - The assets used for SmileOS 2.0.
+
+Max Shortt - The mercenary backgrounds.
