@@ -22,6 +22,17 @@ There also exists a modular streamer mode, to hide whatever you need to. The mai
 
 ### Steam Group: <https://steamcommunity.com/groups/ultrahudtf2>
 
+## Installation Guide:
+
+Extract all the contents of the zip file,
+Place the folder with the HUD contents in your tf/custom folder
+
+- Directory should look like tf/custom/ULTRAHUD-TF2/resource,scripts,materials,etc.
+
+If not already, rename the HUD folder to ULTRAHUD-TF2, (can be lowercase if on linux)
+
+Start TF2 and play.
+
 ## Full Credits
 
 raysfire & Hypnootize- Rayshud and the tutorials that helped me make this.
@@ -34,10 +45,12 @@ Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfile
 
 [deleted] on Reddit - The colored version of V1s head in the UK logo (<https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/>)
 
-Tomma - WeirdcoreHUD is a source of inspiration for me. Also gladly let me use his HUD options as a base for the Calibration screen.
+Tomma - WeirdcoreHUD is a source of inspiration for me. Also let me use his HUD options as a base for the Calibration screen.
 
 TechnoSL - Made plenty of fixes to fonts and made colors consistent across many places.
 
 Goose - Some of the custom menu backgrounds.
 
 ULTRAWIKI - The assets used for SmileOS 2.0.
+
+Max Shortt - The mercenary backgrounds.

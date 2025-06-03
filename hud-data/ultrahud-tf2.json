@@ -3,7 +3,7 @@
   "author": "Heaven Piercer",
   "contributors": [
     "raysfire",
-    "Hypnootize",
+    "Hypnotize",
     "Village Green Preserver",
     "Tomma",
     "techno"
@@ -20,10 +20,11 @@
     "crosshairs",
     "minmode",
     "customization",
-    "streamer-mode"
+    "streamer-mode",
+    "materials"
   ],
   "repo": "https://github.com/heaven-piercer/ULTRAHUD-TF2",
-  "hash": "fbea43a3fe23dba03c5196d6976be585000e35b0",
+  "hash": "fb977a2dbf66a38cd26e7c5b64f9b96e4937e26b",
   "prerelease": false,
   "social": {
     "discord": "/v8nmUKRX62",
@@ -32,6 +33,14 @@
   "traits": {
     "os": [
       "windows"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl"
     ],
     "res": [
       "16/9"
