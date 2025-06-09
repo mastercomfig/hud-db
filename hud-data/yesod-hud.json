@@ -10,13 +10,16 @@
   "releaseDate": "2024-06-09",
   "resources": [
     "yesod-title",
-    "yesod-menu",
+    "yesod-mainmenu",
+    "yesod-classes",
+    "yesod-hp",
     "yesod-buff",
     "yesod-hurt",
-    "yesod-medic",
+    "yesod-uber",
     "yesod-winpanel",
     "yesod-scoreboard",
-    "yesod-stv"
+    "yesod-mvm",
+	"yesod-upgrade"
   ],
   "flags": [
     "fonts",
@@ -29,16 +32,17 @@
     "minimal"
   ],
   "repo": "https://github.com/yesod404/yesodCollyHUD",
-  "hash": "9c7437355bc7ef63e9fca24e5cb102e769a5c704",
+  "hash": "74e8d8315d3897351c78c7c5569d811d4e9db252",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198212866289",
     "discord": ".yesod#0",
-    "album": "https://imgur.com/a/DuWMTA8"
+    "album": "https://imgur.com/a/yesodcollyhud-album-Y95rxHn"
   },
   "traits": {
     "os": [
-      "windows"
+      "windows",
+      "linux"
     ],
     "gamemode": [
       "tournament",

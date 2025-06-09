@@ -6,7 +6,7 @@ A HUD inspired by the FPS games of years gone by.
   
 External Links  
 [Github Repository - More details, screenshots. Has legacy builds.](https://github.com/LavenderTheGreat/dosHUD/)  
-[Gamebanana - Alternative mirror. Also has legacy builds.](https://gamebanana.com/guis/35769)  
+[Gamebanana - Alternative mirror. Also has legacy builds.](https://gamebanana.com/mods/26587)  
 [My Twitter - Primarily art, but can also be used for issue reports](https://twitter.com/lavendertgreat/)
 
 # Special Thanks

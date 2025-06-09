@@ -4,9 +4,9 @@
   "contributors": ["Hypnotize"],
   "social": {
     "steam_group": "knhud",
-    "album": "https://imgur.com/a/MzCXa"
+    "album": "https://github.com/TF2HUDsArchive/KN-Hud/blob/screenshots/showcase.md"
   },
-  "repo": "https://github.com/Hypnootize/KN-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/KN-Hud",
   "hash": "1895b99d5dc72e944ed8dbec8f18ef08e3ad787b",
   "resources": ["kn-hud-banner"]
 }

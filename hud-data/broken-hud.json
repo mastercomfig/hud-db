@@ -3,7 +3,7 @@
   "author": "Colly",
   "contributors": ["Hypnotize"],
   "social": {
-    "album": "https://imgur.com/a/fu94w"
+    "album": "https://github.com/TF2HUDsArchive/Broken-Hud/blob/screenshots/showcase.md"
   },
   "flags": ["fonts", "menus", "scoreboards", "crosshairs", "customization"],
   "traits": {
@@ -29,7 +29,7 @@
     ],
     "res": ["4/3", "16/9", "16/10"]
   },
-  "repo": "https://github.com/Hypnootize/Broken-Hud",
+  "repo": "https://github.com/TF2HUDsArchive/Broken-Hud",
   "githubAuthor": null,
   "hash": "fc809e41991b32ecafa7490801fdc324ca815594",
   "resources": ["broken-hud-banner"]

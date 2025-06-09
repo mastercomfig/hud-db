@@ -42,15 +42,16 @@
     "lang": ["en"]
   },
   "repo": "https://github.com/Hypnootize/m0rehud",
-  "hash": "2d0f802835bbfdbbac05becdb48e372443ef4c23",
+  "hash": "4f00092352c34d3317e195db5a5c414b0143a898",
   "resources": [
     "m0rehud-banner",
     "m0rehud-menu",
+    "m0rehud-loadout",
+    "m0rehud-customization",
     "m0rehud-buff",
     "m0rehud-low",
     "m0rehud-minmode",
     "m0rehud-medic",
-    "m0rehud-win",
     "m0rehud-scoreboard",
     "m0rehud-spectator"
   ]

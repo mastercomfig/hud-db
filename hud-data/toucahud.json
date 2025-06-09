@@ -11,13 +11,14 @@
   "parent": "hexhud",
   "distinguishedFromParent": true,
   "resources": [
-    "toucahud-banner", "toucahud-menu", "toucahud-backpackui", "toucahud-backpackheavy", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedestroybuild", "toucahud-ingamedisguise", "toucahud-ingametauntmenu"
+    "toucahud-banner", "toucahud-menu", "toucahud-backpack", "toucahud-backpackwithmetal", "toucahud-loadouts", "toucahud-stats", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedisguise"
   ],
   "flags": [
     "fonts",
     "menus",
     "scoreboards",
     "minmode",
+    "streamer-mode",
     "materials"
   ],
   "tags": [
@@ -28,12 +29,12 @@
     "touca"
   ],
   "repo": "https://github.com/toucaknight/toucaHUD",
-  "hash": "54579296dca586b7b433d1b1ef2de0f51470f2f4",
+  "hash": "a765221a6c0927faee145dfe30908340648468c7",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198986534519",
     "discord": ".touca#0",
-    "album": "https://imgur.com/a/vY3nZi3"
+    "album": "https://imgur.com/a/toucahud-As2hf38"
   },
   "traits": {
     "os": [
@@ -59,10 +60,12 @@
       "tc"
     ],
     "res": [
+      "4/3",
       "16/9"
     ],
     "position": [
-      "center"
+      "center",
+      "default"
     ],
     "lang": [
       "en"

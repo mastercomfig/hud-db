@@ -3,16 +3,18 @@
 Somewhat unique minimalistic HUD with easy customization.
 Based on PhouHUD.
 
-#### <h2>Features</h2>
+## Features
+
 * Toolpanel
 * HUD edit panel
 * Custom fonts
 * Custom colours
 * Custom crosshairs
 * Easy customization
-#### <h2>Installation</h2>
-1. Download ColourHUD by clicking `Download ZIP` from the green `Code` Button<br>
-   Or download the HUD from the `Releases` page
+
+## Installation
+
+1. Download ColourHUD by clicking `Download`
 2. Open Steam
 3. Go to Library
 4. Right click on `Team Fortress 2` on the games panel and select `Properties...`
@@ -20,9 +22,13 @@ Based on PhouHUD.
 6. Navigate to `tf\custom`
 7. Extract `colourhud-master` from the ZIP file to the `custom` folder
 8. That's all
-#### <h2>Uninstallation</h2>
+
+## Uninstallation
+
 1. Delete `colourhud-master` in the `custom` folder
-#### <h2>Customization</h2>
+
+## Customization
+
 You can customize the HUD by using the HUD edit panel in the main menu.
 
 # Credits

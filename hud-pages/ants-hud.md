@@ -5,13 +5,13 @@ A HUD with a modern, flat, dynamic design made from a combination of RaysHUD, ah
 GitHub:  
 <https://github.com/AsianAntwan/AntsHUD>  
 Gamebanana:  
-<http://gamebanana.com/guis/32745>  
+<https://gamebanana.com/guis/32745>  
 Screenshots:  
 <https://imgur.com/a/rHpj0ys>  
 Steam Group:  
 <https://steamcommunity.com/groups/antwansants>  
 Steam Profile:  
-<http://steamcommunity.com/profiles/76561198246200638/>
+<https://steamcommunity.com/profiles/76561198246200638/>
 
 # Credits
 

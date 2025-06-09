@@ -41,7 +41,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
     "steam_profile": "76561191234567890", // Your SteamID64 (optional)
     "steam_group": "valve", // Your Steam group vanity ID (used for custom URLs) (optional)
     "twitter": "CoolPerson12812", // Your Twitter handle (optional)
-    "bsky": "coolerperson128123.bsky.social", // You BSky handle (optional)
+    "bsky": "coolerperson128123.bsky.social", // Your BSky handle (optional)
     "discord": "/vanity-or-invite", // Your Discord server invite code, beginning with / (not the full URL), or your Discord in the format username#0 (optional)
     "youtube": "@TheCoolPerson", // Your YouTube channel (either /channel/userhash partial URL, @username or channel name) (optional)
     "twitch": "CoolPersonStreamer", // Your Twitch channel name (optional)
@@ -178,7 +178,7 @@ hud-resouces/
 
 You can upload the images in any format in your PR. A bot will automatically transform them to the correct format upon merge, and optimize them as well. GIFs/animated images are not supported but may be in the future. Use YouTube links for videos.
 
-You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful tool for converting your images to WebP. This will also give you more control over the conversion and quaality of your images.
+You can also use WebP directly. [Squoosh](https://squoosh.app/) may be a helpful tool for converting your images to WebP. This will also give you more control over the conversion and quality of your images.
 
 There is a soft limit of 8 resources, and a hard limit of 15. This is to ensure that the repo doesn't become too bloated as more HUDs are added, and so web interfaces are manageable and less overwhelming.
 

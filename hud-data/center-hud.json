@@ -1,27 +1,29 @@
 {
   "name": "Center HUD",
-  "author": "Rorrii",
+  "author": "RoseyLemonz",
   "releaseDate": "2023-12-23",
   "resources": [
     "centerhudlogo",
     "centerhudimage"
   ],
   "flags": [
+    "fonts",
     "menus",
     "crosshairs",
     "minmode",
     "materials",
+    "streamer-mode",
     "customization"
   ],
   "tags": ["vanilla", "default"],
-  "repo": "https://github.com/Rorriis/center-hud",
-  "hash": "469987fea3cac84d91fab1090b3771704957bfd9",
+  "repo": "https://github.com/RoseyLemonz/center-hud",
+  "hash": "4e6831cee771a876cbcfa0700a857f008bda044e",
   "prerelease": false,
 
   "social": {
     "steam_profile": "76561199001745671",
-    "discord": "rorriis#0",
-    "bsky": "rorrii.bsky.social",
+    "discord": "roseylemonz#0",
+    "bsky": "narumitsu.gay",
     "album": "https://imgur.com/a/NLdQS6O"
   },
   "traits": {
@@ -47,6 +49,6 @@
     ],
     "res": ["4/3", "16/9", "16/10", "21/9"],
     "position": ["center"],
-    "lang": ["en", "fi", "ro", "tr", "ru","es"]
+    "lang": ["en", "fi", "ro", "tr", "ru", "es", "ko", "fr", "no", "pl"]
   }  
 }

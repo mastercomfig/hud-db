@@ -5,7 +5,6 @@
     "wingo"
   ],
   "social": {
-    "steam_profile": "76561198184881255",
     "album": "https://imgur.com/a/nX2t80F"
   },
   "traits": {
@@ -43,12 +42,14 @@
     ]
   },
   "repo": "https://github.com/skaiTF/skyhud",
-  "hash": "4252ce85a2b2eddb2b82a7e11ad1f023f9121d3f",
+  "hash": "c3807c660d88306485450ab034315e6bcdc30485",
   "resources": [
     "skyhud-banner",
-    "main-menu",
+    "main_menu",
     "normal",
     "minmode",
-    "lowered-mode"
+    "disguise",
+    "scoreboard_fullstats",
+    "scoreboard_kdonly"
   ]
 }

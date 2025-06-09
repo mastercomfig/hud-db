@@ -1,0 +1,69 @@
+{
+  "name": "e.v.e Plus",
+  "author": "RoseyLemonz",
+  "contributors": [
+    "Sinders"
+  ],
+  "releaseDate": "2025-03-28",
+  "parent": "e-v-e-hud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "eveplusmenu",
+    "eveplus1",
+    "eveplus2"
+  ],
+  "flags": [
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode"
+  ],
+  "tags": [
+    "minimal",
+    "vanilla"
+  ],
+  "repo": "https://github.com/RoseyLemonz/eve-plus",
+  "hash": "2ca73c1227276fa0f6234b0ead9ec4b92ce30d09",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561199001745671",
+    "bsky": "narumitsu.gay",
+    "discord": "/p5JV3k5CfE"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
