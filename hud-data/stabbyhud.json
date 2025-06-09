@@ -1,0 +1,27 @@
+{
+  "name": "stabbyhud",
+  "": "hud's folder",
+  "author": "stabbystabby",
+  "parent": "flame-hud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "stabbyhud-menu",
+    "https://youtu.be/ThSelvFXjlg?si=liwok_v34C2djjrW"
+  ],
+  "flags": [
+    "streamer-mode"
+  ],
+  "tags": [
+    "minimal",
+    "default"
+  ],
+  "repo": "https://github.com/tekunotri/stabbyHUD/",
+  "hash": "b4bf8cdac9d06aae6a5db44453eb8bd77c45f24d",
+  "prerelease": false,
+  "social": {},
+  "traits": {
+    "res": [
+      "16/9"
+    ]
+  }
+}
