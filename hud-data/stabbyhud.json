@@ -1,0 +1,12 @@
+{
+  "name": "stabbyhud",
+  "author": "stabbystabby",
+  "repo": "https://github.com/tekunotri/stabbyhud",
+  "githubAuthor": null,
+  "hash": "b4bf8cdac9d06aae6a5db44453eb8bd77c45f24d",
+  "parent": "flame-hud",
+  "resources": [
+    "stabbyhud-menu",
+    "https://youtu.be/ThSelvFXjlg"
+  ]
+}
