@@ -10,7 +10,9 @@
     "youtube": "@eniere",
     "twitch": "eniere"
   },
-  "flags": ["minmode"],
+  "flags": [
+    "minmode"
+  ],
   "traits": {
     "os": ["windows", "linux"],
     "gamemode": [
@@ -39,5 +41,11 @@
   "repo": "https://github.com/idhud-tf2/idhud",
   "hash": "4b02ccdcf4a01edfbf12368ecc7cb3810dd7f0f6",
   "prerelease": false,
-  "resources": ["improved_default_hud_banner", "combat", "medic hud", "scoreboard", "spectator tournament"]
+  "resources": [
+  "improved_default_hud_banner",
+  "combat",
+  "medic hud",
+  "scoreboard",
+  "spectator tournament"
+  ]
 }
