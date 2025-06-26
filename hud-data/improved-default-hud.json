@@ -1,7 +1,7 @@
 {
   "name": "Improved Default HUD",
   "author": "Eniere",
-  "contributors": "Tiagoquix",
+  "contributors": ["Tiagoquix"],
   "releaseDate": "2014-03-21",
   "social": {
     "support": "https://github.com/idhud-tf2/idhud/issues",
@@ -10,7 +10,7 @@
     "youtube": "@eniere",
     "twitch": "eniere"
   },
-  "flags": "minmode",
+  "flags": ["minmode"],
   "traits": {
     "os": ["windows", "linux"],
     "gamemode": [
@@ -32,8 +32,8 @@
       "sd",
       "tc"
     ],
-    "res": "16/9",
-    "position": "default",
+    "res": ["16/9"],
+    "position": ["default"],
   },
   "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
   "repo": "https://github.com/idhud-tf2/idhud",
