@@ -1,10 +1,51 @@
 {
   "name": "Improved Default HUD",
   "author": "Eniere",
+  "contributors": ["Tiagoquix"],
+  "releaseDate": "2014-03-21",
   "social": {
-    "album": "https://imgur.com/a/l9qai"
+    "support": "https://github.com/idhud-tf2/idhud/issues",
+    "issues": "https://github.com/idhud-tf2/idhud/issues",
+    "steam_profile": "76561198024519202",
+    "youtube": "@eniere",
+    "twitch": "eniere"
   },
-  "repo": "https://github.com/Eniere/idhud",
-  "hash": "907692973518d293397bd654e8265e6b686dabff",
-  "resources": ["improved-default-hud-banner"]
+  "flags": [
+    "minmode"
+  ],
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": ["16/9"],
+    "position": ["default"]
+  },
+  "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
+  "repo": "https://github.com/idhud-tf2/idhud",
+  "hash": "4b02ccdcf4a01edfbf12368ecc7cb3810dd7f0f6",
+  "prerelease": false,
+  "resources": [
+  "1-idhud_banner",
+  "2-combat",
+  "3-medic_hud",
+  "4-scoreboard",
+  "5-spectator_tournament"
+  ]
 }
