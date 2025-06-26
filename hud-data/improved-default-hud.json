@@ -42,10 +42,10 @@
   "hash": "4b02ccdcf4a01edfbf12368ecc7cb3810dd7f0f6",
   "prerelease": false,
   "resources": [
-  "improved_default_hud_banner",
-  "combat",
-  "medic hud",
-  "scoreboard",
-  "spectator tournament"
+  "1-idhud_banner",
+  "2-combat",
+  "3-medic_hud",
+  "4-scoreboard",
+  "5-spectator_tournament"
   ]
 }
