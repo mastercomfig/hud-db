@@ -33,7 +33,7 @@
       "tc"
     ],
     "res": "16/9",
-    "position": "default",
+    "position": "default"
   },
   "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
   "repo": "https://github.com/idhud-tf2/idhud",
