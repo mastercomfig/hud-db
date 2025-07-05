@@ -39,7 +39,7 @@
   },
   "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
   "repo": "https://github.com/idhud-tf2/idhud",
-  "hash": "4b02ccdcf4a01edfbf12368ecc7cb3810dd7f0f6",
+  "hash": "c35515da671ee6ae93a7bb19fb9c0fecde32e29d",
   "prerelease": false,
   "resources": [
   "1-idhud_banner",
