@@ -19,7 +19,7 @@
     "yesod-winpanel",
     "yesod-scoreboard",
     "yesod-mvm",
-	"yesod-upgrade"
+    "yesod-upgrade"
   ],
   "flags": [
     "fonts",
@@ -32,7 +32,7 @@
     "minimal"
   ],
   "repo": "https://github.com/yesod404/yesodCollyHUD",
-  "hash": "74e8d8315d3897351c78c7c5569d811d4e9db252",
+  "hash": "cdf94aea5266934987bf3ecdf19b7714b925b062",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198212866289",
