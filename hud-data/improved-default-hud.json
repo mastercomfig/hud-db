@@ -39,13 +39,14 @@
   },
   "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
   "repo": "https://github.com/idhud-tf2/idhud",
-  "hash": "70f89f7633d7c6d66750e87c2354ff8c2b6a51bb",
+  "hash": "08e01238da6e1887169bd37901106115df28de10",
   "prerelease": false,
   "resources": [
   "1-idhud_banner",
   "2-combat",
   "3-medic_hud",
   "4-scoreboard",
-  "5-spectator_tournament"
+  "5-spectator_tournament",
+  "6-loadout"
   ]
 }
