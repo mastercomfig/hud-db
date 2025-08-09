@@ -8,7 +8,7 @@ This is not a custom HUD in its usual meaning; instead, the focus is to add some
 - Better target ID readability (for both players and buildings)
 - Keyboard shortcuts in the equipment menu, backpack view and loadout screen
 - High-quality item previews in the backpack view, loadout screen, Mann Co. store and more (no additional files needed; done via HUD file tweaks)
-- Restored passive attributes on the loadout screen
+- Restored passive attributes text on the loadout screen
 - Better spectator tournament support (`cl_use_tournament_specgui 1`)
 - No duplicate crosshair when coaching
 - Minor scoreboard improvements
