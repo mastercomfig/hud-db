@@ -1,0 +1,67 @@
+"Resource/UI/TankProgressBar.res"
+{
+	"TankProgressBar"
+	{
+		"ControlName"								"CTankProgressBar"
+		"FieldName"									"TankProgressBar"
+		"XPos"										"0"
+		"YPos"										"0"
+		"ZPos"										"3"
+		"Wide"										"190"
+		"Tall"										"18"
+		"Visible"									"0"
+		"Enabled"									"1"
+	}
+	"TankImage"
+	{
+		"ControlName"								"CTFImagePanel"
+		"FieldName"									"TankImage"
+		"XPos"										"5"
+		"YPos"										"0"
+		"ZPos"										"3"
+		"Wide"										"18"
+		"Tall"										"18"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"Image"										"../hud/leaderboard_class_tank"
+		"ScaleImage"								"1"
+	}
+	"ProgressBar"
+	{
+		"ControlName"								"ScalableImagePanel"
+		"FieldName"									"ProgressBar"
+		"XPos"										"30"
+		"YPos"										"4"
+		"ZPos"										"1"
+		"Wide"										"153"
+		"Tall"										"10"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"Image"										"../HUD/tournament_panel_blu"
+
+		"src_corner_height"							"22"
+		"src_corner_width"							"22"
+		"draw_corner_width"							"0"
+		"draw_corner_height"						"0"
+	}
+	"ProgressBarBG"
+	{
+		"ControlName"								"ScalableImagePanel"
+		"FieldName"									"ProgressBarBG"
+		"XPos"										"29"
+		"YPos"										"3"
+		"ZPos"										"1"
+		"Wide"										"155"
+		"Tall"										"12"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"DrawColor"									"Black"
+		"Image"										"White"
+		"Alpha"										"200"
+
+		"src_corner_height"							"22"
+		"src_corner_width"							"22"
+		"draw_corner_width"							"0"
+		"draw_corner_height"						"0"
+	}
+}

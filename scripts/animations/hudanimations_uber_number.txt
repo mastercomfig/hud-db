@@ -1,0 +1,40 @@
+//===========================================================================================================================
+// FULL UBER ANIMATION START
+//===========================================================================================================================
+event HudMedicChargedNumber
+{
+	// SMALL UBER LABEL -----------------------------------------------------------------------------------------------------
+	Animate ChargeLabel								FGColor		"Ubercharge_Full"					Linear	0.0		0.0
+
+	// BIG UBER LABEL -------------------------------------------------------------------------------------------------------
+	Animate ChargeLabelBig							FGColor		"Ubercharge_Full"					Linear	0.0		0.0
+	Animate ChargeLabelBigShadow					FGColor		"Main_Shadow"						Linear	0.0		0.0
+	Animate ChargeLabelBigShadowExtra				Alpha		"0"									Linear	0.0		0.0
+
+	// UBER METER -----------------------------------------------------------------------------------------------------------
+	Animate ChargeMeter								FGColor		"Ubercharge_Full"					Linear	0.0		0.0
+
+	RunEvent HudMedicChargedLoop					0.6
+}
+//===========================================================================================================================
+// FULL UBER ANIMATION STOP
+//===========================================================================================================================
+event HudMedicChargedStopNumber
+{
+	StopEvent HudMedicChargedNumber					0.0
+	StopEvent HudMedicChargedLoop					0.0
+	StopEvent HudMedicCharged						0.0
+
+	// SMALL UBER LABEL -----------------------------------------------------------------------------------------------------
+	Animate	ChargeLabel								FGColor		"Ubercharge"						Linear	0.0		0.0001
+
+	// BIG UBER LABEL -------------------------------------------------------------------------------------------------------
+	Animate	ChargeLabelBig							FGColor		"Ubercharge"						Linear	0.0		0.0001
+	Animate	ChargeLabelBigShadow					FGColor		"Main_Shadow"						Linear	0.0		0.0001
+	Animate ChargeLabelBigShadowExtra				Alpha		"0"									Linear	0.0		0.0001
+
+	// UBER METER -----------------------------------------------------------------------------------------------------------
+	Animate	ChargeMeter								FGColor		"White"								Linear	0.0		0.0001
+}
+
+//===========================================================================================================================

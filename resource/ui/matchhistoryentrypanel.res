@@ -1,0 +1,462 @@
+"Resource/UI/MatchHistoryEntryPanel.res"
+{
+	"MatchEntry"
+	{
+		"FieldName"									"MatchEntry"
+		"XPos"										"0"
+		"YPos"										"0"
+		"Wide"										"f0"
+		"Tall"										"17"
+		"ProportionalToParent"						"1"
+		"Resize_Time"								"0.2"
+	}
+	"Container"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"Container"
+		"XPos"										"0"
+		"YPos"										"0"
+		"Wide"										"f0"
+		"Tall"										"17"
+		"ProportionalToParent"						"1"
+
+		"BGColor_Override"							"Black"
+
+		"EntryToggleButton"
+		{
+			"ControlName"							"CExButton"
+			"FieldName"								"EntryToggleButton"
+			"XPos"									"0"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"RoundedCorners"						"0"
+			"ActionSignalLevel"						"2"
+			"Command"								"toggle_collapse"
+			"LabelText"								""
+			"Sound_Depressed"						"UI/buttonclick.wav"
+
+			"DefaultBGColor_Override"				"Button_Dark"
+			"ArmedBGColor_Override"					"Button_Hover"
+			"DepressedBGColor_Override"				"Button_Hover"
+		}
+		"WinLabel"
+		{
+			"ControlName"							"CExLabel"
+			"FieldName"								"WinLabel"
+			"XPos"									"10"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"0"
+			"MouseInputEnabled"						"0"
+
+			"LabelText"								"#TF_Competitive_MatchHistory_Win"
+			"Font"									"HudFontSmallestBold"
+			"FGColor"								"CreditsGreen"
+			"TextAlignment"							"west"
+			"AllCaps"								"1"
+		}
+		"LossLabel"
+		{
+			"ControlName"							"CExLabel"
+			"FieldName"								"LossLabel"
+			"XPos"									"10"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"0"
+			"MouseInputEnabled"						"0"
+
+			"LabelText"								"#TF_Competitive_MatchHistory_Loss"
+			"Font"									"HudFontSmallestBold"
+			"FGColor"								"Red"
+			"TextAlignment"							"west"
+			"AllCaps"								"1"
+		}
+		"DateLabel"
+		{
+			"ControlName"							"CExLabel"
+			"FieldName"								"DateLabel"
+			"XPos"									"p0.2"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"1"
+			"MouseInputEnabled"						"0"
+
+			"LabelText"								"%match_date%"
+			"Font"									"HudFontSmallest"
+			"FGColor"								"White"
+			"TextAlignment"							"west"
+		}
+		"MapNameLabel"
+		{
+			"ControlName"							"CExLabel"
+			"FieldName"								"MapNameLabel"
+			"XPos"									"p0.60"
+			"YPos"									"0"
+			"Wide"									"f0"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"1"
+			"MouseInputEnabled"						"0"
+
+			"LabelText"								"%map_name%"
+			"Font"									"HudFontSmallest"
+			"FGColor"								"White"
+			"TextAlignment"							"west"
+		}
+		"KDLabel"
+		{
+			"ControlName"							"CExLabel"
+			"FieldName"								"KDLabel"
+			"XPos"									"p0.9"
+			"YPos"									"0"
+			"Wide"									"100"
+			"Tall"									"f0"
+			"ProportionalToParent"					"1"
+			"Visible"								"1"
+			"MouseInputEnabled"						"0"
+
+			"LabelText"								"%kd_ratio%"
+			"Font"									"HudFontSmallest"
+			"FGColor"								"White"
+			"TextAlignment"							"west"
+		}
+	}
+	"BottomStats"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"BottomStats"
+		"XPos"										"0"
+		"YPos"										"17"
+		"Wide"										"f0"
+		"Tall"										"0"
+		"ProportionalToParent"						"1"
+		"BGColor_Override"							"Black"
+		"autoresize"								"2"
+		"pincorner"									"3"
+
+		"SlidingStatsContainer"
+		{
+			"ControlName"							"EditablePanel"
+			"FieldName"								"SlidingStatsContainer"
+			"XPos"									"0"
+			"YPos"									"rs1+17"
+			"Wide"									"f0"
+			"Tall"									"50"
+			"ProportionalToParent"					"1"
+			"pincorner"								"3"
+
+			"BGImage"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"BGImage"
+				"XPos"								"-2"
+				"YPos"								"0"
+				"Wide"								"o1"
+				"Tall"								"50"
+				"Image"								"casual/gametype_koth"
+				"ProportionalToParent"				"1"
+			}
+			"GradientImage"
+			{
+				"ControlName"						"ImagePanel"
+				"FieldName"							"GradientImage"
+				"XPos"								"8"
+				"YPos"								"0"
+				"ZPos"								"1"
+				"Wide"								"o1"
+				"Tall"								"40"
+				"Image"								"training/gradient_black"
+				"ProportionalToParent"				"1"
+				"rotation"							"1"
+			}
+			// First column
+			"KillsMedal"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"KillsMedal"
+				"XPos"								"p0.2-10"
+				"YPos"								"2"
+				"Wide"								"o1"
+				"Tall"								"10"
+				"ZPos"								"100"
+				"Image"								"competitive/competitive_coin_bronze"
+				"ProportionalToParent"				"1"
+			}
+			"KillsLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"KillsLabel"
+				"XPos"								"p0.2"
+				"YPos"								"0"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"LabelText"							"%stat_kills%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			"DeathsLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"DeathsLabel"
+				"XPos"								"p0.2"
+				"YPos"								"10"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"LabelText"							"%stat_deaths%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			"DamageMedal"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"DamageMedal"
+				"XPos"								"p0.2-10"
+				"YPos"								"22"
+				"Wide"								"o1"
+				"Tall"								"10"
+				"ZPos"								"100"
+				"Image"								"competitive/competitive_coin_bronze"
+				"ProportionalToParent"				"1"
+			}
+			"DamageLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"DamageLabel"
+				"XPos"								"p0.2"
+				"YPos"								"20"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"LabelText"							"%stat_damage%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			// Second column
+			"HealingMedal"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"HealingMedal"
+				"XPos"								"p0.6-10"
+				"YPos"								"2"
+				"Wide"								"o1"
+				"Tall"								"10"
+				"ZPos"								"100"
+				"Image"								"competitive/competitive_coin_bronze"
+				"ProportionalToParent"				"1"
+			}
+			"HealingLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"HealingLabel"
+				"XPos"								"p0.6"
+				"YPos"								"0"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"LabelText"							"%stat_healing%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			"SupportMedal"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"SupportMedal"
+				"XPos"								"p0.6-10"
+				"YPos"								"12"
+				"Wide"								"o1"
+				"Tall"								"10"
+				"ZPos"								"100"
+				"Image"								"competitive/competitive_coin_bronze"
+				"ProportionalToParent"				"1"
+			}
+			"SupportLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"SupportLabel"
+				"XPos"								"p0.6"
+				"YPos"								"10"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"LabelText"							"%stat_support%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			"ScoreMedal"
+			{
+				"ControlName"						"ScalableImagePanel"
+				"FieldName"							"ScoreMedal"
+				"XPos"								"p0.6-10"
+				"YPos"								"22"
+				"Wide"								"o1"
+				"Tall"								"10"
+				"ZPos"								"100"
+				"Image"								"competitive/competitive_coin_bronze"
+				"ProportionalToParent"				"1"
+			}
+			"ScoreLabel"
+			{
+				"ControlName"						"CExLabel"
+				"FieldName"							"ScoreLabel"
+				"XPos"								"p0.6"
+				"YPos"								"20"
+				"Wide"								"f0"
+				"Tall"								"15"
+				"ProportionalToParent"				"1"
+				"Visible"							"1"
+				"MouseInputEnabled"					"0"
+
+				"pincorner"							"3"
+
+				"LabelText"							"%stat_score%"
+				"Font"								"HudFontSmallest"
+				"FGColor"							"White"
+				"TextAlignment"						"west"
+			}
+			"ClassIcons"
+			{
+				"ControlName"						"EditablePanel"
+				"FieldName"							"ClassIcons"
+				"XPos"								"rs1-5"
+				"YPos"								"2"
+				"Wide"								"o1"
+				"Tall"								"30"
+				"ZPos"								"1"
+				"ProportionalToParent"				"1"
+
+				// First row
+				"ScoutIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"ScoutIcon"
+					"XPos"							"0"
+					"YPos"							"0"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_scout"
+					"ProportionalToParent"			"1"
+				}
+				"PyroIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"PyroIcon"
+					"XPos"							"p0.333"
+					"YPos"							"0"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_pyro"
+					"ProportionalToParent"			"1"
+				}
+				"SoldierIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"SoldierIcon"
+					"XPos"							"p0.666"
+					"YPos"							"0"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_soldier"
+					"ProportionalToParent"			"1"
+				}
+				// Second row
+				"DemoIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"DemoIcon"
+					"XPos"							"0"
+					"YPos"							"p0.333"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_demo"
+					"ProportionalToParent"			"1"
+				}
+				"HeavyIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"HeavyIcon"
+					"XPos"							"p0.333"
+					"YPos"							"p0.333"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_heavy"
+					"ProportionalToParent"			"1"
+				}
+				"EngineerIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"EngineerIcon"
+					"XPos"							"p0.666"
+					"YPos"							"p0.333"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_engineer"
+					"ProportionalToParent"			"1"
+				}
+				// Third row
+				"MedicIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"MedicIcon"
+					"XPos"							"0"
+					"YPos"							"p0.666"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_medic"
+					"ProportionalToParent"			"1"
+				}
+				"SniperIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"SniperIcon"
+					"XPos"							"p0.333"
+					"YPos"							"p0.666"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_sniper"
+					"ProportionalToParent"			"1"
+				}
+				"SpyIcon"
+				{
+					"ControlName"					"ScalableImagePanel"
+					"FieldName"						"SpyIcon"
+					"XPos"							"p0.666"
+					"YPos"							"p0.666"
+					"Wide"							"p0.333"
+					"Tall"							"p0.333"
+					"Image"							"class_icons/filter_spy"
+					"ProportionalToParent"			"1"
+				}
+			}
+		}
+	}
+}
