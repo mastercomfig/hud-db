@@ -1,0 +1,77 @@
+#base "matchmakingdashboardsidepanel.res"
+
+"Resource/UI/MatchMakingDashboardCasualCriteria.res"
+{
+	"CasualCriteria"
+	{
+		"FieldName"									"CasualCriteria"
+		"XPos"										"r0"
+		"YPos"										"10"
+		"ZPos"										"1002"
+		"Wide"										"270"
+		"Tall"										"f70"
+		"Visible"									"1"
+		"ProportionalToParent"						"1"
+	}
+	"Criteria"
+	{
+		"ControlName"								"CCasualCriteriaPanel"
+		"FieldName"									"Criteria"
+		"XPos"										"cs-0.5"
+		"YPos"										"10"
+		"ZPos"										"100"
+		"Wide"										"f0"
+		"Tall"										"f40"
+		"Visible"									"1"
+		"ProportionalToParent"						"1"
+	}
+	"ToolTipButtonHack"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"ToolTipButtonHack"
+		"XPos"										"9999"
+		"YPos"										"9999"
+		"ZPos"										"101"
+		"Wide"										"0"
+		"Tall"										"0"
+		"Visible"									"0"
+		"Enabled"									"1"
+		"MouseInputEnabled"							"1"
+		"eatmouseinput"								"0"
+		"showtooltipswhenmousedisabled"				"1"
+		"ProportionalToParent"						"1"
+	}
+	"QueueButton"
+	{
+		"ControlName"								"CExButton"
+		"FieldName"									"QueueButton"
+		"XPos"										"cs-0.5"
+		"YPos"										"rs1-5"
+		"ZPos"										"100"
+		"Wide"										"f6"
+		"Tall"										"20"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"Font"										"HudFontSmallishBold"
+		"TextAlignment"								"center"
+		"Command"									"find_game"
+		"ProportionalToParent"						"1"
+		"LabelText"									"#TF_Matchmaking_StartSearch"
+		"MouseInputEnabled"							"1"
+		"KeyboardInputEnabled"						"0"
+		"RoundedCorners"							"0"
+		"ActionSignalLevel"							"1"
+		"AllCaps"									"1"
+		"Sound_Depressed"							"UI/buttonclick.wav"
+
+		"PaintBackground"							"1"
+
+		"DefaultBGColor_Override"					"Button_Green"
+		"ArmedBGColor_Override"						"Button_Green_Hover"
+		"DepressedBGColor_Override"					"Button_Green_Hover"
+
+		"DefaultFGColor_Override"					"White"
+		"ArmedFGColor_Override"						"White"
+		"DepressedFGColor_Override"					"White"
+	}
+}
