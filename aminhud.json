@@ -1,0 +1,45 @@
+{
+  "name": "AminHUD",
+  "author": "Amin",
+  "contributors": [
+    "Ryan"
+    "Healing Sentry"
+    "Hypnotize"
+  ],
+  "releaseDate": "2025/8/14",
+  "distinguishedFromParent": false,
+  "resources": [
+    "https://i.imgur.com/F54mrcS.jpeg"
+  ],
+  "flags": [
+    "fonts",
+    "customization"
+  ],
+  "tags": [
+    "minimal",
+    "centered",
+    "slick",
+    "clean",
+    "classic"
+  ],
+  "repo": "https://github.com/aminium69/AminHUD-BETA",
+  "hash": "122c2d7abe43257ffb865e9101ef32892df7e6b4",
+  "prerelease": true,
+  "social": {
+    "steam_profile": "76561199212272501",
+    "album": "https://imgur.com/a/pGDRr9X"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
