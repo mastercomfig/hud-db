@@ -6,7 +6,7 @@
     "Healing Sentry",
     "Hypnotize"
   ],
-  "releaseDate": "2025/8/15",
+  "releaseDate": "2025-8-15",
   "distinguishedFromParent": false,
   "resources": [
     "hudbanner1"
@@ -42,7 +42,6 @@
   "prerelease": true,
   "social": {
     "steam_profile": "76561199212272501",
-    "discord",
     "album": "https://imgur.com/a/bRU18Yb"
   },
   "traits": {
