@@ -15,19 +15,18 @@
     "streamer-mode",
     "customization"
   ],
-  "tags": ["vanilla", "default"],
   "repo": "https://github.com/RoseyLemonz/center-hud",
   "hash": "b66b9a90203189001de798d1425f6878b888f9e6",
+  "tags": ["vanilla", "default"],
   "prerelease": false,
 
   "social": {
     "steam_profile": "76561199001745671",
-    "discord": "roseylemonz#0",
-    "bsky": "narumitsu.gay",
+    "discord": "/p5JV3k5CfE",
+    "bsky": "franmaya.gay",
     "album": "https://imgur.com/a/NLdQS6O"
   },
   "traits": {
-    "os": ["windows", "linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -47,6 +46,7 @@
       "sd",
       "tc"
     ],
+    "os": ["windows", "linux"],
     "res": ["4/3", "16/9", "16/10", "21/9"],
     "position": ["center"],
     "lang": ["en", "fi", "ro", "tr", "ru", "es", "ko", "fr", "no", "pl"]
