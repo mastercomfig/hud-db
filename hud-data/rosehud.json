@@ -2,37 +2,39 @@
   "name": "roseHUD",
   "author": "RoseyLemonz",
   "resources": [
-    "rosehudmain",
-    "rosehud1"
+    "rosehudmenu1",
+    "rosehudmenu2",
+    "rosehud1",
+    "rosehud2"
   ],
   "flags": [
     "fonts",
-    "materials"
-  ],
-  "tags": [
-    "minimal"
+    "menus",
+    "materials",
+    "customization"
   ],
   "repo": "https://github.com/RoseyLemonz/rosehud",
-  "hash": "6a86341d6073942e733da813108d8a63ab368865",
+  "hash": "cfb1d3dc433a6e52639c39d9d3d8ce30b898c958",
+  "tags": ["minimal"],
   "prerelease": true,
   "social": {
-    "bsky": "narumitsu.gay",
-    "discord": "/p5JV3k5CfE"
+    "steam_profile": "76561199001745671",
+    "discord": "/p5JV3k5CfE",
+    "bsky": "franmaya.gay"
   },
   "traits": {
-    "os": [
-      "linux"
-    ],
     "gamemode": [
       "ctf",
       "cp",
-      "pl"
+      "ad",
+      "koth",
+      "pl",
+      "plr",
+      "pd"
     ],
-    "res": [
-      "16/9"
-    ],
-    "position": [
-      "center"
-    ]
+    "os": ["windows", "linux"],
+    "res": ["16/9"],
+    "position": ["center"],
+    "lang": ["en"]
   }
 }
