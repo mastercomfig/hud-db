@@ -39,6 +39,7 @@
   },
   "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
   "repo": "https://github.com/idhud-tf2/idhud",
+  "githubAuthor": "Eniere",
   "hash": "1c7c07077060b9c2f1546e92435b349559e2331b",
   "prerelease": false,
   "resources": [
