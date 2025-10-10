@@ -1,7 +1,7 @@
 {
   "name": "CosmosHUD",
   "": "This HUD is a many months attempt to bring old TF2 and new TF2 together.",
-  "author": "VermilionComsos",
+  "author": "VermilionCosmos",
   "contributors": [
     "RoseyLemonz",
     "DarSitam",
@@ -15,8 +15,7 @@
   "releaseDate": "2025-09-29",
   "distinguishedFromParent": false,
   "resources": [
-    "https://i.imgur.com/Vu11emk.jpeg",
-    "https://i.imgur.com/4o15JJV.jpeg"
+    "cosmoshud-banner.webp"
   ],
   "flags": [
     "crosshairs",
