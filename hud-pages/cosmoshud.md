@@ -6,8 +6,6 @@ This HUD is a many months attempt to bring old TF2 and new TF2 together. It's st
 
 I hope you really enjoy it, and please let me know any feedback you have!
 
-<img width="1920" height="1080" alt="20251004211215_2" src="https://github.com/user-attachments/assets/6c21ba4e-4da5-4dfb-891c-7773a3f1016d" />
-
 # Features
 
 - Medals, EXP and Competitive Hidden (less HUD bloat)
