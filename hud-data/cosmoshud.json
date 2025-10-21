@@ -3,12 +3,14 @@
   "author": "VermilionCosmos",
   "contributors": [
     "RoseyLemonz",
+	"pilso",
+	"Vexcenot",
+	"Kaia Brodbecker",
+	"lennyfaic",
+	"trowoglodyte",
+	"jakadak",
     "DarSitam",
     "SquidEevee",
-    "lennyfaic",
-    "Kaia Brodbecker",
-    "pilso",
-    "Vexcenot",
     "TF2C Team"
   ],
   "releaseDate": "2025-09-29",
@@ -26,7 +28,7 @@
     "minimal"
   ],
   "repo": "https://github.com/VermilionCosmos/CosmosHUD",
-  "hash": "435a39bb19260cf182f95c52fb05070ff9548be8",
+  "hash": "752b00f0710e2eecea892fd724e7d23b1aa2eb9a",
   "prerelease": false,
   "social": {
     "support": "https://ko-fi.com/vermilioncosmos",
