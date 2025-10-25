@@ -1,0 +1,70 @@
+{
+  "name": "AminHUD",
+  "author": "Amin",
+  "contributors": [
+    "Ryan",
+    "Healing Sentry",
+    "Hypnotize"
+  ],
+  "releaseDate": "2025-08-15",
+  "distinguishedFromParent": false,
+  "resources": [
+    "hudbanner1",
+	"1",
+	"2",
+	"3",
+	"4",
+	"5",
+	"6",
+	"7",
+	"8",
+	"9",
+	"10",
+	"11",
+	"12",
+	"13",
+	"14"
+  ],
+  "flags": [
+    "fonts",
+    "scoreboards",
+    "customization"
+  ],
+  "tags": [
+    "minimal",
+    "slick",
+    "classic",
+    "modern",
+    "clean"
+  ],
+  "repo": "https://github.com/aminium69/AminHUD-BETA",
+  "hash": "45a46f22e3ff7a30bec5d07116dd5243d8f5cf35",
+  "prerelease": true,
+  "social": {
+    "steam_profile": "76561199212272501",
+    "album": "https://imgur.com/a/bRU18Yb"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
