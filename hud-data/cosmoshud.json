@@ -27,7 +27,7 @@
     "os": [
       "windows",
 	  "mac",
-      "linux",
+      "linux"
     ],
     "gamemode": [
       "arena",
