@@ -1,18 +1,6 @@
 {
   "name": "CosmosHUD",
   "author": "VermilionCosmos",
-  "contributors": [
-    "RoseyLemonz",
-	"pilso",
-	"Vexcenot",
-	"Kaia Brodbecker",
-	"lennyfaic",
-	"trowoglodyte",
-	"jakadak",
-    "DarSitam",
-    "Squid Eevee",
-    "TF2C Team"
-  ],
   "releaseDate": "2025-09-29",
   "distinguishedFromParent": false,
   "resources": [
