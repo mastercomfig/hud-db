@@ -19,8 +19,9 @@
     "cosmoshud-banner"
   ],
   "flags": [
-    "crosshairs",
-    "minmode"
+    "minmode",
+	"materials",
+	"customization"
   ],
   "tags": [
     "vanilla",
@@ -28,7 +29,7 @@
     "minimal"
   ],
   "repo": "https://github.com/VermilionCosmos/CosmosHUD",
-  "hash": "68926a8e23e9518582338c52c3ef56a1dc7c02ef",
+  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
   "prerelease": false,
   "social": {
     "support": "https://ko-fi.com/vermilioncosmos",
@@ -37,7 +38,8 @@
   "traits": {
     "os": [
       "windows",
-      "linux"
+	  "mac",
+      "linux",
     ],
     "gamemode": [
       "arena",
@@ -57,11 +59,12 @@
       "tc"
     ],
     "res": [
+	  "4/3",
+	  "16/10",
       "16/9",
-      "16/10",
+	  "17/9",
       "21/9",
-      "32/9",
-      "17/9"
+      "32/9"
     ],
     "position": [
       "center",
