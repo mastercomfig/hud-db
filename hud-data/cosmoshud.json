@@ -1,24 +1,15 @@
 {
   "name": "CosmosHUD",
   "author": "VermilionCosmos",
-  "contributors": [
-    "RoseyLemonz",
-    "DarSitam",
-    "SquidEevee",
-    "lennyfaic",
-    "Kaia Brodbecker",
-    "pilso",
-    "Vexcenot",
-    "TF2C Team"
-  ],
   "releaseDate": "2025-09-29",
   "distinguishedFromParent": false,
   "resources": [
     "cosmoshud-banner"
   ],
   "flags": [
-    "crosshairs",
-    "minmode"
+    "minmode",
+	"materials",
+	"customization"
   ],
   "tags": [
     "vanilla",
@@ -26,7 +17,7 @@
     "minimal"
   ],
   "repo": "https://github.com/VermilionCosmos/CosmosHUD",
-  "hash": "435a39bb19260cf182f95c52fb05070ff9548be8",
+  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
   "prerelease": false,
   "social": {
     "support": "https://ko-fi.com/vermilioncosmos",
@@ -35,6 +26,7 @@
   "traits": {
     "os": [
       "windows",
+	  "mac",
       "linux"
     ],
     "gamemode": [
@@ -55,11 +47,12 @@
       "tc"
     ],
     "res": [
+	  "4/3",
+	  "16/10",
       "16/9",
-      "16/10",
+	  "17/9",
       "21/9",
-      "32/9",
-      "17/9"
+      "32/9"
     ],
     "position": [
       "center",
