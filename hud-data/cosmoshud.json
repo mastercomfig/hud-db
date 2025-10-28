@@ -7,6 +7,26 @@
 	  "support": "https://ko-fi.com/vermilioncosmos",
 	  "album": "https://imgur.com/a/2cMoeVG"
   },
+  "repo": "https://github.com/VermilionCosmos/CosmosHUD",
+  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
+  "prerelease": false,
+  "resources": [
+    "cosmoshud-mainmenu",
+    "cosmoshud-loadout",
+    "cosmoshud-backpack",
+    "cosmoshud-loadingscreen1",
+    "cosmoshud-loadingscreen2",
+    "cosmoshud-loadingscreen3",
+    "cosmoshud-classselection",
+    "cosmoshud-regularhud1",
+    "cosmoshud-regularhud2",
+    "cosmoshud-minmode",
+    "cosmoshud-engineer",
+    "cosmoshud-pipboy",
+    "cosmoshud-spy",
+    "cosmoshud-mvm",
+    "cosmoshud-hudoptions"
+  ],
   "flags": [
     "minmode",
 	"materials",
@@ -55,28 +75,5 @@
     "lang": [
       "en"
     ]
-  },
-  "repo": "https://github.com/VermilionCosmos/CosmosHUD",
-  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
-  "prerelease": false,
-  "resources": [
-	"cosmoshud-mainmenu",
-	"cosmoshud-modeselection",
-	"cosmoshud-items",
-	"cosmoshud-loadout",
-	"cosmoshud-backpack",
-	"cosmoshud-loadingscreen1",
-	"cosmoshud-loadingscreen2",
-	"cosmoshud-loadingscreen3",
-	"cosmoshud-classselection",
-	"cosmoshud-regularhud1",
-	"cosmoshud-regularhud2",
-	"cosmoshud-minmode",
-	"cosmoshud-engineer",
-	"cosmoshud-pipboy",
-	"cosmoshud-spy",
-	"cosmoshud-mvm1",
-	"cosmoshud-mvm2",
-	"cosmoshud-hudoptions"
-  ]
+  }
 }
