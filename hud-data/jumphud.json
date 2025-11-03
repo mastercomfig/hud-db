@@ -5,19 +5,24 @@
   "parent": "m0rehud",
   "distinguishedFromParent": true,
   "resources": [
-    "logo",
-    "mainmenu",
-    "settings",
-    "soldier1",
-    "soldier3",
-    "demo1",
-    "demo4",
-    "pausemenu"
+    "01-logobig",
+    "02-mainmenu",
+    "03-soldierspeedo",
+    "04-demospeedo",
+    "05-spectator1",
+    "06-pausemenu",
+    "07-modeswitch",
+    "08-mainhud",
+    "09-fulluber",
+    "10-scoreboard",
+    "11-mvmbuymenu",
+    "12-compspectator"
   ],
   "flags": [
     "fonts",
     "menus",
     "scoreboards",
+    "crosshairs",
     "minmode",
     "materials",
     "customization"
@@ -32,17 +37,31 @@
     "tempus"
   ],
   "repo": "https://github.com/itsmmarc/jumphud",
-  "hash": "0ba79a9719b8f542619a822789e14abd6cd535e6",
+  "hash": "21357accbae6dabb6c78ef871f2a0ccac28d9833",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198059284918",
     "twitter": "itsame_L",
-    "discord": "itsmmarc#0",
+    "discord": "/s6yJMGecMZ",
     "youtube": "@itsame_L",
     "twitch": "itsmmarc",
     "album": "https://github.com/itsmmarc/jumphud/blob/master/SHOWCASE.md"
   },
   "traits": {
+    "gamemode": [
+        "tournament",
+        "comp",
+        "arena",
+        "ad",
+        "ctf",
+        "cp",
+        "halloween",
+        "koth",
+        "mvm",
+        "pl",
+        "plr",
+        "sd"
+    ],
     "res": [
       "4/3",
       "16/9"
