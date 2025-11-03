@@ -18,7 +18,7 @@ jobs:
           echo "$WEBP_OUTPUT"
       - name: Compress WebP
         id: compress
-        uses: calibreapp/image-actions@main
+        uses: calibreapp/image-actions@1.2.0
         with:
           compressOnly: true
           webpQuality: '90'
