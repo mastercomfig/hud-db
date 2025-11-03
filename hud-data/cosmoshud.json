@@ -1,0 +1,65 @@
+{
+  "name": "CosmosHUD",
+  "author": "VermilionCosmos",
+  "releaseDate": "2025-09-29",
+  "distinguishedFromParent": false,
+  "resources": [
+    "cosmoshud-banner"
+  ],
+  "flags": [
+    "minmode",
+	"materials",
+	"customization"
+  ],
+  "tags": [
+    "vanilla",
+    "modern",
+    "minimal"
+  ],
+  "repo": "https://github.com/VermilionCosmos/CosmosHUD",
+  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
+  "prerelease": false,
+  "social": {
+    "support": "https://ko-fi.com/vermilioncosmos",
+    "album": "https://imgur.com/a/2cMoeVG"
+  },
+  "traits": {
+    "os": [
+      "windows",
+	  "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+	  "4/3",
+	  "16/10",
+      "16/9",
+	  "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
