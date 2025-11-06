@@ -7,13 +7,13 @@
   "resources": [
     "01-logobig",
     "02-mainmenu",
-    "03-soldierspeedo",
-    "04-demospeedo",
+    "03-soldier1",
+    "04-demo1",
     "05-spectator1",
     "06-pausemenu",
-    "07-modeswitch",
+    "07-loadout",
     "08-mainhud",
-    "09-fulluber",
+    "09-targetid",
     "10-scoreboard",
     "11-mvmbuymenu",
     "12-compspectator"
