@@ -18,10 +18,8 @@ jobs:
           echo "$WEBP_OUTPUT"
       - name: Compress WebP
         id: compress
-        uses: calibreapp/image-actions@1.2.0
+        uses: mastercoms/image-actions@patch-1
         with:
           compressOnly: true
           webpQuality: '90'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: autofix-ci/action@635ffb0c9798bd160680f18fd73371e355b85f27
