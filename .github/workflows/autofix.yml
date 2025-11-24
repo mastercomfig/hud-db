@@ -18,7 +18,7 @@ jobs:
           echo "$WEBP_OUTPUT"
       - name: Compress WebP
         id: compress
-        uses: mastercoms/image-actions@patch-1
+        uses: mastercoms/image-actions@check-local-changes
         with:
           compressOnly: true
           webpQuality: '90'
