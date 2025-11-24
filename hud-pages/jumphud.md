@@ -52,9 +52,13 @@ Change the tempus speedo colour by editing `cfg/speedocolor.cfg`.
 
 Add any configuration you want to run while in Casual or Jump mode to `jumphud/cfg/USER_casualconfig.cfg` or `USER_jumpconfig.cfg`. The appropriate config file will also be run on launch.
 
+Adjust the highlight ranges of HUD speedo's dynamic colors by editing `jumphud/materials/vgui/replay/thumbnails/speedo/colors/ranges/`.
+
 ## Known Issues:
 
 HUD speedos start to flicker more the longer a map has been running.
+
+Speedo graphs freeze on map change, this can be fixed by refreshing the hud by entering `hud_reloadscheme` in console.
 
 Tempus speedos won't be recoloured or repositioned until one of the speedo buttons on the pause menu is used.
 
@@ -69,3 +73,15 @@ Inventory menu background may not load on some `sv_pure` protected servers.
 ### How do I queue for casual/MVM?
 
 Click on the JumpHUD logo icon to switch the hud into casual mode, you can switch back by clicking on the TF2 logo.
+
+***
+
+## Credits
+
+![Pear's horizontal and vertical HUD speedos](https://github.com/bakapear/hudmods)
+
+![Elandi's custom Tempus sprays](https://github.com/Elandi-rj/sprays)
+
+![VillageGreenPreserver's speedograph](https://github.com/VillageGreenPreserver/SpeedoGraph)
+
+![cuekie's HUD screenspace shaders](https://github.com/cueki/hud-screenspace-shaders)
