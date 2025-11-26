@@ -6,7 +6,7 @@ jobs:
   autofix:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Convert to WebP
         id: convert
         run: |
@@ -18,7 +18,7 @@ jobs:
           echo "$WEBP_OUTPUT"
       - name: Compress WebP
         id: compress
-        uses: mastercoms/image-actions@patch-1
+        uses: mastercoms/image-actions@check-local-changes
         with:
           compressOnly: true
           webpQuality: '90'
