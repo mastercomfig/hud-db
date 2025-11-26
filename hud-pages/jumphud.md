@@ -78,10 +78,10 @@ Click on the JumpHUD logo icon to switch the hud into casual mode, you can switc
 
 ## Credits
 
-![Pear's horizontal and vertical HUD speedos](https://github.com/bakapear/hudmods)
+[Pear's horizontal and vertical HUD speedos](https://github.com/bakapear/hudmods)
 
-![Elandi's custom Tempus sprays](https://github.com/Elandi-rj/sprays)
+[Elandi's custom Tempus sprays](https://github.com/Elandi-rj/sprays)
 
-![VillageGreenPreserver's speedograph](https://github.com/VillageGreenPreserver/SpeedoGraph)
+[VillageGreenPreserver's speedograph](https://github.com/VillageGreenPreserver/SpeedoGraph)
 
-![cuekie's HUD screenspace shaders](https://github.com/cueki/hud-screenspace-shaders)
+[cuekie's HUD screenspace shaders](https://github.com/cueki/hud-screenspace-shaders)
