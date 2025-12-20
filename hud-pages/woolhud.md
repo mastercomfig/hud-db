@@ -4,6 +4,8 @@ By default the newest version is used. Elements from older versions can be found
 
 My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
 
+_The screenshots show the HUD with the recommended alternatives and customizations applied._
+
 # Links
 
 <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
