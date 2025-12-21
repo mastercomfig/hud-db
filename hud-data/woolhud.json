@@ -1,7 +1,6 @@
 {
   "name": "WoolHUD",
   "author": "Beventar",
-  "contributors": ["Woolen"],
   "distinguishedFromParent": false,
   "resources": [
     "WoolHUD-banner",
