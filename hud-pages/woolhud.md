@@ -2,7 +2,7 @@
 
 A replica of Woolen's HUD. By default the newest version is used. Elements from older versions can be found in the `#alternatives` folder. `#customizations` are not faithful to Woolen's original HUD. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
 
-<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> · <a href="https://github.com/Beventar/WoolHUD">GitHub</a>
+<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> | <a href="https://github.com/Beventar/WoolHUD">GitHub</a>
 
 </div>
 
@@ -30,7 +30,7 @@ For the best possible experience, I recommend enabling:
 # Thanks
 - Woolen: Creating his HUD, Permission to publish
 
-> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> · <a href="https://twitch.tv/awoolensleevelet">Twitch</a> · <a href="https://twitter.com/WoolenSleevelet">Twitter</a> · <a href="https://discord.gg/woolen">Discord</a>
+> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://twitter.com/WoolenSleevelet">Twitter</a> | <a href="https://discord.gg/woolen">Discord</a>
 
 # Credits
 - [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
