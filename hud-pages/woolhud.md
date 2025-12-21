@@ -30,7 +30,7 @@ For the best possible experience, I recommend enabling:
 # Special thanks
 - Woolen: Creating his HUD, Permission to publish
 
-<a href="https://youtube.com/@awoolensleevelet">YouTube</a> ·
+> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> ·
 <a href="https://twitch.tv/awoolensleevelet">Twitch</a> ·
 <a href="https://twitter.com/WoolenSleevelet">Twitter</a> ·
 <a href="https://discord.gg/woolen">Discord</a>
