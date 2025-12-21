@@ -1,16 +1,10 @@
-A replica of Woolen's HUD. 
+<div align=center>
 
-By default the newest version is used. Elements from older versions can be found in the `#alternatives` folder. `#customizations` are not faithful to Woolen's original HUD. 
+A replica of Woolen's HUD. By default the newest version is used. Elements from older versions can be found in the `#alternatives` folder. `#customizations` are not faithful to Woolen's original HUD. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
 
-My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
+<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> · <a href="https://github.com/Beventar/WoolHUD">GitHub</a>
 
-_The screenshots show the HUD with the recommended alternatives and customizations applied._
-
-# Links
-
-<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
-
-<a href="https://github.com/Beventar/WoolHUD">GitHub</a>
+</div>
 
 ---
 
