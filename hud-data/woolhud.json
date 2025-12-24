@@ -19,10 +19,11 @@
     "customization"
   ],
   "tags": [
-    "minimal"
+    "minimal",
+    "clean"
   ],
   "repo": "https://github.com/Beventar/WoolHUD",
-  "hash": "a4fa7f56512ba945cc7d4e8b13a3bd809dd165b4",
+  "hash": "faa1b113d873170d0f320bb0aab2e77a2a830b4e",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198312601389",
