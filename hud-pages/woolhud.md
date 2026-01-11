@@ -1,8 +1,10 @@
 <div align="center">
 
-A replica of Woolen's Team Fortress 2 HUD - a minimal HUD with a focus on gameplay - with various customizations.
+![Banner](WoolHUD-banner.webp)
 
-<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> | <a href="https://github.com/Beventar/WoolHUD">GitHub</a>
+A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
+
+[Screenshots](https://github.com/Beventar/WoolHUD/wiki/Screenshots) | [GitHub](https://github.com/Beventar/WoolHUD)
 
 </div>
 
@@ -46,7 +48,5 @@ For the best possible experience, I recommend enabling:
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
 - [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [n0kk](https://github.com/n0kk): Creating ahud
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
-- [Sevin](https://github.com/Sevin7): Player destruction, Robot destruction panels from 7HUD
