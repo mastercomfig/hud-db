@@ -2,7 +2,7 @@
 
 A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
-[Screenshots](https://github.com/Beventar/WoolHUD/wiki/Screenshots) | [GitHub](https://github.com/Beventar/WoolHUD)
+[Screenshots](https://github.com/Beventar/WoolHUD/wiki/Screenshots) | [GitHub](https://github.com/Beventar/WoolHUD) | [Wiki](https://github.com/Beventar/WoolHUD/wiki)
 
 </div>
 
