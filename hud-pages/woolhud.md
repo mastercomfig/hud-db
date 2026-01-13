@@ -33,7 +33,7 @@ For the best possible experience, I recommend enabling:
 - payload race panel
 - rectangular killstreak notice
 
-[How to](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
+[How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
 
 # Thanks
 - Woolen: Creating his HUD, Permission to publish
