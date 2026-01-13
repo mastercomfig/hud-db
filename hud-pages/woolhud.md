@@ -20,7 +20,7 @@ For the best possible experience, I recommend enabling:
 - control point
 - game timers
 - main menu normal names
-- main menu (if using with `#more themed elements` then rename `scripts` to `_scripts`)
+- main menu (if using with `more themed elements` then rename `scripts` to `_scripts`)
 - payload panel
 - critical damage numbers
 
