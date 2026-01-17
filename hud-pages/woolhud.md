@@ -38,7 +38,7 @@ For the best possible experience, I recommend enabling:
 # Thanks
 - Woolen: Creating his HUD, Permission to publish
 
-> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://twitter.com/WoolenSleevelet">Twitter</a> | <a href="https://discord.gg/woolen">Discord</a>
+> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://discord.gg/woolen">Discord</a>
 
 # Credits
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
