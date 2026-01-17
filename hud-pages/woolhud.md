@@ -1,8 +1,8 @@
 <div align="center">
 
-A replica of Woolen's Team Fortress 2 HUD - a minimal HUD with a focus on gameplay - with various customizations.
+A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
-<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> | <a href="https://github.com/Beventar/WoolHUD">GitHub</a>
+[Screenshots](https://github.com/Beventar/WoolHUD/wiki/Screenshots) | [GitHub](https://github.com/Beventar/WoolHUD) | [Wiki](https://github.com/Beventar/WoolHUD/wiki)
 
 </div>
 
@@ -20,7 +20,7 @@ For the best possible experience, I recommend enabling:
 - control point
 - game timers
 - main menu normal names
-- main menu (if using with #more themed elements then rename `scripts` to `_scripts`)
+- main menu (if using with `more themed elements` then rename `scripts` to `_scripts`)
 - payload panel
 - critical damage numbers
 
@@ -33,10 +33,12 @@ For the best possible experience, I recommend enabling:
 - payload race panel
 - rectangular killstreak notice
 
+[How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
+
 # Thanks
 - Woolen: Creating his HUD, Permission to publish
 
-> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://twitter.com/WoolenSleevelet">Twitter</a> | <a href="https://discord.gg/woolen">Discord</a>
+> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://discord.gg/woolen">Discord</a>
 
 # Credits
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
@@ -46,7 +48,5 @@ For the best possible experience, I recommend enabling:
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
 - [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [n0kk](https://github.com/n0kk): Creating ahud
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
-- [Sevin](https://github.com/Sevin7): Player destruction, Robot destruction panels from 7HUD
