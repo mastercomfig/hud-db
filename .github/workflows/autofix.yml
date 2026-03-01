@@ -10,6 +10,7 @@ jobs:
       - name: Convert to WebP
         id: convert
         run: |
+          sudo apt-get update
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
