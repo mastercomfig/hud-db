@@ -16,7 +16,7 @@
     "customization"
   ],
   "repo": "https://github.com/RoseyLemonz/center-hud",
-  "hash": "a1435b8e5e5930f3d995ee01ced420ac8195c63f",
+  "hash": "b66b9a90203189001de798d1425f6878b888f9e6",
   "tags": ["vanilla", "default"],
   "prerelease": false,
 
@@ -49,6 +49,6 @@
     "os": ["windows", "linux"],
     "res": ["4/3", "16/9", "16/10", "21/9"],
     "position": ["center"],
-    "lang": ["en", "fi", "ro", "tr", "ru", "es", "ko", "fr", "no", "pl", "el", "pt"]
+    "lang": ["en", "fi", "ro", "tr", "ru", "es", "ko", "fr", "no", "pl"]
   }  
 }
