@@ -12,6 +12,8 @@ My goal is to try to make the best replica with as few bugs as possible. Some th
 
 By default the newest version is used. `#alternatives` contain elements from older versions. `#customizations` are not faithful to Woolen's original HUD.
 
+_In the screenshots I'm using the recommended settings._
+
 # Recommended customizations
 
 For the best possible experience, I highly recommend enabling:
