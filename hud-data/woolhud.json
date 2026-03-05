@@ -14,6 +14,7 @@
   "flags": [
     "menus",
     "scoreboards",
+    "crosshairs",
     "minmode",
     "streamer-mode",
     "customization"
@@ -23,7 +24,7 @@
     "clean"
   ],
   "repo": "https://github.com/Beventar/WoolHUD",
-  "hash": "1797e16cef9e4b2dad4326d6af4afc5174024357",
+  "hash": "fedebb05b44bc97c88b273e6956425af66429cbd",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198312601389",
@@ -57,7 +58,9 @@
       "tc"
     ],
     "res": [
-      "16/9"
+      "4/3",
+      "16/9",
+      "16/10"
     ],
     "position": [
       "center"

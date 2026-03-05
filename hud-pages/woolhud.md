@@ -1,6 +1,6 @@
 <div align="center">
 
-A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
+A highly accurate and up-to-date replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
 [Screenshots](https://github.com/Beventar/WoolHUD/wiki/Screenshots) | [GitHub](https://github.com/Beventar/WoolHUD) | [Wiki](https://github.com/Beventar/WoolHUD/wiki)
 
@@ -12,41 +12,35 @@ My goal is to try to make the best replica with as few bugs as possible. Some th
 
 By default the newest version is used. `#alternatives` contain elements from older versions. `#customizations` are not faithful to Woolen's original HUD.
 
+_In the screenshots I'm using the recommended settings._
+
 # Recommended customizations
 
-For the best possible experience, I recommend enabling:
+For the best possible experience, I highly recommend enabling:
 
 **#alternatives**
-- control point
+- main menu
+- menu-normal-names-gamemenu.res
 - game timers
-- main menu normal names
-- main menu (if using with `more themed elements` then rename `scripts` to `_scripts`)
-- payload panel
-- critical damage numbers
+- control point
+- objectivestatusescort.res
 
 **#customizations**
-- centered metal
-- centered mvm money
-- class loadout panel options
-- cleaner buildings panels
 - more themed elements
+- options-classloadoutpanel.res
+- cleaner buildings panels
+- metal-xhair-hudlayout.res
+- centered mvm money
 - payload race panel
-- rectangular killstreak notice
 
-[How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
-
-# Thanks
-- Woolen: Creating his HUD, Permission to publish
-
-> <a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://discord.gg/woolen">Discord</a>
+[How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
 # Credits
-- folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
-- [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
-- [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
-- [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
-- [Whisker](https://github.com/rbjaxter): Elements from budhud
-- [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
-- [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [Jakadak](https://github.com/jakadak): Elements from ahud-cc
-- [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
+- Used Elements: Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever
+- Crosshairs & Icons: Hypnotize
+- Tools: Revan's VDF Plugin
+- References: JarateKing, Revan, Hypnotize
+- HUD Help: [HUDS.TF](https://discord.com/invite/Hz3Q4Z8) Discord
+- Woolen: Creating his HUD, Permission to publish
+
+<a href="https://youtube.com/@awoolensleevelet">YouTube</a> | <a href="https://twitch.tv/awoolensleevelet">Twitch</a> | <a href="https://discord.gg/woolen">Discord</a>
