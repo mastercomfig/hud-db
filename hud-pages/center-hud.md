@@ -10,15 +10,13 @@ A TF2 HUD focused on putting critical HUD info in the center, while sticking to 
 Everyone that has helped translate Center HUD to other languages, if you're interested in helping, <a href="https://github.com/RoseyLemonz/center-hud/wiki/Translating">look here.</a>
 
 - <a href="https://github.com/grousk">grousk (Turkish)</a>
-- <a href="https://prettyto.foo/">prettytofugirl (Romanian)</a>
+- <a href="https://steamcommunity.com/id/bambambambrrrbrrrboopboop/">bjrkk (Romanian)</a>
 - <a href="https://github.com/realFunnyScout">realFunnyScout (Russian)</a>
 - <a href="https://gamebanana.com/members/1932153">Ashe_tf (Spanish)</a>
 - <a href="https://github.com/Yellow-Dev1l">Yellow-Dev1l (Korean)</a>
 - <a href="https://steamcommunity.com/profiles/76561199122950001/">chillyy (French)</a>
 - <a href="https://github.com/Hardingfele2212">Hardingfele2212 (Norwegian)</a>
 - <a href="https://steamcommunity.com/id/SpecializedUnFunny">UnFunny (Polish)</a>
-- <a href="https://github.com/Pyromaniax">Pyromaniax (Portuguese [Brazillian])</a>
-- <a href="https://github.com/LlamaGR1">LlamaGR1 (Greek)</a>
 
 <h2>Credits</h2>
 
