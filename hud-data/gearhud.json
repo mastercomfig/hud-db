@@ -1,0 +1,18 @@
+{
+  "name": "GearHUD",
+  "author": "gearhead",
+  "contributors": [
+    "Falkinghammer"
+  ],
+  "parent": "ahud-hammeredit",
+  "repo": "https://github.com/netbookmillionaire/gearhud",
+  "hash": "cfc96f6d690b4e3ec97b30032e07d212c5183a0e",
+  "resources": [
+    "gearhud-banner",
+    "gearhud-1",
+    "gearhud-2",
+    "gearhud-3",
+    "gearhud-4",
+    "gearhud-5"
+  ]
+}
