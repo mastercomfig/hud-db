@@ -16,7 +16,7 @@
 		"09-targetid",
 		"10-scoreboard",
 		"11-mvmbuymenu",
-		"12-compspectator"
+		"12-compreadyup"
 	],
 	"flags": [
 		"fonts",
@@ -34,12 +34,14 @@
 		"demoman",
 		"blast",
 		"movement",
-		"tempus"
+		"tempus",
+		"speed"
 	],
 	"repo": "https://github.com/itsmmarc/jumphud",
-	"hash": "609691bd23d4f408806fc083d0b3de2da8d8ca76",
+	"hash": "d17c902cf9b9f1a298a5a33d456f12e4fccd1b81",
 	"prerelease": false,
 	"social": {
+		"support": "https://ko-fi.com/itsmmarc",
 		"steam_profile": "76561198059284918",
 		"discord": "/s6yJMGecMZ",
 		"youtube": "@itsame_L",
@@ -56,7 +58,9 @@
 			"cp",
 			"halloween",
 			"koth",
+			"mannpower",
 			"mvm",
+			"pass",
 			"pl",
 			"plr",
 			"sd"
