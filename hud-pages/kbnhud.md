@@ -12,7 +12,7 @@
 
 * **[How to install and set up KBNHud](https://github.com/Jotunn/kbnhud/wiki/Setup)**
 * **[How to customize KBNHud](https://github.com/Jotunn/kbnhud/wiki/Customization)**
-* **[CriticalFlaw's HUD Editor, the easiest way to install and customize KBNHud](https://www.criticalflaw.ca/TF2HUD.Editor/)**
+* **[CriticalFlaw's HUD Editor, the easiest way to install and customize KBNHud](https://github.com/CriticalFlaw/TF2HUD.Editor)**
 * **[KBNHud README](https://github.com/Jotunn/kbnhud#readme)**
 * **[KBNHud Wiki](https://github.com/Jotunn/kbnhud/wiki)**
 * **[GameBanana Mirror](https://gamebanana.com/mods/26847)**
@@ -26,7 +26,7 @@
 * **STREAMER MODE:** Whisker/budhud
 * **KN-EDIT MODE:** Old KNHUD mods, name from Hypnotize
 * **MENU VTFS:** extracrispy & Rawsor
-* **MAIN MENU BACKGROUND, BANNERS:** Alena Aenami, via her [ArtStation](https://www.artstation.com/aenamiart). The piece used is called [Stardust](https://www.artstation.com/artwork/4Xa124).
+* **MAIN MENU BACKGROUND, BANNERS:** Myself, all backgrounds from March 2026 onward are photos taken by me on a 35mm film camera
 * **HITMARKERS:** Originally written by Quartz, updated versions by Hypnotize
 * **CLOSED CAPTIONS:** Clovervidia
 

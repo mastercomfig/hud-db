@@ -6,7 +6,7 @@
     "steam_profile": "76561198030388943",
     "steam_group": "KBNHud",
     "discord": "/NhnSysw",
-    "album": "https://imgur.com/a/nmXU42d"
+    "album": "https://imgur.com/a/MIXppFP"
   },
   "flags": [
     "fonts",
@@ -42,7 +42,7 @@
   },
   "tags": ["minimal", "ultra-minimal", "competitive"],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "05dfbf09c2d4742eb4d1aeb92d0f8bda6b7d5187",
+  "hash": "daeda0c20310a54646253f7dfdc9536ae7acdfb6",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",
