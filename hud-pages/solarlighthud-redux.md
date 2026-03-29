@@ -14,7 +14,7 @@ When in-game, REDUX gets out of your way and lets you focus on the game, especia
 This HUD likes to express itself with custom animations. Almost every menu screen has movement, Casual Mode's 3D Models have been replaced with 2D equivalents, and animated textures can be found in some places, such as in victory screens.
 
 # Customization
-Choose between ~~ three~~ FIVE HUD layouts from the Customization Menu and make various tweaks, with potentially more options on the way. Some of the options attempt to mimic the old SolarLightHUD while retaining the new graphical style.
+Choose between ~~three~~ FIVE HUD layouts from the Customization Menu and make various tweaks, with potentially more options on the way. Some of the options attempt to mimic the old SolarLightHUD while retaining the new graphical style.
 
 # Add-ons
 Available separately, players can add custom sound and graphics packs to match the theme of the HUD. A download link is available within the Customization Menu.
