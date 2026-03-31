@@ -19,9 +19,10 @@
     "clipammo-tournament-center",
     "clipammo-tournament-classic",
     "loadout",
-    "payload",
     "stats",
     "gamemode-select",
+    "floaty",
+    "floatycenter",
     "store-cart-wutville"
   ],
   "flags": [
@@ -41,7 +42,7 @@
     "stylish"
   ],
   "repo": "https://github.com/SolarLightTF2/solarlighthud-redux",
-  "hash": "c6c6c186e0ba16d51f5fb4aed87622bc79eaf49d",
+  "hash": "f1d5518775717f6c8682e7bca7c09274af4b4866",
   "prerelease": false,
   "social": {
     "support": "https://www.patreon.com/SolarLight",
