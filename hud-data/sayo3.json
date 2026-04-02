@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/M4h41eL"
   },
   "repo": "https://www.dropbox.com/s/grk1s8mfrrzvtoc/Sayo3.7z?dl=1",
-  "hash": "",
-  "publishDate": "2022-11-17",
-  "resources": ["sayo3-banner"]
+  "resources": [
+    "sayo3-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2022-11-17"
+      }
+    }
+  }
 }

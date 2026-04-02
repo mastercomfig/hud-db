@@ -7,6 +7,14 @@
   },
   "repo": "https://github.com/AsianAntwan/Mannterface",
   "githubAuthor": "mannterface",
-  "hash": "ca48016fdb0d5913a466569038cf25ae9dd9515c",
-  "resources": ["mannterface-banner"]
+  "resources": [
+    "mannterface-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "ca48016fdb0d5913a466569038cf25ae9dd9515c"
+      }
+    }
+  }
 }

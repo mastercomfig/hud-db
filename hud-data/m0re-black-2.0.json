@@ -1,13 +1,24 @@
 {
   "name": "m0re Black 2.0",
   "author": "Quik",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/m0rehud-Black-2.0/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/m0rehud-Black-2.0",
   "githubAuthor": null,
-  "hash": "b2fa914075da155b883f0d8c02fc39dd8b823e9d",
   "parent": "m0rehud",
-  "resources": ["m0re-black-2.0-banner"]
+  "resources": [
+    "m0re-black-2.0-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "b2fa914075da155b883f0d8c02fc39dd8b823e9d"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

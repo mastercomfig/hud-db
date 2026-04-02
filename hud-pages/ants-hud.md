@@ -5,7 +5,7 @@ A HUD with a modern, flat, dynamic design made from a combination of RaysHUD, ah
 GitHub:  
 <https://github.com/AsianAntwan/AntsHUD>  
 Gamebanana:  
-<https://gamebanana.com/guis/32745>  
+<https://gamebanana.com/mods/26820>  
 Screenshots:  
 <https://imgur.com/a/rHpj0ys>  
 Steam Group:  

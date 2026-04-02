@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/gwD6UIu"
   },
   "repo": "https://gamebanana.com/mods/356108",
-  "hash": "",
-  "publishDate": "2023-04-02",
-  "resources": ["rpg-hud-banner"]
+  "resources": [
+    "rpg-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-04-02"
+      }
+    }
+  }
 }

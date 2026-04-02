@@ -12,7 +12,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -32,10 +35,14 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/thekins/frankenhud",
-  "hash": "3fe67df40fa75772f15cf07f10bbe26b07d34c97",
   "resources": [
     "frankenhud-banner",
     "engineer",
@@ -52,5 +59,12 @@
     "motd",
     "teamselect",
     "classselect"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3fe67df40fa75772f15cf07f10bbe26b07d34c97"
+      }
+    }
+  }
 }

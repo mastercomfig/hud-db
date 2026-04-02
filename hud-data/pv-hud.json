@@ -1,12 +1,22 @@
 {
   "name": "PV HUD",
   "author": "povohat",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/PV-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/PV-Hud",
   "githubAuthor": null,
-  "hash": "12e5783514b2baf6bde43555bfdc32d18e8310c7",
-  "resources": ["pv-hud-banner"]
+  "resources": [
+    "pv-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "12e5783514b2baf6bde43555bfdc32d18e8310c7"
+      }
+    }
+  }
 }

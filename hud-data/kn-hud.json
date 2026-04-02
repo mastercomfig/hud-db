@@ -1,12 +1,22 @@
 {
   "name": "KNHUD",
   "author": "Chippy",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "knhud",
     "album": "https://github.com/TF2HUDsArchive/KN-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/KN-Hud",
-  "hash": "1895b99d5dc72e944ed8dbec8f18ef08e3ad787b",
-  "resources": ["kn-hud-banner"]
+  "resources": [
+    "kn-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "1895b99d5dc72e944ed8dbec8f18ef08e3ad787b"
+      }
+    }
+  }
 }

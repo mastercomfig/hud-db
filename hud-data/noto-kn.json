@@ -1,12 +1,22 @@
 {
   "name": "Noto-KN",
   "author": "Unknown",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Noto-KN-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Noto-KN-Hud",
   "githubAuthor": null,
-  "hash": "761c79bddd25b4cee237709b691f7a8855a34d50",
-  "resources": ["noto-kn-banner"]
+  "resources": [
+    "noto-kn-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "761c79bddd25b4cee237709b691f7a8855a34d50"
+      }
+    }
+  }
 }

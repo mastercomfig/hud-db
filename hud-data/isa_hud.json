@@ -5,11 +5,17 @@
     "album": "https://imgur.com/a/isa-hud-MpISq3D"
   },
   "repo": "https://github.com/tacogamma/isA_HUD",
-  "hash": "19cc607244a21f4fe64857d05fda294f0618a7c9",
   "resources": [
     "isa_banner",
     "isa_menu",
     "isa_normal",
     "isa_minmode"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "19cc607244a21f4fe64857d05fda294f0618a7c9"
+      }
+    }
+  }
 }

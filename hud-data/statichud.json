@@ -16,7 +16,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,11 +38,14 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/cjrose/staticHUD",
   "githubAuthor": "TheStaticVoid",
-  "hash": "2f39f9f609fa422e29cf9904e3501a6785f02787",
   "resources": [
     "statichud-banner",
     "main-ui",
@@ -54,5 +59,12 @@
     "tournament",
     "minmode",
     "inventory"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2f39f9f609fa422e29cf9904e3501a6785f02787"
+      }
+    }
+  }
 }

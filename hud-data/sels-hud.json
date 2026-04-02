@@ -6,7 +6,15 @@
     "album": "https://imgur.com/a/brXMS"
   },
   "repo": "https://www.dropbox.com/s/03rkv9avmkb3lpx/sels%20hud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2021-08-22",
-  "resources": ["sels-hud-banner"]
+  "resources": [
+    "sels-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2021-08-22"
+      }
+    }
+  }
 }

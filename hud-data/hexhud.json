@@ -17,7 +17,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,12 +40,18 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/Hypnootize/hexhud",
-  "hash": "b91156b6f207297b9e24a0d3cea9849f214d1ab6",
   "resources": [
     "hexhud-banner",
     "hexhud-menu",
@@ -54,5 +63,12 @@
     "hexhud-mvm",
     "hexhud-scoreboard",
     "hexhud-spectator"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "b91156b6f207297b9e24a0d3cea9849f214d1ab6"
+      }
+    }
+  }
 }

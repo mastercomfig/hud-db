@@ -10,10 +10,17 @@
   },
   "repo": "https://github.com/tekunotri/Yahud-Fragvid",
   "githubAuthor": null,
-  "hash": "16f270e1dd173686414368261c128910e7a78576",
   "parent": "yayahud",
   "resources": [
     "yf-menu",
     "yf-gameplay"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "16f270e1dd173686414368261c128910e7a78576"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

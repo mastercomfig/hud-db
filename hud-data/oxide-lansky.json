@@ -1,13 +1,24 @@
 {
   "name": "Oxide Lansky",
   "author": "Lansky",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Lanskys-Oxide/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Lanskys-Oxide",
   "githubAuthor": null,
-  "hash": "852dde2a1c1a249967c5a128b5286d7c8420b3d5",
   "parent": "oxide-hud",
-  "resources": ["oxide-lansky-banner"]
+  "resources": [
+    "oxide-lansky-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "852dde2a1c1a249967c5a128b5286d7c8420b3d5"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

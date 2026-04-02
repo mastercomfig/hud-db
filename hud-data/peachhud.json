@@ -2,7 +2,9 @@
   "name": "PeachHUD",
   "author": "Peaches",
   "verified": true,
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "releaseDate": "2019-11-06",
   "social": {
     "support": "https://ko-fi.com/peachestv",
@@ -22,7 +24,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -42,13 +48,26 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9"],
-    "position": ["center", "corners"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/PapaPeach/PeachHUD",
-  "hash": "000969350e1399def203e308089f75cf080b4a16",
   "resources": [
     "PeachHUD-banner",
     "ingame",
@@ -56,5 +75,12 @@
     "scoreboard",
     "loadout",
     "darkmode"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "000969350e1399def203e308089f75cf080b4a16"
+      }
+    }
+  }
 }

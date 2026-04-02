@@ -29,7 +29,6 @@
     "vaporwave"
   ],
   "repo": "https://github.com/zTomma/WeirdcoreHUD",
-  "hash": "d18cfe9a345bfe7ff7371c6a4e53e0a850c9db56",
   "prerelease": false,
   "social": {
     "support": "https://linktr.ee/zTomma",
@@ -76,5 +75,12 @@
     "lang": [
       "en"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d18cfe9a345bfe7ff7371c6a4e53e0a850c9db56"
+      }
+    }
   }
 }

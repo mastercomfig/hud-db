@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/UNKoz6m"
   },
   "repo": "https://gamebanana.com/mods/319004",
-  "hash": "",
-  "publishDate": "2021-09-04",
-  "resources": ["soicehud-banner"]
+  "resources": [
+    "soicehud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2021-09-04"
+      }
+    }
+  }
 }

@@ -11,7 +11,21 @@
   "parent": "hexhud",
   "distinguishedFromParent": true,
   "resources": [
-    "toucahud-banner", "toucahud-menu", "toucahud-backpack", "toucahud-backpackwithmetal", "toucahud-loadouts", "toucahud-stats", "toucahud-ingameui", "toucahud-ingamemeter", "toucahud-ingamestickycount", "toucahud-ingameheadcount", "toucahud-ingameubercharge", "toucahud-ingamenobuilding", "toucahud-ingamebuildmenu", "toucahud-ingameallbuilding", "toucahud-ingamedisguise"
+    "toucahud-banner",
+    "toucahud-menu",
+    "toucahud-backpack",
+    "toucahud-backpackwithmetal",
+    "toucahud-loadouts",
+    "toucahud-stats",
+    "toucahud-ingameui",
+    "toucahud-ingamemeter",
+    "toucahud-ingamestickycount",
+    "toucahud-ingameheadcount",
+    "toucahud-ingameubercharge",
+    "toucahud-ingamenobuilding",
+    "toucahud-ingamebuildmenu",
+    "toucahud-ingameallbuilding",
+    "toucahud-ingamedisguise"
   ],
   "flags": [
     "fonts",
@@ -29,7 +43,6 @@
     "touca"
   ],
   "repo": "https://github.com/toucaknight/toucaHUD",
-  "hash": "a765221a6c0927faee145dfe30908340648468c7",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198986534519",
@@ -70,5 +83,12 @@
     "lang": [
       "en"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a765221a6c0927faee145dfe30908340648468c7"
+      }
+    }
   }
 }

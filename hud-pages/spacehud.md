@@ -15,7 +15,7 @@ If you still have issues, contact me here. Discord is the best way to reach me a
 - Discord: `@kingstupid.`
 - Steam: https://steamcommunity.com/id/HealingSentry/
 
-If you want help editing the HUD or making your own HUD, check out the [HUDs.TF Discord](https://discord.gg/HqexTr7Tas) (Discord invite) and they can help you.
+If you want help editing the HUD or making your own HUD, check out the [HUDs.TF Discord](https://discord.com/invite/HqexTr7Tas) (Discord invite) and they can help you.
 
 ## HUD Links
 

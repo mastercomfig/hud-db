@@ -7,6 +7,14 @@
   },
   "repo": "https://github.com/TF2HUDsArchive/Noto-Hud",
   "githubAuthor": "omnibombulator",
-  "hash": "443290c6300ce7873322138c377fd3f4e371d938",
-  "resources": ["noto-banner"]
+  "resources": [
+    "noto-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "443290c6300ce7873322138c377fd3f4e371d938"
+      }
+    }
+  }
 }

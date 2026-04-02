@@ -2,12 +2,21 @@
   "name": "DarHUD",
   "author": "DarSitam",
   "releaseDate": "2023-08-17",
-  "flags": ["scoreboards", "minmode", "materials", "customization"],
-  "tags": ["modern"],
+  "flags": [
+    "scoreboards",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "modern"
+  ],
   "repo": "https://github.com/DarSitam/DarHud",
-  "hash": "3b34616915b5fddca505b078289f15eaa0807b7e",
   "prerelease": false,
-  "resources": ["darhud-logo","gameplay"],
+  "resources": [
+    "darhud-logo",
+    "gameplay"
+  ],
   "social": {
     "steam_profile": "76561198148464161",
     "twitter": "DarSitam",
@@ -17,7 +26,9 @@
     "album": "https://imgur.com/a/pTE0V2X"
   },
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "arena",
@@ -34,7 +45,20 @@
       "pd",
       "sd"
     ],
-    "res": ["4/3", "16/9"],
-    "position": ["center", "corners"]
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3b34616915b5fddca505b078289f15eaa0807b7e"
+      }
+    }
   }
 }

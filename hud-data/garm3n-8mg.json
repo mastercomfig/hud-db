@@ -1,13 +1,24 @@
 {
   "name": "Garm3n 8MG",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-8MG/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-8MG",
   "githubAuthor": null,
-  "hash": "d2b19bd2e94205ed40256c4b61e7d9595e798b7b",
   "parent": "quakehud",
-  "resources": ["garm3n-8mg-banner"]
+  "resources": [
+    "garm3n-8mg-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d2b19bd2e94205ed40256c4b61e7d9595e798b7b"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

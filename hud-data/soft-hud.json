@@ -1,12 +1,22 @@
 {
   "name": "Soft HUD",
   "author": "Unknown",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Soft-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Soft-Hud",
   "githubAuthor": null,
-  "hash": "6cc067193e1d64393b2d4de153e5b679c3571ef0",
-  "resources": ["soft-hud-banner"]
+  "resources": [
+    "soft-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6cc067193e1d64393b2d4de153e5b679c3571ef0"
+      }
+    }
+  }
 }

@@ -1,13 +1,24 @@
 {
   "name": "Yahud MX",
   "author": "Whayay",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Yahud-M-X/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Yahud-M-X",
   "githubAuthor": null,
-  "hash": "c779a19d93ff3934d465541918cb91942ae270bf",
   "parent": "yayahud",
-  "resources": ["yahud-mx-banner"]
+  "resources": [
+    "yahud-mx-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c779a19d93ff3934d465541918cb91942ae270bf"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

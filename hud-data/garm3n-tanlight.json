@@ -1,13 +1,24 @@
 {
   "name": "Garm3n TanLight",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-TanLight/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-TanLight",
   "githubAuthor": null,
-  "hash": "7465589785f8b74815942990de1e18e892f6ee7a",
   "parent": "quakehud",
-  "resources": ["garm3n-tanlight-banner"]
+  "resources": [
+    "garm3n-tanlight-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "7465589785f8b74815942990de1e18e892f6ee7a"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -1,14 +1,25 @@
 {
   "name": "optive hud",
   "author": "Optivex",
-  "contributors": ["techno"],
+  "contributors": [
+    "techno"
+  ],
   "releaseDate": "2020-08-27",
-  "resources": ["optivehud-menu", "https://youtu.be/DmAiJ9Oz-nY"],
-  "flags": ["fonts", "menus", "scoreboards", "crosshairs"],
-  "tags": ["minimal"],
+  "resources": [
+    "optivehud-menu",
+    "https://youtu.be/DmAiJ9Oz-nY"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs"
+  ],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/tekunotri/optive-hud",
   "githubAuthor": null,
-  "hash": "3bceb979b0f7106dc8baa69266713d445b285194",
   "prerelease": false,
   "social": {},
   "traits": {
@@ -23,8 +34,24 @@
       "pl",
       "plr"
     ],
-    "res": ["4/3", "16/9", "16/10", "5/4"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "5/4"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3bceb979b0f7106dc8baa69266713d445b285194"
+      }
+    }
   }
 }

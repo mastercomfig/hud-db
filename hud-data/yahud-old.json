@@ -1,13 +1,24 @@
 {
   "name": "Yahud Old",
   "author": "Whayay",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Yahud-Old/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Yahud-Old",
   "githubAuthor": null,
-  "hash": "05ca7c1bb8d95d17538a2b3438687e9a16c69e4e",
   "parent": "yayahud",
-  "resources": ["yahud-old-banner"]
+  "resources": [
+    "yahud-old-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "05ca7c1bb8d95d17538a2b3438687e9a16c69e4e"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -1,12 +1,22 @@
 {
   "name": "TFTV HUD",
   "author": "Voloder",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/TFTV-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/TFTV-Hud",
   "githubAuthor": null,
-  "hash": "f8fe757dbe773a613038e5eac488bebfced392ee",
-  "resources": ["tftv-hud-banner"]
+  "resources": [
+    "tftv-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "f8fe757dbe773a613038e5eac488bebfced392ee"
+      }
+    }
+  }
 }

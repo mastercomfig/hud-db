@@ -14,7 +14,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -34,9 +37,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/DrinkinTea22/teahudv2",
-  "hash": "49307a37b77769143953383d819dddbbec469d36",
-  "resources": ["teahud-v2-banner"]
+  "resources": [
+    "teahud-v2-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "49307a37b77769143953383d819dddbbec469d36"
+      }
+    }
+  }
 }

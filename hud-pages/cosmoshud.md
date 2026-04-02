@@ -8,35 +8,21 @@ I hope you really enjoy it, and please let me know any feedback you have!
 
 # Features
 
- - Support for various resolutions
- 
- - Improved controller menus
- 
- - Improved UI features and navigability
- 
- - Improved Match HUD (consistent with original TF2 style)
- 
- - Improved Scoreboards
- 
- - Improved loading screens
- 
- - Improved MvM HUD
- 
- - Style consistency improvements across the all HUD elements
- 
- - Functional regular and minmode HUDs
- 
- - Minmode HUD option with centered charge meters
- 
- - Support for the Engineer Pipboy
- 
- - No overlapping UI elements
- 
- - HUD bloat reduced from stock HUD
- 
- - Several bug fixes with the stock HUD
- 
- - A lot of love
+- Support for various resolutions
+- Improved controller menus
+- Improved UI features and navigability
+- Improved Match HUD (consistent with original TF2 style)
+- Improved Scoreboards
+- Improved loading screens
+- Improved MvM HUD
+- Style consistency improvements across the all HUD elements
+- Functional regular and minmode HUDs
+- Minmode HUD option with centered charge meters
+- Support for the Engineer Pipboy
+- No overlapping UI elements
+- HUD bloat reduced from stock HUD
+- Several bug fixes with the stock HUD
+- A lot of love
 
 # Credits 
 
@@ -49,25 +35,17 @@ Everything in this HUD has been used with permission.
 **Materials Used From:**
 
 - Vexcenot - <a href="https://gamebanana.com/mods/462858">Animated Loading Screens</a>
-
 - pilso - <a href="https://gamebanana.com/wips/86687">Classic-Style Animated Backgrounds</a>
-
 - lennyfaic - <a href="https://gamebanana.com/mods/591386">Consistent & Missing Kill Icons</a> /  <a href="https://gamebanana.com/mods/562644">16:9 Background Fixes</a>
-
 - DarSitam - <a href="https://gamebanana.com/mods/463048">DarHUD</a>
-
 - SquidEevee - <a href="https://gamebanana.com/mods/470542">DarHUD (TF2C)</a>
-
 - Kaia Brodbecker - <a href="https://gamebanana.com/mods/440617">Kaia's Improved HUD Portraits</a>
-
 - trowoglodyte - <a href="https://gamebanana.com/mods/464818">Default VTF Crosshairs Remade</a>
-
 - jakadak - <a href="https://github.com/jakadak/TF2-extended-fonts">TF2 Extended Fonts</a>
 
 **Inspiration From:**
 
 - Pyromaniax - <a href="https://gamebanana.com/mods/609267">Cooler HUD</a>
-
 - sparkless - <a href="https://gamebanana.com/mods/596766">ViviHUD</a>
 
 **Special Thanks**

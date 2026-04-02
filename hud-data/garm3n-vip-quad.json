@@ -1,13 +1,24 @@
 {
   "name": "Garm3n VIP-Quad",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-VIP-Quad/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-VIP-Quad",
   "githubAuthor": null,
-  "hash": "a9e4885bae2ea0a3a1b28841ab951ae480832377",
   "parent": "quakehud",
-  "resources": ["garm3n-vip-quad-banner"]
+  "resources": [
+    "garm3n-vip-quad-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a9e4885bae2ea0a3a1b28841ab951ae480832377"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

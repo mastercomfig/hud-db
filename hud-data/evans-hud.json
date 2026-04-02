@@ -1,12 +1,22 @@
 {
   "name": "Evans HUD",
   "author": "Evans",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Evans-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Evans-Hud",
   "githubAuthor": null,
-  "hash": "ef21558ff6d094f0e01eb5c40cfef132c5eb46ac",
-  "resources": ["evans-hud-banner"]
+  "resources": [
+    "evans-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "ef21558ff6d094f0e01eb5c40cfef132c5eb46ac"
+      }
+    }
+  }
 }

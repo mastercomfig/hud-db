@@ -1,12 +1,22 @@
 {
   "name": "kA_Hud",
   "author": "AndKenneth",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/kA_Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/kA_Hud",
   "githubAuthor": null,
-  "hash": "168fc99a09e4354a3d44336203c7eb6f2536e37d",
-  "resources": ["ka-hud-banner"]
+  "resources": [
+    "ka-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "168fc99a09e4354a3d44336203c7eb6f2536e37d"
+      }
+    }
+  }
 }

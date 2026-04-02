@@ -18,7 +18,7 @@ There also exists a modular streamer mode, to hide whatever you need to. The mai
 
 ## *2FORT IS FULL.*
 
-### Discord Server: <https://discord.gg/v8nmUKRX62>
+### Discord Server: <https://discord.com/invite/v8nmUKRX62>
 
 ### Steam Group: <https://steamcommunity.com/groups/ultrahudtf2>
 
@@ -43,7 +43,7 @@ VillageGreenPreserver - Healthbar (<https://github.com/VillageGreenPreserver/Hor
 
 Gurg on Steam - The Terminal backgrounds (<https://steamcommunity.com/sharedfiles/filedetails/?id=3124251709>)
 
-[deleted] on Reddit - The colored version of V1s head in the UK logo (<https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/>)
+A Reddit User - The colored version of V1s head in the UK logo (<https://www.reddit.com/r/Ultrakill/comments/xd7w0u/ultrakill_logo_but_its_coloured/>)
 
 Tomma - WeirdcoreHUD is a source of inspiration for me. Also let me use his HUD options as a base for the Calibration screen.
 

@@ -21,7 +21,6 @@
     "dark"
   ],
   "repo": "https://github.com/SeppiaOmbra08/PainHUD",
-  "hash": "6be5f180f3ec12af022b706e53e81ccef97771bb",
   "prerelease": true,
   "social": {
     "youtube": "@FleckSFM",
@@ -45,5 +44,12 @@
     "position": [
       "center"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6be5f180f3ec12af022b706e53e81ccef97771bb"
+      }
+    }
   }
 }

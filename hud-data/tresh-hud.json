@@ -1,12 +1,22 @@
 {
   "name": "Tresh HUD",
   "author": "Tresh",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Tresh-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Tresh-Hud",
   "githubAuthor": null,
-  "hash": "8311bd84d69d552213ef1e0eadab873c1498a287",
-  "resources": ["tresh-hud-banner"]
+  "resources": [
+    "tresh-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "8311bd84d69d552213ef1e0eadab873c1498a287"
+      }
+    }
+  }
 }

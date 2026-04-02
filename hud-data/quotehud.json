@@ -1,6 +1,6 @@
 {
   "name": "QuoteHUD",
-  "author": "Qüöte | quotestrife",
+  "author": "Q\u00fc\u00f6te | quotestrife",
   "contributors": [
     "Broesel-tf",
     "DETENOG"
@@ -30,7 +30,6 @@
     "cartoony"
   ],
   "repo": "https://github.com/Silk-OT/QuoteHUD",
-  "hash": "c33c8d51ed265dc12170df77885c45f782cc11b6",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198166167645",
@@ -69,5 +68,12 @@
     "lang": [
       "en"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c33c8d51ed265dc12170df77885c45f782cc11b6"
+      }
+    }
   }
 }

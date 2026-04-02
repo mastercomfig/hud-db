@@ -1,13 +1,24 @@
 {
   "name": "Grape-m0re",
   "author": "Grape",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Grape-M0rehud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Grape-M0rehud",
   "githubAuthor": null,
-  "hash": "35021987433152dc5f785f4f0759cb15abb169dd",
   "parent": "m0rehud",
-  "resources": ["grape-m0re-banner"]
+  "resources": [
+    "grape-m0re-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "35021987433152dc5f785f4f0759cb15abb169dd"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

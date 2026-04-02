@@ -16,7 +16,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,12 +40,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimalist", "simple", "blue"],
+  "tags": [
+    "minimalist",
+    "simple",
+    "blue"
+  ],
   "repo": "https://github.com/BingBongBonky/SpaceHud",
-  "hash": "caf2d37dc78242bfe4c827b401a9f178aaa285c2",
   "resources": [
     "spacehud-01-mainpage",
     "spacehud-02-menu",
@@ -52,5 +66,12 @@
     "spacehud-07-game2",
     "spacehud-08-mvm",
     "spacehud-09-meter"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "caf2d37dc78242bfe4c827b401a9f178aaa285c2"
+      }
+    }
+  }
 }

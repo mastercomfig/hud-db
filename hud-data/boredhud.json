@@ -6,9 +6,17 @@
     "discord": "/NtQ3FsT",
     "album": "https://imgur.com/a/NcGTw"
   },
-  "flags": ["fonts", "menus", "scoreboards", "materials"],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -28,10 +36,13 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TheStaticVoid/boredHUD",
-  "hash": "d25719dc58a39b7d632466d43c586b89014c0a41",
   "resources": [
     "bored-hud-banner",
     "main-ui",
@@ -44,5 +55,12 @@
     "class-select",
     "scoreboard",
     "mvm"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d25719dc58a39b7d632466d43c586b89014c0a41"
+      }
+    }
+  }
 }

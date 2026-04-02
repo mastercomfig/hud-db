@@ -6,7 +6,15 @@
     "album": "https://imgur.com/a/w4NB521"
   },
   "repo": "https://steamcommunity.com/groups/malhud",
-  "hash": "1.6",
-  "publishDate": "2020-11-06",
-  "resources": ["malhud-banner"]
+  "resources": [
+    "malhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "1.6",
+        "publishDate": "2020-11-06"
+      }
+    }
+  }
 }

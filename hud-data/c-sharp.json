@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/DoRLQnX"
   },
   "repo": "https://www.dropbox.com/s/5vloqixl1a4ytn0/csharphud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2023-02-08",
-  "resources": ["c-sharp-banner"]
+  "resources": [
+    "c-sharp-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-02-08"
+      }
+    }
+  }
 }

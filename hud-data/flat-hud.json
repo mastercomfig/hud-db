@@ -1,7 +1,9 @@
 {
   "name": "flathud",
   "author": "Flatline",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "flathud",
     "album": "https://github.com/TF2HUDsArchive/Flat-Hud/blob/screenshots/showcase.md"
@@ -15,7 +17,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -33,10 +37,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/Flat-Hud",
   "githubAuthor": null,
-  "hash": "9a2ea2219e53b031b5efc6003ded5ef309cb3a00",
-  "resources": ["flat-hud-banner"]
+  "resources": [
+    "flat-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "9a2ea2219e53b031b5efc6003ded5ef309cb3a00"
+      }
+    }
+  }
 }

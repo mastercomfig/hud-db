@@ -5,19 +5,12 @@ A Team Fortress 2 HUD packed with features designed for use on Tempus jump serve
 ## Installation
 
 1. Download the [latest release](https://github.com/itsmmarc/jumphud/releases/tag/v2.5.1)
-
 2. Navigate to your Team Fortress 2 installation. The easiest way is to right click on the game in your Steam library and select `Manage > Browse local files`
-
 3. Unzip the download into `tf/custom`
-
 4. Rename the folder to exactly `jumphud`
-
 5. In the end, the folder structure should look like `Steam/steamapps/common/Team Fortress 2/tf/custom/jumphud/resource/`
-
 6. To use input display, pipe timer, or mirror world, you must rebind your keys with the binds found at the top of the settings menu. Check out the [config guide](https://github.com/itsmmarc/jumphud/wiki/config_guide) to see how to update your config to use these.
-
 7. _**\[linux\]** install the fonts located in `resource/scheme/fonts/`_
-
 8. If you experience issues after updating the HUD from a previous version, reset your HUD config by deleting the `jumphud` folder from `tf/cfg/`
 
 ## Troubleshooting
@@ -30,22 +23,17 @@ Add `exec jh_setup` to `tf/cfg/autoexec.cfg` and restart the game. This is usual
 
 Try deleting the `tf/cfg/jumphud/` folder. This stores your selected customizations and can sometimes break between updates.
 
-_If you run into any other problems, please leave a message in the [Discord](https://discord.gg/s6yJMGecMZ)._
+_If you run into any other problems, please leave a message in the [Discord](https://discord.com/invite/s6yJMGecMZ)._
 
 ## Features
 
 ![Speedos Preview](https://raw.githubusercontent.com/wiki/itsmmarc/jumphud/screenshots/jump/speedospreview.webp)
 
 - Modular design allowing you to declutter or enable elements as you wish
-
 - Fully customizable speedos with dynamic color ranges
-
 - Bar speedos designed to assist in demoman airpogo
-
 - Spraypaint bind with various colours and sizes
-
 - Many useful binds added to the settings menu such as ctap, toggle thirdperson, and hold to restart run
-
 - Utility buttons added to the pause many for settings such as toggling speedos, enabling clip brushes, and managing save locations
 
 ## Customization
@@ -74,7 +62,7 @@ Tempus speedos won't be recoloured or repositioned until one of the speedo butto
 
 Tempus HUD elements are stubborn and sometimes reset to their natural colour. Turning the Tempus HUD on and off usually fixes this.
 
-_If you run into any other problems, please leave a message in the [Discord](https://discord.gg/s6yJMGecMZ)._
+_If you run into any other problems, please leave a message in the [Discord](https://discord.com/invite/s6yJMGecMZ)._
 
 ## FAQ
 

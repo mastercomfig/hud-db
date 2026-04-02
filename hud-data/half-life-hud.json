@@ -6,16 +6,39 @@
     "steam_profile": "76561198159585055",
     "album": "https://imgur.com/a/ka6q5Pe"
   },
-  "flags": ["fonts", "menus", "minmode", "materials", "customization"],
+  "flags": [
+    "fonts",
+    "menus",
+    "minmode",
+    "materials",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows"],
-    "gamemode": ["ad", "ctf", "cp", "koth", "pl", "plr", "tc"],
-    "res": ["4/3", "16/9", "16/10"],
-    "position": ["corners"],
-    "lang": ["en"]
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/VillageGreenPreserver/Half-Life-Hud",
-  "hash": "065db38f6b46d8b330d8be26ffc8bc459be013a5",
   "resources": [
     "hlhud-banner",
     "hlhud-menu",
@@ -26,5 +49,12 @@
     "hlhud-engineer",
     "hlhud-scoreboard",
     "hlhud-pl"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "065db38f6b46d8b330d8be26ffc8bc459be013a5"
+      }
+    }
+  }
 }

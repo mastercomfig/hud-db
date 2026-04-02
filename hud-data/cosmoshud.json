@@ -4,11 +4,10 @@
   "verified": true,
   "releaseDate": "2025-09-29",
   "social": {
-	  "support": "https://ko-fi.com/vermilioncosmos",
-	  "album": "https://imgur.com/a/2cMoeVG"
+    "support": "https://ko-fi.com/vermilioncosmos",
+    "album": "https://imgur.com/a/2cMoeVG"
   },
   "repo": "https://github.com/VermilionCosmos/CosmosHUD",
-  "hash": "eb51ddd8025a994d8e080c7b05d002f9b6df6305",
   "prerelease": false,
   "resources": [
     "cosmoshud-mainmenu",
@@ -29,8 +28,8 @@
   ],
   "flags": [
     "minmode",
-	"materials",
-	"customization"
+    "materials",
+    "customization"
   ],
   "tags": [
     "vanilla",
@@ -40,7 +39,7 @@
   "traits": {
     "os": [
       "windows",
-	  "mac",
+      "mac",
       "linux"
     ],
     "gamemode": [
@@ -61,10 +60,10 @@
       "tc"
     ],
     "res": [
-	  "4/3",
-	  "16/10",
+      "4/3",
+      "16/10",
       "16/9",
-	  "17/9",
+      "17/9",
       "21/9",
       "32/9"
     ],
@@ -75,5 +74,12 @@
     "lang": [
       "en"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "eb51ddd8025a994d8e080c7b05d002f9b6df6305"
+      }
+    }
   }
 }

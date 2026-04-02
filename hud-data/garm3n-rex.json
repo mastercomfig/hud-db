@@ -1,13 +1,24 @@
 {
   "name": "Garm3n Rex",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-REX/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-REX",
   "githubAuthor": null,
-  "hash": "8916266392e7b9a748039fbd1286afd58896039f",
   "parent": "quakehud",
-  "resources": ["garm3n-rex-banner"]
+  "resources": [
+    "garm3n-rex-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "8916266392e7b9a748039fbd1286afd58896039f"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

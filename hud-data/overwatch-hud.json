@@ -5,9 +5,18 @@
     "steam_group": "overwatchhud",
     "album": "https://imgur.com/a/U1gfV"
   },
-  "flags": ["fonts", "menus", "crosshairs", "minmode", "materials"],
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "minmode",
+    "materials"
+  ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -27,9 +36,20 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9", "16/10"]
+    "res": [
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/kmarcie/overwatchhud",
-  "hash": "64902b034350bcbf31b4f4d5c2485105e18af1a1",
-  "resources": ["overwatch-hud-banner"]
+  "resources": [
+    "overwatch-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "64902b034350bcbf31b4f4d5c2485105e18af1a1"
+      }
+    }
+  }
 }

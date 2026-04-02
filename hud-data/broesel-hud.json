@@ -1,14 +1,23 @@
 {
   "name": "Broesel HUD",
   "author": "Broesel",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "broeselhud",
     "album": "https://github.com/TF2HUDsArchive/Broesel-Hud/blob/screenshots/showcase.md"
   },
-  "flags": ["fonts", "scoreboards", "crosshairs", "customization"],
+  "flags": [
+    "fonts",
+    "scoreboards",
+    "crosshairs",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -28,10 +37,23 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/Broesel-Hud",
   "githubAuthor": null,
-  "hash": "6e33915acac30cfe774a78abfd25a879b90bfb6c",
-  "resources": ["broesel-hud-banner"]
+  "resources": [
+    "broesel-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6e33915acac30cfe774a78abfd25a879b90bfb6c"
+      }
+    }
+  }
 }

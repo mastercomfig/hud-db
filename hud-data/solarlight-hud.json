@@ -5,6 +5,14 @@
     "album": "https://imgur.com/a/fNbgnk2"
   },
   "repo": "https://github.com/SolarLightTF2/SolarLightHUD",
-  "hash": "b7059e253051b24b2b90b37576cbc35baec005c6",
-  "resources": ["solarlight-hud-banner"]
+  "resources": [
+    "solarlight-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "b7059e253051b24b2b90b37576cbc35baec005c6"
+      }
+    }
+  }
 }

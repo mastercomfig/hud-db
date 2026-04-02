@@ -22,7 +22,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -42,8 +46,19 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center"],
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center"
+    ],
     "lang": [
       "pt",
       "en",
@@ -59,9 +74,10 @@
       "tr"
     ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/rbjaxter/budhud",
-  "hash": "16f7be2bb4f0dcbe46ec5f444486ab6a6ea4c7e6",
   "resources": [
     "budhud-01-banner",
     "budhud-02-backpack",
@@ -71,5 +87,12 @@
     "budhud-06-engineer",
     "budhud-07-medic",
     "budhud-08-payload"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "16f7be2bb4f0dcbe46ec5f444486ab6a6ea4c7e6"
+      }
+    }
+  }
 }

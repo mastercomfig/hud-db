@@ -5,6 +5,14 @@
     "album": "https://imgur.com/a/uEYwWQZ"
   },
   "repo": "https://github.com/Imderry/LOL-LOL-LOL-hud",
-  "hash": "2cdcfaf855e209709827013b631a7a0a18dbe1b2",
-  "resources": ["lol-lol-lol-hud-banner"]
+  "resources": [
+    "lol-lol-lol-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2cdcfaf855e209709827013b631a7a0a18dbe1b2"
+      }
+    }
+  }
 }

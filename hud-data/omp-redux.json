@@ -1,14 +1,25 @@
 {
   "name": "OMP Redux",
   "author": "Flatline",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "omphudredux",
     "album": "https://github.com/TF2HUDsArchive/OMP-Hud-Redux/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/OMP-Hud-Redux",
   "githubAuthor": null,
-  "hash": "f80e595605a3a1c334a62d7438005e0d833b870b",
   "parent": "omp-hud",
-  "resources": ["omp-redux-banner"]
+  "resources": [
+    "omp-redux-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "f80e595605a3a1c334a62d7438005e0d833b870b"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/3d3z2el"
   },
   "repo": "https://www.teamfortress.tv/51395/quartzhu",
-  "hash": "",
-  "publishDate": "2019-10-14",
-  "resources": ["quartz-hud-banner"]
+  "resources": [
+    "quartz-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2019-10-14"
+      }
+    }
+  }
 }

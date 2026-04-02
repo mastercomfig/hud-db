@@ -1,12 +1,22 @@
 {
   "name": "Milky HUD",
   "author": "Revilo",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Milky-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Milky-Hud",
   "githubAuthor": null,
-  "hash": "4c1ddab412679f41e06e403e32758199bc063923",
-  "resources": ["milky-hud-banner"]
+  "resources": [
+    "milky-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "4c1ddab412679f41e06e403e32758199bc063923"
+      }
+    }
+  }
 }

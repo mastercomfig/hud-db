@@ -1,12 +1,22 @@
 {
   "name": "Wavesui",
   "author": "extracrispy",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Wavesui-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Wavesui-Hud",
   "githubAuthor": null,
-  "hash": "864234983fbd38cc827318ffa7f2416c4aa45a8a",
-  "resources": ["wavesui-banner"]
+  "resources": [
+    "wavesui-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "864234983fbd38cc827318ffa7f2416c4aa45a8a"
+      }
+    }
+  }
 }

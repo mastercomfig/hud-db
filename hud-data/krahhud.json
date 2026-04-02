@@ -6,8 +6,15 @@
     "album": "https://imgur.com/a/2LvJ6hc"
   },
   "traits": {
-    "os": ["windows"],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
+    "os": [
+      "windows"
+    ],
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
     "gamemode": [
       "tournament",
       "mvm",
@@ -21,7 +28,15 @@
     ]
   },
   "repo": "https://gamebanana.com/mods/361893",
-  "hash": "v5",
-  "publishDate": "2023-10-23",
-  "resources": ["krahhud-banner"]
+  "resources": [
+    "krahhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "v5",
+        "publishDate": "2023-10-23"
+      }
+    }
+  }
 }

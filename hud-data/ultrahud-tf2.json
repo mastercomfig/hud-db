@@ -24,7 +24,6 @@
     "materials"
   ],
   "repo": "https://github.com/heaven-piercer/ULTRAHUD-TF2",
-  "hash": "a92d84398c69f5765c0cce0fadd5999ede3884f5",
   "prerelease": false,
   "social": {
     "discord": "/v8nmUKRX62",
@@ -54,5 +53,12 @@
     "lang": [
       "en"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a92d84398c69f5765c0cce0fadd5999ede3884f5"
+      }
+    }
   }
 }

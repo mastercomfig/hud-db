@@ -6,9 +6,17 @@
     "discord": "mintuk#0",
     "album": "https://imgur.com/a/UhhE9IM"
   },
-  "flags": ["fonts", "menus", "scoreboards", "customization", "minmode"],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "customization",
+    "minmode"
+  ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -28,16 +36,29 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
-  "tags": ["minimal", "competitive"],
+  "tags": [
+    "minimal",
+    "competitive"
+  ],
   "repo": "https://github.com/Mint-tf/minthud",
-  "hash": "2a856bf560cf6dcf7dfbe9ddbbd15ba9108f289c",
   "prerelease": true,
   "resources": [
     "minthud-01-banner",
     "minthud-02-player",
     "minthud-03-scoreboard",
     "minthud-04-buff"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2a856bf560cf6dcf7dfbe9ddbbd15ba9108f289c"
+      }
+    }
+  }
 }

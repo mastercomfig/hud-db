@@ -1,13 +1,24 @@
 {
   "name": "Garm3n OLX",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-OLX/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-OLX",
   "githubAuthor": null,
-  "hash": "3647296e7e596bc29cd830261c8e52b715b4c39a",
   "parent": "quakehud",
-  "resources": ["garm3n-olx-banner"]
+  "resources": [
+    "garm3n-olx-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3647296e7e596bc29cd830261c8e52b715b4c39a"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -1,12 +1,22 @@
 {
   "name": "Zim HUD",
   "author": "Zimmy",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Zim-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Zim-Hud",
   "githubAuthor": null,
-  "hash": "feaa72913dd4e4fb975c72969dfb70c35c52ab5c",
-  "resources": ["zim-hud-banner"]
+  "resources": [
+    "zim-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "feaa72913dd4e4fb975c72969dfb70c35c52ab5c"
+      }
+    }
+  }
 }

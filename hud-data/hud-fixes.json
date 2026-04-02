@@ -8,9 +8,18 @@
     "discord": "/hTdtK9vBhE",
     "youtube": "@CriticalFlaw"
   },
-  "flags": ["crosshairs", "minmode", "materials", "customization"],
+  "flags": [
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -30,13 +39,27 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["default"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "default"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["default"],
+  "tags": [
+    "default"
+  ],
   "repo": "https://github.com/CriticalFlaw/tf2hud-fixes",
-  "hash": "c6a6252375c6b5f8f71d08f40adc44d96bb2ad76",
   "verified": true,
   "resources": [
     "banner",
@@ -45,5 +68,12 @@
     "hud",
     "hud-minmode",
     "customizations"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c6a6252375c6b5f8f71d08f40adc44d96bb2ad76"
+      }
+    }
+  }
 }

@@ -54,10 +54,17 @@
     ]
   },
   "repo": "https://github.com/tekunotri/m0re_techno",
-  "hash": "2cc17922f0d22545e30fd2a2bcfe7df4a8f3c35d",
   "parent": "m0rehud",
   "resources": [
     "m0re-techno-banner",
     "m0re-techno-gameplay"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2cc17922f0d22545e30fd2a2bcfe7df4a8f3c35d"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

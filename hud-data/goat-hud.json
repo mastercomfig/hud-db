@@ -1,13 +1,23 @@
 {
   "name": "Goat HUD",
   "author": "Goat_",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "goat_hud",
     "album": "https://github.com/TF2HUDsArchive/Goat-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Goat-Hud",
   "githubAuthor": null,
-  "hash": "3b2d16b17de39fdfa9969715d6ef12eed097f8f5",
-  "resources": ["goat-hud-banner"]
+  "resources": [
+    "goat-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3b2d16b17de39fdfa9969715d6ef12eed097f8f5"
+      }
+    }
+  }
 }

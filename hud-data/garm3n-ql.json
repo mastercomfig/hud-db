@@ -1,13 +1,24 @@
 {
   "name": "Garm3n QL",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-QL/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-QL",
   "githubAuthor": null,
-  "hash": "84aa94ee3ff906598739870649df43bac9dac907",
   "parent": "quakehud",
-  "resources": ["garm3n-ql-banner"]
+  "resources": [
+    "garm3n-ql-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "84aa94ee3ff906598739870649df43bac9dac907"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

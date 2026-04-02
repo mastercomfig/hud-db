@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/OgcCjtf"
   },
   "repo": "https://www.dropbox.com/s/zbdcq9zttv2ds13/greyhud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2023-01-07",
-  "resources": ["greyhud-banner"]
+  "resources": [
+    "greyhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-01-07"
+      }
+    }
+  }
 }

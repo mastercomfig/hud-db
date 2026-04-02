@@ -1,7 +1,9 @@
 {
   "name": "Yayahud",
   "author": "yttrium",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/yayahud/blob/screenshots/showcase.md"
   },
@@ -14,7 +16,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -34,10 +39,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/yayahud",
   "githubAuthor": "Yttrium-tYcLief",
-  "hash": "c332ff5857adca1923a1394f88362c1300394c0d",
-  "resources": ["yayahud-banner"]
+  "resources": [
+    "yayahud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c332ff5857adca1923a1394f88362c1300394c0d"
+      }
+    }
+  }
 }

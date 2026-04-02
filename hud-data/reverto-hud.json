@@ -1,12 +1,23 @@
 {
   "name": "Reverto HUD",
   "author": "Starkie",
-  "contributors": ["E-Thug", "Hypnotize"],
+  "contributors": [
+    "E-Thug",
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Reverto-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Reverto-Hud",
   "githubAuthor": null,
-  "hash": "d05eeece4945fd29adc4ce653e57169dc2c16adc",
-  "resources": ["reverto-hud-banner"]
+  "resources": [
+    "reverto-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d05eeece4945fd29adc4ce653e57169dc2c16adc"
+      }
+    }
+  }
 }

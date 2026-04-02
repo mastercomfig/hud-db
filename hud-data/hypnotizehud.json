@@ -17,7 +17,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,12 +40,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/Hypnootize/hypnotizehud",
-  "hash": "82d332540a82ab085ff1a14b9aef774982ac5b9e",
   "resources": [
     "hypnotizehud-banner",
     "hypnotizehud-menu",
@@ -53,5 +64,12 @@
     "hypnotizehud-medic",
     "hypnotizehud-scoreboard",
     "hypnotizehud-spectator"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "82d332540a82ab085ff1a14b9aef774982ac5b9e"
+      }
+    }
+  }
 }

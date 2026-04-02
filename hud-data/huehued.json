@@ -10,11 +10,18 @@
   },
   "repo": "https://github.com/tekunotri/huehued",
   "githubAuthor": null,
-  "hash": "6776e558e7f48fd8a00fba4c5fc195da9790abbb",
   "parent": "quakehud",
   "resources": [
     "huehued-menu",
     "huehued-gameplay",
     "huehued-medic"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6776e558e7f48fd8a00fba4c5fc195da9790abbb"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

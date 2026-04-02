@@ -1,13 +1,24 @@
 {
   "name": "Garm3n VIP-Beavern",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-VIP-Beavern/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-VIP-Beavern",
   "githubAuthor": null,
-  "hash": "759b4c0a14de2b2347f20654a6b2fd6620041552",
   "parent": "quakehud",
-  "resources": ["garm3n-vip-beavern-banner"]
+  "resources": [
+    "garm3n-vip-beavern-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "759b4c0a14de2b2347f20654a6b2fd6620041552"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

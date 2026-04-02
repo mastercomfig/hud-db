@@ -1,12 +1,22 @@
 {
   "name": "Rain HUD",
   "author": "RainofLight",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Rain-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Rain-Hud",
   "githubAuthor": null,
-  "hash": "873d01fe31c9a05d1af3b76c95d15b69abd3a21b",
-  "resources": ["rain-hud-banner"]
+  "resources": [
+    "rain-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "873d01fe31c9a05d1af3b76c95d15b69abd3a21b"
+      }
+    }
+  }
 }

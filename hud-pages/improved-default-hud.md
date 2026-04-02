@@ -19,12 +19,14 @@ This is not a custom HUD in its usual meaning; instead, the focus is to add some
 ## Recommended ConVars
 
 The following are some ConVar recommendations for a better experience with IDHUD.
+
 ```
 cl_spec_carrieditems 						0      // Hides the loadout items being used by the player you are spectating
 tf_hud_show_servertimelimit 				1      // Show server time limit in addition to round time
 tf_hud_target_id_alpha 						255    // Make HUD target ID background opaque to improve visibility
 tf_hud_target_id_disable_floating_health 	1      // Places TargetID HealthBar inside the character nameplate
 ```
+
 If you use mastercomfig, `tf_hud_show_servertimelimit` is enabled by default for all presets, and `tf_hud_target_id_alpha` can be controlled using the "Panels" module. The rest of the commands can be managed via the advanced options menu or directly through the console.
 
 See [the README file on GitHub](https://github.com/idhud-tf2/idhud/blob/main/README.md) for more information.

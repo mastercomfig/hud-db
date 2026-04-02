@@ -1,13 +1,23 @@
 {
   "name": "EJP HUD",
   "author": "b4stian",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "ejphud",
     "album": "https://github.com/TF2HUDsArchive/EJP-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/EJP-Hud",
   "githubAuthor": null,
-  "hash": "15ccfb1aed9dd95818550f62026f9e8292c9fed7",
-  "resources": ["ejp-hud-banner"]
+  "resources": [
+    "ejp-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "15ccfb1aed9dd95818550f62026f9e8292c9fed7"
+      }
+    }
+  }
 }

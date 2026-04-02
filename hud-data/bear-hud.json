@@ -8,7 +8,16 @@
   },
   "repo": "https://github.com/tf2huds/bearhud",
   "githubAuthor": null,
-  "hash": "c8b7a4b3c67eae4279c79902158bbcd0a60688ed",
   "parent": "broesel-hud",
-  "resources": ["bear-hud-banner"]
+  "resources": [
+    "bear-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c8b7a4b3c67eae4279c79902158bbcd0a60688ed"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -5,6 +5,14 @@
     "album": "https://imgur.com/a/ooLDq5N"
   },
   "repo": "https://github.com/Malgreen/funkehud-reloaded",
-  "hash": "ab524a189e10b101020b556c1070cff383a38be3",
-  "resources": ["funkehud-reloaded-banner"]
+  "resources": [
+    "funkehud-reloaded-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "ab524a189e10b101020b556c1070cff383a38be3"
+      }
+    }
+  }
 }

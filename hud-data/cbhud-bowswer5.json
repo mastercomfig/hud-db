@@ -1,13 +1,24 @@
 {
   "name": "CBHUD - bowswer5",
   "author": "bowswer5",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/CBHud-bowswer5/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/CBHud-bowswer5",
   "githubAuthor": null,
-  "hash": "0801e92339d9126e0be862f786cd023089279bb5",
   "parent": "cb-hud",
-  "resources": ["cbhud-bowswer5-banner"]
+  "resources": [
+    "cbhud-bowswer5-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "0801e92339d9126e0be862f786cd023089279bb5"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

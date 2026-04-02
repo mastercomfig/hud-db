@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/8iso7r6"
   },
   "repo": "https://gamebanana.com/mods/26195",
-  "hash": "",
-  "publishDate": "2023-03-06",
-  "resources": ["phouwui-banner"]
+  "resources": [
+    "phouwui-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-03-06"
+      }
+    }
+  }
 }

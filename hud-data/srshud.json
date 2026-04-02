@@ -10,10 +10,16 @@
   },
   "repo": "https://github.com/tekunotri/srshud",
   "githubAuthor": null,
-  "hash": "3c6890f951156cb9934184ac788e88b0d268be18",
   "resources": [
     "srshud-menu",
     "srshud-gameplay",
     "srshud-medic"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3c6890f951156cb9934184ac788e88b0d268be18"
+      }
+    }
+  }
 }

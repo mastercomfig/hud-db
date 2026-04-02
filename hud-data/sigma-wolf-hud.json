@@ -10,11 +10,16 @@
     "materials",
     "customization"
   ],
-  "tags": ["minimal", "meme"],
+  "tags": [
+    "minimal",
+    "meme"
+  ],
   "repo": "https://github.com/zxxtlz/sigmawolfhud",
-  "hash": "c11bc5870f8781fd66c248c6ef99ad9b5d9df6ea",
   "prerelease": false,
-  "resources": ["sigma", "https://youtu.be/IiettpUeDC4"],
+  "resources": [
+    "sigma",
+    "https://youtu.be/IiettpUeDC4"
+  ],
   "social": {
     "issues": "https://github.com/zxxtlz/sigmawolfhud/issues",
     "steam_profile": "76561198072827293",
@@ -22,7 +27,9 @@
     "album": "https://imgur.com/a/K6bAsUA"
   },
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -42,8 +49,25 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c11bc5870f8781fd66c248c6ef99ad9b5d9df6ea"
+      }
+    }
   }
 }

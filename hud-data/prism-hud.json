@@ -7,6 +7,14 @@
   },
   "repo": "https://github.com/TF2HUDsArchive/Prism-Hud",
   "githubAuthor": "JarateKing",
-  "hash": "2c4650a787812fd768bd33c0a813dca13fc033fe",
-  "resources": ["prism-hud-banner"]
+  "resources": [
+    "prism-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2c4650a787812fd768bd33c0a813dca13fc033fe"
+      }
+    }
+  }
 }

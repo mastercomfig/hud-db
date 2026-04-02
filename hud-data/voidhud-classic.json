@@ -7,7 +7,6 @@
     "album": "https://imgur.com/a/BKWgR"
   },
   "repo": "https://github.com/TheStaticVoid/VoidHUD2.0",
-  "hash": "c91a7a59794c2e412373eff412641b6edb1ee5df",
   "parent": "voidhud",
   "resources": [
     "voidhud-classic-banner",
@@ -18,5 +17,13 @@
     "target-id",
     "class-select",
     "scoreboard"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c91a7a59794c2e412373eff412641b6edb1ee5df"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

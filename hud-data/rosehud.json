@@ -14,8 +14,9 @@
     "customization"
   ],
   "repo": "https://github.com/RoseyLemonz/rosehud",
-  "hash": "cfb1d3dc433a6e52639c39d9d3d8ce30b898c958",
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "prerelease": true,
   "social": {
     "steam_profile": "76561199001745671",
@@ -32,9 +33,25 @@
       "plr",
       "pd"
     ],
-    "os": ["windows", "linux"],
-    "res": ["16/9"],
-    "position": ["center"],
-    "lang": ["en"]
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "cfb1d3dc433a6e52639c39d9d3d8ce30b898c958"
+      }
+    }
   }
 }

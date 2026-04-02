@@ -1,12 +1,22 @@
 {
   "name": "Zhud",
   "author": "reika",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Z-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Z-Hud",
   "githubAuthor": null,
-  "hash": "b2ae9f066d11b0b99340f2a1036c701f5737838e",
-  "resources": ["zhud-banner"]
+  "resources": [
+    "zhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "b2ae9f066d11b0b99340f2a1036c701f5737838e"
+      }
+    }
+  }
 }

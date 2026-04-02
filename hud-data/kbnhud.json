@@ -18,7 +18,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -38,11 +42,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ]
   },
-  "tags": ["minimal", "ultra-minimal", "competitive"],
+  "tags": [
+    "minimal",
+    "ultra-minimal",
+    "competitive"
+  ],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "daeda0c20310a54646253f7dfdc9536ae7acdfb6",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",
@@ -55,5 +70,12 @@
     "09-kbnhud-destroy-menu",
     "10-kbnhud-32p-scoreboard",
     "11-kbnhud-tournament-spectator"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "daeda0c20310a54646253f7dfdc9536ae7acdfb6"
+      }
+    }
+  }
 }

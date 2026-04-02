@@ -27,4 +27,3 @@ Available separately, players can add custom sound and graphics packs to match t
 # Inspired
 
 REDUX started as a minor font and color update, reintroducing TF2's color scheme and adding font outlines. Inspiration was then taken from 'MEME vs. META', creating the various octagonal and glass shapes. The HUD and menus also borrow ideas from other SolarLight videos, as well as the Persona games, Sonic Heroes, Genshin Impact and a few other places.
-

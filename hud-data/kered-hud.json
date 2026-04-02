@@ -1,12 +1,22 @@
 {
   "name": "Kered HUD",
   "author": "Kered",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Kered-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Kered-Hud",
   "githubAuthor": null,
-  "hash": "a5fefffadf20eb958cca6d4437fea22f1d86df87",
-  "resources": ["kered-hud-banner"]
+  "resources": [
+    "kered-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a5fefffadf20eb958cca6d4437fea22f1d86df87"
+      }
+    }
+  }
 }

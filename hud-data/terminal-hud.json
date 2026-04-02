@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/Y46Z4Zq"
   },
   "repo": "https://www.teamfortress.tv/52439/terminolghahud",
-  "hash": "",
-  "publishDate": "2019-05-13",
-  "resources": ["terminal-hud-banner"]
+  "resources": [
+    "terminal-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2019-05-13"
+      }
+    }
+  }
 }

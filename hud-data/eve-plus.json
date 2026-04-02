@@ -1,7 +1,9 @@
 {
   "name": "e.v.e Plus",
   "author": "RoseyLemonz",
-  "contributors": ["Sinders"],
+  "contributors": [
+    "Sinders"
+  ],
   "releaseDate": "2025-03-28",
   "parent": "e-v-e-hud",
   "distinguishedFromParent": true,
@@ -17,10 +19,11 @@
     "minmode"
   ],
   "repo": "https://github.com/RoseyLemonz/eve-plus",
-  "hash": "2ca73c1227276fa0f6234b0ead9ec4b92ce30d09",
-  "tags": ["minimal", "vanilla"],
+  "tags": [
+    "minimal",
+    "vanilla"
+  ],
   "prerelease": false,
-
   "social": {
     "steam_profile": "76561199001745671",
     "discord": "/p5JV3k5CfE",
@@ -47,9 +50,27 @@
       "sd",
       "tc"
     ],
-    "os": ["windows", "linux"],
-    "res": ["4/3", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2ca73c1227276fa0f6234b0ead9ec4b92ce30d09"
+      }
+    }
   }
 }

@@ -1,7 +1,9 @@
 {
   "name": "Improved Default HUD",
   "author": "Eniere",
-  "contributors": ["Tiagoquix"],
+  "contributors": [
+    "Tiagoquix"
+  ],
   "releaseDate": "2014-03-21",
   "social": {
     "support": "https://steamcommunity.com/tradeoffer/new/?partner=387320466&token=LKwcxEl5",
@@ -14,7 +16,10 @@
     "minmode"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -34,20 +39,36 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"],
-    "position": ["default"]
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "default"
+    ]
   },
-  "tags": ["default", "improved", "idhud", "vanilla", "minimal"],
+  "tags": [
+    "default",
+    "improved",
+    "idhud",
+    "vanilla",
+    "minimal"
+  ],
   "repo": "https://github.com/idhud-tf2/idhud",
   "githubAuthor": "Eniere",
-  "hash": "9cec06bd1c34865a416f0fb7954265a00d10fe85",
   "prerelease": false,
   "resources": [
-  "1-idhud_banner",
-  "2-combat",
-  "3-medic_hud",
-  "4-scoreboard",
-  "5-spectator_tournament",
-  "6-loadout"
-  ]
+    "1-idhud_banner",
+    "2-combat",
+    "3-medic_hud",
+    "4-scoreboard",
+    "5-spectator_tournament",
+    "6-loadout"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "9cec06bd1c34865a416f0fb7954265a00d10fe85"
+      }
+    }
+  }
 }

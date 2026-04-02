@@ -1,12 +1,22 @@
 {
   "name": "Metro HUD",
   "author": "Unknown",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Metro-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Metro-Hud",
   "githubAuthor": null,
-  "hash": "a4c0b83c304d792c662fbd0d5ef3c4a70ef17204",
-  "resources": ["metro-hud-banner"]
+  "resources": [
+    "metro-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a4c0b83c304d792c662fbd0d5ef3c4a70ef17204"
+      }
+    }
+  }
 }

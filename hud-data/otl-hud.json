@@ -1,12 +1,22 @@
 {
   "name": "OTL HUD",
   "author": "otl",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/OTL-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/OTL-Hud",
   "githubAuthor": null,
-  "hash": "1c3c2e4df64f9922731e7a00e08a6e32f9279233",
-  "resources": ["otl-hud-banner"]
+  "resources": [
+    "otl-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "1c3c2e4df64f9922731e7a00e08a6e32f9279233"
+      }
+    }
+  }
 }

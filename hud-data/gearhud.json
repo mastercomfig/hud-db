@@ -6,7 +6,6 @@
   ],
   "parent": "ahud-hammeredit",
   "repo": "https://github.com/netbookmillionaire/gearhud",
-  "hash": "9bde3d4787898ac37049eaca68112a5cd964ef5e",
   "resources": [
     "gearhud-banner",
     "gearhud-1",
@@ -14,5 +13,13 @@
     "gearhud-3",
     "gearhud-4",
     "gearhud-5"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "9bde3d4787898ac37049eaca68112a5cd964ef5e"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

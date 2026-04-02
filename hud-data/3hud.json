@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/uA7smF9"
   },
   "repo": "https://gamebanana.com/mods/297192",
-  "hash": "v2",
-  "publishDate": "2021-06-22",
-  "resources": ["3hud-banner"]
+  "resources": [
+    "3hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "v2",
+        "publishDate": "2021-06-22"
+      }
+    }
+  }
 }

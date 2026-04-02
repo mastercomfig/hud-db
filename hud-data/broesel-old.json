@@ -1,14 +1,25 @@
 {
   "name": "Broesel Old",
   "author": "Broesel",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "broeselhud",
     "album": "https://github.com/TF2HUDsArchive/Broesel-Old/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Broesel-Old",
   "githubAuthor": null,
-  "hash": "6b6954d8c9ad6c9de2a9b566e0b8bb07c97eef7c",
   "parent": "broesel-hud",
-  "resources": ["broesel-old-banner"]
+  "resources": [
+    "broesel-old-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6b6954d8c9ad6c9de2a9b566e0b8bb07c97eef7c"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

@@ -16,7 +16,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -27,10 +31,25 @@
       "pass",
       "pl"
     ],
-    "res": ["16/9"]
+    "res": [
+      "16/9"
+    ]
   },
-  "tags": ["competitive", "sixes", "highlander", "ultiduo"],
+  "tags": [
+    "competitive",
+    "sixes",
+    "highlander",
+    "ultiduo"
+  ],
   "repo": "https://github.com/hexereii/BerryHUD",
-  "hash": "97903dd6de4aa1fbbc834a5f48c37a975c24c020",
-  "resources": ["berrybanner"]
+  "resources": [
+    "berrybanner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "97903dd6de4aa1fbbc834a5f48c37a975c24c020"
+      }
+    }
+  }
 }

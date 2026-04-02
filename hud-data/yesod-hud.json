@@ -32,7 +32,6 @@
     "minimal"
   ],
   "repo": "https://github.com/yesod404/yesodCollyHUD",
-  "hash": "9d9490bae787b724006060e1d8a78b30a8d6785f",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198212866289",
@@ -70,5 +69,12 @@
     "position": [
       "center"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "9d9490bae787b724006060e1d8a78b30a8d6785f"
+      }
+    }
   }
 }

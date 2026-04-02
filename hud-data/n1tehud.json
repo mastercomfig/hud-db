@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/P1UFpqr"
   },
   "repo": "https://gamebanana.com/mods/383154",
-  "hash": "",
-  "publishDate": "2023-03-08",
-  "resources": ["n1tehud-banner"]
+  "resources": [
+    "n1tehud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-03-08"
+      }
+    }
+  }
 }

@@ -2,13 +2,23 @@
   "name": "lionHUD",
   "author": "Bara Godzilla",
   "verified": true,
-  "contributors": ["Jofre Problem?"],
+  "contributors": [
+    "Jofre Problem?"
+  ],
   "social": {
     "steam_group": "lionhud",
     "album": "https://imgur.com/a/ilPM9ne"
   },
   "repo": "https://github.com/Jofre-Problem/lionHUD",
   "githubAuthor": "baraGodzilla",
-  "hash": "09626caf3b58cd2eb16c1474f059a56cf3accb1c",
-  "resources": ["lion-hud-banner"]
+  "resources": [
+    "lion-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "09626caf3b58cd2eb16c1474f059a56cf3accb1c"
+      }
+    }
+  }
 }

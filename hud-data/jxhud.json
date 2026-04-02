@@ -2,6 +2,14 @@
   "name": "jxhud",
   "author": "JarateKing",
   "repo": "https://github.com/JarateKing/jx-hud",
-  "hash": "dc5c7bb3cbc4b2e77ff4c7cc318657ed8b793abc",
-  "resources": ["jxhud-banner"]
+  "resources": [
+    "jxhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "dc5c7bb3cbc4b2e77ff4c7cc318657ed8b793abc"
+      }
+    }
+  }
 }

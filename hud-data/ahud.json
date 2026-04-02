@@ -14,7 +14,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -32,9 +34,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/n0kk/ahud",
-  "hash": "419f0b4bcfd5c086d35525ec24558b6bdb01f587",
-  "resources": ["ahud-banner"]
+  "resources": [
+    "ahud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "419f0b4bcfd5c086d35525ec24558b6bdb01f587"
+      }
+    }
+  }
 }

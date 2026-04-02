@@ -1,7 +1,9 @@
 {
   "name": "OMP HUD",
   "author": "OMP",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "tf2hud",
     "album": "https://github.com/TF2HUDsArchive/OMP-Hud/blob/screenshots/showcase.md"
@@ -16,7 +18,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -33,10 +37,21 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9", "16/10"]
+    "res": [
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/OMP-Hud",
   "githubAuthor": "omp",
-  "hash": "e051158f22ba1be5343eb9765451a037c8460589",
-  "resources": ["omp-hud-banner"]
+  "resources": [
+    "omp-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "e051158f22ba1be5343eb9765451a037c8460589"
+      }
+    }
+  }
 }

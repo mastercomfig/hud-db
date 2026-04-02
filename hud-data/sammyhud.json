@@ -14,7 +14,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -32,9 +34,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9"]
+    "res": [
+      "4/3",
+      "16/9"
+    ]
   },
   "repo": "https://github.com/sammybun/sammyhud",
-  "hash": "25e514f066178d761ff457a5d6c937bdadd174a7",
-  "resources": ["sammyhud-banner"]
+  "resources": [
+    "sammyhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "25e514f066178d761ff457a5d6c937bdadd174a7"
+      }
+    }
+  }
 }

@@ -1,12 +1,22 @@
 {
   "name": "Black HUD",
   "author": "Rawr",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Black-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Black-Hud",
   "githubAuthor": null,
-  "hash": "270a4cd062af669c662a7f3b0251d2ff1ab79ee4",
-  "resources": ["black-hud-banner"]
+  "resources": [
+    "black-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "270a4cd062af669c662a7f3b0251d2ff1ab79ee4"
+      }
+    }
+  }
 }

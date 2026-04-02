@@ -14,7 +14,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -34,9 +37,22 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/kmarcie/mkHUD",
-  "hash": "3f7847ddf7b0265f2b3f43fd4b5df791a46dcfca",
-  "resources": ["mk-hud-banner"]
+  "resources": [
+    "mk-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "3f7847ddf7b0265f2b3f43fd4b5df791a46dcfca"
+      }
+    }
+  }
 }

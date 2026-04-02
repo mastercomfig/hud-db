@@ -17,7 +17,7 @@ Everyone that has helped translate Center HUD to other languages, if you're inte
 - <a href="https://steamcommunity.com/profiles/76561199122950001/">chillyy (French)</a>
 - <a href="https://github.com/Hardingfele2212">Hardingfele2212 (Norwegian)</a>
 - <a href="https://steamcommunity.com/id/SpecializedUnFunny">UnFunny (Polish)</a>
-- <a href="https://github.com/Pyromaniax">Pyromaniax (Portuguese [Brazillian])</a>
+- <a href="https://github.com/Pyromaniax">Pyromaniax (Portuguese (Brazilian))</a>
 - <a href="https://github.com/LlamaGR1">LlamaGR1 (Greek)</a>
 
 <h2>Credits</h2>

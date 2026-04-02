@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/ZoW71Ev"
   },
   "repo": "https://gamebanana.com/mods/26085",
-  "hash": "",
-  "publishDate": "2021-07-01",
-  "resources": ["tch-hud-banner"]
+  "resources": [
+    "tch-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2021-07-01"
+      }
+    }
+  }
 }

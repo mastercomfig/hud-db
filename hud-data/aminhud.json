@@ -10,20 +10,20 @@
   "distinguishedFromParent": false,
   "resources": [
     "hudbanner1",
-	"1",
-	"2",
-	"3",
-	"4",
-	"5",
-	"6",
-	"7",
-	"8",
-	"9",
-	"10",
-	"11",
-	"12",
-	"13",
-	"14"
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
   ],
   "flags": [
     "fonts",
@@ -38,7 +38,6 @@
     "clean"
   ],
   "repo": "https://github.com/aminium69/AminHUD-BETA",
-  "hash": "45a46f22e3ff7a30bec5d07116dd5243d8f5cf35",
   "prerelease": true,
   "social": {
     "steam_profile": "76561199212272501",
@@ -66,5 +65,12 @@
     "position": [
       "center"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "45a46f22e3ff7a30bec5d07116dd5243d8f5cf35"
+      }
+    }
   }
 }

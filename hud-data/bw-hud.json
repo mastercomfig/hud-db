@@ -13,7 +13,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -33,9 +35,19 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"]
+    "res": [
+      "16/9"
+    ]
   },
   "repo": "https://github.com/bw-/bwhud",
-  "hash": "e36465793d57369a8bd588512ed133245107cda9",
-  "resources": ["bw-hud-banner"]
+  "resources": [
+    "bw-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "e36465793d57369a8bd588512ed133245107cda9"
+      }
+    }
+  }
 }

@@ -1,13 +1,24 @@
 {
   "name": "Yahud Black",
   "author": "Whayay",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Yahud-Black/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Yahud-Black",
   "githubAuthor": null,
-  "hash": "bc9671739c63279d4c013b724d74c62206b18dfb",
   "parent": "yayahud",
-  "resources": ["yahud-black-banner"]
+  "resources": [
+    "yahud-black-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "bc9671739c63279d4c013b724d74c62206b18dfb"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

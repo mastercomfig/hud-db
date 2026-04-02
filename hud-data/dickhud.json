@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/Mj6SajL"
   },
   "repo": "https://gamebanana.com/mods/329588",
-  "hash": "",
-  "publishDate": "2021-10-21",
-  "resources": ["dickhud-banner"]
+  "resources": [
+    "dickhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2021-10-21"
+      }
+    }
+  }
 }

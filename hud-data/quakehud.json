@@ -42,8 +42,14 @@
     ]
   },
   "repo": "https://github.com/quickkennedy/quakehud",
-  "hash": "a4c8a401bb2c537c0974f78058b69554c9cbd792",
   "resources": [
     "quakehud-banner"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a4c8a401bb2c537c0974f78058b69554c9cbd792"
+      }
+    }
+  }
 }

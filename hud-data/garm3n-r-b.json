@@ -1,13 +1,24 @@
 {
   "name": "Garm3n R-B",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-R-B/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-R-B",
   "githubAuthor": null,
-  "hash": "fb229b8dc84b654ecab84d28f65ba18edb205cea",
   "parent": "quakehud",
-  "resources": ["garm3n-r-b-banner"]
+  "resources": [
+    "garm3n-r-b-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "fb229b8dc84b654ecab84d28f65ba18edb205cea"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

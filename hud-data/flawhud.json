@@ -17,7 +17,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,13 +41,42 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center", "corners"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/CriticalFlaw/flawhud",
-  "hash": "6282582e531ec1ca20b0ab85f9f1511be2f346df",
   "verified": true,
-  "resources": ["banner", "menu", "loadout", "hud", "scoreboard", "spectator"]
+  "resources": [
+    "banner",
+    "menu",
+    "loadout",
+    "hud",
+    "scoreboard",
+    "spectator"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6282582e531ec1ca20b0ab85f9f1511be2f346df"
+      }
+    }
+  }
 }

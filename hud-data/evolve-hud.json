@@ -1,12 +1,22 @@
 {
   "name": "Evolve HUD",
   "author": "Eevove",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Evolve-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Evolve-Hud",
   "githubAuthor": null,
-  "hash": "a82b70e3fc68ae1894b32a1bc5afb307c35d57c4",
-  "resources": ["evolve-hud-banner"]
+  "resources": [
+    "evolve-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a82b70e3fc68ae1894b32a1bc5afb307c35d57c4"
+      }
+    }
+  }
 }

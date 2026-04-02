@@ -1,13 +1,22 @@
 {
   "name": "Clip HUD",
   "author": "Flatline",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Clip-Hud/blob/screenshots/showcase.md"
   },
-  "flags": ["fonts", "menus", "crosshairs", "materials"],
+  "flags": [
+    "fonts",
+    "menus",
+    "crosshairs",
+    "materials"
+  ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -23,10 +32,20 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"]
+    "res": [
+      "16/9"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/Clip-Hud",
   "githubAuthor": null,
-  "hash": "f77879deddad8adbae4ca890bce6f374037c3da3",
-  "resources": ["clip-hud-banner"]
+  "resources": [
+    "clip-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "f77879deddad8adbae4ca890bce6f374037c3da3"
+      }
+    }
+  }
 }

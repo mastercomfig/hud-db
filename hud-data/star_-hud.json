@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/HkGMhB2"
   },
   "repo": "https://www.dropbox.com/s/pv1x7tmv912cl5l/Star_%20Hud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2022-11-17",
-  "resources": ["star_-hud-banner"]
+  "resources": [
+    "star_-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2022-11-17"
+      }
+    }
+  }
 }

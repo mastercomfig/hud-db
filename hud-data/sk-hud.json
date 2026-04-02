@@ -1,12 +1,22 @@
 {
   "name": "SK HUD",
   "author": "Dikker",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/SK-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/SK-Hud",
   "githubAuthor": null,
-  "hash": "2e72380af133aad46f2a1d2bbd8476340d1edfa2",
-  "resources": ["sk-hud-banner"]
+  "resources": [
+    "sk-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2e72380af133aad46f2a1d2bbd8476340d1edfa2"
+      }
+    }
+  }
 }

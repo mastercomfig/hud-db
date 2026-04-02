@@ -6,7 +6,15 @@
     "album": "https://imgur.com/a/Lu83Q9x"
   },
   "repo": "https://gamebanana.com/mods/432539",
-  "hash": "v3.1",
-  "publishDate": "2023-03-16",
-  "resources": ["bowiehud-banner"]
+  "resources": [
+    "bowiehud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "v3.1",
+        "publishDate": "2023-03-16"
+      }
+    }
+  }
 }

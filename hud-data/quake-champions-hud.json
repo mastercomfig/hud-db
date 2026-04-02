@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/rXBjFjL"
   },
   "repo": "https://gamebanana.com/mods/456684",
-  "hash": "",
-  "publishDate": "2023-07-17",
-  "resources": ["quake-champions-hud-banner"]
+  "resources": [
+    "quake-champions-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-07-17"
+      }
+    }
+  }
 }

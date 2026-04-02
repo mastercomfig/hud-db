@@ -1,7 +1,9 @@
 {
   "name": "rayshud",
   "author": "raysfire",
-  "contributors": ["CriticalFlaw"],
+  "contributors": [
+    "CriticalFlaw"
+  ],
   "social": {
     "steam_group": "rayshud",
     "discord": "/hTdtK9vBhE",
@@ -16,7 +18,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,13 +42,41 @@
       "sd",
       "tc"
     ],
-    "res": ["1/1", "4/3", "5/4", "16/10", "16/9", "17/9", "21/9", "32/9"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "1/1",
+      "4/3",
+      "5/4",
+      "16/10",
+      "16/9",
+      "17/9",
+      "21/9",
+      "32/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
-  "tags": ["minimal"],
+  "tags": [
+    "minimal"
+  ],
   "repo": "https://github.com/raysfire/rayshud",
-  "hash": "a22ede014e4f3b1260aa8fd657ff0757d9d006b8",
   "verified": true,
-  "resources": ["banner", "menu", "loadout", "hud", "hud-minmode", "scoreboard"]
+  "resources": [
+    "banner",
+    "menu",
+    "loadout",
+    "hud",
+    "hud-minmode",
+    "scoreboard"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a22ede014e4f3b1260aa8fd657ff0757d9d006b8"
+      }
+    }
+  }
 }

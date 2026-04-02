@@ -16,7 +16,11 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "mac", "linux"],
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -36,9 +40,19 @@
       "sd",
       "tc"
     ],
-    "res": ["16/9"]
+    "res": [
+      "16/9"
+    ]
   },
   "repo": "https://github.com/Sevin7/7hud",
-  "hash": "75daba995a8253d39926ec324e9f26709b27b8b6",
-  "resources": ["7hud-banner"]
+  "resources": [
+    "7hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "75daba995a8253d39926ec324e9f26709b27b8b6"
+      }
+    }
+  }
 }

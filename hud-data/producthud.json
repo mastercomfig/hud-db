@@ -8,16 +8,13 @@
     "quickkennedy",
     "techno"
   ],
-
   "releaseDate": "2024-05-08",
   "prerelease": false,
-
   "social": {
     "issues": "https://github.com/Kruphixx/producthud/issues",
     "steam_profile": "76561198138061435",
     "album": "https://github.com/Kruphixx/producthud/blob/screenshots/showcase.md"
   },
-
   "resources": [
     "product-banner-new",
     "product-menu-default",
@@ -34,7 +31,6 @@
     "product-mvm",
     "product-scoreboard"
   ],
-
   "flags": [
     "fonts",
     "menus",
@@ -45,12 +41,12 @@
     "materials",
     "customization"
   ],
-
   "repo": "https://github.com/Kruphixx/producthud",
-  "hash": "621289720ea4bc35c7b6d817decf7ea043bc3e2a",
-
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -70,7 +66,25 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "16/9", "16/10", "21/9", "32/9", "17/9", "1/1", "5/4"],
-    "position": ["center"]
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "21/9",
+      "32/9",
+      "17/9",
+      "1/1",
+      "5/4"
+    ],
+    "position": [
+      "center"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "621289720ea4bc35c7b6d817decf7ea043bc3e2a"
+      }
+    }
   }
 }

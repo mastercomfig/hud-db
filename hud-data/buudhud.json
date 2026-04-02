@@ -5,6 +5,14 @@
     "album": "https://imgur.com/a/NdJGm3d"
   },
   "repo": "https://github.com/buudtf2/buudhud",
-  "hash": "2ea73447b159d1f7e469cd607e11620b24509c2c",
-  "resources": ["buudhud-banner"]
+  "resources": [
+    "buudhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "2ea73447b159d1f7e469cd607e11620b24509c2c"
+      }
+    }
+  }
 }

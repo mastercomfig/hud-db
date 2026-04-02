@@ -67,8 +67,14 @@
     "vanilla"
   ],
   "repo": "https://github.com/Vexcenot/-Middle-Mann",
-  "hash": "96dbeffab2fd2674c26c2794f9350cf3e151dba0",
   "resources": [
     "middlemann-banner"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "96dbeffab2fd2674c26c2794f9350cf3e151dba0"
+      }
+    }
+  }
 }

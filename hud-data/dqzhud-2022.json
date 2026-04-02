@@ -5,9 +5,16 @@
     "Sinders"
   ],
   "repo": "https://github.com/irodionr/dqz_hud",
-  "hash": "d2f5b443a87011dd6fda584c97f601a9162b8aa2",
   "parent": "dqzhud",
   "resources": [
     "dqzhud-2022-banner"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d2f5b443a87011dd6fda584c97f601a9162b8aa2"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

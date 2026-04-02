@@ -1,13 +1,24 @@
 {
   "name": "Garm3n TCF-XL",
   "author": "Garm3n",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Garm3n-TCF-XL/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Garm3n-TCF-XL",
   "githubAuthor": null,
-  "hash": "1e6ba14d5cb79ba4aea062086c1fee5c8c48c0ed",
   "parent": "quakehud",
-  "resources": ["garm3n-tcf-xl-banner"]
+  "resources": [
+    "garm3n-tcf-xl-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "1e6ba14d5cb79ba4aea062086c1fee5c8c48c0ed"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

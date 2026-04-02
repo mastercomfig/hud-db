@@ -5,7 +5,15 @@
     "album": "https://i.imgur.com/zktLEuq.jpg"
   },
   "repo": "https://www.teamfortress.tv/55500/placebohud",
-  "hash": "",
-  "publishDate": "2022-12-20",
-  "resources": ["placebo-hud-banner"]
+  "resources": [
+    "placebo-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2022-12-20"
+      }
+    }
+  }
 }

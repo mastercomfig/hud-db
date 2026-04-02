@@ -1,72 +1,85 @@
 {
-	"name": "JumpHUD",
-	"author": "itsame",
-	"releaseDate": "2025-08-11",
-	"parent": "m0rehud",
-	"distinguishedFromParent": true,
-	"resources": [
-		"01-logobig",
-		"02-mainmenu",
-		"03-soldier1",
-		"04-demo1",
-		"05-spectator",
-		"06-pausemenu",
-		"07-loadout",
-		"08-mainhud",
-		"09-targetid",
-		"10-scoreboard",
-		"11-mvmbuymenu",
-		"12-compreadyup"
-	],
-	"flags": [
-		"fonts",
-		"menus",
-		"scoreboards",
-		"crosshairs",
-		"minmode",
-		"materials",
-		"customization"
-	],
-	"tags": [
-		"minimal",
-		"jump",
-		"soldier",
-		"demoman",
-		"blast",
-		"movement",
-		"tempus",
-		"speed"
-	],
-	"repo": "https://github.com/itsmmarc/jumphud",
-	"hash": "d17c902cf9b9f1a298a5a33d456f12e4fccd1b81",
-	"prerelease": false,
-	"social": {
-		"support": "https://ko-fi.com/itsmmarc",
-		"steam_profile": "76561198059284918",
-		"discord": "/s6yJMGecMZ",
-		"youtube": "@itsame_L",
-		"twitch": "itsmmarc",
-		"album": "https://github.com/itsmmarc/jumphud/wiki/SHOWCASE"
-	},
-	"traits": {
-		"gamemode": [
-			"tournament",
-			"comp",
-			"arena",
-			"ad",
-			"ctf",
-			"cp",
-			"halloween",
-			"koth",
-			"mannpower",
-			"mvm",
-			"pass",
-			"pl",
-			"plr",
-			"sd"
-		],
-		"res": ["4/3", "16/9"],
-		"position": ["center"],
-		"lang": ["en"]
-	}
+  "name": "JumpHUD",
+  "author": "itsame",
+  "releaseDate": "2025-08-11",
+  "parent": "m0rehud",
+  "distinguishedFromParent": true,
+  "resources": [
+    "01-logobig",
+    "02-mainmenu",
+    "03-soldier1",
+    "04-demo1",
+    "05-spectator",
+    "06-pausemenu",
+    "07-loadout",
+    "08-mainhud",
+    "09-targetid",
+    "10-scoreboard",
+    "11-mvmbuymenu",
+    "12-compreadyup"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "minimal",
+    "jump",
+    "soldier",
+    "demoman",
+    "blast",
+    "movement",
+    "tempus",
+    "speed"
+  ],
+  "repo": "https://github.com/itsmmarc/jumphud",
+  "prerelease": false,
+  "social": {
+    "support": "https://ko-fi.com/itsmmarc",
+    "steam_profile": "76561198059284918",
+    "discord": "/s6yJMGecMZ",
+    "youtube": "@itsame_L",
+    "twitch": "itsmmarc",
+    "album": "https://github.com/itsmmarc/jumphud/wiki/SHOWCASE"
+  },
+  "traits": {
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "sd"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d17c902cf9b9f1a298a5a33d456f12e4fccd1b81"
+      }
+    }
+  }
 }

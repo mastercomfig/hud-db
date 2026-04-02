@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/eWiBUBa"
   },
   "repo": "https://www.dropbox.com/scl/fi/ggzlcvfmwuqj2atam8r1t/Cruelty-Squad-HUD.7z?rlkey=31j9udueoyyholuq45xs0723q&dl=1",
-  "hash": "",
-  "publishDate": "2023-08-08",
-  "resources": ["cruelty-squad-hud-banner"]
+  "resources": [
+    "cruelty-squad-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-08-08"
+      }
+    }
+  }
 }

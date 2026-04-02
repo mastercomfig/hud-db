@@ -15,7 +15,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,12 +38,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/Hypnootize/lighthud",
-  "hash": "d69189f2b1e8cde4afab63b49da6367de462b62a",
   "resources": [
     "lighthud-banner",
     "lighthud-menu",
@@ -50,5 +61,12 @@
     "lighthud-m0re",
     "lighthud-tf2",
     "lighthud-scoreboard"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "d69189f2b1e8cde4afab63b49da6367de462b62a"
+      }
+    }
+  }
 }

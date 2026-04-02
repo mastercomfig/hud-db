@@ -1,12 +1,22 @@
 {
   "name": "Bonerjamz HUD",
   "author": "polaco",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Bonerjamz-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Bonerjamz-Hud",
   "githubAuthor": null,
-  "hash": "314ac347613942bc25a35610768f6efccef9cc55",
-  "resources": ["bonerjamz-hud-banner"]
+  "resources": [
+    "bonerjamz-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "314ac347613942bc25a35610768f6efccef9cc55"
+      }
+    }
+  }
 }

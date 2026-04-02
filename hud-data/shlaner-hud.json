@@ -1,12 +1,22 @@
 {
   "name": "Shlaner HUD",
   "author": "Shlaner",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Shlaner-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Shlaner-Hud",
   "githubAuthor": null,
-  "hash": "25a029bd82513c54d3d2bb742499487635877eb7",
-  "resources": ["shlaner-hud-banner"]
+  "resources": [
+    "shlaner-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "25a029bd82513c54d3d2bb742499487635877eb7"
+      }
+    }
+  }
 }

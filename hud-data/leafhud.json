@@ -12,7 +12,7 @@
   ],
   "flags": [
     "fonts",
-	"menus",
+    "menus",
     "scoreboards",
     "crosshairs",
     "materials",
@@ -22,7 +22,6 @@
     "simple"
   ],
   "repo": "https://github.com/RazorLeaf16/LeafHUD",
-  "hash": "79d2530c5d2a2aabce98eda70e8f35773635f244",
   "prerelease": false,
   "social": {},
   "traits": {
@@ -47,5 +46,12 @@
     "position": [
       "center"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "79d2530c5d2a2aabce98eda70e8f35773635f244"
+      }
+    }
   }
 }

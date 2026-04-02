@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/gs0V1Bf"
   },
   "repo": "https://www.dropbox.com/s/0gxjjv27pa6ns2b/spongehud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2022-07-06",
-  "resources": ["spongebob-hud-banner"]
+  "resources": [
+    "spongebob-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2022-07-06"
+      }
+    }
+  }
 }

@@ -1,12 +1,28 @@
 {
   "name": "1 Shot",
   "author": "Unknown",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/1-Shot-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/1-Shot-Hud",
-  "hash": "b643330e09748a1224cdc80aa9208651e99f0a6a",
   "parent": "m0rehud",
-  "resources": ["1-shot-banner"]
+  "resources": [
+    "1-shot-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "b643330e09748a1224cdc80aa9208651e99f0a6a"
+      }
+    },
+    "beta": {
+      "data": {
+        "ref": "b643330e09748a1224cdc80aa9208651e99f0a6a"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

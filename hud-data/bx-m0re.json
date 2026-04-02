@@ -1,13 +1,24 @@
 {
   "name": "BX-m0re",
   "author": "evans",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/bx-m0rehud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/bx-m0rehud",
   "githubAuthor": null,
-  "hash": "9f6a28ed1bda90a07c797437ad3ca378ae300d96",
   "parent": "m0rehud",
-  "resources": ["bx-m0re-banner"]
+  "resources": [
+    "bx-m0re-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "9f6a28ed1bda90a07c797437ad3ca378ae300d96"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

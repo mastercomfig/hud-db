@@ -1,13 +1,24 @@
 {
   "name": "Grape-Oxide",
   "author": "Grape",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Grape-Oxide/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Grape-Oxide",
   "githubAuthor": null,
-  "hash": "7685782aff9c0e309cf7313f9c91cd387626b6ce",
   "parent": "oxide-hud",
-  "resources": ["grape-oxide-banner"]
+  "resources": [
+    "grape-oxide-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "7685782aff9c0e309cf7313f9c91cd387626b6ce"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

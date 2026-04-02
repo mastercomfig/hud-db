@@ -1,7 +1,9 @@
 {
   "name": "m0rehud",
   "author": "Hypnotize",
-  "contributors": ["m0re"],
+  "contributors": [
+    "m0re"
+  ],
   "verified": true,
   "social": {
     "steam_profile": "76561198058754493",
@@ -17,7 +19,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,12 +42,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/Hypnootize/m0rehud",
-  "hash": "4f00092352c34d3317e195db5a5c414b0143a898",
   "resources": [
     "m0rehud-banner",
     "m0rehud-menu",
@@ -54,5 +67,12 @@
     "m0rehud-medic",
     "m0rehud-scoreboard",
     "m0rehud-spectator"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "4f00092352c34d3317e195db5a5c414b0143a898"
+      }
+    }
+  }
 }

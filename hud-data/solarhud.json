@@ -5,6 +5,14 @@
     "album": "https://imgur.com/a/DlrJb"
   },
   "repo": "https://github.com/Stochast1c/solarhud",
-  "hash": "ae24f9b59f15a7e5bc7e27d8bdb760a75d17d6f4",
-  "resources": ["solarhud-banner"]
+  "resources": [
+    "solarhud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "ae24f9b59f15a7e5bc7e27d8bdb760a75d17d6f4"
+      }
+    }
+  }
 }

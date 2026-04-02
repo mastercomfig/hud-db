@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/hDOxAyh"
   },
   "repo": "https://gamebanana.com/mods/380180",
-  "hash": "",
-  "publishDate": "2023-08-26",
-  "resources": ["morbius-hud-banner"]
+  "resources": [
+    "morbius-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-08-26"
+      }
+    }
+  }
 }

@@ -7,7 +7,7 @@ More Screenshots: <https://imgur.com/a/wHHbv>
 
 # Credits
 
-Extended credits: <https://github.com/nimtra/mkHUD>  
+Extended credits: <https://github.com/kmarcie/mkhud>  
   
 Inspiration from:  
 broeselhud (feeling & broesel)  

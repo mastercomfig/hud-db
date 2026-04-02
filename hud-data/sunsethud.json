@@ -17,7 +17,10 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows", "linux"],
+    "os": [
+      "windows",
+      "linux"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -37,12 +40,20 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"],
-    "position": ["center"],
-    "lang": ["en"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
   },
   "repo": "https://github.com/Hypnootize/sunsethud",
-  "hash": "c587bc5d84dda6cb848425c9053d55abb9c35010",
   "resources": [
     "sunsethud-banner",
     "sunsethud-menu",
@@ -53,5 +64,12 @@
     "sunsethud-engineer",
     "sunsethud-scoreboard",
     "sunsethud-spectator"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c587bc5d84dda6cb848425c9053d55abb9c35010"
+      }
+    }
+  }
 }

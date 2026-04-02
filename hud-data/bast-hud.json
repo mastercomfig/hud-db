@@ -1,13 +1,23 @@
 {
   "name": "Bast HUD",
   "author": "b4stian",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "bastHUD",
     "album": "https://github.com/TF2HUDsArchive/Bast-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Bast-Hud",
   "githubAuthor": null,
-  "hash": "27ca9594f0bf702a4a474895b66007720fc04b71",
-  "resources": ["bast-hud-banner"]
+  "resources": [
+    "bast-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "27ca9594f0bf702a4a474895b66007720fc04b71"
+      }
+    }
+  }
 }

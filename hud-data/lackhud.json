@@ -9,10 +9,17 @@
   },
   "repo": "https://github.com/tekunotri/LackHUD",
   "githubAuthor": null,
-  "hash": "fe3d6f519496cbc15118cd65a873a89e997cc93b",
   "parent": "broesel-hud",
   "resources": [
     "lackhud-menu",
     "lackhud-gameplay"
-  ]
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "fe3d6f519496cbc15118cd65a873a89e997cc93b"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

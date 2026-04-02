@@ -1,7 +1,9 @@
 {
   "name": "medHUD",
   "author": "intel",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "steam_group": "medhud",
     "album": "https://github.com/TF2HUDsArchive/medHUD/blob/screenshots/showcase.md"
@@ -15,7 +17,9 @@
     "customization"
   ],
   "traits": {
-    "os": ["windows"],
+    "os": [
+      "windows"
+    ],
     "gamemode": [
       "tournament",
       "comp",
@@ -35,10 +39,23 @@
       "sd",
       "tc"
     ],
-    "res": ["4/3", "5/4", "16/9", "16/10"]
+    "res": [
+      "4/3",
+      "5/4",
+      "16/9",
+      "16/10"
+    ]
   },
   "repo": "https://github.com/TF2HUDsArchive/medHUD",
   "githubAuthor": "Intellectualbadass",
-  "hash": "a7eb9a0ca8cb5d57bddb5a28ec776d17eba84ab0",
-  "resources": ["med-hud-banner"]
+  "resources": [
+    "med-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "a7eb9a0ca8cb5d57bddb5a28ec776d17eba84ab0"
+      }
+    }
+  }
 }

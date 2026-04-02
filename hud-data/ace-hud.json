@@ -1,13 +1,24 @@
 {
   "name": "Ace HUD",
   "author": "Mangachu",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Ace-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Ace-Hud",
   "githubAuthor": null,
-  "hash": "de504c3ee4a64e827ce8942e39b68cb37747ab76",
   "parent": "hudas-iscariote",
-  "resources": ["ace-hud-banner"]
+  "resources": [
+    "ace-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "de504c3ee4a64e827ce8942e39b68cb37747ab76"
+      }
+    }
+  },
+  "distinguishedFromParent": false
 }

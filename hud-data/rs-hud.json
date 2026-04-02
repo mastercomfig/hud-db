@@ -5,7 +5,15 @@
     "album": "https://imgur.com/a/FSP737q"
   },
   "repo": "https://www.dropbox.com/s/ty09utqyvb4ua9p/RS%20Hud.7z?dl=1",
-  "hash": "",
-  "publishDate": "2023-01-06",
-  "resources": ["rs-hud-banner"]
+  "resources": [
+    "rs-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "",
+        "publishDate": "2023-01-06"
+      }
+    }
+  }
 }

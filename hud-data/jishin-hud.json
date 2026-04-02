@@ -1,12 +1,22 @@
 {
   "name": "Jishin HUD",
   "author": "komorebi",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/Jishin-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/Jishin-Hud",
   "githubAuthor": null,
-  "hash": "c23c2ab82fe6e7a1691d86cb59128128460d5d4c",
-  "resources": ["jishin-hud-banner"]
+  "resources": [
+    "jishin-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "c23c2ab82fe6e7a1691d86cb59128128460d5d4c"
+      }
+    }
+  }
 }

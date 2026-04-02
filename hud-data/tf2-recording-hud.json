@@ -6,6 +6,14 @@
     "album": "https://github.com/Hypnootize/TF2-Recording-HUD/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/Hypnootize/TF2-Recording-HUD",
-  "hash": "68b1912d8edbadfaa144f25b870bb1f45d0ec649",
-  "resources": ["tf2-recording-hud-banner"]
+  "resources": [
+    "tf2-recording-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "68b1912d8edbadfaa144f25b870bb1f45d0ec649"
+      }
+    }
+  }
 }

@@ -6,6 +6,14 @@
     "album": "https://imgur.com/a/S1WVNqc"
   },
   "repo": "https://github.com/maxiandrew/maxihud",
-  "hash": "e61dcef0db6825b3a9d001a011b836f1c0d848ab",
-  "resources": ["maxihud-banner"]
+  "resources": [
+    "maxihud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "e61dcef0db6825b3a9d001a011b836f1c0d848ab"
+      }
+    }
+  }
 }

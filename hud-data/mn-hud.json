@@ -1,12 +1,22 @@
 {
   "name": "MN HUD",
   "author": "ninja commando",
-  "contributors": ["Hypnotize"],
+  "contributors": [
+    "Hypnotize"
+  ],
   "social": {
     "album": "https://github.com/TF2HUDsArchive/MN-Hud/blob/screenshots/showcase.md"
   },
   "repo": "https://github.com/TF2HUDsArchive/MN-Hud",
   "githubAuthor": null,
-  "hash": "93e120bbaaedfeb394e252d7219bb6c1bcba2742",
-  "resources": ["mn-hud-banner"]
+  "resources": [
+    "mn-hud-banner"
+  ],
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "93e120bbaaedfeb394e252d7219bb6c1bcba2742"
+      }
+    }
+  }
 }

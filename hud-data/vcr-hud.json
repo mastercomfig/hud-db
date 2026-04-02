@@ -20,7 +20,6 @@
     "materials"
   ],
   "repo": "https://github.com/VillageGreenPreserver/VCRHud",
-  "hash": "6d94453e62dc5d21cda8c8ac5b1260521e7ebbcb",
   "prerelease": false,
   "social": {
     "album": "https://github.com/VillageGreenPreserver/VGP-Screens/blob/main/pages/VCR.md"
@@ -47,5 +46,12 @@
     "position": [
       "corners"
     ]
+  },
+  "channels": {
+    "default": {
+      "data": {
+        "ref": "6d94453e62dc5d21cda8c8ac5b1260521e7ebbcb"
+      }
+    }
   }
 }
