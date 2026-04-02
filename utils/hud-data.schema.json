@@ -295,43 +295,14 @@
       "required": [
         "default"
       ],
+      "properties": {
+        "default": {
+          "$ref": "#/$defs/channelConfig"
+        }
+      },
       "patternProperties": {
-        "^[a-zA-Z0-9-]+$": {
-          "type": "object",
-          "properties": {
-            "source": {
-              "description": "How this channel determines its latest version. Can be 'release', 'prerelease', 'branch==<name>', 'tag==<pattern>', 'commit' or omitted for external/manual.",
-              "type": "string",
-              "pattern": "^(release|prerelease|commit|tag==.+|branch==.+)$"
-            },
-            "data": {
-              "description": "Cached data about the current version in this channel.",
-              "type": "object",
-              "properties": {
-                "ref": {
-                  "description": "The commit hash or version title of the current active version in this channel.",
-                  "type": "string"
-                },
-                "title": {
-                  "description": "Short title of the latest release",
-                  "type": "string"
-                },
-                "publishDate": {
-                  "description": "Date of publishing the current version, YYYY-MM-DD",
-                  "type": "string",
-                  "format": "date"
-                }
-              },
-              "required": [
-                "ref"
-              ],
-              "additionalProperties": false
-            }
-          },
-          "required": [
-            "data"
-          ],
-          "additionalProperties": false
+        "^(?!default$)[a-zA-Z0-9-]+$": {
+          "$ref": "#/$defs/channelConfig"
         }
       },
       "additionalProperties": false
@@ -362,5 +333,44 @@
     "parent": [
       "distinguishedFromParent"
     ]
+  },
+  "$defs": {
+    "channelConfig": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "description": "How this channel determines its latest version. Can be 'release', 'prerelease', 'branch==<name>', 'tag==<pattern>', 'commit' or omitted for external/manual.",
+          "type": "string",
+          "pattern": "^(release|prerelease|commit|tag==.+|branch==.+)$"
+        },
+        "data": {
+          "description": "Cached data about the current version in this channel.",
+          "type": "object",
+          "properties": {
+            "ref": {
+              "description": "The commit hash or version title of the current active version in this channel.",
+              "type": "string"
+            },
+            "title": {
+              "description": "Short title of the latest release",
+              "type": "string"
+            },
+            "publishDate": {
+              "description": "Date of publishing the current version, YYYY-MM-DD",
+              "type": "string",
+              "format": "date"
+            }
+          },
+          "required": [
+            "ref"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "data"
+      ],
+      "additionalProperties": false
+    }
   }
 }
