@@ -1,20 +1,30 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "HUD Data",
   "description": "Data about a HUD",
   "type": "object",
-  "required": ["name", "author", "repo", "hash", "resources"],
+  "required": [
+    "name",
+    "author",
+    "repo",
+    "channels",
+    "resources"
+  ],
   "properties": {
     "name": {
       "title": "HUD Name",
       "description": "Display name of your HUD",
       "type": "string",
-      "examples": ["My HUD"]
+      "examples": [
+        "My HUD"
+      ]
     },
     "author": {
       "description": "Display name of you, the active developer of the HUD (however, outdated HUD maintenance may not count as authoring in some cases)",
       "type": "string",
-      "examples": ["Cool person"]
+      "examples": [
+        "Cool person"
+      ]
     },
     "contributors": {
       "description": "Display names of anyone you would like to credit for the creation/development of the HUD. Not to be used for general credits, but major and direct contributors",
@@ -22,19 +32,25 @@
       "items": {
         "type": "string"
       },
-      "examples": ["Original creator, Previous maintainer"]
+      "examples": [
+        "Original creator, Previous maintainer"
+      ]
     },
     "releaseDate": {
       "description": "Initial release date of the HUD, YYYY-MM-DD",
       "type": "string",
       "format": "date",
-      "examples": ["2009-12-31"]
+      "examples": [
+        "2009-12-31"
+      ]
     },
     "parent": {
       "description": "If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.",
       "type": "string",
       "pattern": "^[\\w][\\w.-]*$",
-      "examples": ["their-hud"]
+      "examples": [
+        "their-hud"
+      ]
     },
     "distinguishedFromParent": {
       "description": "If this HUD is a major update/edit to its parent, and thus should be listed separately from the parent HUD.",
@@ -50,7 +66,9 @@
       "minItems": 1,
       "maxItems": 15,
       "uniqueItems": true,
-      "examples": ["myhud-banner, cool-image-1, https://youtu.be/21asadf"]
+      "examples": [
+        "myhud-banner, cool-image-1, https://youtu.be/21asadf"
+      ]
     },
     "social": {
       "title": "External Links",
@@ -62,7 +80,9 @@
           "type": "string",
           "format": "uri",
           "pattern": "^https://",
-          "examples": ["https://ko-fi.com/super-duper-person"]
+          "examples": [
+            "https://ko-fi.com/super-duper-person"
+          ]
         },
         "issues": {
           "description": "An extra link where users can get help/report issues. If not present, will use GitHub Issues.",
@@ -74,49 +94,65 @@
           "description": "Your SteamID64",
           "type": "string",
           "pattern": "[^/][0-9]{8,}",
-          "examples": ["76561191234567890"]
+          "examples": [
+            "76561191234567890"
+          ]
         },
         "steam_group": {
           "description": "Your Steam group vanity ID (used for custom URLs)",
           "type": "string",
           "pattern": "^([\\w-]){2,32}$",
-          "examples": ["valve"]
+          "examples": [
+            "valve"
+          ]
         },
         "twitter": {
           "description": "Your Twitter handle",
           "type": "string",
           "pattern": "^(\\w){1,15}$",
-          "examples": ["CoolPerson12812"]
+          "examples": [
+            "CoolPerson12812"
+          ]
         },
         "bsky": {
           "description": "Your BSky handle",
           "type": "string",
-          "examples": ["coolerperson128123.bsky.social"]
+          "examples": [
+            "coolerperson128123.bsky.social"
+          ]
         },
         "discord": {
           "description": "Your Discord server invite code, beginning with / (not the full URL), or your Discord in the format username#0",
           "type": "string",
           "pattern": "^((?=.{2,32}$)(?!(?:everyone|here)$)\\.?[a-z0-9_]+(?:\\.[a-z0-9_]+)*\\.?#0|/\\w+)$",
-          "examples": ["vanity-or-invite"]
+          "examples": [
+            "vanity-or-invite"
+          ]
         },
         "youtube": {
           "description": "Your YouTube channel (either /channel/id URL, @username or channel name)",
           "type": "string",
           "pattern": "^(channel\\/UC[\\w-]{21}[AQgw]|(c\\/|user\\/)?[\\w@-]+)$",
-          "examples": ["@TheCoolPerson"]
+          "examples": [
+            "@TheCoolPerson"
+          ]
         },
         "twitch": {
           "description": "Your Twitch channel name",
           "type": "string",
           "pattern": "^[a-zA-Z0-9][\\w]{0,24}$",
-          "examples": ["CoolPersonStreamer"]
+          "examples": [
+            "CoolPersonStreamer"
+          ]
         },
         "album": {
           "description": "Link to some Imgur album or other to provide more images",
           "type": "string",
           "format": "uri",
           "pattern": "^https://",
-          "examples": ["https://imgur.com/a/fajsf"]
+          "examples": [
+            "https://imgur.com/a/fajsf"
+          ]
         }
       },
       "additionalProperties": false
@@ -149,7 +185,11 @@
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["windows", "mac", "linux"]
+            "enum": [
+              "windows",
+              "mac",
+              "linux"
+            ]
           },
           "uniqueItems": true
         },
@@ -205,7 +245,11 @@
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["center", "corners", "default"]
+            "enum": [
+              "center",
+              "corners",
+              "default"
+            ]
           },
           "uniqueItems": true
         },
@@ -218,7 +262,9 @@
             "pattern": "^[a-z]{2}$"
           },
           "uniqueItems": true,
-          "examples": ["en"]
+          "examples": [
+            "en"
+          ]
         }
       },
       "additionalProperties": false
@@ -230,24 +276,65 @@
         "type": "string",
         "pattern": "^[\\w-]+$"
       },
-      "examples": ["minimal, monochrome"]
+      "examples": [
+        "minimal, monochrome"
+      ]
     },
     "repo": {
       "description": "GitHub repo web URL",
       "type": "string",
       "format": "uri",
       "pattern": "^https://",
-      "examples": ["https://github.com/cool-person/myhud"]
+      "examples": [
+        "https://github.com/cool-person/myhud"
+      ]
     },
-    "hash": {
-      "description": "Git commit hash of your current version (PR an update to this each time your HUD updates, and we will approve it)",
-      "type": "string",
-      "examples": ["84c64d403a650b3ae4793c9d32e01b3383445740"]
-    },
-    "publishDate": {
-      "description": "Date of publishing the current version (for non-GitHub HUD), YYYY-MM-DD",
-      "type": "string",
-      "format": "date"
+    "channels": {
+      "description": "Release channels for this HUD, mapping a channel name (e.g. 'default', 'beta') to its source and data.",
+      "type": "object",
+      "required": [
+        "default"
+      ],
+      "patternProperties": {
+        "^[a-zA-Z0-9-]+$": {
+          "type": "object",
+          "properties": {
+            "source": {
+              "description": "How this channel determines its latest version. Can be 'release', 'prerelease', 'branch==<name>', 'tag==<pattern>', 'commit' or omitted for external/manual.",
+              "type": "string",
+              "pattern": "^(release|prerelease|commit|tag==.+|branch==.+)$"
+            },
+            "data": {
+              "description": "Cached data about the current version in this channel.",
+              "type": "object",
+              "properties": {
+                "ref": {
+                  "description": "The commit hash or version title of the current active version in this channel.",
+                  "type": "string"
+                },
+                "title": {
+                  "description": "Short title of the latest release",
+                  "type": "string"
+                },
+                "publishDate": {
+                  "description": "Date of publishing the current version, YYYY-MM-DD",
+                  "type": "string",
+                  "format": "date"
+                }
+              },
+              "required": [
+                "ref"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "data"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
     },
     "prerelease": {
       "description": "If this is a prerelease/WIP HUD",
@@ -257,10 +344,6 @@
       "description": "For internal use only to enable some functionality. Do not set this yourself.",
       "type": "boolean"
     },
-    "usesReleases": {
-      "description": "If the HUD uses GitHub releases for versioning and changelogs.",
-      "type": "boolean"
-    },
     "githubAuthor": {
       "description": "GitHub account used for profile information for the HUD.",
       "anyOf": [
@@ -268,9 +351,16 @@
           "type": "string",
           "pattern": "^[a-zA-Z\\d](?:[a-zA-Z\\d]|-(?=[a-zA-Z\\d])){0,38}$"
         },
-        { "type": "null" }
+        {
+          "type": "null"
+        }
       ]
     }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "dependentRequired": {
+    "parent": [
+      "distinguishedFromParent"
+    ]
+  }
 }

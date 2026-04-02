@@ -31,8 +31,8 @@ if len(huds) == 0:
     sys.exit(1)
 
 for hud_id, hud in huds.items():
-    if hud["repo"].startswith("https://github.com/"):
-        hud["hash"] = (
+    if hud["repo"].startswith("https://github.com/") and "channels" in hud and "default" in hud["channels"]:
+        hud["channels"]["default"]["data"]["ref"] = (
             subprocess.check_output(["git", "ls-remote", hud["repo"], "HEAD"])
             .decode("utf-8")
             .split()[0]
