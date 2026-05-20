@@ -37,7 +37,8 @@
     ],
     "res": [
       "4/3",
-      "16/9"
+      "16/9",
+      "16/10"
     ],
     "position": [
       "center"
@@ -52,14 +53,16 @@
     "monochrome"
   ],
   "repo": "https://github.com/tekunotri/technohud",
-  "hash": "9f038acb80f823921c09cf756cbc5f0cc58fa645",
-  "prerelease": true,
+  "hash": "c0a726a841ace48c3a4f3089895779e55ac693b4",
+  "prerelease": false,
   "resources": [
     "th-banner",
     "th-menu",
+    "th-customizations",
     "th-backpack",
     "th-loadout",
     "th-gameplay",
+    "th-scoreboard",
     "th-demoman",
     "th-engineer",
     "th-medic",

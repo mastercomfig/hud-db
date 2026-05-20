@@ -4,8 +4,17 @@
   "social": {
     "album": "https://imgur.com/a/tgJ8oeV"
   },
-  "repo": "https://gamebanana.com/mods/424129",
-  "hash": "",
+  "repo": "https://github.com/Starcasm12/CasmHUD",
+  "hash": "a0a6cc3d06be6d84846bba073005214af64ae64f",
   "publishDate": "2023-12-05",
-  "resources": ["casmhud-banner"]
+  "resources": ["casmhud-banner",
+                "casmhud-menu",
+                "casmhud-loadout",
+                "casmhud-backpack",
+                "casmhud-selection",
+                "casmhud-gameplay",
+                "casmhud-minmode",
+                "casmhud-deathnotice",
+                "casmhud-mvm",
+                "casmhud-mvm-midgame"]
 }

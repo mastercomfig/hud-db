@@ -6,10 +6,11 @@ jobs:
   autofix:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Convert to WebP
         id: convert
         run: |
+          sudo apt-get update
           sudo apt-get -y install webp
           pip install webp-converter
           cd hud-resources
@@ -18,7 +19,7 @@ jobs:
           echo "$WEBP_OUTPUT"
       - name: Compress WebP
         id: compress
-        uses: calibreapp/image-actions@main
+        uses: mastercoms/image-actions@check-local-changes
         with:
           compressOnly: true
           webpQuality: '90'

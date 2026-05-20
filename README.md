@@ -90,7 +90,7 @@ This is the main data source for a HUD. This defines the HUD and its properties.
   "verified": true, // For internal use only to enable some functionality. Do not set this yourself.
   "parent": "their-hud", // If this HUD is a slight edit of another, put its ID here. This will group the HUDs together.
   "resources": [
-    // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for uploaded images
+    // A list of image names/YouTube videos. Images are automatically converted to webp, do not use extensions for names of uploaded images
     "my-hud-banner", // First resource is the display banner in listings
     "cool-image-1", // Image names can be called any, namespaced to your HUD ID
     "https://youtu.be/21asadf" // Supports youtu.be links for video embeds
