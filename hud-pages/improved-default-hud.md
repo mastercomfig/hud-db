@@ -11,8 +11,7 @@ This is not a custom HUD in its usual meaning; instead, the focus is to add some
 - Restored passive attributes text on the loadout screen
 - Better spectator tournament support (`cl_use_tournament_specgui 1`)
 - No duplicate crosshair when coaching
-- Minor scoreboard improvements
-- Minor adjustments to 3D class portraits angles
+- Scoreboard improvements
 - More death notices on the screen at once
 - Linux support
 
