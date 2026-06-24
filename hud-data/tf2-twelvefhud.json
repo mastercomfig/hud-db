@@ -1,0 +1,55 @@
+{
+  "name": "twelvefHUD",
+  "author": "twelvef",
+  "contributors": [
+    "CriticalFlaw"
+  ],
+  "releaseDate": "2026-06-27",
+  "parent": "hud-fixes",
+  "distinguishedFromParent": true,
+  "resources": [
+    "Logo",
+    "Menus",
+    "Class",
+    "Game",
+    "Spy",
+    "Dmg1",
+    "Dmg2"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials"
+  ],
+  "repo": "https://github.com/twelvefdev/twelvefHUD",
+  "hash": "ba8aa096f58c74a094b01f5ef3b4672e01516e98",
+  "prerelease": true,
+  "social": {
+    "steam_profile": "76561198892126200",
+    "album": ""
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
