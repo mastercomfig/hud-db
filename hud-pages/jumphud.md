@@ -44,15 +44,19 @@ _If you run into any other problems, please leave a message in the [Discord](htt
 
 - Spraypaint bind with various colours and sizes
 
+- Custom textures for triggers and other tool textures
+
+- Color customization options for rockets, stickybombs, damage indicator, & many other hud elements
+
 - Many useful binds added to the settings menu such as ctap, toggle thirdperson, and hold to restart run
 
-- Utility buttons added to the pause many for settings such as toggling speedos, enabling clip brushes, and managing save locations
+- Utility buttons added to the pause many for settings such as toggling speedos, showing map triggers, and managing save locations
 
 ## Customization
 
 Swap the HUD into Casual Mode by clicking the logo on the main menu
 
-The HUD includes a thorough ingame customization menu with options for speedos, fonts, crosshairs, shaders, and many more
+The HUD includes a thorough ingame customization menu with options for speedos, fonts, crosshairs, shaders, and more
 
 Modify the Tempus speedo colour & position in `cfg/#tempus_speedo_config.cfg`
 
@@ -60,7 +64,7 @@ Adjust the highlight ranges of HUD speedo's dynamic colors in `jumphud/materials
 
 Check out the [config guide](https://github.com/itsmmarc/jumphud/wiki/config_guide) to see what else you can modify to take full advantage of JumpHUD
 
-## Known Issues:
+## Known Issues/Limitations:
 
 Some customization options are not supported on Linux. There is a large cross covering these options when running the HUD on a Linux system.
 
@@ -68,17 +72,13 @@ Mirror world does not flip the game's audio or damage numbers.
 
 HUD speedos start to flicker more the longer a map has been running. This is due to limitations with VMT material proxy scripting.
 
-Speedo graphs freeze on map change, this can be fixed by entering `hud_reloadscheme` in console or turning the speedo graphs off and on again.
-
-Tempus speedos won't be recoloured or repositioned until one of the speedo buttons on the pause menu is used.
-
 Tempus HUD elements are stubborn and sometimes reset to their natural colour. Turning the Tempus HUD on and off usually fixes this.
 
 _If you run into any other problems, please leave a message in the [Discord](https://discord.gg/s6yJMGecMZ)._
 
 ## FAQ
 
-### How do I queue for casual/MVM?
+#### How do I queue for casual/MVM?
 
 Click on the JumpHUD logo icon to switch the hud into casual mode, you can switch back by clicking on the TF2 logo.
 
@@ -90,10 +90,12 @@ For input display, pipe timer, and mirror world, you must rebind your keys with 
 
 ## Credits
 
-[Pear's heighto and horizontal/vertical HUD speedos](https://github.com/bakapear/hudmods)
+[m0rehud](https://github.com/Hypnootize/m0rehud)
+
+[SUthrey & Pear's heighto and horizontal/vertical HUD speedos](https://github.com/bakapear/hudmods)
 
 [Elandi's custom Tempus sprays](https://github.com/Elandi-rj/sprays)
 
-[VillageGreenPreserver's speedograph](https://github.com/VillageGreenPreserver/SpeedoGraph)
-
 [cuekie's HUD screenspace shaders](https://github.com/cueki/hud-screenspace-shaders)
+
+[200's Seamless Hexagon Force Field textures](https://tf2maps.net/downloads/seamless-hexagon-force-field-textures.2947/)
