@@ -1,15 +1,14 @@
 {
   "name": "WoolHUD",
   "author": "Beventar",
-  "distinguishedFromParent": false,
   "resources": [
     "WoolHUD-banner",
-    "mainmenu",
-    "loadout",
     "spy",
-    "scoreboard",
+    "medic",
     "engineer",
-    "medic"
+    "scoreboard",
+    "loadout",
+    "mainmenu"
   ],
   "flags": [
     "menus",
@@ -19,12 +18,9 @@
     "streamer-mode",
     "customization"
   ],
-  "tags": [
-    "minimal",
-    "clean"
-  ],
+  "tags": ["minimal","clean","competitive"],
   "repo": "https://github.com/Beventar/WoolHUD",
-  "hash": "fedebb05b44bc97c88b273e6956425af66429cbd",
+  "hash": "c0a091aed7a6826fc0e8af43e0c057ab0a602517",
   "prerelease": false,
   "social": {
     "steam_profile": "76561198312601389",
@@ -33,11 +29,7 @@
     "album": "https://github.com/Beventar/WoolHUD/wiki/Screenshots"
   },
   "traits": {
-    "os": [
-      "windows",
-      "mac",
-      "linux"
-    ],
+    "os": ["windows","mac","linux"],
     "gamemode": [
       "tournament",
       "comp",
@@ -57,13 +49,7 @@
       "sd",
       "tc"
     ],
-    "res": [
-      "4/3",
-      "16/9",
-      "16/10"
-    ],
-    "position": [
-      "center"
-    ]
+    "res": ["4/3","16/9","16/10"],
+    "position": ["center"]
   }
 }

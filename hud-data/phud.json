@@ -1,0 +1,55 @@
+{
+  "name": "phud",
+  "author": "Pickleknotts",
+  "releaseDate": "2026-05-26",
+  "distinguishedFromParent": false,
+  "resources": [
+    "phud-banner"
+  ],
+  "repo": "https://github.com/Pickleknotts/phud",
+  "hash": "1f574112982a02c67a27c97c5581509b473dbc2a",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561198410302974",
+    "youtube": "@Pickleknotts"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "21/9",
+      "32/9",
+      "17/9",
+      "1/1",
+      "5/4"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
