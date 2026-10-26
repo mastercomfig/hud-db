@@ -1,0 +1,60 @@
+{
+  "name": "Hueco Mundo HUD",
+  "author": "Ingalther Ulquiorra",
+  "releaseDate": "2026-10-25",
+  "distinguishedFromParent": false,
+  "resources": [
+    "huecomundo-hud-01-banner",
+    "huecomundo-hud-02-main-menu",
+    "huecomundo-hud-team-select",
+    "huecomundo-hud-03-class-select",
+    "huecomundo-hud-loadout",
+    "huecomundo-hud-04-engineer",
+    "huecomundo-hud-06-scoreboard",
+    "huecomundo-hud-07-win-panel"
+  ],
+  "flags": [
+    "menus",
+    "scoreboards",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "themed",
+    "anime",
+    "dark"
+  ],
+  "repo": "https://github.com/Ingalther/HuecoMundoHUD",
+  "hash": "48e1440457870de7711c5528ddc62e9764392d73",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561199115383735",
+    "discord": "/37WG73pKKQ"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "pl"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center",
+      "corners"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
