@@ -6,9 +6,9 @@
   "resources": [
     "huecomundo-hud-01-banner",
     "huecomundo-hud-02-main-menu",
+    "huecomundo-hud-team-select",
     "huecomundo-hud-03-class-select",
     "huecomundo-hud-04-engineer",
-    "huecomundo-hud-05-medic",
     "huecomundo-hud-06-scoreboard",
     "huecomundo-hud-07-win-panel",
     "huecomundo-hud-08-2d-character"
