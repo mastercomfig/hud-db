@@ -1,0 +1,81 @@
+{
+  "name": "CompHUD",
+  "author": "JJS",
+  "contributors": [
+    "Garm3n"
+  ],
+  "releaseDate": "2026-10-17",
+  "parent": "garm3n-ql",
+  "distinguishedFromParent": true,
+  "resources": [
+    "comphud-banner",
+    "normal-health-ammo",
+    "overhealed-low-ammo",
+    "medic-healing",
+    "competitive-captions",
+    "spectator",
+    "scoreboard",
+    "hud-options"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "competitive",
+    "6s",
+    "highlander",
+    "quake",
+    "clean"
+  ],
+  "repo": "https://github.com/JoeShade/CompHUD",
+  "hash": "00fcef8783076a204b6545d2b2e27a35d225b5e5",
+  "prerelease": false,
+  "social": {
+    "issues": "https://github.com/JoeShade/CompHUD/issues",
+    "steam_profile": "76561198098511185",
+    "discord": "/N6QcgdsUrb",
+    "album": "https://postimg.cc/gallery/sX0VJLx"
+  },
+  "traits": {
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd",
+      "rd",
+      "sd",
+      "tc"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  "usesReleases": true
+}
