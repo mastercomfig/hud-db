@@ -42,7 +42,7 @@
   },
   "tags": ["minimal", "ultra-minimal", "competitive"],
   "repo": "https://github.com/Jotunn/kbnHud",
-  "hash": "daeda0c20310a54646253f7dfdc9536ae7acdfb6",
+  "hash": "66fc21fa5886c2a589d8b7190a0a97b979c19ecd",
   "resources": [
     "01-kbnhud-banner",
     "02-kbnhud-main-menu",
