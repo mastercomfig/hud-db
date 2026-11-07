@@ -1,0 +1,66 @@
+{
+  "name": "Mannterface updated 2026",
+  "author": "SAS_OP",
+  "contributors": [
+    "Saxton Hale",
+    "Intellectualbadass",
+    "AsianAntwan"
+  ],
+  "releaseDate": "2026-10-2",
+  "parent": "mannterface",
+  "distinguishedFromParent": false,
+  "resources": [
+    "newest",
+    "main_menu",
+    "contracker_main",
+    "contracker_mission",
+    "669d60a36ac17",
+    "669d60b93de19",
+    "669d60b09c39f",
+    "669d60d097063",
+    "669d60f46fcb4",
+    "669e49c484215",
+    "669d60c236208",
+    "669d60e92d108",
+    "669d60c88ee06"
+  ],
+  "flags": [
+    "menus",
+    "scoreboards",
+    "minmode",
+    "customization"
+  ],
+  "repo": "https://github.com/sasop3/mannterface-26.10.02.0",
+  "hash": "57316887044b012fa7b72a80528fe98f76fbd8bc",
+  "prerelease": false,
+  "social": {},
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "gamemode": [
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr",
+      "pd"
+    ],
+    "res": [
+      "4/3",
+      "16/9"
+    ],
+    "position": [
+      "center",
+      "default"
+    ]
+  }
+}
