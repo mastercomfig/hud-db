@@ -1,6 +1,6 @@
 {
   "name": "Hueco Mundo HUD",
-  "author": "Ingalther Ulquiorra",
+  "author": "Ingalther",
   "releaseDate": "2026-10-25",
   "distinguishedFromParent": false,
   "resources": [
@@ -26,7 +26,7 @@
     "dark"
   ],
   "repo": "https://github.com/Ingalther/HuecoMundoHUD",
-  "hash": "936bbb1fc0bdc5ed2d13deac6ed878abad33e88b",
+  "hash": "caf30752094d4d773876047a517a4a96a62e1264",
   "prerelease": false,
   "social": {
     "steam_profile": "76561199115383735",
