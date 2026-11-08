@@ -6,10 +6,10 @@
   "resources": [
     "huecomundo-hud-01-banner",
     "huecomundo-hud-02-main-menu",
+    "huecomundo-hud-04-engineer",
     "huecomundo-hud-team-select",
     "huecomundo-hud-03-class-select",
     "huecomundo-hud-loadout",
-    "huecomundo-hud-04-engineer",
     "huecomundo-hud-06-scoreboard",
     "huecomundo-hud-07-win-panel"
   ],
@@ -26,7 +26,7 @@
     "dark"
   ],
   "repo": "https://github.com/Ingalther/HuecoMundoHUD",
-  "hash": "0ecca0d3b52146cb6469db3c400c6caf0a07f608",
+  "hash": "936bbb1fc0bdc5ed2d13deac6ed878abad33e88b",
   "prerelease": false,
   "social": {
     "steam_profile": "76561199115383735",
