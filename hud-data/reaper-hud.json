@@ -1,0 +1,61 @@
+{
+  "name": "Reaper HUD",
+  "author": "Ingalther",
+  "releaseDate": "2026-11-12",
+  "resources": [
+    "reaper-hud-01-banner",
+    "reaper-hud-02-main-menu",
+    "reaper-hud-03-in-game",
+    "reaper-hud-04-minmode",
+    "reaper-hud-05-blu-engineer",
+    "reaper-hud-06-hud-settings",
+    "reaper-hud-07-team-select",
+    "reaper-hud-08-class-select"
+  ],
+  "flags": [
+    "fonts",
+    "menus",
+    "scoreboards",
+    "crosshairs",
+    "minmode",
+    "materials",
+    "customization"
+  ],
+  "tags": [
+    "themed",
+    "cyberpunk",
+    "dark"
+  ],
+  "repo": "https://github.com/Ingalther/ReaperHUD",
+  "hash": "1bf8820653071b5f44a1c2bbb62494598a7a3256",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561199115383735",
+    "discord": "/YyzBcAAYa2"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl"
+    ],
+    "res": [
+      "16/9",
+      "16/10"
+    ],
+    "position": [
+      "center"
+    ],
+    "lang": [
+      "en"
+    ]
+  }
+}
