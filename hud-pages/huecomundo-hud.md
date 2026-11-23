@@ -6,6 +6,6 @@ A Bleach / Ulquiorra Cifer themed HUD: Hueco Mundo by night, torn manga pieces i
 - **Minmode:** a minimal layout for cl_hud_minmode 1: health and ammo as bare numbers either side of the crosshair, the meters as thin rows under the ammo.
 - **Manga-style** kill feed, chat, damage numbers, target ID, death screen, win panel, notifications, Engineer / Spy menus and a hitmarker.
 
-**HUD Settings** in the main menu: CENTERED or MINMODE layout, 3D model or 2D class art, and one-click fixes (sound, HUD, invisible players, reconnect...).
+**HUD Settings** in the main menu: CENTERED or MINMODE layout, where the meters sit (in the middle, under the crosshair or over the ammo), 3D model or 2D class art, and one-click fixes (sound, HUD, invisible players, reconnect...).
 
 Uses fonts that come with Windows 10/11 (Bahnschrift, Segoe UI, Constantia).
