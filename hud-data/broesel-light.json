@@ -1,0 +1,45 @@
+{
+  "name": "broesel-light",
+  "author": "yawn",
+  "contributors": [
+    "Broesel",
+    "Hypnootize",
+    "Joe"
+  ],
+  "releaseDate": "2025-11-04",
+  "parent": "broesel-old",
+  "distinguishedFromParent": true,
+  "resources": [
+    "https://imgur.com/a/QIxUBS7"
+  ],
+  "flags": [
+    "fonts",
+    "scoreboards",
+    "minmode"
+  ],
+  "repo": "https://github.com/yawntf2/broesel-light",
+  "hash": "ff07307ad7e8b11bd5ba4d4fcadc09f5fca13819",
+  "prerelease": false,
+  "social": {
+    "discord": "j3an__",
+    "album": "https://imgur.com/a/QIxUBS7"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "cp",
+      "mvm",
+      "pl"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "lang": [
+      "all"
+    ]
+  }
+}
